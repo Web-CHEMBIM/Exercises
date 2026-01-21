@@ -1,0 +1,895 @@
+================================================================================
+                    IGCSE PHYSICS WORKSHEET
+                    Topic: Electric Current (4.2.2)
+================================================================================
+
+Name: ________________________    Date: ________________    Class: ___________
+
+Learning Objectives Covered:
+• Know that electric current is related to the flow of charge
+• State that charge is measured in coulombs
+• Define electric current
+• Recall and use the equation I = Q/t
+• State conventional current direction vs electron flow direction
+• Describe electrical conduction in metals
+• Describe the use of ammeters (analogue and digital)
+• Know the difference between direct current (d.c.) and alternating current (a.c.)
+
+================================================================================
+SECTION A: MULTIPLE CHOICE QUESTIONS (10 marks)
+================================================================================
+Choose the correct answer for each question.
+
+1. 
+---DIAGRAM: Fig. 1.1---
+TYPE: Circuit
+PURPOSE: Simple circuit showing direction of charge flow
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+  Border: none
+
+LAYOUT:
+  Shape: rectangular loop
+  Current Flow: clockwise
+
+COMPONENTS:
+  [Battery]
+    Symbol: Standard battery symbol (multiple cells)
+    Position: grid(2, 4-6)
+    Orientation: vertical, + terminal at top
+    Label: none
+
+  [Lamp]
+    Symbol: Circle with cross (×) inside
+    Position: grid(10, 5)
+    Size: 1.5 grid units
+    Label: none
+
+CONNECTIONS:
+  [Loop] Battery top -> grid(2,2) -> grid(10,2) -> Lamp top
+  Lamp bottom -> grid(10,8) -> grid(2,8) -> Battery bottom
+
+ANNOTATIONS:
+  [Charge Flow Arrow]
+    Type: arrow on wire
+    Position: grid(6, 2)
+    Direction: left to right
+    Label: "Direction of charge flow" above arrow
+---END DIAGRAM---
+
+   Fig. 1.1 shows a simple circuit. Electric current is best defined as:
+   
+   A. The number of electrons in the wire
+   B. The charge passing a point per unit time
+   C. The speed of electrons through the conductor
+   D. The energy transferred per second
+
+2. The SI unit of electric charge is:
+   A. Ampere (A)
+   B. Volt (V)
+   C. Coulomb (C)
+   D. Ohm (Ω)
+
+3. 
+---DIAGRAM: Fig. 1.3---
+TYPE: Circuit
+PURPOSE: Simple series circuit with a 6V battery, a resistor R, and a digital ammeter showing 3.0 A.
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+  Border: none
+
+LAYOUT:
+  Shape: rectangular loop
+  Current Flow: clockwise
+
+COMPONENTS:
+  [Battery]
+    Symbol: Standard battery (6V)
+    Position: grid(2, 4-6)
+    Orientation: vertical
+    Label: "6V"
+
+  [Resistor R]
+    Symbol: Standard IEC rectangle
+    Position: grid(10, 4-6)
+    Orientation: vertical
+    Label: "R"
+
+  [Digital Ammeter]
+    Symbol: Box with display
+    Position: grid(5-7, 8)
+    Reading: "3.0 A"
+
+CONNECTIONS:
+  Series loop connecting Battery, Resistor, Ammeter.
+---END DIAGRAM---
+
+   Fig. 1.3 shows a circuit with an ammeter. The ammeter reading is 3.0 A.
+   The circuit is switched on for 20 s. What is the total charge that flows?
+   
+   A. 0.15 C
+   B. 6.7 C
+   C. 23 C
+   D. 60 C
+
+4. 
+---DIAGRAM: Fig. 1.4---
+TYPE: Particle
+PURPOSE: Microscopic view of metal conductor structure
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+  
+LAYOUT:
+  Type: Cross-section of wire
+  Structure: Regular lattice of ions with random electrons
+
+COMPONENTS:
+  [Wire Boundary]
+    Shape: Large rectangle or cylinder segment
+    Position: grid(1, 1) to grid(11, 9)
+    Style: solid outline
+
+  [Fixed Ions]
+    Symbol: Circles with "+" sign inside
+    Arrangement: Regular rows and columns (e.g., 3 rows of 5)
+    Position: evenly spaced within boundary
+    Label: "Fixed positive ions" with leader line
+
+  [Free Electrons]
+    Symbol: Small dots or small "-" circles
+    Position: Randomly distributed between ions
+    Label: "Free electrons" with leader line
+
+ANNOTATIONS:
+  # Random movement arrows removed for clarity in static diagram
+---END DIAGRAM---
+
+   Fig. 1.4 shows the structure of a metal conductor. 
+   Electrical conduction in metals occurs due to:
+   
+   A. Movement of positive ions
+   B. Movement of free electrons
+   C. Movement of atoms
+   D. Movement of protons
+
+5. 
+---DIAGRAM: Fig. 1.5---
+TYPE: Circuit
+PURPOSE: Comparing conventional current and electron flow
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Shape: rectangular loop
+
+COMPONENTS:
+  [Battery]
+    Symbol: Standard battery
+    Position: grid(2, 4-6)
+    Orientation: vertical, + top
+    Label: "+" and "-" at terminals
+
+  [Lamp]
+    Symbol: Circle with cross
+    Position: grid(10, 5)
+    
+CONNECTIONS:
+  Standard rectangular loop connecting battery and lamp
+
+  # Labels removed to avoid giving away the answer
+  [Note] Components are standard battery and lamp in a loop. Arrows removed.
+---END DIAGRAM---
+
+   Fig. 1.5 shows current flow in a circuit. Conventional current flows:
+   
+   A. From negative terminal to positive terminal
+   B. From positive terminal to negative terminal
+   C. In the same direction as electron flow
+   D. Only when the circuit is broken
+
+6. In Fig. 1.5, free electrons in the metal wire flow:
+   A. From positive terminal to negative terminal
+   B. From negative terminal to positive terminal
+   C. In random directions only
+   D. They do not move at all
+
+7. 
+---DIAGRAM: Fig. 1.7---
+TYPE: Graph
+PURPOSE: Comparison of DC and AC current-time graphs
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 20 × 9
+
+CANVAS:
+  Background: pure white
+  Layout: Two separate graphs side-by-side
+
+LAYOUT:
+  [Graph A - Left]
+    Position: grid(1-9, 1-9)
+    Axes: Time (x), Current (y)
+    Curve: Horizontal straight line at positive y
+    Label: "Graph A" below
+
+  [Graph B - Right]
+    Position: grid(11-19, 1-9)
+    Axes: Time (x), Current (y)
+    Curve: Sine wave oscillating above and below x-axis
+    Label: "Graph B" below
+---END DIAGRAM---
+
+   Fig. 1.7 shows two current-time graphs. Which statement is correct?
+   
+   A. Graph A shows a.c. and Graph B shows d.c.
+   B. Graph A shows d.c. and Graph B shows a.c.
+   C. Both graphs show d.c.
+   D. Both graphs show a.c.
+
+8. What is the key difference between a.c. and d.c.?
+   A. a.c. has higher voltage than d.c.
+   B. a.c. changes direction periodically, d.c. flows in one direction
+   C. d.c. is more dangerous than a.c.
+   D. d.c. can only be produced by batteries
+
+9. 
+---DIAGRAM: Fig. 1.9---
+TYPE: Circuit
+PURPOSE: Calculation problem context
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+COMPONENTS:
+  [Battery]
+    Position: grid(2, 4-6)
+    
+  [Lamp]
+    Position: grid(10, 4-6)
+    
+  [Ammeter]
+    Position: grid(6, 8)
+    Reading: "0.25 A" inside
+
+CONNECTIONS:
+  Series loop connecting Battery, Lamp, Ammeter
+
+
+---END DIAGRAM---
+
+   Using Fig. 1.9, calculate the total charge that flows in 2 minutes.
+   
+   A. 0.5 C
+   B. 8 C
+   C. 30 C
+   D. 480 C
+
+10.
+---DIAGRAM: Fig. 1.10---
+TYPE: Apparatus
+PURPOSE: Comparing analogue and digital ammeters
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 16:9 wide
+GRID: 20 × 9
+
+CANVAS:
+  Background: pure white
+
+COMPONENTS:
+  [Analogue Ammeter]
+    Position: grid(2-8, 2-8)
+    Style: Box with arc scale and needle
+    Needle: Pointing to 2.4
+    Scale: 0 to 5
+    Label: "Ammeter A (analogue)" below
+
+  [Digital Ammeter]
+    Position: grid(12-18, 3-7)
+    Style: Rectangular box with screen
+    Display: "2.38 A"
+    Label: "Ammeter B (digital)" below
+---END DIAGRAM---
+
+    Fig. 1.10 shows two types of ammeter measuring the same current.
+    Which statement about these ammeters is correct?
+    
+    A. The analogue ammeter is more precise
+    B. The digital ammeter gives a more precise reading
+    C. Both give exactly the same precision
+    D. Neither can measure current accurately
+
+================================================================================
+SECTION B: FILL-IN-THE-BLANK (10 marks)
+================================================================================
+Complete the sentences using the words from the box.
+
++------------------------------------------------------------------------+
+| coulombs    electrons    amperes    positive    negative    free       |
+| time        charge       ammeter    alternating   series               |
++------------------------------------------------------------------------+
+
+1. Electric current is the rate of flow of _____________ past a point.
+
+2. The charge is measured in _____________.
+
+3. Current is measured in _____________.
+
+4. In metals, current is carried by _____________ electrons.
+
+5. Conventional current flows from _____________ to _____________ terminal.
+
+6. Electrons flow from _____________ to _____________ terminal.
+
+7. An _____________ is used to measure electric current.
+
+8. An ammeter must be connected in _____________ with the component.
+
+9. In _____________ current (a.c.), the direction of current flow 
+   reverses periodically.
+
+10. The equation I = Q/t shows that current equals charge divided 
+    by _____________.
+
+================================================================================
+SECTION C: SHORT ANSWER QUESTIONS (15 marks)
+================================================================================
+
+1. Define electric current. [2]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+2. State the equation that relates current, charge, and time. [1]
+
+   _________________________________________________________________________
+
+3. 
+---DIAGRAM: Fig. 3.3---
+TYPE: Particle
+PURPOSE: Detailed view of conduction in copper
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Magnified section of wire
+
+COMPONENTS:
+  [Positive Ions]
+    Symbol: Circles with "+"
+    Position: Grid arrangement (3 rows)
+    Label: "Cu+ ions (fixed)"
+
+  [Free Electrons]
+    Symbol: Small "-" dots
+    Position: Scattered
+    Label: "free electrons"
+
+ANNOTATIONS:
+  
+  [Drift Velocity]
+    Type: Large block arrow outside showing overall flow
+    Direction: Right to Left
+    Label: "drift direction"
+---END DIAGRAM---
+
+   Fig. 3.3 shows the structure inside a copper wire.
+   Describe how electrical conduction occurs in this metal wire. [3]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+4. State TWO differences between an analogue ammeter and a digital ammeter. [2]
+
+   (i) ______________________________________________________________________
+   
+   (ii) _____________________________________________________________________
+
+5. 
+---DIAGRAM: Fig. 3.5---
+TYPE: Circuit
+PURPOSE: Contrast current directions
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+COMPONENTS:
+  [Battery] Position: Left vertical
+  [Switch] Position: Top horizontal
+  [Lamp] Position: Right vertical
+
+CONNECTIONS:
+  Series loop
+
+ANNOTATIONS:
+  [Arrow A]
+    Location: Top wire
+    Direction: From + terminal
+    Label: "Arrow A"
+  
+  [Arrow B]
+    Location: Bottom wire
+    Direction: Towards + terminal (from -)
+    Label: "Arrow B"
+---END DIAGRAM---
+
+   Fig. 3.5 shows two arrows in a circuit.
+   Explain why Arrow A (conventional current) and Arrow B (electron flow) 
+   point in opposite directions. [2]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+6.
+---DIAGRAM: Fig. 3.6---
+TYPE: Graph
+PURPOSE: DC vs AC waveform comparison
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 3:4 portrait
+GRID: 10 × 12
+
+CANVAS:
+  Layout: Stacked (Graph A on top of Graph B)
+
+LAYOUT:
+  [Top Graph]
+    Axes: t(x), I(y)
+    Curve: Horizontal line y>0
+    Label: "d.c."
+  
+  [Bottom Graph]
+    Axes: t(x), I(y)
+    Curve: Sine wave centered on x-axis
+    Label: "a.c."
+---END DIAGRAM---
+
+   Fig. 3.6 shows current-time graphs for d.c. and a.c.
+   State TWO differences between direct current (d.c.) and alternating 
+   current (a.c.). [2]
+
+   (i) ______________________________________________________________________
+   
+   (ii) _____________________________________________________________________
+
+7. 
+---DIAGRAM: Fig. 3.7---
+TYPE: Apparatus
+PURPOSE: Analogue ammeter overload concept
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 1:1
+GRID: 10 × 10
+
+COMPONENTS:
+  [Ammeter Scale]
+    Range: 0 to 1 A
+    Markings: 0, 0.2, 0.4, 0.6, 0.8, 1.0
+    Needle: Pointing at 0.25 A
+---END DIAGRAM---
+
+   Fig. 3.7 shows an analogue ammeter with range 0-1 A.
+   Explain why this ammeter would not be suitable for measuring a current 
+   of about 5 A. [3]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+================================================================================
+SECTION D: CALCULATIONS (20 marks)
+================================================================================
+Show all working. Use the equation I = Q/t where appropriate.
+
+1.
+---DIAGRAM: Fig. 4.1---
+TYPE: Circuit
+PURPOSE: Calculation context
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+COMPONENTS:
+  [Battery] Left
+  [Resistor] Right
+  [Ammeter] Bottom, reading "2.0 A"
+
+---END DIAGRAM---
+
+   Fig. 4.1 shows a circuit with current 2.0 A flowing for 2 minutes.
+   Calculate the charge that passes through the resistor. [3]
+
+   Working:
+
+
+
+
+   Charge = _____________ C
+
+2. A charge of 150 C passes through a lamp in 30 s.
+   Calculate the current flowing through the lamp. [3]
+
+   Working:
+
+
+
+
+   Current = _____________ A
+
+3.
+---DIAGRAM: Fig. 4.3---
+TYPE: Circuit
+PURPOSE: Heating element calculation
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+
+COMPONENTS:
+  [Power Supply] Left
+  [Heater] Symbol: Resistor with bars or label "Heater"
+  [Ammeter] Reading "6.0 A"
+
+---END DIAGRAM---
+
+   Fig. 4.3 shows a heater circuit. 1800 C of charge passes through 
+   the heater when the current is 6.0 A.
+   Calculate the time taken. [3]
+
+   Working:
+
+
+
+
+   Time = _____________ s
+
+4.
+---DIAGRAM: Fig. 4.4---
+TYPE: Circuit
+PURPOSE: Charging context
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+
+COMPONENTS:
+  [Phone Charger] Box labeled "Charger"
+  [Phone] Box labeled "Phone"
+  [Connections] Wires connecting them
+  [Ammeter] on wire, reading "2.0 A"
+
+---END DIAGRAM---
+
+   Fig. 4.4 shows a phone being charged. The charger delivers current 
+   of 2.0 A.
+   
+   (a) Calculate the charge delivered in 1 hour. [3]
+
+   Working:
+
+
+
+
+   Charge = _____________ C
+
+   (b) The battery requires 18000 C to fully charge.
+       Calculate how long it takes to fully charge the battery. [3]
+
+   Working:
+
+
+
+
+   Time = _____________ s  = _____________ hours
+
+5.
+---DIAGRAM: Fig. 4.5---
+TYPE: Circuit
+PURPOSE: Milliammeter calculation
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Shape: rectangular loop
+
+COMPONENTS:
+  [Battery]
+    Position: grid(2, 4-6)
+    Orientation: vertical
+
+  [LED]
+    Symbol: standard LED symbol (diode with outward arrows)
+    Position: grid(10, 4-6)
+    Orientation: vertical
+
+  [Resistor]
+    Position: grid(6, 2)
+    Orientation: horizontal
+
+  [Ammeter]
+    Position: grid(6, 8)
+    Label: "20 mA" reading inside
+
+CONNECTIONS:
+  Series loop connecting all components
+---END DIAGRAM---
+
+   Fig. 4.5 shows an LED circuit. The current through the LED is 20 mA.
+   Calculate the charge that flows through the LED in 10 seconds. [3]
+   
+   (Hint: First convert 20 mA to amperes)
+
+   Working:
+
+
+
+
+   Charge = _____________ C
+
+6. In a lightning strike, a charge of 15 C is transferred in 0.0003 s.
+   Calculate the current during the lightning strike. [2]
+
+   Working:
+
+
+
+
+   Current = _____________ A
+
+================================================================================
+SECTION E: TRUE OR FALSE (5 marks)
+================================================================================
+Write TRUE or FALSE. Correct any false statements.
+
+1. Electric current is the flow of positive charges through a conductor.
+   
+   _____________ 
+   Correction: ___________________________________________________________
+
+2. In a metal, current is carried by moving free electrons.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+3. 
+---DIAGRAM: Fig. 5.3---
+TYPE: Circuit
+PURPOSE: Error recognition (parallel ammeter)
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+COMPONENTS:
+  [Battery]
+  [Lamp]
+  [Ammeter]
+CONNECTIONS:
+  Battery and Lamp in series loop
+  Ammeter connected in PARALLEL across the Lamp (incorrect)
+LABELS: "Ammeter", "Lamp"
+---END DIAGRAM---
+
+   In Fig. 5.3, the ammeter is connected correctly.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+4. In alternating current, electrons move back and forth.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+5. 1 ampere is equal to 1 coulomb per second.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+================================================================================
+SECTION F: MATCHING (5 marks)
+================================================================================
+Match each term with its correct description.
+
+Term                          Description
+-----                         -----------
+1. Coulomb          ___       A. Measures electric current
+2. Ampere           ___       B. Current that flows in one direction only
+3. Ammeter          ___       C. Unit of electric charge
+4. Direct current   ___       D. Unit of electric current
+5. Free electrons   ___       E. Charge carriers in metals
+
+================================================================================
+SECTION G: STRUCTURED QUESTION (15 marks)
+================================================================================
+
+1.
+---DIAGRAM: Fig. 7.1---
+TYPE: Circuit
+PURPOSE: Complete circuit analysis
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS: Background pure white
+
+COMPONENTS:
+  [Battery] "6V", + and - labeled
+  [Switch S] Open/Closed state not specified, label "S"
+  [Lamp L] Label "L"
+  [Ammeter A] Label "A"
+  
+CONNECTIONS:
+  All in series
+  
+ANNOTATIONS:
+  [Current Arrow] From + terminal, labeled "conventional current"
+---END DIAGRAM---
+
+   Fig. 7.1 shows a simple circuit with a battery, switch, lamp and ammeter.
+
+   (a) State the function of the ammeter in this circuit. [1]
+
+       ______________________________________________________________________
+
+   (b) The ammeter reads 0.40 A when the switch is closed.
+       
+       (i) Define electric current. [2]
+
+           ___________________________________________________________________
+           
+           ___________________________________________________________________
+
+       (ii) The switch is closed for 5.0 minutes. Calculate the total charge
+            that flows through the lamp. Show your working. [3]
+
+            Working:
+
+
+
+
+            Charge = _____________ C
+
+   (c) 
+---DIAGRAM: Fig. 7.1c---
+TYPE: Particle
+PURPOSE: Magnified wire view
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 1:1
+GRID: 10 × 10
+
+LAYOUT: Magnified view of wire interior (circular crop)
+
+COMPONENTS:
+  [Ionic Lattice] Regular "+" ions, fixed positions
+  [Electrons] Free "-" particles, distributed randomly
+
+ANNOTATIONS:
+  [Drift Arrow] Large arrow indicating overall electron drift direction (e.g. left to right)
+---END DIAGRAM---
+
+       Fig. 7.1c shows a magnified view of particles inside the metal wire.
+       Describe, in terms of particles, what happens in the metal wire 
+       when current flows. [3]
+
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+
+   (d) The student replaces the battery with an a.c. power supply.
+       
+       (i) State what is meant by alternating current. [1]
+
+           ___________________________________________________________________
+
+       (ii) Describe ONE difference the student would observe in electron
+            movement when using a.c. compared to d.c. [2]
+
+            ___________________________________________________________________
+            
+            ___________________________________________________________________
+
+   (e) On Fig. 7.1, the arrow shows conventional current direction.
+       Explain why this is opposite to the direction of electron flow. [3]
+
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+
+================================================================================
+                               ANSWER KEY
+================================================================================
+
+SECTION A: Multiple Choice
+1. B    2. C    3. D    4. B    5. B    
+6. B    7. B    8. B    9. C    10. B
+
+SECTION B: Fill-in-the-Blank
+1. charge    2. coulombs    3. amperes    4. free
+5. positive, negative    6. negative, positive    
+7. ammeter   8. series    9. alternating   10. time
+
+SECTION C: Short Answer (Key Points)
+1. Current = charge passing a point / per unit time (or rate of flow of charge)
+3. Free electrons drift through lattice of fixed positive ions; 
+   electrons move from - to + terminal; ions vibrate but don't move
+4. (i) Digital gives numerical reading, analogue uses needle/pointer
+   (ii) Digital more precise / easier to read / no parallax error
+5. Conventional current defined before electrons discovered; 
+   assumed positive charges moved; electrons are negative so move opposite way
+6. (i) d.c. flows in one direction, a.c. changes direction
+   (ii) d.c. has constant value, a.c. varies/oscillates
+7. Maximum reading is 1 A; 5 A exceeds the range; would damage ammeter 
+   or needle would go past maximum
+
+SECTION D: Calculations
+1. t = 2 × 60 = 120 s; Q = I × t = 2.0 × 120 = 240 C
+2. I = Q/t = 150/30 = 5.0 A
+3. t = Q/I = 1800/6.0 = 300 s
+4a. t = 1 × 60 × 60 = 3600 s; Q = I × t = 2.0 × 3600 = 7200 C
+4b. t = Q/I = 18000/2.0 = 9000 s = 2.5 hours
+5. I = 20 mA = 0.020 A; Q = I × t = 0.020 × 10 = 0.20 C
+6. I = Q/t = 15/0.0003 = 50000 A
+
+SECTION E: True or False
+1. FALSE - Current is flow of charge (electrons in metals are negative)
+2. TRUE
+3. FALSE - Ammeter must be connected in SERIES, not parallel
+4. TRUE
+5. TRUE
+
+SECTION F: Matching
+1-C, 2-D, 3-A, 4-B, 5-E
+
+SECTION G: Structured Question (Key Points)
+(a) Measures the current flowing through the circuit
+(b)(i) Charge passing a point per unit time / rate of flow of charge
+(b)(ii) t = 5 × 60 = 300 s; Q = I × t = 0.40 × 300 = 120 C
+(c) Free electrons drift from - to + terminal; move between fixed positive 
+    metal ions; ions vibrate but stay in position
+(d)(i) Current that changes direction periodically / reverses direction
+(d)(ii) Electrons move back and forth / oscillate instead of drifting 
+        in one direction
+(e) Before electrons discovered, scientists assumed positive charges moved; 
+    conventional current defined as + to -; electrons are negative so 
+    actually flow - to +
+
+================================================================================
+                           END OF WORKSHEET
+================================================================================

@@ -1,0 +1,139 @@
+{
+    "topic_3": {
+        "title": "Waves",
+        "subtopics": [
+            {
+                "id": "3.1",
+                "title": "General properties of waves",
+                "learning_objectives": {
+                    "core": [
+                        "1 Know that waves transfer energy without transferring matter [2].",
+                        "2 Describe what is meant by wave motion as illustrated by vibrations in ropes and springs, and by experiments using water waves [2].",
+                        "3 Describe the features of a wave in terms of wavefront, wavelength, frequency, crest (peak), trough, amplitude and wave speed [3].",
+                        "4 Recall and use the equation for wave speed v = fλ [3].",
+                        "5 Know that for a transverse wave, the direction of vibration is at right angles to the direction of propagation and understand that electromagnetic radiation, water waves and seismic S-waves (secondary) can be modelled as transverse [3].",
+                        "6 Know that for a longitudinal wave, the direction of vibration is parallel to the direction of propagation and understand that sound waves and seismic P-waves (primary) can be modelled as longitudinal [3].",
+                        "7 Describe how waves can undergo reflection at a plane surface, refraction due to a change of speed, and diffraction through a narrow gap [4].",
+                        "8 Describe the use of a ripple tank to show reflection at a plane surface, refraction due to depth change, and diffraction due to a gap or an edge [4]."
+                    ],
+                    "supplement": [
+                        "9 Describe how wavelength and gap size affects diffraction through a gap [4].",
+                        "10 Describe how wavelength affects diffraction at an edge [4]."
+                    ]
+                }
+            },
+            {
+                "id": "3.2",
+                "title": "Light",
+                "subsections": [
+                    {
+                        "id": "3.2.1",
+                        "title": "Reflection of light",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Define and use the terms normal, angle of incidence and angle of reflection [5].",
+                                "2 Describe the formation of an optical image by a plane mirror and give its characteristics (same size, same distance, virtual) [5].",
+                                "3 State that for reflection, the angle of incidence is equal to the angle of reflection; recall and use this relationship [5]."
+                            ],
+                            "supplement": [
+                                "4 Use simple constructions, measurements and calculations for reflection by plane mirrors [5]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "3.2.2",
+                        "title": "Refraction of light",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Define and use the terms normal, angle of incidence and angle of refraction [6].",
+                                "2 Describe an experiment to show refraction of light by transparent blocks of different shapes [6].",
+                                "3 Describe the passage of light through a transparent material [6].",
+                                "4 State the meaning of critical angle [6].",
+                                "5 Describe internal reflection and total internal reflection using both experimental and everyday examples [6]."
+                            ],
+                            "supplement": [
+                                "6 Define refractive index, n, as the ratio of the speeds of a wave in two different regions [6].",
+                                "7 Recall and use the equation n = sin i / sin r [7].",
+                                "8 Recall and use the equation n = 1 / sin c [7].",
+                                "9 Describe the use of optical fibres, particularly in telecommunications [7]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "3.2.3",
+                        "title": "Thin lenses",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe the action of thin converging and thin diverging lenses on a parallel beam of light [7].",
+                                "2 Define and use the terms focal length, principal axis and principal focus [7].",
+                                "3 Draw and use ray diagrams for the formation of a real image by a converging lens [7].",
+                                "4 Describe the characteristics of an image using terms such as enlarged/diminished, upright/inverted and real/virtual [7].",
+                                "5 Know that a virtual image is formed when diverging rays are extrapolated backwards and does not form a visible projection on a screen [8]."
+                            ],
+                            "supplement": [
+                                "6 Draw and use ray diagrams for the formation of a virtual image by a converging lens [8].",
+                                "7 Describe the use of a single lens as a magnifying glass [8].",
+                                "8 Describe the use of converging and diverging lenses to correct long-sightedness and short-sightedness [8]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "3.2.4",
+                        "title": "Dispersion of light",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe the dispersion of light as illustrated by the refraction of white light by a glass prism [8].",
+                                "2 Know the traditional seven colours of the visible spectrum in order of frequency and wavelength [9]."
+                            ],
+                            "supplement": [
+                                "3 Recall that visible light of a single frequency is described as monochromatic [9]."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "3.3",
+                "title": "Electromagnetic spectrum",
+                "learning_objectives": {
+                    "core": [
+                        "1 Know the main regions of the electromagnetic spectrum in order of frequency and wavelength [9].",
+                        "2 Know that all electromagnetic waves travel at the same high speed in a vacuum [9].",
+                        "3 Describe typical uses of radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays [10, 11].",
+                        "4 Describe the harmful effects of excessive exposure to electromagnetic radiation, such as internal heating, skin burns, and mutation [11].",
+                        "5 Know that communication with artificial satellites is mainly by microwaves [12]."
+                    ],
+                    "supplement": [
+                        "6 Know that the speed of electromagnetic waves in a vacuum is 3.0 × 10⁸ m/s [11].",
+                        "7 Know that mobile phones, Bluetooth, and optical fibres rely on electromagnetic radiation for communication [12, 13].",
+                        "8 Know the difference between a digital and analogue signal [13].",
+                        "9 Know that sound can be transmitted as a digital or analogue signal [13].",
+                        "10 Explain the benefits of digital signalling, including increased transmission rate and range [13]."
+                    ]
+                }
+            },
+            {
+                "id": "3.4",
+                "title": "Sound",
+                "learning_objectives": {
+                    "core": [
+                        "1 Describe the production of sound by vibrating sources [14].",
+                        "2 Describe the longitudinal nature of sound waves [14].",
+                        "3 State the approximate range of frequencies audible to humans as 20 Hz to 20,000 Hz [14].",
+                        "4 Know that a medium is needed to transmit sound waves [14].",
+                        "5 Know that the speed of sound in air is approximately 330–350 m/s [14].",
+                        "6 Describe a method for determining the speed of sound in air [15].",
+                        "7 Describe how changes in amplitude and frequency affect loudness and pitch [15].",
+                        "8 Describe an echo as the reflection of sound waves [15].",
+                        "9 Define ultrasound as sound with a frequency higher than 20 kHz [15]."
+                    ],
+                    "supplement": [
+                        "10 Describe compression and rarefaction [14].",
+                        "11 Know that sound travels faster in solids than in liquids and faster in liquids than in gases [14].",
+                        "12 Describe the uses of ultrasound in non-destructive testing, medical scanning, and sonar [15]."
+                    ]
+                }
+            }
+        ]
+    }
+}

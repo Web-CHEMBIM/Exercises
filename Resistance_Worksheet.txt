@@ -1,0 +1,670 @@
+================================================================================
+                    IGCSE PHYSICS WORKSHEET
+                    Topic: Resistance (4.2.4)
+================================================================================
+
+Name: ________________________    Date: ________________    Class: ___________
+
+Learning Objectives Covered:
+• Recall and use the equation for resistance R = V/I
+• Describe an experiment to determine resistance using a voltmeter and ammeter
+• Sketch and explain current-voltage graphs for resistor, filament lamp, and diode
+• Recall and use the relationships for a metallic electrical conductor
+• State the relationship of resistance to length and cross-sectional area
+
+================================================================================
+SECTION A: MULTIPLE CHOICE QUESTIONS (10 marks)
+================================================================================
+Choose the correct answer for each question.
+
+1. The equation for resistance is:
+   A. R = I/V
+   B. R = V/I
+   C. R = VI
+   D. R = V + I
+
+2. The SI unit of resistance is:
+   A. Ampere (A)
+   B. Volt (V)
+   C. Ohm (Ω)
+   D. Watt (W)
+
+3. 
+---DIAGRAM: Fig. 1.3---
+TYPE: Circuit
+PURPOSE: Resistance measurement circuit
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+  Border: none
+
+LAYOUT:
+  Shape: rectangular loop
+
+COMPONENTS:
+  [Battery]
+    Symbol: Standard battery symbol
+    Position: grid(2, 4-6)
+    Orientation: vertical, + terminal at top
+    Label: none
+
+  [Variable Resistor]
+    Symbol: Resistor with arrow through it
+    Position: grid(6, 2)
+    Orientation: horizontal
+    Label: none
+
+  [Resistor R]
+    Symbol: Standard IEC rectangle
+    Position: grid(10, 4-6)
+    Orientation: vertical
+    Label: "R"
+
+  [Ammeter]
+    Symbol: Circle with "A"
+    Position: grid(6, 8)
+    Orientation: horizontal
+    Label: "A"
+
+  [Voltmeter]
+    Symbol: Circle with "V"
+    Position: grid(10, 2) - connected in parallel across R
+    Label: "V"
+
+CONNECTIONS:
+  Series loop: Battery → Variable Resistor → Resistor R → Ammeter → Battery
+  Voltmeter in parallel across Resistor R
+---END DIAGRAM---
+
+   Fig. 1.3 shows a circuit used to determine the resistance of R.
+   The ammeter reads 0.50 A and the voltmeter reads 6.0 V.
+   What is the resistance of R?
+   
+   A. 0.083 Ω
+   B. 3.0 Ω
+   C. 12 Ω
+   D. 5.5 Ω
+
+4. 
+---DIAGRAM: Fig. 1.4---
+TYPE: Graph
+PURPOSE: I-V characteristic of resistor at constant temperature
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 1:1 square
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Axes through center (origin at center)
+  X-axis: "V" (voltage), extends left and right
+  Y-axis: "I" (current), extends up and down
+
+COMPONENTS:
+  [Line]
+    Shape: Straight line through origin
+    Slope: positive, passing through quadrants 1 and 3
+    Style: solid line
+
+ANNOTATIONS:
+  X-axis label: "V" at right end
+  Y-axis label: "I" at top
+  Origin: "0" at intersection
+---END DIAGRAM---
+
+   Fig. 1.4 shows the I-V characteristic of a component.
+   This graph represents:
+   
+   A. A filament lamp
+   B. A resistor at constant temperature
+   C. A diode
+   D. A thermistor
+
+5. When the length of a metallic wire is doubled (keeping other factors constant),
+   its resistance:
+   
+   A. Halves
+   B. Stays the same
+   C. Doubles
+   D. Quadruples
+
+6. When the cross-sectional area of a metallic wire is doubled (keeping other 
+   factors constant), its resistance:
+   
+   A. Halves
+   B. Stays the same
+   C. Doubles
+   D. Quadruples
+
+7. 
+---DIAGRAM: Fig. 1.7---
+TYPE: Graph
+PURPOSE: I-V characteristic of filament lamp
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 1:1 square
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Axes through center
+  X-axis: "V", Y-axis: "I"
+
+COMPONENTS:
+  [Curve]
+    Shape: S-shaped curve through origin
+    Description: Starts steep, curves and flattens as V increases
+    Passes through quadrants 1 and 3 (symmetric about origin)
+---END DIAGRAM---
+
+   Fig. 1.7 shows the I-V characteristic of a filament lamp.
+   The curve shows that as voltage increases, the resistance of the lamp:
+   
+   A. Decreases
+   B. Stays constant
+   C. Increases
+   D. First increases then decreases
+
+8. 
+---DIAGRAM: Fig. 1.8---
+TYPE: Graph
+PURPOSE: I-V characteristic of diode
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 1:1 square
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Axes through center
+  X-axis: "V", Y-axis: "I"
+
+COMPONENTS:
+  [Curve]
+    Shape: Diode characteristic
+    Description: 
+      - Negative V: Line along x-axis (no current)
+      - Positive V: Flat until threshold (~0.7V), then rises steeply
+---END DIAGRAM---
+
+   Fig. 1.8 shows the I-V characteristic of a diode.
+   A diode allows significant current to flow when:
+   
+   A. The voltage is negative
+   B. The voltage is zero
+   C. The voltage is positive and above a threshold
+   D. The voltage is very small
+
+9. A resistor has a p.d. of 12 V across it and a current of 0.25 A flowing 
+   through it. What is its resistance?
+   
+   A. 3.0 Ω
+   B. 12.25 Ω
+   C. 48 Ω
+   D. 0.021 Ω
+
+10. In an experiment to determine resistance, a variable resistor is used.
+    The purpose of the variable resistor is to:
+    
+    A. Increase the resistance being measured
+    B. Protect the circuit from overheating
+    C. Allow different values of current and voltage to be obtained
+    D. Measure the resistance directly
+
+================================================================================
+SECTION B: FILL-IN-THE-BLANK (8 marks)
+================================================================================
+Complete the sentences using the words from the box.
+
++------------------------------------------------------------------------+
+| ohms    current    voltage    parallel    series    increases          |
+| decreases    temperature    length    cross-sectional area    straight |
++------------------------------------------------------------------------+
+
+1. Resistance is calculated using the equation R = V/I, where V is the 
+   _____________ and I is the _____________.
+
+2. Resistance is measured in _____________.
+
+3. To measure resistance, an ammeter is connected in _____________ and a 
+   voltmeter is connected in _____________.
+
+4. For a metallic conductor at constant temperature, the I-V graph is a 
+   _____________ line through the origin.
+
+5. The resistance of a metallic wire _____________ when its length increases.
+
+6. The resistance of a metallic wire _____________ when its cross-sectional 
+   area increases.
+
+7. The resistance of a filament lamp increases as its _____________ increases.
+
+================================================================================
+SECTION C: SHORT ANSWER QUESTIONS (10 marks)
+================================================================================
+
+1. State the equation for resistance in terms of voltage and current. [1]
+
+   _________________________________________________________________________
+
+2. 
+---DIAGRAM: Fig. 3.2---
+TYPE: Circuit
+PURPOSE: Simple resistance measurement setup
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+COMPONENTS:
+  [Power Supply] Left side
+  [Ammeter A] In series, top of circuit
+  [Resistor R] Right side, labeled "Unknown resistor"
+  [Voltmeter V] In parallel across R
+
+CONNECTIONS:
+  Series loop with Power Supply, Ammeter, Resistor
+  Voltmeter in parallel across Resistor
+---END DIAGRAM---
+
+   Fig. 3.2 shows a circuit used to determine the resistance of an unknown 
+   resistor.
+   
+   (a) State how the ammeter should be connected in the circuit. [1]
+
+   _________________________________________________________________________
+
+   (b) State how the voltmeter should be connected in the circuit. [1]
+
+   _________________________________________________________________________
+
+   (c) The ammeter reads 0.80 A and the voltmeter reads 4.8 V.
+       Calculate the resistance. [2]
+
+   Working:
+
+
+
+   Resistance = _____________ Ω
+
+3. Explain why the I-V graph for a resistor at constant temperature is a 
+   straight line through the origin. [2]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+4. State TWO factors that affect the resistance of a metallic wire. [2]
+
+   (i) ______________________________________________________________________
+   
+   (ii) _____________________________________________________________________
+
+5. A copper wire has resistance 2.0 Ω. State what happens to the resistance if:
+
+   (a) The length of the wire is tripled. [1]
+
+   _________________________________________________________________________
+
+   (b) The cross-sectional area is doubled. [1]
+
+   _________________________________________________________________________
+
+================================================================================
+SECTION D: CALCULATIONS (10 marks)
+================================================================================
+Show all working. Use the equation R = V/I where appropriate.
+
+1. A resistor has a current of 2.5 A flowing through it when the p.d. across 
+   it is 10 V. Calculate the resistance. [2]
+
+   Working:
+
+
+
+   Resistance = _____________ Ω
+
+2. 
+---DIAGRAM: Fig. 4.2---
+TYPE: Circuit
+PURPOSE: Lamp circuit calculation
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+COMPONENTS:
+  [Battery] "12 V"
+  [Lamp] Symbol with label "L"
+  [Ammeter] Reading "0.50 A"
+
+CONNECTIONS:
+  Series loop
+---END DIAGRAM---
+
+   Fig. 4.2 shows a lamp connected to a 12 V battery.
+   The current through the lamp is 0.50 A.
+   
+   (a) Calculate the resistance of the lamp. [2]
+
+   Working:
+
+
+
+   Resistance = _____________ Ω
+
+   (b) The current through the lamp is increased to 0.75 A.
+       Explain what happens to the resistance of the lamp and why. [2]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+3. A wire has a resistance of 8.0 Ω. Calculate the current flowing through 
+   the wire when the p.d. across it is 24 V. [2]
+
+   Working:
+
+
+
+   Current = _____________ A
+
+4. A heater has a resistance of 20 Ω. It is connected to a 240 V supply.
+   Calculate the current flowing through the heater. [2]
+
+   Working:
+
+
+
+   Current = _____________ A
+
+================================================================================
+SECTION E: TRUE OR FALSE (4 marks)
+================================================================================
+Write TRUE or FALSE. Correct any false statements.
+
+1. The resistance of a metallic conductor increases as its length increases.
+   
+   _____________ 
+   Correction: ___________________________________________________________
+
+2. A diode has the same resistance in both directions.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+3. The I-V graph for a filament lamp is a straight line.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+4. An ammeter should be connected in parallel with the component.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+================================================================================
+SECTION F: GRAPH SKETCHING (6 marks)
+================================================================================
+
+1. On the axes below, sketch the I-V characteristic for:
+
+   (a) A resistor at constant temperature [2]
+
+       I ↑
+         |
+         |
+         |
+    -----+----→ V
+         |
+         |
+         |
+
+   (b) A filament lamp [2]
+
+       I ↑
+         |
+         |
+         |
+    -----+----→ V
+         |
+         |
+         |
+
+   (c) A diode [2]
+
+       I ↑
+         |
+         |
+         |
+    -----+----→ V
+         |
+         |
+         |
+
+================================================================================
+SECTION G: STRUCTURED QUESTION (12 marks)
+================================================================================
+
+1. A student investigates how the resistance of a wire depends on its length.
+
+---DIAGRAM: Fig. 7.1---
+TYPE: Apparatus
+PURPOSE: Resistance vs length experiment setup
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 16:9 wide
+GRID: 20 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Horizontal arrangement showing complete apparatus
+
+COMPONENTS:
+  [Power Supply]
+    Position: grid(1-3, 3-7)
+    Label: "Power supply"
+
+  [Ammeter]
+    Symbol: Circle with "A"
+    Position: grid(5, 5)
+    Label: "A"
+
+  [Wire on Meter Ruler]
+    Shape: Long straight wire stretched along a ruler
+    Position: grid(8-18, 5)
+    Ruler markings: 0, 20, 40, 60, 80, 100 cm
+    Crocodile clips at ends
+
+  [Voltmeter]
+    Symbol: Circle with "V"
+    Position: grid(13, 3) - in parallel across wire section
+    Label: "V"
+
+  [Crocodile Clips]
+    Position: At 0 cm and at variable position
+    Label: "Crocodile clips"
+
+CONNECTIONS:
+  Power supply → Ammeter → Wire → back to power supply
+  Voltmeter across section of wire being measured
+---END DIAGRAM---
+
+   Fig. 7.1 shows the apparatus used.
+
+   (a) Describe how the student should carry out this experiment. [4]
+
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+
+   (b) The student obtains the following results:
+
+       | Length / cm | Voltage / V | Current / A | Resistance / Ω |
+       |-------------|-------------|-------------|-----------------|
+       | 20          | 1.2         | 0.60        |                 |
+       | 40          | 2.4         | 0.60        |                 |
+       | 60          | 3.6         | 0.60        |                 |
+       | 80          | 4.8         | 0.60        |                 |
+       | 100         | 6.0         | 0.60        |                 |
+
+       (i) Complete the table by calculating the resistance for each length. [2]
+
+       (ii) Describe the relationship between the length and resistance 
+            of the wire. [1]
+
+       ______________________________________________________________________
+
+       (iii) A student claims that the resistance is proportional to the 
+             length. Use data from the table to support this claim. [2]
+
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+
+   (c) The wire has a diameter of 0.50 mm.
+       State how the resistance would change if the student used a wire 
+       of the same material and length but with diameter 1.0 mm. 
+       Explain your answer. [3]
+
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+
+================================================================================
+                              ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+1. B    2. C    3. C    4. B    5. C    6. A    7. C    8. C    9. C    10. C
+
+Working for Q3: R = V/I = 6.0/0.50 = 12 Ω
+Working for Q9: R = V/I = 12/0.25 = 48 Ω
+
+SECTION B: FILL-IN-THE-BLANK
+1. voltage, current
+2. ohms
+3. series, parallel
+4. straight
+5. increases
+6. decreases
+7. temperature
+
+SECTION C: SHORT ANSWER
+1. R = V/I (B1)
+
+2. (a) In series with the component/resistor (B1)
+   (b) In parallel with the component/resistor (B1)
+   (c) R = V/I = 4.8/0.80 = 6.0 Ω (M1 for formula, A1 for answer)
+
+3. Because the resistance is constant (B1)
+   V and I are directly proportional / V = IR with constant R (B1)
+
+4. (i) Length (B1)
+   (ii) Cross-sectional area / thickness / diameter (B1)
+   Also accept: material / temperature
+
+5. (a) Resistance triples / becomes 6.0 Ω (B1)
+   (b) Resistance halves / becomes 1.0 Ω (B1)
+
+SECTION D: CALCULATIONS
+1. R = V/I = 10/2.5 = 4.0 Ω (M1, A1)
+
+2. (a) R = V/I = 12/0.50 = 24 Ω (M1, A1)
+   (b) Resistance increases (B1)
+      Because the temperature of the filament increases / 
+      atoms vibrate more so electrons collide more (B1)
+
+3. I = V/R = 24/8.0 = 3.0 A (M1, A1)
+
+4. I = V/R = 240/20 = 12 A (M1, A1)
+
+SECTION E: TRUE OR FALSE
+1. TRUE
+2. FALSE - A diode has very high resistance in reverse direction / 
+   low resistance in forward direction
+3. FALSE - The I-V graph for a filament lamp is a curve / curved line
+4. FALSE - An ammeter should be connected in SERIES
+
+SECTION F: GRAPH SKETCHING
+(a) Straight line through origin with positive gradient (2 marks)
+(b) Curve through origin, starting steep and becoming less steep / 
+    S-shaped curve symmetric about origin (2 marks)
+(c) No current for negative V, current increases steeply above ~0.7V / 
+    shows threshold voltage behavior (2 marks)
+
+SECTION G: STRUCTURED QUESTION
+1. (a) Method description should include:
+   - Connect the circuit as shown / connect ammeter in series (B1)
+   - Connect voltmeter in parallel across the wire (B1)
+   - Measure voltage and current for different lengths (B1)
+   - Use crocodile clips to vary the length / measure length with ruler (B1)
+   - Calculate resistance using R = V/I (B1)
+   - Repeat for different lengths (B1)
+   (Max 4 marks)
+
+   (b) (i) Completed table:
+       | 20 cm | 2.0 Ω |
+       | 40 cm | 4.0 Ω |
+       | 60 cm | 6.0 Ω |
+       | 80 cm | 8.0 Ω |
+       | 100 cm | 10 Ω |
+       (B1 for first two correct, B1 for all correct)
+
+   (ii) Resistance is proportional to length / resistance increases 
+        as length increases (B1)
+
+   (iii) When length doubles from 20 to 40 cm, resistance doubles 
+         from 2.0 to 4.0 Ω (B1)
+         OR: R/L is constant = 0.1 Ω/cm (B1)
+         This shows direct proportionality (B1)
+
+   (c) Diameter doubles means cross-sectional area quadruples (B1)
+       Resistance is inversely proportional to area (B1)
+       So resistance decreases to 1/4 of original value (B1)
+
+================================================================================
+                           END OF WORKSHEET
+================================================================================
+
+Total Marks: 60
+
+Question Distribution:
+- Multiple Choice: 10 questions
+- Fill-in-the-Blank: 8 questions (7 items)
+- Short Answer: 5 questions (10 marks)
+- Calculations: 4 questions (10 marks)
+- True/False: 4 questions
+- Graph Sketching: 3 graphs (6 marks)
+- Structured Question: 1 question with parts (12 marks)
+
+Total Questions: 40
+
+Diagram Summary:
+- Fig. 1.3: Resistance measurement circuit
+- Fig. 1.4: I-V graph for resistor
+- Fig. 1.7: I-V graph for filament lamp
+- Fig. 1.8: I-V graph for diode
+- Fig. 3.2: Simple resistance measurement setup
+- Fig. 4.2: Lamp circuit
+- Fig. 7.1: Resistance vs length experiment apparatus

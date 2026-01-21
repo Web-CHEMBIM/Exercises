@@ -1,0 +1,688 @@
+================================================================================
+                    IGCSE PHYSICS WORKSHEET
+                    Topic: Electromotive Force and Potential Difference (4.2.3)
+================================================================================
+
+Name: ________________________    Date: ________________    Class: ___________
+
+Learning Objectives Covered:
+• Define electromotive force (e.m.f.)
+• Know that e.m.f. is measured in volts (V)
+• Recall and use the equation for e.m.f. E = W/Q
+• Define Potential difference (p.d.)
+• Know that the p.d. between two points is measured in volts (V)
+• Recall and use the equation for p.d. V = W/Q
+• Describe the use of voltmeters (analogue and digital) with different ranges
+
+================================================================================
+SECTION A: MULTIPLE CHOICE QUESTIONS (10 marks)
+================================================================================
+Choose the correct answer for each question.
+
+1. Electromotive force (e.m.f.) is best defined as:
+   A. The force that moves electrons through a circuit
+   B. The energy transferred per unit charge by a source
+   C. The current multiplied by resistance
+   D. The total resistance in a circuit
+
+2. The SI unit of electromotive force is:
+   A. Ampere (A)
+   B. Ohm (Ω)
+   C. Volt (V)
+   D. Watt (W)
+
+3. Potential difference (p.d.) is defined as:
+   A. The total charge in a circuit
+   B. The energy transferred per unit charge between two points
+   C. The speed of electrons in a wire
+   D. The number of electrons passing a point
+
+4. 
+---DIAGRAM: Fig. 1.4---
+TYPE: Circuit
+PURPOSE: Battery with voltmeter measuring e.m.f.
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+  Border: none
+
+LAYOUT:
+  Shape: rectangular loop
+
+COMPONENTS:
+  [Battery]
+    Symbol: Standard battery symbol
+    Position: grid(2, 4-6)
+    Orientation: vertical, + terminal at top
+    Label: "ε" beside it
+
+  [Resistor]
+    Symbol: Standard IEC rectangle
+    Position: grid(10, 4-6)
+    Orientation: vertical
+    Label: "R"
+
+  [Voltmeter V1]
+    Symbol: Circle with "V" inside
+    Position: grid(2, 2) - connected in parallel across battery
+    Label: "V₁"
+
+CONNECTIONS:
+  [Loop] Battery → Resistor in series
+  Voltmeter V₁ in parallel across the battery
+---END DIAGRAM---
+
+   Fig. 1.4 shows a circuit. The voltmeter V₁ measures:
+   
+   A. The current through the battery
+   B. The resistance of the battery
+   C. The e.m.f. of the battery
+   D. The power of the battery
+
+5. A battery transfers 60 J of energy when 20 C of charge passes through it.
+   What is the e.m.f. of the battery?
+   
+   A. 0.33 V
+   B. 3.0 V
+   C. 40 V
+   D. 1200 V
+
+6. 
+---DIAGRAM: Fig. 1.6---
+TYPE: Circuit
+PURPOSE: Voltmeter measuring p.d. across a component
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Shape: rectangular loop
+
+COMPONENTS:
+  [Battery]
+    Position: grid(2, 4-6)
+    Orientation: vertical
+    Label: "6V"
+
+  [Lamp]
+    Symbol: Circle with cross inside
+    Position: grid(10, 4-6)
+    Label: "L"
+
+  [Voltmeter]
+    Symbol: Circle with "V"
+    Position: grid(10, 2) - connected in parallel across lamp
+    Display/Reading: "4.5 V"
+
+CONNECTIONS:
+  Battery and Lamp in series loop
+  Voltmeter in parallel across the Lamp
+---END DIAGRAM---
+
+   Fig. 1.6 shows a voltmeter connected across lamp L. The voltmeter reads 4.5 V.
+   What does this reading represent?
+   
+   A. The current through the lamp
+   B. The energy transferred per coulomb in the lamp
+   C. The resistance of the lamp
+   D. The total charge passing through the lamp
+
+7. A component has a p.d. of 12 V across it. If 5.0 C of charge passes through 
+   the component, how much energy is transferred?
+   
+   A. 0.42 J
+   B. 2.4 J
+   C. 17 J
+   D. 60 J
+
+8. Which statement correctly describes a voltmeter?
+   A. It must be connected in series with the component
+   B. It must be connected in parallel with the component
+   C. It measures the current flowing through a component
+   D. It has very low resistance
+
+9. 
+---DIAGRAM: Fig. 1.9---
+TYPE: Apparatus
+PURPOSE: Comparing analogue and digital voltmeters
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 16:9 wide
+GRID: 20 × 9
+
+CANVAS:
+  Background: pure white
+
+COMPONENTS:
+  [Analogue Voltmeter]
+    Position: grid(2-8, 2-8)
+    Style: Box with arc scale and needle
+    Needle: Pointing to 7.5
+    Scale: 0 to 10 V
+    Label: "Voltmeter A (analogue)" below
+
+  [Digital Voltmeter]
+    Position: grid(12-18, 3-7)
+    Style: Rectangular box with screen
+    Display: "7.48 V"
+    Label: "Voltmeter B (digital)" below
+---END DIAGRAM---
+
+   Fig. 1.9 shows two voltmeters measuring the same p.d.
+   What is an advantage of using the digital voltmeter (B)?
+   
+   A. It is cheaper than the analogue voltmeter
+   B. It gives a more precise reading
+   C. It does not need a power source
+   D. It measures larger voltages
+
+10. A cell has an e.m.f. of 1.5 V. This means that:
+    A. 1.5 C of charge flows per second
+    B. 1.5 J of energy is transferred per coulomb of charge
+    C. The cell can deliver 1.5 A of current
+    D. The cell has a resistance of 1.5 Ω
+
+================================================================================
+SECTION B: FILL-IN-THE-BLANK (8 marks)
+================================================================================
+Complete the sentences using the words from the box.
+
++------------------------------------------------------------------------+
+| volts    joules    coulombs    parallel    series    energy    charge  |
+| voltmeter    source    component    e.m.f.    potential difference     |
++------------------------------------------------------------------------+
+
+1. Electromotive force is the _____________ transferred per unit charge by a 
+   _____________.
+
+2. Potential difference is the _____________ transferred per unit charge by a 
+   _____________.
+
+3. Both e.m.f. and p.d. are measured in _____________.
+
+4. A _____________ is used to measure potential difference.
+
+5. A voltmeter must be connected in _____________ with the component being 
+   measured.
+
+6. The equation E = W/Q shows that e.m.f. equals work done divided by 
+   _____________.
+
+7. The symbol for potential difference is V and it is measured in _____________.
+
+8. _____________ is a measure of the energy supplied by a battery per coulomb 
+   of charge.
+
+================================================================================
+SECTION C: SHORT ANSWER QUESTIONS (12 marks)
+================================================================================
+
+1. Define electromotive force (e.m.f.). [2]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+2. Define potential difference (p.d.). [2]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+3. State the equation that relates:
+   (a) e.m.f., work done, and charge. [1]
+
+   _________________________________________________________________________
+
+   (b) p.d., work done, and charge. [1]
+
+   _________________________________________________________________________
+
+4. 
+---DIAGRAM: Fig. 3.4---
+TYPE: Apparatus
+PURPOSE: Voltmeter connected to circuit
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+COMPONENTS:
+  [Voltmeter]
+    Symbol: Circle with "V"
+    Position: center
+    Wires: Two connection leads shown
+
+ANNOTATIONS:
+  [Lead 1] From one terminal
+  [Lead 2] From other terminal
+  [Component] Box labeled "R" shown between leads
+---END DIAGRAM---
+
+   Fig. 3.4 shows a voltmeter connected to measure the p.d. across a resistor.
+   
+   (a) How should a voltmeter be connected to measure the p.d. across a 
+       component? [1]
+
+   _________________________________________________________________________
+
+   (b) State ONE advantage of using a digital voltmeter instead of an 
+       analogue voltmeter. [1]
+
+   _________________________________________________________________________
+
+5. Explain the difference between e.m.f. and potential difference. [2]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+6. A student says "e.m.f. is the force that pushes electrons around a circuit."
+   Explain why this statement is incorrect. [2]
+
+   _________________________________________________________________________
+   
+   _________________________________________________________________________
+
+================================================================================
+SECTION D: CALCULATIONS (12 marks)
+================================================================================
+Show all working. Use the equations E = W/Q and V = W/Q where appropriate.
+
+1. A battery transfers 180 J of energy when 15 C of charge passes through it.
+   Calculate the e.m.f. of the battery. [2]
+
+   Working:
+
+
+
+   e.m.f. = _____________ V
+
+2. 
+---DIAGRAM: Fig. 4.2---
+TYPE: Circuit
+PURPOSE: Calculation context for p.d.
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+COMPONENTS:
+  [Battery] Left side, labeled "12 V"
+  [Lamp] Right side
+  [Voltmeter] In parallel across lamp, reading "8.0 V"
+
+CONNECTIONS:
+  Series loop with Battery and Lamp
+  Voltmeter in parallel across Lamp
+---END DIAGRAM---
+
+   Fig. 4.2 shows a circuit with a 12 V battery. The voltmeter reads 8.0 V.
+   A charge of 25 C passes through the lamp.
+   Calculate the energy transferred in the lamp. [2]
+
+   Working:
+
+
+
+   Energy = _____________ J
+
+3. A resistor has a p.d. of 6.0 V across it. Calculate the charge that must 
+   pass through the resistor to transfer 48 J of energy. [2]
+
+   Working:
+
+
+
+   Charge = _____________ C
+
+4. 
+---DIAGRAM: Fig. 4.4---
+TYPE: Circuit
+PURPOSE: Motor circuit for energy calculation
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+COMPONENTS:
+  [Power Supply] Left, labeled "24 V"
+  [Motor] Symbol: Circle with "M" inside, right side
+  [Voltmeter] In parallel across motor
+
+CONNECTIONS:
+  Series loop
+---END DIAGRAM---
+
+   Fig. 4.4 shows a motor connected to a 24 V power supply.
+   
+   (a) The p.d. across the motor is 24 V. Calculate the energy transferred 
+       when 500 C of charge passes through the motor. [2]
+
+   Working:
+
+
+
+   Energy = _____________ J
+
+   (b) The motor runs for 4 minutes and transfers 28800 J of energy.
+       Calculate the charge that passed through the motor. [2]
+
+   Working:
+
+
+
+   Charge = _____________ C
+
+5. A cell transfers 4.5 J of energy for each coulomb of charge that passes 
+   through it.
+   
+   (a) State the e.m.f. of the cell. [1]
+
+   e.m.f. = _____________ V
+
+   (b) Calculate the total energy transferred when 200 C of charge passes 
+       through the cell. [1]
+
+   Energy = _____________ J
+
+================================================================================
+SECTION E: TRUE OR FALSE (5 marks)
+================================================================================
+Write TRUE or FALSE. Correct any false statements.
+
+1. E.m.f. and p.d. are both measured in volts.
+   
+   _____________ 
+   Correction: ___________________________________________________________
+
+2. E.m.f. measures the energy transferred per unit charge by a component.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+3. A voltmeter should be connected in series with the component.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+4. If a battery has an e.m.f. of 9 V, it transfers 9 J of energy for every 
+   coulomb of charge.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+5. Digital voltmeters are generally more precise than analogue voltmeters.
+   
+   _____________
+   Correction: ___________________________________________________________
+
+================================================================================
+SECTION F: MATCHING (3 marks)
+================================================================================
+Match each term with its correct description.
+
+Term                           Description
+-----                          -----------
+1. E.m.f.               ___    A. Energy transferred per unit charge by a component
+2. P.d.                 ___    B. Instrument used to measure p.d.
+3. Voltmeter            ___    C. Energy transferred per unit charge by a source
+
+================================================================================
+SECTION G: DATA INTERPRETATION (5 marks)
+================================================================================
+
+1. 
+---DIAGRAM: Fig. 6.1---
+TYPE: Graph
+PURPOSE: Current-voltage characteristic showing p.d. relationship
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Graph with axes:
+    X-axis: "P.d. / V" (0 to 6)
+    Y-axis: "Current / A" (0 to 0.5)
+  
+  Data points and line:
+    (0, 0), (1, 0.1), (2, 0.2), (3, 0.3), (4, 0.4), (5, 0.5)
+    Straight line through origin
+
+ANNOTATIONS:
+  Grid lines: light gray
+  Title: none (described in question)
+---END DIAGRAM---
+
+   Fig. 6.1 shows a graph of current against p.d. for a resistor.
+
+   (a) Using the graph, determine the current when the p.d. is 3.5 V. [1]
+
+   Current = _____________ A
+
+   (b) A charge of 12 C passes through the resistor when the p.d. is 4.0 V.
+       Calculate the energy transferred. [2]
+
+   Working:
+
+
+
+   Energy = _____________ J
+
+   (c) Using the equation V = W/Q, calculate the p.d. needed to transfer 
+       15 J of energy when 5.0 C of charge passes through. [2]
+
+   Working:
+
+
+
+   P.d. = _____________ V
+
+================================================================================
+SECTION H: STRUCTURED QUESTION (10 marks - BONUS)
+================================================================================
+
+1. 
+---DIAGRAM: Fig. 7.1---
+TYPE: Circuit
+PURPOSE: Complete circuit with battery, two resistors, and voltmeters
+STYLE: Hand-drawn aesthetic
+ASPECT_RATIO: 4:3 landscape
+GRID: 14 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Shape: rectangular loop with two resistors in series
+
+COMPONENTS:
+  [Battery]
+    Symbol: Standard battery
+    Position: grid(2, 3-7)
+    Orientation: vertical, + at top
+    Label: "E = 12 V"
+
+  [Resistor R1]
+    Symbol: IEC rectangle
+    Position: grid(7, 2)
+    Orientation: horizontal
+    Label: "R₁"
+
+  [Resistor R2]
+    Symbol: IEC rectangle
+    Position: grid(12, 5)
+    Orientation: vertical
+    Label: "R₂"
+
+  [Voltmeter V1]
+    Symbol: Circle with "V"
+    Position: grid(7, 4) - in parallel across R1
+    Label: "V₁ = 4.0 V"
+
+  [Voltmeter V2]
+    Symbol: Circle with "V"
+    Position: grid(10, 5) - in parallel across R2
+    Label: "V₂ = 8.0 V"
+
+CONNECTIONS:
+  Battery + → top wire → R1 → right wire → R2 → bottom wire → Battery -
+  V1 in parallel across R1
+  V2 in parallel across R2
+---END DIAGRAM---
+
+   Fig. 7.1 shows a circuit with a battery of e.m.f. 12 V connected to two 
+   resistors R₁ and R₂ in series. Voltmeters V₁ and V₂ measure the p.d. 
+   across each resistor.
+
+   (a) Define electromotive force (e.m.f.). [2]
+
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+
+   (b) State what the voltmeter readings V₁ = 4.0 V and V₂ = 8.0 V tell us 
+       about the energy transfer in the circuit. [2]
+
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+
+   (c) A charge of 50 C passes through the circuit.
+       
+       (i) Calculate the total energy supplied by the battery. [2]
+
+           Working:
+
+
+
+           Energy = _____________ J
+
+       (ii) Calculate the energy transferred in resistor R₂. [2]
+
+           Working:
+
+
+
+           Energy = _____________ J
+
+   (d) Explain why the sum of the p.d.s across R₁ and R₂ equals the e.m.f. 
+       of the battery. [2]
+
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+       
+       ______________________________________________________________________
+
+================================================================================
+                              ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+1. B    2. C    3. B    4. C    5. B    6. B    7. D    8. B    9. B    10. B
+
+SECTION B: FILL-IN-THE-BLANK
+1. energy, source
+2. energy, component
+3. volts
+4. voltmeter
+5. parallel
+6. charge
+7. volts
+8. E.m.f. (or electromotive force)
+
+SECTION C: SHORT ANSWER
+1. E.m.f. is the energy transferred per unit charge by a source (B1)
+   OR the work done per unit charge by a source (B1)
+
+2. P.d. is the energy transferred per unit charge between two points (B1)
+   OR the work done per unit charge by a component (B1)
+
+3. (a) E = W/Q    (b) V = W/Q
+
+4. (a) In parallel with the component
+   (b) More precise reading / no parallax error / easier to read
+
+5. E.m.f. is the energy transferred per unit charge BY a source (B1)
+   P.d. is the energy transferred per unit charge IN a component (B1)
+
+6. E.m.f. is not a force (B1), it is energy transferred per unit charge (B1)
+
+SECTION D: CALCULATIONS
+1. E = W/Q = 180/15 = 12 V (M1 for formula/substitution, A1 for answer)
+
+2. W = VQ = 8.0 × 25 = 200 J (M1, A1)
+
+3. Q = W/V = 48/6.0 = 8.0 C (M1, A1)
+
+4. (a) W = VQ = 24 × 500 = 12000 J (M1, A1)
+   (b) Q = W/V = 28800/24 = 1200 C (M1, A1)
+
+5. (a) 4.5 V (B1)
+   (b) W = EQ = 4.5 × 200 = 900 J (B1)
+
+SECTION E: TRUE OR FALSE
+1. TRUE
+2. FALSE - E.m.f. measures energy transferred per unit charge by a SOURCE
+3. FALSE - A voltmeter should be connected in PARALLEL
+4. TRUE
+5. TRUE
+
+SECTION F: MATCHING
+1. C    2. A    3. B
+
+SECTION G: DATA INTERPRETATION
+1. (a) 0.35 A (accept 0.33-0.37)
+   (b) W = VQ = 4.0 × 12 = 48 J (M1, A1)
+   (c) V = W/Q = 15/5.0 = 3.0 V (M1, A1)
+
+SECTION H: STRUCTURED QUESTION
+1. (a) E.m.f. is the energy transferred per unit charge (B1) by a source/
+       battery (B1)
+
+   (b) V₁ = 4.0 V means 4.0 J of energy is transferred per coulomb in R₁ (B1)
+       V₂ = 8.0 V means 8.0 J of energy is transferred per coulomb in R₂ (B1)
+
+   (c) (i) W = EQ = 12 × 50 = 600 J (M1, A1)
+       (ii) W = VQ = 8.0 × 50 = 400 J (M1, A1)
+
+   (d) Energy is conserved (B1)
+       The total energy supplied by the battery equals the total energy 
+       transferred in the components (B1)
+
+================================================================================
+                           END OF WORKSHEET
+================================================================================
+
+Total Marks: 65 (50 core questions + 15 bonus structured question)
+
+Question Distribution:
+- Multiple Choice: 10 questions
+- Fill-in-the-Blank: 8 questions
+- Short Answer: 6 questions (12 marks)
+- Calculations: 5 questions (12 marks)
+- True/False: 5 questions
+- Matching: 3 questions
+- Data Interpretation: 3 parts (5 marks)
+- Structured Question: 1 question with parts (10 marks - bonus)
+
+Diagram Summary:
+- Fig. 1.4: Circuit with voltmeter measuring e.m.f.
+- Fig. 1.6: Circuit with voltmeter measuring p.d. across lamp
+- Fig. 1.9: Comparison of analogue and digital voltmeters
+- Fig. 3.4: Voltmeter connection
+- Fig. 4.2: Circuit for p.d. calculation
+- Fig. 4.4: Motor circuit
+- Fig. 6.1: Current-voltage graph
+- Fig. 7.1: Series circuit with two resistors and voltmeters

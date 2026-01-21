@@ -1,0 +1,99 @@
+{
+    "topic_6": {
+        "title": "Space physics",
+        "subtopics": [
+            {
+                "id": "6.1",
+                "title": "The Earth and the Solar System",
+                "subsections": [
+                    {
+                        "id": "6.1.1",
+                        "title": "The Earth",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that the Earth is a planet that rotates on its axis, which is tilted, once in approximately 24 hours, and use this to explain observations of the apparent daily motion of the Sun and the periodic cycle of day and night [2]",
+                                "2 Know that the Earth orbits the Sun once in approximately 365 days and use this to explain the periodic nature of the seasons [2]",
+                                "3 Know that it takes approximately one month for the Moon to orbit the Earth and use this to explain the periodic nature of the Moon's cycle of phases [2]"
+                            ],
+                            "supplement": [
+                                "4 Define average orbital speed from the equation v = 2πr / T where r is the average radius of the orbit and T is the orbital period; recall and use this equation [3]"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "6.1.2",
+                        "title": "The Solar System",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe the Solar System as containing: (a) one star, the Sun (b) the eight named planets and know their order from the Sun (c) minor planets that orbit the Sun, including dwarf planets such as Pluto and asteroids in the asteroid belt (d) moons, that orbit the planets (e) smaller Solar System bodies, including comets and natural satellites [3, 4]",
+                                "2 Know that, in comparison to each other, the four planets nearest the Sun are rocky and small and the four planets furthest from the Sun are gaseous and large, and explain this difference by referring to an accretion model for Solar System formation, to include: (a) the model's dependence on gravity (b) the presence of many elements in interstellar clouds of gas and dust (c) the rotation of material in the cloud and the formation of an accretion disc [4]",
+                                "3 Know that the strength of the gravitational field: (a) at the surface of a planet depends on the mass of the planet (b) around a planet decreases as the distance from the planet increases [5, 6]",
+                                "4 Calculate the time it takes light to travel a significant distance such as between objects in the Solar System [6]",
+                                "5 Know that the Sun contains most of the mass of the Solar System and this explains why the planets orbit the Sun [6]",
+                                "6 Know that the force that keeps an object in orbit around the Sun is the gravitational attraction of the Sun [6]"
+                            ],
+                            "supplement": [
+                                "7 Know that planets, minor planets and comets have elliptical orbits, and recall that the Sun is not at the centre of the elliptical orbit, except when the orbit is approximately circular [5]",
+                                "8 Analyse and interpret planetary data about orbital distance, orbital duration, density, surface temperature and uniform gravitational field strength at the planet's surface [5]",
+                                "9 Know that the strength of the Sun's gravitational field decreases and that the orbital speeds of the planets decrease as the distance from the Sun increases [6]",
+                                "10 Know that an object in an elliptical orbit travels faster when closer to the Sun and explain this using the conservation of energy [7]"
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6.2",
+                "title": "Stars and the Universe",
+                "subsections": [
+                    {
+                        "id": "6.2.1",
+                        "title": "The Sun as a star",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that the Sun is a star of medium size, consisting mostly of hydrogen and helium, and that it radiates most of its energy in the infrared, visible light and ultraviolet regions of the electromagnetic spectrum [7]"
+                            ],
+                            "supplement": [
+                                "2 Know that stars are powered by nuclear reactions that release energy and that in stable stars the nuclear reactions involve the fusion of hydrogen into helium [7]"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "6.2.2",
+                        "title": "Stars",
+                        "learning_objectives": {
+                            "core": [
+                                "1 State that: (a) galaxies are each made up of many billions of stars (b) the Sun is a star in the galaxy known as the Milky Way (c) other stars that make up the Milky Way are much further away from the Earth than the Sun is from the Earth (d) astronomical distances can be measured in light-years, where one light-year is the distance travelled in (the vacuum of) space by light in one year [8]"
+                            ],
+                            "supplement": [
+                                "2 Know that one light-year is equal to 9.5 × 10^15 m [8]",
+                                "3 Describe the life cycle of a star: (a) a star is formed from interstellar clouds of gas and dust that contain hydrogen (b) a protostar is an interstellar cloud collapsing and increasing in temperature as a result of its internal gravitational attraction (c) a protostar becomes a stable star when the inward force of gravitational attraction is balanced by an outward force due to the high temperature in the centre of the star (d) all stars eventually run out of hydrogen as fuel for the nuclear reaction (e) most stars expand to form red giants and more massive stars expand to form red supergiants when most of the hydrogen in the centre of the star has been converted to helium (f) a red giant from a less massive star forms a planetary nebula with a white dwarf star at its centre (g) a red supergiant explodes as a supernova, forming a nebula containing hydrogen and new heavier elements, leaving behind a neutron star or a black hole at its centre (h) the nebula from a supernova may form new stars with orbiting planets [9, 10]"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "6.2.3",
+                        "title": "The Universe",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that the Milky Way is one of many billions of galaxies making up the Universe and that the diameter of the Milky Way is approximately 100,000 light-years [11]",
+                                "2 Describe redshift as an increase in the observed wavelength of electromagnetic radiation emitted from receding stars and galaxies [11]",
+                                "3 Know that the light emitted from distant galaxies appears redshifted in comparison with light emitted on the Earth [11]",
+                                "4 Know that redshift in the light from distant galaxies is evidence that the Universe is expanding and supports the Big Bang Theory [11]"
+                            ],
+                            "supplement": [
+                                "5 Know that microwave radiation of a specific frequency is observed at all points in space around us and is known as cosmic microwave background radiation (CMBR) [12]",
+                                "6 Explain that the CMBR was produced shortly after the Universe was formed and that this radiation has been expanded into the microwave region of the electromagnetic spectrum as the Universe expanded [12]",
+                                "7 Know that the speed v at which a galaxy is moving away from the Earth can be found from the change in wavelength of the galaxy's starlight due to redshift [12]",
+                                "8 Know that the distance d of a far galaxy can be determined using the brightness of a supernova in that galaxy [13]",
+                                "9 Define the Hubble constant H0 as the ratio of the speed at which the galaxy is moving away from the Earth to its distance from the Earth; recall and use the equation H0 = v / d [13]",
+                                "10 Know that the current estimate for H0 is 2.2 × 10^–18 per second [13]",
+                                "11 Know that the equation d / v = 1 / H0 represents an estimate for the age of the Universe and that this is evidence for the idea that all the matter in the Universe was present at a single point [13]"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

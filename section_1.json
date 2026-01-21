@@ -1,0 +1,215 @@
+{
+  "topic_1": {
+    "title": "Motion, forces and energy",
+    "subtopics": [
+      {
+        "id": "1.1",
+        "title": "Physical quantities and measurement techniques",
+        "learning_objectives": {
+          "core": [
+            "1 Describe the use of rulers and measuring cylinders to find a length or a volume [1]",
+            "2 Describe how to measure a variety of time intervals using clocks and digital timers [1]",
+            "3 Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum) [1]"
+          ],
+          "supplement": [
+            "4 Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction [2]",
+            "5 Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature [2]",
+            "6 Know that the following quantities are vectors: force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength [2]",
+            "7 Determine, by calculation or graphically, the resultant of two vectors at right angles, limited to forces or velocities only [2]"
+          ]
+        }
+      },
+      {
+        "id": "1.2",
+        "title": "Motion",
+        "learning_objectives": {
+          "core": [
+            "1 Define speed as distance travelled per unit time; recall and use the equation v = s/t [3]",
+            "2 Define velocity as speed in a given direction [3]",
+            "3 Recall and use the equation average speed = total distance travelled / total time taken [3]",
+            "4 Sketch, plot and interpret distance–time and speed–time graphs [3]",
+            "5 Determine, qualitatively, from given data or the shape of a distance–time graph or speed–time graph when an object is: (a) at rest (b) moving with constant speed (c) accelerating (d) decelerating [3]",
+            "6 Calculate speed from the gradient of a straight-line section of a distance–time graph [4]",
+            "7 Calculate the area under a speed–time graph to determine the distance travelled for motion with constant speed or constant acceleration [4]",
+            "8 State that the acceleration of free fall g for an object near to the surface of the Earth is approximately constant and is approximately 9.8 m/s² [4]"
+          ],
+          "supplement": [
+            "9 Define acceleration as change in velocity per unit time; recall and use the equation a = Δv / Δt [4]",
+            "10 Determine from given data or the shape of a speed–time graph when an object is moving with: (a) constant acceleration (b) changing acceleration [4, 5]",
+            "11 Calculate acceleration from the gradient of a speed–time graph [5]",
+            "12 Know that a deceleration is a negative acceleration and use this in calculations [5]",
+            "13 Describe the motion of objects falling in a uniform gravitational field with and without air/liquid resistance, including reference to terminal velocity [5]"
+          ]
+        }
+      },
+      {
+        "id": "1.3",
+        "title": "Mass and weight",
+        "learning_objectives": {
+          "core": [
+            "1 State that mass is a measure of the quantity of matter in an object at rest relative to the observer [5]",
+            "2 State that weight is a gravitational force on an object that has mass [5]",
+            "3 Define gravitational field strength as force per unit mass; recall and use the equation g = W/m and know that this is equivalent to the acceleration of free fall [6]",
+            "4 Know that weights (and masses) may be compared using a balance [6]"
+          ],
+          "supplement": [
+            "5 Describe, and use the concept of, weight as the effect of a gravitational field on a mass [6]"
+          ]
+        }
+      },
+      {
+        "id": "1.4",
+        "title": "Density",
+        "learning_objectives": {
+          "core": [
+            "1 Define density as mass per unit volume; recall and use the equation ρ = m/V [6]",
+            "2 Describe how to determine the density of a liquid, of a regularly shaped solid and of an irregularly shaped solid which sinks in a liquid (volume by displacement), including appropriate calculations [6]",
+            "3 Determine whether an object floats based on density data [7]"
+          ],
+          "supplement": [
+            "4 Determine whether one liquid will float on another liquid based on density data given that the liquids do not mix [7]"
+          ]
+        }
+      },
+      {
+        "id": "1.5",
+        "title": "Forces",
+        "subsections": [
+          {
+            "id": "1.5.1",
+            "title": "Effects of forces",
+            "learning_objectives": {
+              "core": [
+                "1 Know that forces may produce changes in the size and shape of an object [7]",
+                "2 Sketch, plot and interpret load–extension graphs for an elastic solid and describe the associated experimental procedures [7]",
+                "3 Determine the resultant of two or more forces acting along the same straight line [7]",
+                "4 Know that an object either remains at rest or continues in a straight line at constant speed unless acted on by a resultant force [8]",
+                "5 State that a resultant force may change the velocity of an object by changing its direction of motion or its speed [8]",
+                "6 Describe solid friction as the force between two surfaces that may impede motion and produce heating [9]",
+                "7 Know that friction (drag) acts on an object moving through a liquid [9]",
+                "8 Know that friction (drag) acts on an object moving through a gas (e.g. air resistance) [9]"
+              ],
+              "supplement": [
+                "9 Define the spring constant as force per unit extension; recall and use the equation k = F/x [8]",
+                "10 Define and use the term 'limit of proportionality' for a load–extension graph and identify this point on the graph [8]",
+                "11 Recall and use the equation F = ma and know that the force and the acceleration are in the same direction [10]",
+                "12 Describe, qualitatively, motion in a circular path due to a force perpendicular to the motion [10]"
+              ]
+            }
+          },
+          {
+            "id": "1.5.2",
+            "title": "Turning effect of forces",
+            "learning_objectives": {
+              "core": [
+                "1 Describe the moment of a force as a measure of its turning effect and give everyday examples [9]",
+                "2 Define the moment of a force as moment = force × perpendicular distance from the pivot; recall and use the equation [9]",
+                "3 Apply the principle of moments to situations with one force each side of the pivot, including balancing of a beam [11]",
+                "4 State that, when there is no resultant force and no resultant moment, an object is in equilibrium [11]"
+              ],
+              "supplement": [
+                "5 Apply the principle of moments to other situations, including those with more than one force each side of the pivot [11]",
+                "6 Describe an experiment to demonstrate that there is no resultant moment on an object in equilibrium [11]"
+              ]
+            }
+          },
+          {
+            "id": "1.5.3",
+            "title": "Centre of gravity",
+            "learning_objectives": {
+              "core": [
+                "1 State what is meant by centre of gravity [11]",
+                "2 Describe an experiment to determine the position of the centre of gravity of an irregularly shaped plane lamina [12]",
+                "3 Describe, qualitatively, the effect of the position of the centre of gravity on the stability of simple objects [12]"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "1.6",
+        "title": "Momentum",
+        "learning_objectives": {
+          "supplement": [
+            "1 Define momentum as mass × velocity; recall and use the equation p = mv [12]",
+            "2 Define impulse as force × time for which force acts; recall and use the equation impulse = FΔt = Δ(mv) [12]",
+            "3 Apply the principle of the conservation of momentum to solve simple problems in one dimension [12]",
+            "4 Define resultant force as the change in momentum per unit time; recall and use the equation F = Δp / Δt [13]"
+          ]
+        }
+      },
+      {
+        "id": "1.7",
+        "title": "Energy, work and power",
+        "subsections": [
+          {
+            "id": "1.7.1",
+            "title": "Energy",
+            "learning_objectives": {
+              "core": [
+                "1 State that energy may be stored as kinetic, gravitational potential, chemical, elastic (strain), nuclear, electrostatic and internal (thermal) [13]",
+                "2 Describe how energy is transferred between stores during events and processes [13]",
+                "3 Know the principle of the conservation of energy and apply this principle to simple examples [14]"
+              ],
+              "supplement": [
+                "4 Recall and use the equation for kinetic energy Ek = 1/2 mv² [14]",
+                "5 Recall and use the equation for the change in gravitational potential energy ΔEp = mgΔh [14]",
+                "6 Know the principle of the conservation of energy and apply this principle to complex examples involving multiple stages, including the interpretation of Sankey diagrams [14]"
+              ]
+            }
+          },
+          {
+            "id": "1.7.2",
+            "title": "Work",
+            "learning_objectives": {
+              "core": [
+                "1 Understand that mechanical or electrical work done is equal to the energy transferred [15]",
+                "2 Recall and use the equation for mechanical working W = Fd = ΔE [15]"
+              ]
+            }
+          },
+          {
+            "id": "1.7.3",
+            "title": "Energy resources",
+            "learning_objectives": {
+              "core": [
+                "1 Describe how useful energy may be obtained, or electrical power generated, from various resources (fossil fuels, biofuels, water, geothermal, nuclear, solar, wind) [15, 16]",
+                "2 Describe advantages and disadvantages of each method in terms of renewability, availability, reliability, scale and environmental impact [16]",
+                "3 Understand, qualitatively, the concept of efficiency of energy transfer [16]"
+              ],
+              "supplement": [
+                "4 Know that radiation from the Sun is the main source of energy for all our energy resources except geothermal, nuclear and tidal [17]",
+                "5 Know that energy is released by nuclear fusion in the Sun [17]",
+                "6 Know that research is being carried out to investigate how energy released by nuclear fusion can be used to produce electrical energy on a large scale [17]",
+                "7 Define efficiency using equations for energy or power output/input [17]"
+              ]
+            }
+          },
+          {
+            "id": "1.7.4",
+            "title": "Power",
+            "learning_objectives": {
+              "core": [
+                "1 Define power as work done per unit time and also as energy transferred per unit time; recall and use P = W/t and P = ΔE/t [18]"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "1.8",
+        "title": "Pressure",
+        "learning_objectives": {
+          "core": [
+            "1 Define pressure as force per unit area; recall and use the equation p = F/A [18]",
+            "2 Describe how pressure varies with force and area in the context of everyday examples [18]",
+            "3 Describe, qualitatively, how the pressure beneath the surface of a liquid changes with depth and density of the liquid [18]"
+          ],
+          "supplement": [
+            "4 Recall and use the equation for the change in pressure beneath the surface of a liquid Δp = ρgΔh [19]"
+          ]
+        }
+      }
+    ]
+  }
+}

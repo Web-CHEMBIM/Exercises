@@ -1,0 +1,269 @@
+{
+    "topic_4": {
+        "title": "Electricity and magnetism",
+        "subtopics": [
+            {
+                "id": "4.1",
+                "title": "Simple phenomena of magnetism",
+                "learning_objectives": {
+                    "core": [
+                        "1 Describe the forces between magnetic poles and between magnets and magnetic materials, including the use of the terms north pole (N pole), south pole (S pole), attraction and repulsion, magnetised and unmagnetised [2].",
+                        "2 Describe induced magnetism [2].",
+                        "3 State the differences between the properties of temporary magnets (made of soft iron) and the properties of permanent magnets (made of steel) [2].",
+                        "4 State the difference between magnetic and non-magnetic materials [2].",
+                        "5 Describe a magnetic field as a region in which a magnetic pole experiences a force [3].",
+                        "6 Draw the pattern and direction of magnetic field lines around a bar magnet [3].",
+                        "7 State that the direction of a magnetic field at a point is the direction of the force on the N pole of a magnet at that point [3].",
+                        "8 Describe the plotting of magnetic field lines with a compass or iron filings and the use of a compass to determine the direction of the magnetic field [3].",
+                        "9 Describe the uses of permanent magnets and electromagnets [3]."
+                    ],
+                    "supplement": [
+                        "10 Explain that magnetic forces are due to interactions between magnetic fields [4].",
+                        "11 Know that the relative strength of a magnetic field is represented by the spacing of the magnetic field lines [4]."
+                    ]
+                }
+            },
+            {
+                "id": "4.2",
+                "title": "Electrical quantities",
+                "subsections": [
+                    {
+                        "id": "4.2.1",
+                        "title": "Electric charge",
+                        "learning_objectives": {
+                            "core": [
+                                "1 State that there are positive and negative charges [4].",
+                                "2 State that positive charges repel other positive charges, negative charges repel other negative charges, but positive charges attract negative charges [4].",
+                                "3 Describe simple experiments to show the production of electrostatic charges by friction and to show the detection of electrostatic charges [4].",
+                                "4 Explain that charging of solids by friction involves only a transfer of negative charge (electrons) [5].",
+                                "5 Describe an experiment to distinguish between electrical conductors and insulators [5].",
+                                "6 Recall and use a simple electron model to explain the difference between electrical conductors and insulators and give typical examples [5]."
+                            ],
+                            "supplement": [
+                                "7 State that charge is measured in coulombs [5].",
+                                "8 Describe an electric field as a region in which an electric charge experiences a force [5].",
+                                "9 State that the direction of an electric field at a point is the direction of the force on a positive charge at that point [5].",
+                                "10 Describe simple electric field patterns, including the direction of the field: (a) around a point charge (b) around a charged conducting sphere (c) between two oppositely charged parallel conducting plates [6]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.2.2",
+                        "title": "Electric current",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that electric current is related to the flow of charge [6].",
+                                "2 Describe the use of ammeters (analogue and digital) with different ranges [6].",
+                                "3 Describe electrical conduction in metals in terms of the movement of free electrons [6].",
+                                "4 Know the difference between direct current (d.c.) and alternating current (a.c.) [7]."
+                            ],
+                            "supplement": [
+                                "5 Define electric current as the charge passing a point per unit time; recall and use the equation I = Q/t [7].",
+                                "6 State that conventional current is from positive to negative and that the flow of free electrons is from negative to positive [7]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.2.3",
+                        "title": "Electromotive force and potential difference",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Define electromotive force (e.m.f.) as the electrical work done by a source in moving a unit charge around a complete circuit [7].",
+                                "2 Know that e.m.f. is measured in volts (V) [8].",
+                                "3 Define potential difference (p.d.) as the work done by a unit charge passing through a component [8].",
+                                "4 Know that the p.d. between two points is measured in volts (V) [8].",
+                                "5 Describe the use of voltmeters (analogue and digital) with different ranges [8]."
+                            ],
+                            "supplement": [
+                                "6 Recall and use the equation for e.m.f. E = W/Q [8].",
+                                "7 Recall and use the equation for p.d. V = W/Q [8]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.2.4",
+                        "title": "Resistance",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Recall and use the equation for resistance R = V/I [8].",
+                                "2 Describe an experiment to determine resistance using a voltmeter and an ammeter and do the appropriate calculations [8].",
+                                "3 State, qualitatively, the relationship of the resistance of a metallic wire to its length and to its cross-sectional area [9]."
+                            ],
+                            "supplement": [
+                                "4 Sketch and explain the current–voltage graphs for a resistor of constant resistance, a filament lamp and a diode [9].",
+                                "5 Recall and use the following relationship for a metallic electrical conductor: (a) resistance is directly proportional to length (b) resistance is inversely proportional to cross-sectional area [9]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.2.5",
+                        "title": "Electrical energy and electrical power",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Understand that electric circuits transfer energy from a source of electrical energy to the circuit components and then into the surroundings [10].",
+                                "2 Recall and use the equation for electrical power P = IV [10].",
+                                "3 Recall and use the equation for electrical energy E = IVt [10].",
+                                "4 Define the kilowatt-hour (kW h) and calculate the cost of using electrical appliances where the energy unit is the kW h [10]."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "4.3",
+                "title": "Electric circuits",
+                "subsections": [
+                    {
+                        "id": "4.3.1",
+                        "title": "Circuit diagrams and circuit components",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Draw and interpret circuit diagrams containing cells, batteries, power supplies, generators, potential dividers, switches, resistors (fixed and variable), heaters, thermistors (NTC only), light-dependent resistors (LDRs), lamps, motors, bells, ammeters, voltmeters, magnetising coils, transformers, fuses and relays and know how these components behave in the circuit [11]."
+                            ],
+                            "supplement": [
+                                "2 Draw and interpret circuit diagrams containing diodes and light-emitting diodes (LEDs) and know how these components behave in the circuit [11]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.3.2",
+                        "title": "Series and parallel circuits",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that the current at every point in a series circuit is the same [12].",
+                                "2 Know how to construct and use series and parallel circuits [12].",
+                                "3 Calculate the combined e.m.f. of several sources in series [12].",
+                                "4 Calculate the combined resistance of two or more resistors in series [12].",
+                                "5 State that, for a parallel circuit, the current from the source is larger than the current in each branch [12].",
+                                "6 State that the combined resistance of two resistors in parallel is less than that of either resistor by itself [12].",
+                                "7 State the advantages of connecting lamps in parallel in a lighting circuit [13]."
+                            ],
+                            "supplement": [
+                                "8 Recall and use in calculations, the fact that: (a) the sum of the currents entering a junction in a parallel circuit is equal to the sum of the currents that leave the junction (b) the total p.d. across the components in a series circuit is equal to the sum of the individual p.d.s across each component (c) the p.d. across an arrangement of parallel resistances is the same as the p.d. across one branch [13].",
+                                "9 Explain that the sum of the currents into a junction is the same as the sum of the currents out of the junction [14].",
+                                "10 Calculate the combined resistance of two resistors in parallel [14]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.3.3",
+                        "title": "Action and use of circuit components",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that the p.d. across an electrical conductor increases as its resistance increases for a constant current [14]."
+                            ],
+                            "supplement": [
+                                "2 Describe the action of a variable potential divider [14].",
+                                "3 Recall and use the equation for two resistors used as a potential divider R1/R2 = V1/V2 [14, 15]."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "4.4",
+                "title": "Electrical safety",
+                "learning_objectives": {
+                    "core": [
+                        "1 State the hazards of damaged insulation, overheating cables, damp conditions, and excess current from overloading [15].",
+                        "2 Know that a mains circuit consists of a live wire, a neutral wire and an earth wire and explain why a switch must be connected to the live wire [15].",
+                        "3 Explain the use and operation of trip switches and fuses [15].",
+                        "4 Explain why the outer casing of an electrical appliance must be either non-conducting (double-insulated) or earthed [16].",
+                        "5 State that a fuse without an earth wire protects the circuit and the cabling for a double-insulated appliance [16]."
+                    ]
+                }
+            },
+            {
+                "id": "4.5",
+                "title": "Electromagnetic effects",
+                "subsections": [
+                    {
+                        "id": "4.5.1",
+                        "title": "Electromagnetic induction",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that a conductor moving across a magnetic field or a changing magnetic field linking with a conductor can induce an e.m.f. in the conductor [16].",
+                                "2 Describe an experiment to demonstrate electromagnetic induction [16].",
+                                "3 State the factors affecting the magnitude of an induced e.m.f. [17]."
+                            ],
+                            "supplement": [
+                                "4 Know that the direction of an induced e.m.f. opposes the change causing it [17].",
+                                "5 State and use the relative directions of force, field and induced current [17]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.5.2",
+                        "title": "The a.c. generator",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe a simple form of a.c. generator (rotating coil or rotating magnet) and the use of slip rings and brushes where needed [17]."
+                            ],
+                            "supplement": [
+                                "2 Sketch and interpret graphs of e.m.f. against time for simple a.c. generators and relate the position of the generator coil to the peaks, troughs and zeros of the e.m.f. [17]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.5.3",
+                        "title": "Magnetic effect of a current",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe the pattern and direction of the magnetic field due to currents in straight wires and in solenoids [18].",
+                                "2 Describe an experiment to identify the pattern of the magnetic field due to currents in straight wires and in solenoids [18].",
+                                "3 Describe how the magnetic effect of a current is used in relays and loudspeakers [18]."
+                            ],
+                            "supplement": [
+                                "4 State the qualitative variation of the strength of the magnetic field around straight wires and solenoids [18].",
+                                "5 Describe the effect on the magnetic field around straight wires and solenoids of changing the magnitude and direction of the current [19]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.5.4",
+                        "title": "Force on a current-carrying conductor",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe an experiment to show that a force acts on a current-carrying conductor in a magnetic field, including the effect of reversing the current or the direction of the field [19]."
+                            ],
+                            "supplement": [
+                                "2 Recall and use the relative directions of force, magnetic field and current [19].",
+                                "3 Determine the direction of the force on beams of charged particles in a magnetic field [20]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.5.5",
+                        "title": "The d.c. motor",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that a current-carrying coil in a magnetic field may experience a turning effect and that this effect increases with the number of turns, current, or field strength [20]."
+                            ],
+                            "supplement": [
+                                "2 Describe the operation of an electric motor, including the action of a split-ring commutator and brushes [20]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4.5.6",
+                        "title": "The transformer",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe the construction of a simple transformer with a soft-iron core [20].",
+                                "2 Use the terms primary, secondary, step-up and step-down [21].",
+                                "3 Recall and use the equation Vp/Vs = Np/Ns [21].",
+                                "4 Describe the use of transformers in high-voltage transmission of electricity [21].",
+                                "5 State the advantages of high-voltage transmission [21]."
+                            ],
+                            "supplement": [
+                                "6 Explain the principle of operation of a simple iron-cored transformer [21].",
+                                "7 Recall and use the equation for 100% efficiency in a transformer: IpVp = IsVs [21].",
+                                "8 Recall and use the equation P = I²R to explain why power losses in cables are smaller when the voltage is greater [22]."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

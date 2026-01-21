@@ -1,0 +1,120 @@
+{
+    "topic_5": {
+        "title": "Nuclear physics",
+        "subtopics": [
+            {
+                "id": "5.1",
+                "title": "The nuclear model of the atom",
+                "subsections": [
+                    {
+                        "id": "5.1.1",
+                        "title": "The atom",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe the structure of an atom in terms of a positively charged nucleus and negatively charged electrons in orbit around the nucleus [2].",
+                                "2 Know how atoms may form positive ions by losing electrons or form negative ions by gaining electrons [2]."
+                            ],
+                            "supplement": [
+                                "3 Describe how the scattering of alpha particles by a sheet of thin metal supports the nuclear model of the atom, by providing evidence for a very small nucleus surrounded by mostly empty space, a nucleus containing most of the mass of the atom, and a nucleus that is positively charged [2, 3]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "5.1.2",
+                        "title": "The nucleus",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe the composition of the nucleus in terms of protons and neutrons [3].",
+                                "2 State the relative charges of protons, neutrons and electrons as +1, 0 and –1 respectively [3].",
+                                "3 Define the terms proton number (atomic number) Z and nucleon number (mass number) A and be able to calculate the number of neutrons in a nucleus [3].",
+                                "4 Use the nuclide notation AZX [3].",
+                                "5 Explain what is meant by an isotope and state that an element may have more than one isotope [4]."
+                            ],
+                            "supplement": [
+                                "6 Describe the processes of nuclear fission and nuclear fusion as the splitting or joining of nuclei, to include the nuclide equation and qualitative description of mass and energy changes without values [4].",
+                                "7 Know the relationship between the proton number and the relative charge on a nucleus [4].",
+                                "8 Know the relationship between the nucleon number and the relative mass of a nucleus [4]."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5.2",
+                "title": "Radioactivity",
+                "subsections": [
+                    {
+                        "id": "5.2.1",
+                        "title": "Detection of radioactivity",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know what is meant by background radiation [5].",
+                                "2 Know the sources that make a significant contribution to background radiation including radon gas, rocks and buildings, food and drink, and cosmic rays [5].",
+                                "3 Know that ionising nuclear radiation can be measured using a detector connected to a counter [5].",
+                                "4 Use count rate measured in counts / s or counts / minute [5]."
+                            ],
+                            "supplement": [
+                                "5 Use measurements of background radiation to determine a corrected count rate [5]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "5.2.2",
+                        "title": "The three types of nuclear emission",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe the emission of radiation from a nucleus as spontaneous and random in direction [6].",
+                                "2 Identify alpha, beta and gamma emissions from the nucleus by recalling their nature, relative ionising effects, and relative penetrating abilities [6]."
+                            ],
+                            "supplement": [
+                                "3 Describe the deflection of alpha-particles, beta-particles and gamma-radiation in electric fields and magnetic fields [6].",
+                                "4 Explain their relative ionising effects with reference to kinetic energy and electric charge [7]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "5.2.3",
+                        "title": "Radioactive decay",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that radioactive decay is a change in an unstable nucleus that can result in the emission of alpha-particles or beta-particles and/or gamma-radiation and know that these changes are spontaneous and random [7].",
+                                "2 State that during alpha-decay or beta-decay, the nucleus changes to that of a different element [7]."
+                            ],
+                            "supplement": [
+                                "3 Know that isotopes of an element may be radioactive due to an excess of neutrons in the nucleus and/or the nucleus being too heavy [7].",
+                                "4 Describe the effect of alpha-decay, beta-decay and gamma-emissions on the nucleus, including an increase in stability and a reduction in the number of excess neutrons [8].",
+                                "5 Use decay equations, using nuclide notation, to show the emission of alpha-particles, beta-particles and gamma-radiation [8]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "5.2.4",
+                        "title": "Half-life",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Define the half-life of a particular isotope as the time taken for half the nuclei of that isotope in any sample to decay; recall and use this definition in simple calculations [8]."
+                            ],
+                            "supplement": [
+                                "2 Calculate half-life from data or decay curves from which background radiation has not been subtracted [9].",
+                                "3 Explain how the type of radiation emitted and the half-life of an isotope determine its use for applications like smoke alarms, food irradiation, sterilization, thickness control, and cancer treatment [9, 10]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "5.2.5",
+                        "title": "Safety precautions",
+                        "learning_objectives": {
+                            "core": [
+                                "1 State the effects of ionising nuclear radiations on living things, including cell death, mutations and cancer [10].",
+                                "2 Describe how radioactive materials are moved, used and stored in a safe way [10]."
+                            ],
+                            "supplement": [
+                                "3 Explain safety precautions for all ionising radiation in terms of reducing exposure time, increasing distance between source and living tissue and using shielding to absorb radiation [10]."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

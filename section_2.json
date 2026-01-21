@@ -1,0 +1,166 @@
+{
+    "topic_2": {
+        "title": "Thermal physics",
+        "subtopics": [
+            {
+                "id": "2.1",
+                "title": "Kinetic particle model of matter",
+                "subsections": [
+                    {
+                        "id": "2.1.1",
+                        "title": "States of matter",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know the distinguishing properties of solids, liquids and gases [1].",
+                                "2 Know the terms for the changes in state between solids, liquids and gases (gas to solid and solid to gas transfers are not required) [1]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "2.1.2",
+                        "title": "Particle model",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe the particle structure of solids, liquids and gases in terms of the arrangement, separation and motion of the particles and represent these states using simple particle diagrams [1].",
+                                "2 Describe the relationship between the motion of particles and temperature, including the idea that there is a lowest possible temperature (−273 °C), known as absolute zero, where the particles have least kinetic energy [2].",
+                                "3 Describe the pressure and the changes in pressure of a gas in terms of the motion of its particles and their collisions with a surface [2].",
+                                "4 Know that the random motion of microscopic particles in a suspension is evidence for the kinetic particle model of matter [2].",
+                                "5 Describe and explain this motion (sometimes known as Brownian motion) in terms of random collisions between the microscopic particles in a suspension and the particles of the gas or liquid [2]."
+                            ],
+                            "supplement": [
+                                "6 Know that the forces and distances between particles (atoms, molecules, ions and electrons) and the motion of the particles affects the properties of solids, liquids and gases [3].",
+                                "7 Describe the pressure and the changes in pressure of a gas in terms of the forces exerted by particles colliding with surfaces, creating a force per unit area [3].",
+                                "8 Know that microscopic particles may be moved by collisions with light fast-moving molecules and correctly use the terms atoms or molecules as distinct from microscopic particles [3]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "2.1.3",
+                        "title": "Gases and the absolute scale of temperature",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe qualitatively, in terms of particles, the effect on the pressure of a fixed mass of gas of: (a) a change of temperature at constant volume (b) a change of volume at constant temperature [4].",
+                                "2 Convert temperatures between kelvin and degrees Celsius; recall and use the equation T (in K) = θ (in °C) + 273 [4]."
+                            ],
+                            "supplement": [
+                                "3 Recall and use the equation pV = constant for a fixed mass of gas at constant temperature, including a graphical representation of this relationship [4]."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "2.2",
+                "title": "Thermal properties and temperature",
+                "subsections": [
+                    {
+                        "id": "2.2.1",
+                        "title": "Thermal expansion of solids, liquids and gases",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe, qualitatively, the thermal expansion of solids, liquids and gases at constant pressure [5].",
+                                "2 Describe some of the everyday applications and consequences of thermal expansion [5]."
+                            ],
+                            "supplement": [
+                                "3 Explain, in terms of the motion and arrangement of particles, the relative order of magnitudes of the expansion of solids, liquids and gases as their temperatures rise [5]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "2.2.2",
+                        "title": "Specific heat capacity",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that a rise in the temperature of an object increases its internal energy [5]."
+                            ],
+                            "supplement": [
+                                "2 Describe an increase in temperature of an object in terms of an increase in the average kinetic energies of all of the particles in the object [6].",
+                                "3 Define specific heat capacity as the energy required per unit mass per unit temperature increase; recall and use the equation c = ΔE / (mΔθ) [6].",
+                                "4 Describe experiments to measure the specific heat capacity of a solid and a liquid [6]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "2.2.3",
+                        "title": "Melting, boiling and evaporation",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe melting and boiling in terms of energy input without a change in temperature [6].",
+                                "2 Know the melting and boiling temperatures for water at standard atmospheric pressure [7].",
+                                "3 Describe condensation and solidification in terms of particles [7].",
+                                "4 Describe evaporation in terms of the escape of more-energetic particles from the surface of a liquid [7].",
+                                "5 Know that evaporation causes cooling of a liquid [7]."
+                            ],
+                            "supplement": [
+                                "6 Describe the differences between boiling and evaporation [7].",
+                                "7 Describe how temperature, surface area and air movement over a surface affect evaporation [7].",
+                                "8 Explain the cooling of an object in contact with an evaporating liquid [7]."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "2.3",
+                "title": "Transfer of thermal energy",
+                "subsections": [
+                    {
+                        "id": "2.3.1",
+                        "title": "Conduction",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Describe experiments to demonstrate the properties of good thermal conductors and bad thermal conductors (thermal insulators) [8]."
+                            ],
+                            "supplement": [
+                                "2 Describe thermal conduction in all solids in terms of atomic or molecular lattice vibrations and also in terms of the movement of free (delocalised) electrons in metallic conductors [8].",
+                                "3 Describe, in terms of particles, why thermal conduction is bad in gases and most liquids [8].",
+                                "4 Know that there are many solids that conduct thermal energy better than thermal insulators but do so less well than good thermal conductors [8]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "2.3.2",
+                        "title": "Convection",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that convection is an important method of thermal energy transfer in liquids and gases [9].",
+                                "2 Explain convection in liquids and gases in terms of density changes and describe experiments to illustrate convection [9]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "2.3.3",
+                        "title": "Radiation",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Know that thermal radiation is infrared radiation and that all objects emit this radiation [9].",
+                                "2 Know that thermal energy transfer by thermal radiation does not require a medium [9].",
+                                "3 Describe the effect of surface colour (black or white) and texture (dull or shiny) on the emission, absorption and reflection of infrared radiation [9]."
+                            ],
+                            "supplement": [
+                                "4 Know that for an object to be at a constant temperature it needs to transfer energy away from the object at the same rate that it receives energy [10].",
+                                "5 Know what happens to an object if the rate at which it receives energy is less or more than the rate at which it transfers energy away from the object [10].",
+                                "6 Know how the temperature of the Earth is affected by factors controlling the balance between incoming radiation and radiation emitted from the Earth's surface [10].",
+                                "7 Describe experiments to distinguish between good and bad emitters of infrared radiation [11].",
+                                "8 Describe experiments to distinguish between good and bad absorbers of infrared radiation [11].",
+                                "9 Describe how the rate of emission of radiation depends on the surface temperature and surface area of an object [11]."
+                            ]
+                        }
+                    },
+                    {
+                        "id": "2.3.4",
+                        "title": "Consequences of thermal energy transfer",
+                        "learning_objectives": {
+                            "core": [
+                                "1 Explain some of the basic everyday applications and consequences of conduction, convection and radiation, including: (a) heating objects such as kitchen pans (b) heating a room by convection [11, 12]."
+                            ],
+                            "supplement": [
+                                "2 Explain some of the complex applications and consequences of conduction, convection and radiation where more than one type of thermal energy transfer is significant, including: (a) a fire burning wood or coal (b) a radiator in a car [12]."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

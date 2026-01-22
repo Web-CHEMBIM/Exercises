@@ -245,25 +245,39 @@ SECTION C: SHORT ANSWER QUESTIONS (12 marks)
 
 4. 
 ---DIAGRAM: Fig. 3.4---
-TYPE: Apparatus
-PURPOSE: Voltmeter connected to circuit
-STYLE: Hand-drawn aesthetic
+TYPE: Circuit
+PURPOSE: Voltmeter correctly connected in parallel across a resistor
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
 ASPECT_RATIO: 4:3 landscape
 GRID: 12 × 9
 
 CANVAS:
   Background: pure white
+  Border: none
+
+LAYOUT:
+  Shape: rectangular loop
 
 COMPONENTS:
-  [Voltmeter]
-    Symbol: Circle with "V"
-    Position: center
-    Wires: Two connection leads shown
+  [Battery]
+    Symbol: Standard battery symbol
+    Position: grid(2, 4-6)
+    Orientation: vertical, + terminal at top
 
-ANNOTATIONS:
-  [Lead 1] From one terminal
-  [Lead 2] From other terminal
-  [Component] Box labeled "R" shown between leads
+  [Resistor]
+    Symbol: Standard IEC rectangle
+    Position: grid(10, 4-6)
+    Orientation: vertical
+    Label: "R"
+
+  [Voltmeter]
+    Symbol: Circle with "V" inside
+    Position: grid(10, 2) - connected in parallel across resistor
+    Label: "V"
+
+CONNECTIONS:
+  [Loop] Battery → Resistor in series
+  Voltmeter in parallel across the Resistor (connected to both ends of R)
 ---END DIAGRAM---
 
    Fig. 3.4 shows a voltmeter connected to measure the p.d. across a resistor.
@@ -311,18 +325,38 @@ Show all working. Use the equations E = W/Q and V = W/Q where appropriate.
 ---DIAGRAM: Fig. 4.2---
 TYPE: Circuit
 PURPOSE: Calculation context for p.d.
-STYLE: Hand-drawn aesthetic
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
 ASPECT_RATIO: 4:3 landscape
 GRID: 12 × 9
 
+CANVAS:
+  Background: pure white
+  Border: none
+
+LAYOUT:
+  Shape: rectangular loop
+
 COMPONENTS:
-  [Battery] Left side, labeled "12 V"
-  [Lamp] Right side
-  [Voltmeter] In parallel across lamp, reading "8.0 V"
+  [Battery]
+    Symbol: Standard battery symbol
+    Position: grid(2, 4-6)
+    Orientation: vertical, + terminal at top
+    Label: "12 V"
+
+  [Lamp]
+    Symbol: Circle with cross inside
+    Position: grid(10, 4-6)
+    Orientation: vertical
+    Label: "L"
+
+  [Voltmeter]
+    Symbol: Circle with "V" inside
+    Position: grid(10, 2) - connected in parallel across lamp
+    Display/Reading: "8.0 V"
 
 CONNECTIONS:
-  Series loop with Battery and Lamp
-  Voltmeter in parallel across Lamp
+  [Loop] Battery → Lamp in series
+  Voltmeter in parallel across the Lamp
 ---END DIAGRAM---
 
    Fig. 4.2 shows a circuit with a 12 V battery. The voltmeter reads 8.0 V.
@@ -348,17 +382,38 @@ CONNECTIONS:
 ---DIAGRAM: Fig. 4.4---
 TYPE: Circuit
 PURPOSE: Motor circuit for energy calculation
-STYLE: Hand-drawn aesthetic
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
 ASPECT_RATIO: 4:3 landscape
 GRID: 12 × 9
 
+CANVAS:
+  Background: pure white
+  Border: none
+
+LAYOUT:
+  Shape: rectangular loop
+
 COMPONENTS:
-  [Power Supply] Left, labeled "24 V"
-  [Motor] Symbol: Circle with "M" inside, right side
-  [Voltmeter] In parallel across motor
+  [Power Supply]
+    Symbol: Standard battery/power supply symbol
+    Position: grid(2, 4-6)
+    Orientation: vertical, + terminal at top
+    Label: "24 V"
+
+  [Motor]
+    Symbol: Circle with "M" inside
+    Position: grid(10, 4-6)
+    Orientation: vertical
+    Label: "M"
+
+  [Voltmeter]
+    Symbol: Circle with "V" inside
+    Position: grid(10, 2) - connected in parallel across motor
+    Display/Reading: "24 V"
 
 CONNECTIONS:
-  Series loop
+  [Loop] Power Supply → Motor in series
+  Voltmeter in parallel across the Motor
 ---END DIAGRAM---
 
    Fig. 4.4 shows a motor connected to a 24 V power supply.
@@ -442,26 +497,45 @@ SECTION G: DATA INTERPRETATION (5 marks)
 1. 
 ---DIAGRAM: Fig. 6.1---
 TYPE: Graph
-PURPOSE: Current-voltage characteristic showing p.d. relationship
-STYLE: Hand-drawn aesthetic
-ASPECT_RATIO: 4:3 landscape
-GRID: 12 × 9
+PURPOSE: Current-voltage characteristic showing linear p.d. relationship for an ohmic resistor
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
 
 CANVAS:
   Background: pure white
+  Plot Area: SQUARE proportions (width = height)
 
-LAYOUT:
-  Graph with axes:
-    X-axis: "P.d. / V" (0 to 6)
-    Y-axis: "Current / A" (0 to 0.5)
-  
-  Data points and line:
-    (0, 0), (1, 0.1), (2, 0.2), (3, 0.3), (4, 0.4), (5, 0.5)
-    Straight line through origin
+GRID_CELLS:
+  Shape: SQUARE (each cell must be visually square)
+  Major Divisions: 6 × 6 (same count on both axes)
+  Line Style: thin light gray
 
-ANNOTATIONS:
-  Grid lines: light gray
-  Title: none (described in question)
+AXES:
+  [X-Axis]
+    Label: "P.d. / V" centered below axis
+    Range: 0 to 6
+    Major Divisions: 6 divisions (at 0, 1, 2, 3, 4, 5, 6)
+    Interval: 1 V per division
+    Arrow: small arrowhead at right end
+
+  [Y-Axis]
+    Label: "Current / A" rotated 90°, left of axis
+    Range: 0 to 0.6
+    Major Divisions: 6 divisions (at 0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6)
+    Interval: 0.1 A per division
+    Arrow: small arrowhead at top end
+
+  [Origin]
+    Label: "0" at bottom-left corner
+
+DATA_POINTS:
+  Symbol: small crosses (×)
+  Coordinates: (0, 0), (1, 0.1), (2, 0.2), (3, 0.3), (4, 0.4), (5, 0.5)
+
+CURVES/LINES:
+  [Best-fit Line]
+    Type: straight line through origin
+    Shape: linear, passing through all data points
+    Style: solid line, medium thickness
 ---END DIAGRAM---
 
    Fig. 6.1 shows a graph of current against p.d. for a resistor.

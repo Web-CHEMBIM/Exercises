@@ -338,71 +338,106 @@ IMAGE:
 
 ### Graph Template
 
+> [!IMPORTANT]
+> **SQUARE GRID CELLS ARE MANDATORY**
+> Every graph MUST have visually square grid cells. This means:
+> - The number of major divisions on the X-axis MUST equal the number on the Y-axis
+> - Each grid cell must appear as a perfect square in the rendered image
+> - This ensures accurate gradient perception and easier value interpolation
+
+#### Grid Cell Proportions Rule
+
+To achieve square grid cells, follow this calculation:
+1. Determine the data range for each axis
+2. Choose the **same number of major divisions** for both axes
+3. Adjust axis range endpoints if necessary to create clean intervals
+
+**Example:**
+- If X-range needs 0 to 6 (6 divisions), and Y-data goes from 0 to 0.5
+- Use Y-range 0 to 0.6 with 6 divisions (intervals of 0.1)
+- This creates a 6×6 grid with square cells
+
 ```
 ---DIAGRAM: Fig. [N]---
 TYPE: Graph
 PURPOSE: [e.g., "I-V characteristics comparison of resistor, lamp, and diode"]
 STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
-ASPECT_RATIO: 1:1 square
-GRID: 10 × 10
 
 CANVAS:
   Background: pure white
-  Graph Grid Lines: [light gray | none]
+  Plot Area: SQUARE proportions (physical width = physical height)
+
+GRID_CELLS:
+  Shape: SQUARE (MANDATORY - each cell must be visually square)
+  Major Divisions: [N] × [N] (SAME count on both axes, e.g., 6 × 6)
+  Minor Subdivisions: [optional, e.g., 2 per major cell]
+  Line Style: thin light gray (#CCCCCC)
 
 AXES:
   [X-Axis]
-    Position: horizontal from grid(1, 8) to grid(9, 8)
     Label: "[Quantity] / [unit]" centered below axis
     Range: [min] to [max]
-    Scale: intervals of [value]
-    Ticks: at each [interval]
+    Major Divisions: [N] divisions (MUST MATCH Y-axis count)
+    Interval: [value per division]
+    Ticks: labeled at each major division
     Arrow: small arrowhead at right end
 
   [Y-Axis]
-    Position: vertical from grid(2, 9) to grid(2, 1)
     Label: "[Quantity] / [unit]" rotated 90°, left of axis
     Range: [min] to [max]
-    Scale: intervals of [value]
-    Ticks: at each [interval]
+    Major Divisions: [N] divisions (MUST MATCH X-axis count)
+    Interval: [value per division]
+    Ticks: labeled at each major division
     Arrow: small arrowhead at top end
 
   [Origin]
-    Position: intersection at grid(2, 8)
-    Label: "0" at bottom-left of intersection
+    Position: bottom-left corner of plot area
+    Label: "0" at origin (if axes start at 0)
 
-DATA/CURVES:
-  [Curve 1]
-    Name: "[component/scenario name]"
-    Shape: [straight line through origin | S-curve | exponential decay | etc.]
-    Key Points: list of (x, y) coordinates
-    Style: solid line
-    Thickness: medium
+DATA_POINTS:
+  Symbol: small crosses (×) or circled dots (⊙)
+  Coordinates: list as (x, y) values
+  Accuracy: plotted within ½ small square of true position
 
-  [Curve 2]
+CURVES/LINES:
+  [Line 1]
     Name: "[component/scenario name]"
-    Shape: [description]
-    Key Points: list of (x, y) coordinates
-    Style: dashed line
-    Thickness: medium
+    Type: [best-fit line | smooth curve | line segments]
+    Shape: [straight through origin | curved | exponential decay | etc.]
+    Style: solid line, medium thickness
+    
+  [Line 2] (if applicable)
+    Name: "[component/scenario name]"
+    Type: [description]
+    Style: dashed line, medium thickness
 
 LEGEND (if multiple curves):
-  Position: grid(7-9, 2-3)
+  Position: top-right area, inside plot
   Border: simple rectangle
   Contents:
-    - solid line: "[Curve 1 name]"
-    - dashed line: "[Curve 2 name]"
+    - solid line sample: "[Line 1 name]"
+    - dashed line sample: "[Line 2 name]"
 
-ANNOTATIONS:
+ANNOTATIONS (if applicable):
   [Point Labels]
-    - Point "A" at grid(x, y): "[description]"
-    - Point "B" at grid(x, y): "[description]"
+    - Point "A" at (x, y): "[description]"
+    - Point "B" at (x, y): "[description]"
   
   [Special Markings]
-    - Half-life marker at grid(x, y)
-    - Gradient triangle from grid(x1, y1) to grid(x2, y2)
+    - Gradient triangle showing Δy/Δx calculation
+    - Half-life marker with horizontal dashed line
+    - Intercept labels
 ---END DIAGRAM---
 ```
+
+#### Common Graph Configurations (Square Grid Examples)
+
+| Data Type | X-Range | Y-Range | Divisions | Cell Content |
+|-----------|---------|---------|-----------|--------------|
+| I-V Characteristic | 0 to 6 V | 0 to 0.6 A | 6 × 6 | 1 V and 0.1 A per cell |
+| Distance-Time | 0 to 10 s | 0 to 50 m | 5 × 5 | 2 s and 10 m per cell |
+| Decay Curve | 0 to 4 half-lives | 0 to 100% | 4 × 4 | 1 half-life and 25% per cell |
+| Speed-Time | 0 to 8 s | 0 to 40 m/s | 4 × 4 | 2 s and 10 m/s per cell |
 
 ### Force Diagram Template
 

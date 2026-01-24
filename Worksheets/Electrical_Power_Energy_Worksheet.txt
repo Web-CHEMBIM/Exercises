@@ -1,0 +1,866 @@
+# IGCSE Physics Worksheet: Electrical Power and Energy
+## Topic 4.2: Electrical Quantities
+### Learning Objectives:
+- Understand that electric circuits transfer energy from a source of electrical energy to the circuit components and then into the surroundings
+- Recall and use the equation for electrical power P = IV
+- Recall and use the equation for electrical energy E = IVt
+- Define the kilowatt-hour (kW h) and calculate the cost of using electrical appliances where the energy unit is the kW h
+
+---
+
+## Section A: Multiple Choice Questions (MCQs)
+
+1. Which statement describes how energy is transferred in an electric circuit?
+
+Options:
+A: Energy is created by the battery and destroyed by the components
+B: Energy is transferred from the battery to the circuit components and then to the surroundings
+C: Energy flows from the components back to the battery
+D: Energy remains constant within the circuit
+
+---
+
+2. A lamp operates with a current of 0.50 A and a potential difference of 12 V.
+   What is the power of the lamp?
+
+Options:
+A: 0.042 W
+B: 6.0 W
+C: 12.5 W
+D: 24 W
+
+---
+
+3. An electric motor has a power of 750 W and operates at a potential difference of 250 V.
+   What is the current through the motor?
+
+Options:
+A: 0.33 A
+B: 3.0 A
+C: 500 A
+D: 187500 A
+
+---
+
+4. A kettle has a power rating of 2.0 kW and is used for 5.0 minutes.
+   How much energy does it transfer?
+
+Options:
+A: 600 J
+B: 10 kJ
+C: 600 kJ
+D: 10000 kJ
+
+---
+
+5. Which of the following is equivalent to 1 kilowatt-hour (kW h)?
+
+Options:
+A: 1000 J
+B: 3600 J
+C: 1000000 J
+D: 3600000 J
+
+---
+
+6. An electric heater has a power of 2.5 kW and runs for 4.0 hours.
+   If electricity costs $0.15 per kW h, what is the total cost?
+
+Options:
+A: $0.38
+B: $0.60
+C: $1.50
+D: $10.00
+
+---
+
+7. A device transfers 7200 J of energy in 120 s when a current of 2.0 A flows through it.
+   What is the potential difference across the device?
+
+Options:
+A: 0.033 V
+B: 30 V
+C: 60 V
+D: 14400 V
+
+---
+
+8. ---DIAGRAM: Fig. 8---
+TYPE: Circuit
+PURPOSE: Simple circuit showing energy transfer
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 6 × 4
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Simple rectangular circuit with battery, lamp, and ammeter
+
+COMPONENTS:
+  Battery:
+    Symbol: Cell symbol (long and short parallel lines)
+    Position: grid(1, 2)
+    Size: standard
+    Label: "12 V" at top
+  
+  Ammeter:
+    Symbol: Circle with 'A' inside
+    Position: grid(3, 1)
+    Size: standard circle
+    Label: "A" inside, reading "0.5 A" below
+  
+  Lamp:
+    Symbol: Circle with 'X' inside
+    Position: grid(5, 2)
+    Size: standard circle
+    Label: "L" below
+
+CONNECTIONS:
+  Wire 1: Battery positive → Ammeter, solid line
+  Wire 2: Ammeter → Lamp, solid line
+  Wire 3: Lamp → Battery negative, solid line
+
+ANNOTATIONS:
+  None
+---END DIAGRAM---
+
+Fig. 8 shows a simple circuit.
+
+In which component is electrical energy transferred into heat and light energy?
+
+Options:
+A: The ammeter
+B: The battery
+C: The connecting wires
+D: The lamp
+
+---
+
+## Section B: Fill-in-the-Blank Questions
+
+9. Complete the following sentences:
+
+   a) The equation for electrical power is P = _______ × _______
+
+   b) The SI unit of electrical power is the _______, symbol _______
+
+   c) The equation for electrical energy is E = _______ × _______ × _______
+
+   d) The SI unit of electrical energy is the _______, symbol _______
+
+---
+
+10. Complete the following statements about energy transfer:
+
+    a) In an electric circuit, energy is transferred from the _______ to the circuit components.
+
+    b) The circuit components transfer energy to the _______.
+
+    c) One kilowatt-hour is equal to _______ joules.
+
+    d) Electricity companies use the _______ as the unit of energy for billing purposes.
+
+---
+
+## Section C: Short Answer Questions
+
+11. Define electric power. [2]
+
+---
+
+12. State the equation that relates electrical energy, current, potential difference, and time. [1]
+
+---
+
+13. Explain what happens to the electrical energy supplied by a battery in a circuit containing only a resistor. [2]
+
+---
+
+14. Define the kilowatt-hour (kW h). [2]
+
+---
+
+15. Explain why electricity companies use the kilowatt-hour rather than the joule as the unit of energy. [2]
+
+---
+
+## Section D: Calculation Questions (Structured)
+
+16. A television has a power rating of 150 W.
+
+    a) Define power. [2]
+    
+    b) The television operates at a potential difference of 230 V.
+       Calculate the current through the television. [2]
+    
+    c) The television is used for 3.0 hours each day.
+       Calculate the energy transferred in joules in one day. [2]
+
+---
+
+17. ---DIAGRAM: Fig. 17---
+TYPE: Circuit
+PURPOSE: Power calculation in series circuit
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 8 × 4
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Rectangular circuit with battery, ammeter, and resistor
+
+COMPONENTS:
+  Battery:
+    Symbol: 3 cells in series
+    Position: grid(1, 2)
+    Size: standard
+    Label: "6.0 V" at top
+  
+  Ammeter:
+    Symbol: Circle with 'A' inside
+    Position: grid(3, 1)
+    Size: standard circle
+    Label: "A" inside
+  
+  Resistor:
+    Symbol: Rectangle
+    Position: grid(6, 2)
+    Size: standard
+    Label: "R" below
+  
+  Voltmeter:
+    Symbol: Circle with 'V' inside
+    Position: grid(6, 3.5)
+    Size: standard circle
+    Label: "V" inside
+
+CONNECTIONS:
+  Wire 1: Battery positive → Ammeter, solid line
+  Wire 2: Ammeter → Resistor top, solid line
+  Wire 3: Resistor bottom → Battery negative, solid line
+  Voltmeter connections: Dashed lines from V terminals to points across R
+
+ANNOTATIONS:
+  Ammeter reading: "2.5 A" below ammeter
+  Voltmeter reading: "6.0 V" below voltmeter
+---END DIAGRAM---
+
+Fig. 17 shows a circuit containing a resistor R.
+
+    a) Calculate the power dissipated by the resistor. [2]
+    
+    b) State what happens to this power. [1]
+    
+    c) Calculate the energy transferred by the resistor in 5.0 minutes. [3]
+
+---
+
+18. A washing machine has a power rating of 2.4 kW.
+
+    a) State what is meant by a power rating of 2.4 kW. [1]
+    
+    b) The washing machine operates at 240 V.
+       Calculate the current. [2]
+    
+    c) The washing machine is used for 45 minutes.
+       Calculate the energy transferred in kilowatt-hours. [2]
+    
+    d) Electricity costs $0.12 per kW h.
+       Calculate the cost of using the washing machine for 45 minutes. [2]
+
+---
+
+19. An electric heater transfers 540 kJ of energy in 3.0 minutes when operating at 230 V.
+
+    a) Calculate the power of the heater in watts. [2]
+    
+    b) Calculate the current through the heater. [2]
+    
+    c) The heater is used for 6.0 hours per day for 30 days.
+       If electricity costs $0.15 per kW h, calculate the total cost. [3]
+
+---
+
+20. ---DIAGRAM: Fig. 20---
+TYPE: Circuit
+PURPOSE: Energy transfer in parallel circuit
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 8 × 6
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Parallel circuit with two lamps
+
+COMPONENTS:
+  Battery:
+    Symbol: 2 cells in series
+    Position: grid(1, 3)
+    Size: standard
+    Label: "12 V" at top
+  
+  Junction 1:
+    Position: grid(3, 3)
+    Symbol: dot
+  
+  Lamp 1:
+    Symbol: Circle with 'X' inside
+    Position: grid(5, 2)
+    Size: standard circle
+    Label: "L₁" below, "3.0 A" on wire leading to it
+  
+  Lamp 2:
+    Symbol: Circle with 'X' inside
+    Position: grid(5, 4)
+    Size: standard circle
+    Label: "L₂" below, "2.0 A" on wire leading to it
+  
+  Junction 2:
+    Position: grid(7, 3)
+    Symbol: dot
+
+CONNECTIONS:
+  Wire 1: Battery positive → Junction 1, solid line
+  Wire 2: Junction 1 → Lamp 1, solid line (upper branch)
+  Wire 3: Junction 1 → Lamp 2, solid line (lower branch)
+  Wire 4: Lamp 1 → Junction 2, solid line
+  Wire 5: Lamp 2 → Junction 2, solid line
+  Wire 6: Junction 2 → Battery negative, solid line
+
+ANNOTATIONS:
+  Current labels on wires as specified above
+---END DIAGRAM---
+
+Fig. 20 shows a parallel circuit with two lamps.
+
+    a) Calculate the power of lamp L₁. [2]
+    
+    b) Calculate the power of lamp L₂. [2]
+    
+    c) The circuit operates for 2.0 hours.
+       Calculate the total energy transferred by both lamps in kilowatt-hours. [3]
+
+---
+
+## Section E: Data Interpretation Questions
+
+21. ---DIAGRAM: Fig. 21---
+TYPE: Table
+PURPOSE: Appliance power and usage data
+STYLE: Hand-drawn table on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+
+TABLE:
+| Appliance      | Power Rating (kW) | Time Used (hours) |
+|----------------|-------------------|-------------------|
+| Kettle         | 2.0               | 0.5               |
+| Refrigerator   | 0.15              | 24                |
+| Washing Machine| 2.4               | 1.5               |
+| Television     | 0.12              | 4.0               |
+| Oven           | 3.0               | 1.0               |
+---END DIAGRAM---
+
+The table shows data for electrical appliances used in one day.
+
+    a) Calculate the energy used by the kettle in kW h. [1]
+    
+    b) Calculate the energy used by the refrigerator in kW h. [1]
+    
+    c) Determine which appliance uses the most energy in one day. [2]
+    
+    d) If electricity costs $0.15 per kW h, calculate the total cost
+       for using all appliances for one day. [3]
+
+---
+
+22. ---DIAGRAM: Fig. 22---
+TYPE: Graph
+PURPOSE: Power vs Current graph
+STYLE: Hand-drawn graph on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: Graph paper with gridlines
+
+GRAPH:
+  Title: Power vs Current for a Device at Constant Voltage
+  
+  X-axis:
+    Label: "Current / A"
+    Range: 0 to 5.0
+    Divisions: every 0.5 A
+  
+  Y-axis:
+    Label: "Power / W"
+    Range: 0 to 60
+    Divisions: every 10 W
+  
+  Data points plotted and connected with straight line:
+    (0, 0)
+    (1.0, 12)
+    (2.0, 24)
+    (3.0, 36)
+    (4.0, 48)
+    (5.0, 60)
+  
+  Line: Straight line through origin with positive gradient
+---END DIAGRAM---
+
+Fig. 22 shows how the power varies with current for a device operating at constant voltage.
+
+    a) State the relationship between power and current shown in the graph. [1]
+    
+    b) Use the graph to determine the power when the current is 2.5 A. [1]
+    
+    c) Use the equation P = IV to calculate the voltage at which
+       the device operates. [2]
+    
+    d) The device operates at a current of 3.5 A for 10 minutes.
+       Calculate the energy transferred in joules. [3]
+
+---
+
+## Section F: Compare and Contrast Questions
+
+23. Compare the energy transfers that occur in:
+    
+    a) A lamp connected to a battery
+    b) An electric motor connected to a battery
+    
+    In your answer, state what type of energy is supplied and what type(s)
+    of energy are produced in each case. [4]
+
+---
+
+24. The table below shows two different units for measuring energy.
+
+    | Unit            | Symbol | Value in Joules |
+    |-----------------|--------|-----------------|
+    | Joule           | J      | 1               |
+    | Kilowatt-hour   | kW h   | 3,600,000       |
+
+    a) State one advantage of using the joule as a unit of energy. [1]
+    
+    b) State one advantage of using the kilowatt-hour as a unit of energy
+       for billing electricity. [1]
+    
+    c) Explain why electricity companies prefer to use kW h rather than J. [2]
+
+---
+
+## Section G: True/False with Justification
+
+25. State whether each statement is TRUE or FALSE. If FALSE, explain why.
+
+    a) A device with higher power always uses more energy than a device
+       with lower power. [2]
+    
+    b) Doubling the current through a device doubles its power if the
+       voltage remains constant. [2]
+    
+    c) One kilowatt-hour is equal to 1000 joules. [2]
+    
+    d) In an electric circuit, all the energy from the battery is
+       eventually transferred to the surroundings as heat. [2]
+
+---
+
+## Section H: Error Analysis
+
+26. A student performs an experiment to determine the power of a lamp.
+
+    The student records:
+    - Current through lamp: 0.45 A
+    - Voltage across lamp: 12 V
+    
+    The student's calculation:
+    P = I × V = 0.45 + 12 = 12.45 W
+    
+    a) Identify the error in the student's calculation. [1]
+    
+    b) Calculate the correct value of the power. [2]
+
+---
+
+27. A student calculates the cost of using a 2 kW heater for 3 hours at $0.10 per kW h.
+
+    The student's working:
+    Energy = 2 kW × 3 h = 6 kW h
+    Cost = 6 kW h ÷ $0.10 = $0.60
+    
+    a) Identify the error in the calculation. [1]
+    
+    b) Calculate the correct cost. [2]
+
+---
+
+## Section I: Matching Questions
+
+28. Match each quantity in Column A with its correct SI unit in Column B.
+
+    Column A (Quantity)          Column B (SI Unit)
+    1. Power                     A. Joule (J)
+    2. Energy                    B. Watt (W)
+    3. Current                   C. Volt (V)
+    4. Potential difference      D. Ampere (A)
+    5. Time                      E. Second (s)
+
+---
+
+29. Match each equation in Column A with the correct quantity it calculates in Column B.
+
+    Column A (Equation)          Column B (Quantity)
+    1. P = IV                    A. Resistance
+    2. E = IVt                   B. Charge
+    3. V = IR                    C. Power
+    4. Q = It                    D. Energy
+    5. E = Pt                    E. Potential difference
+
+---
+
+## Section J: Structured Questions (Multi-part)
+
+30. A student investigates how the power of a lamp varies with the current through it.
+
+    ---DIAGRAM: Fig. 30---
+    TYPE: Circuit
+    PURPOSE: Variable resistor circuit for power investigation
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 4
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Series circuit with variable resistor for current control
+
+    COMPONENTS:
+      Battery:
+        Symbol: 3 cells in series
+        Position: grid(1, 2)
+        Size: standard
+        Label: "12 V" at top
+      
+      Variable Resistor:
+        Symbol: Rectangle with arrow through it
+        Position: grid(3, 2)
+        Size: standard
+        Label: "R" below
+      
+      Ammeter:
+        Symbol: Circle with 'A' inside
+        Position: grid(5, 1)
+        Size: standard circle
+        Label: "A" inside
+      
+      Lamp:
+        Symbol: Circle with 'X' inside
+        Position: grid(8, 2)
+        Size: standard circle
+        Label: "L" below
+      
+      Voltmeter:
+        Symbol: Circle with 'V' inside
+        Position: grid(8, 3.5)
+        Size: standard circle
+        Label: "V" inside
+
+    CONNECTIONS:
+      Wire 1: Battery positive → Variable resistor, solid line
+      Wire 2: Variable resistor → Ammeter, solid line
+      Wire 3: Ammeter → Lamp top, solid line
+      Wire 4: Lamp bottom → Battery negative, solid line
+      Voltmeter: Dashed lines from V terminals to points across lamp
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    Fig. 30 shows the circuit used.
+
+    a) State the purpose of the variable resistor in this circuit. [1]
+    
+    b) Describe how the student should use this circuit to obtain
+       different values of current and voltage. [2]
+    
+    c) The student records the following data:
+       
+       | Current / A | Voltage / V |
+       |-------------|-------------|
+       | 0.20        | 2.4         |
+       | 0.40        | 4.8         |
+       | 0.60        | 7.2         |
+       | 0.80        | 9.6         |
+    
+       (i) Calculate the power for each pair of readings. [2]
+       
+       (ii) Describe the pattern shown by the power values. [2]
+    
+    d) The student uses the lamp for 30 minutes at a current of 0.60 A.
+       Calculate the energy transferred in joules. [3]
+
+---
+
+## Answer Key and Mark Scheme
+
+### Section A: MCQs
+1. B
+2. B (P = IV = 0.50 × 12 = 6.0 W)
+3. B (I = P/V = 750/250 = 3.0 A)
+4. C (E = Pt = 2000 × 300 = 600000 J = 600 kJ)
+5. D (1 kW h = 1000 W × 3600 s = 3,600,000 J)
+6. C (Energy = 2.5 × 4.0 = 10 kW h; Cost = 10 × 0.15 = $1.50)
+7. B (P = E/t = 7200/120 = 60 W; V = P/I = 60/2.0 = 30 V)
+8. D
+
+### Section B: Fill-in-the-Blank
+9. a) I, V (or current, voltage/potential difference)
+   b) watt, W
+   c) I, V, t (or current, voltage, time)
+   d) joule, J
+
+10. a) battery/cell/power supply/source
+    b) surroundings
+    c) 3,600,000 (or 3.6 × 10⁶)
+    d) kilowatt-hour (or kW h)
+
+### Section C: Short Answer
+11. [2 marks]
+    B1: Power is the rate of energy transfer
+    B1: or energy transferred per unit time
+
+12. [1 mark]
+    B1: E = IVt (accept E = Pt)
+
+13. [2 marks]
+    B1: Electrical energy is transferred/converted to heat/thermal energy
+    B1: The heat energy is transferred to the surroundings
+
+14. [2 marks]
+    B1: The kilowatt-hour is a unit of energy
+    B1: Equal to the energy transferred by a 1 kW device in 1 hour
+    (Accept: 1 kW h = 3.6 × 10⁶ J or 3,600,000 J)
+
+15. [2 marks]
+    B1: The joule is too small a unit for household energy consumption
+    B1: The kilowatt-hour gives more convenient/manageable numbers for billing
+
+### Section D: Calculations
+16. a) [2 marks]
+       B1: Power is the rate of energy transfer
+       B1: or energy transferred per unit time
+    
+    b) [2 marks]
+       M1: Correct rearrangement I = P/V
+       A1: I = 150/230 = 0.65 A (accept 0.652 A)
+    
+    c) [2 marks]
+       M1: E = Pt with time converted to seconds (3 × 3600 = 10800 s)
+       A1: E = 150 × 10800 = 1,620,000 J (accept 1.62 × 10⁶ J or 1.62 MJ)
+
+17. a) [2 marks]
+       M1: P = IV = 2.5 × 6.0
+       A1: P = 15 W
+    
+    b) [1 mark]
+       B1: Converted to heat/thermal energy (accept: transferred to surroundings)
+    
+    c) [3 marks]
+       M1: Time = 5.0 × 60 = 300 s
+       M1: E = Pt = 15 × 300
+       A1: E = 4500 J (accept 4.5 kJ)
+
+18. a) [1 mark]
+       B1: The device transfers 2.4 kJ of energy per second / 2400 J per second
+    
+    b) [2 marks]
+       M1: I = P/V = 2400/240 (power converted to watts)
+       A1: I = 10 A
+    
+    c) [2 marks]
+       M1: Time = 45/60 = 0.75 h
+       A1: E = 2.4 × 0.75 = 1.8 kW h
+    
+    d) [2 marks]
+       M1: Cost = energy × cost per unit = 1.8 × 0.12
+       A1: Cost = $0.216 (accept $0.22)
+
+19. a) [2 marks]
+       M1: P = E/t with E = 540,000 J and t = 180 s
+       A1: P = 540000/180 = 3000 W (accept 3 kW)
+    
+    b) [2 marks]
+       M1: I = P/V = 3000/230
+       A1: I = 13 A (accept 13.0 A)
+    
+    c) [3 marks]
+       M1: Energy per day = 3 × 6 = 18 kW h
+       M1: Total energy = 18 × 30 = 540 kW h
+       A1: Cost = 540 × 0.15 = $81 (accept $81.00)
+
+20. a) [2 marks]
+       M1: P = IV = 3.0 × 12
+       A1: P = 36 W
+    
+    b) [2 marks]
+       M1: P = IV = 2.0 × 12
+       A1: P = 24 W
+    
+    c) [3 marks]
+       M1: Total power = 36 + 24 = 60 W = 0.060 kW
+       M1: E = Pt = 0.060 × 2.0
+       A1: E = 0.12 kW h (accept 120 W h)
+
+### Section E: Data Interpretation
+21. a) [1 mark]
+       A1: E = 2.0 × 0.5 = 1.0 kW h
+    
+    b) [1 mark]
+       A1: E = 0.15 × 24 = 3.6 kW h
+    
+    c) [2 marks]
+       M1: Calculates energy for each: K=1.0, R=3.6, W=3.6, T=0.48, O=3.0
+       A1: Refrigerator (or washing machine) - both use 3.6 kW h
+    
+    d) [3 marks]
+       M1: Total energy = 1.0 + 3.6 + 3.6 + 0.48 + 3.0 = 11.68 kW h
+       M1: Cost = 11.68 × 0.15
+       A1: Cost = $1.752 (accept $1.75)
+
+22. a) [1 mark]
+       B1: Power is directly proportional to current / P ∝ I / linear relationship
+    
+    b) [1 mark]
+       A1: 30 W (accept 29-31 W)
+    
+    c) [2 marks]
+       M1: V = P/I using any point (e.g., V = 12/1.0 or 24/2.0)
+       A1: V = 12 V
+    
+    d) [3 marks]
+       M1: Power at 3.5 A = 42 W (from graph)
+       M1: E = Pt = 42 × 600 (time in seconds)
+       A1: E = 25,200 J (accept 25.2 kJ or 2.52 × 10⁴ J)
+
+### Section F: Compare and Contrast
+23. [4 marks]
+    Lamp:
+    B1: Electrical energy supplied
+    B1: Transferred to light and heat energy
+    
+    Motor:
+    B1: Electrical energy supplied
+    B1: Transferred to kinetic/movement energy (and some heat energy)
+
+24. a) [1 mark]
+       B1: It is the SI unit / universally recognized / used in scientific calculations
+    
+    b) [1 mark]
+       B1: Gives convenient numbers / easier to understand for consumers / 
+           avoids very large numbers
+    
+    c) [2 marks]
+       B1: Household appliances use large amounts of energy
+       B1: Using joules would give very large numbers that are difficult to work with
+
+### Section G: True/False
+25. a) FALSE [2 marks]
+       B1: For identifying as false
+       B1: A high-power device used for a short time may use less energy than a 
+           low-power device used for a long time (or similar explanation involving time)
+    
+    b) TRUE [2 marks]
+       B1: For identifying as true
+       B1: P = IV, so if V is constant and I doubles, P doubles
+    
+    c) FALSE [2 marks]
+       B1: For identifying as false
+       B1: One kW h equals 3,600,000 J (or 3.6 × 10⁶ J)
+    
+    d) TRUE [2 marks]
+       B1: For identifying as true
+       B1: All energy transfers eventually produce heat due to resistance/friction/
+           inefficiency, which is transferred to surroundings
+
+### Section H: Error Analysis
+26. a) [1 mark]
+       B1: The student added instead of multiplying / used + instead of ×
+    
+    b) [2 marks]
+       M1: P = I × V = 0.45 × 12
+       A1: P = 5.4 W
+
+27. a) [1 mark]
+       B1: The student divided by cost instead of multiplying
+    
+    b) [2 marks]
+       M1: Cost = energy × unit cost = 6 × 0.10
+       A1: Cost = $0.60 (Note: coincidentally same number but correct method)
+       [Alternative if student realizes the answer is the same:]
+       B1: Recognizes the division gave the same numerical answer but wrong method
+
+### Section I: Matching
+28. 1-B, 2-A, 3-D, 4-C, 5-E
+    [1 mark for each correct match, total 5 marks]
+
+29. 1-C, 2-D, 3-E, 4-B, 5-D
+    [1 mark for each correct match, total 5 marks]
+    Note: Both 2 and 5 give energy (D)
+
+### Section J: Structured Questions
+30. a) [1 mark]
+       B1: To vary/control/change the current through the circuit/lamp
+    
+    b) [2 marks]
+       B1: Adjust the variable resistor
+       B1: Record the ammeter and voltmeter readings for each setting
+    
+    c) (i) [2 marks]
+           M1: Uses P = IV correctly for at least one calculation
+           A1: All correct: 0.48 W, 1.92 W, 4.32 W, 7.68 W
+       
+       (ii) [2 marks]
+            B1: Power increases
+            B1: Power is proportional to current² / power increases faster than current /
+                non-linear increase
+    
+    d) [3 marks]
+       M1: Power at 0.60 A = 4.32 W (from part c)
+       M1: E = Pt = 4.32 × 1800 (time = 30 × 60 = 1800 s)
+       A1: E = 7776 J (accept 7800 J or 7.8 kJ)
+
+---
+
+## Summary
+
+Total Questions: 30
+Total Marks: Approximately 100
+
+Question Type Distribution:
+- Multiple Choice: 8 questions
+- Fill-in-the-Blank: 8 parts (2 questions)
+- Short Answer: 5 questions
+- Calculations: 10 structured parts (5 questions)
+- Data Interpretation: 8 parts (2 questions)
+- Compare & Contrast: 5 parts (2 questions)
+- True/False: 4 parts (1 question)
+- Error Analysis: 4 parts (2 questions)
+- Matching: 2 questions
+- Structured Multi-part: 1 question (7 parts)
+
+Assessment Objectives:
+- AO1 (Recall): Questions 1, 9, 10, 11, 12, 14, 28, 29
+- AO2 (Application): Questions 2-8, 16-22, 23, 24, 25, 26, 27
+- AO3 (Analysis): Questions 30
+
+Topics Covered:
+✓ Energy transfer in circuits
+✓ Power equation P = IV
+✓ Energy equation E = IVt
+✓ Kilowatt-hour definition and calculations
+✓ Cost calculations using kW h

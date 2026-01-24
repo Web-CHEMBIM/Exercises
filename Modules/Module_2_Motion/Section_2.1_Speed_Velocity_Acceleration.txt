@@ -1,0 +1,700 @@
+================================================================================
+                    MODULE 2: MOTION
+                    SECTION 2.1: SPEED, VELOCITY AND ACCELERATION
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  • Define speed and velocity
+  • Recall and use the equation: average speed = total distance / total time
+  • Define acceleration
+  • Recall and use the equation: a = Δv / Δt
+
+Prerequisites: 
+  - Understanding of physical quantities (distance, time)
+  - Basic mathematical skills (division, unit conversion)
+
+Estimated Time: 45-60 minutes
+
+Key Vocabulary:
+  - Speed          - Velocity       - Acceleration
+  - Scalar         - Vector         - Displacement
+  - Average speed  - Instantaneous speed
+
+================================================================================
+2.1.1  SPEED AND AVERAGE SPEED
+================================================================================
+
+--------------------------------------------------------------------------------
+INTRODUCTION
+--------------------------------------------------------------------------------
+
+Think about the last time you traveled by car, bus, or train. How would you 
+describe how fast you were moving? When we say a car is traveling at 60 km/h, 
+what does that actually mean?
+
+In everyday life, we use the word "speed" to describe how fast something is 
+moving. In physics, speed has a precise definition that helps us calculate and 
+compare the motion of different objects.
+
+--------------------------------------------------------------------------------
+WHAT IS SPEED?
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> Speed is the distance travelled per unit time.
+
+Speed tells us how quickly an object covers a distance. The faster an object 
+moves, the greater its speed.
+
+FORMULA:
+                         distance
+    speed = ─────────────────────────────
+                           time
+
+Using symbols:
+
+                              s
+                    v = ─────────
+                              t
+
+where:
+    v = speed (in m/s or km/h)
+    s = distance (in m or km)
+    t = time (in s or h)
+
+
+SI UNITS:
+┌─────────────────┬─────────────────┬─────────────────┐
+│ Quantity        │ SI Unit         │ Symbol          │
+├─────────────────┼─────────────────┼─────────────────┤
+│ Speed           │ metres per      │ m/s             │
+│                 │ second          │                 │
+├─────────────────┼─────────────────┼─────────────────┤
+│ Distance        │ metres          │ m               │
+├─────────────────┼─────────────────┼─────────────────┤
+│ Time            │ seconds         │ s               │
+└─────────────────┴─────────────────┴─────────────────┘
+
+NOTE: Speed is a SCALAR quantity - it has magnitude (size) only, with no 
+direction. When we say a car is traveling at 20 m/s, we are describing its 
+speed.
+
+--------------------------------------------------------------------------------
+AVERAGE SPEED
+--------------------------------------------------------------------------------
+
+In real life, objects rarely travel at a constant speed. A car speeds up, slows 
+down, and sometimes stops. To describe the overall motion, we use average speed.
+
+> DEFINITION
+> Average speed is the total distance travelled divided by the total time taken.
+
+FORMULA:
+                            total distance
+    average speed = ─────────────────────────────
+                              total time
+
+Using symbols:
+
+                             s_total
+                    v̄ = ─────────────
+                             t_total
+
+
+EXAMPLE: A journey where speed changes
+
+A car travels 100 km in the first hour and 80 km in the next hour.
+
+Total distance = 100 + 80 = 180 km
+Total time = 1 + 1 = 2 hours
+
+Average speed = 180 km / 2 h = 90 km/h
+
+Even though the car traveled at different speeds during the journey, its 
+average speed was 90 km/h.
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 1: Calculating Speed
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A cyclist travels 450 m in 30 s. Calculate the cyclist's speed.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   s = 450 m
+             t = 30 s
+    Required: v = ?
+
+Step 2: Select the appropriate equation
+             s
+    v = ─────────
+             t
+
+Step 3: Substitute the values
+             450 m
+    v = ─────────────
+             30 s
+
+Step 4: Calculate
+    v = 15 m/s
+
+Step 5: State the answer with correct unit
+    The cyclist's speed is 15 m/s.
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 2: Calculating Distance
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A train travels at an average speed of 80 km/h for 2.5 hours. 
+Calculate the total distance traveled.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   v = 80 km/h
+             t = 2.5 h
+    Required: s = ?
+
+Step 2: Rearrange the equation to find distance
+    From v = s/t, we get:
+    s = v × t
+
+Step 3: Substitute the values
+    s = 80 km/h × 2.5 h
+
+Step 4: Calculate
+    s = 200 km
+
+Step 5: State the answer
+    The train travels 200 km.
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 3: Calculating Time
+--------------------------------------------------------------------------------
+
+PROBLEM:
+An athlete runs at an average speed of 8.0 m/s. How long does it take the 
+athlete to run 400 m?
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   v = 8.0 m/s
+             s = 400 m
+    Required: t = ?
+
+Step 2: Rearrange the equation to find time
+    From v = s/t, we get:
+             s
+    t = ─────────
+             v
+
+Step 3: Substitute the values
+             400 m
+    t = ─────────────
+            8.0 m/s
+
+Step 4: Calculate
+    t = 50 s
+
+Step 5: State the answer
+    The athlete takes 50 s to run 400 m.
+
+--------------------------------------------------------------------------------
+UNIT CONVERSION REMINDER
+--------------------------------------------------------------------------------
+
+When calculating, always check that your units are consistent!
+
+COMMON CONVERSIONS:
+┌────────────────────────────────────────────────────────────────────────────┐
+│ km/h to m/s:    divide by 3.6      │  Example: 72 km/h ÷ 3.6 = 20 m/s    │
+├────────────────────────────────────────────────────────────────────────────┤
+│ m/s to km/h:    multiply by 3.6    │  Example: 15 m/s × 3.6 = 54 km/h    │
+├────────────────────────────────────────────────────────────────────────────┤
+│ km to m:        multiply by 1000   │  Example: 2.5 km × 1000 = 2500 m    │
+├────────────────────────────────────────────────────────────────────────────┤
+│ min to s:       multiply by 60     │  Example: 5 min × 60 = 300 s        │
+├────────────────────────────────────────────────────────────────────────────┤
+│ h to s:         multiply by 3600   │  Example: 2 h × 3600 = 7200 s       │
+└────────────────────────────────────────────────────────────────────────────┘
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Speed
+--------------------------------------------------------------------------------
+
+Q1. Define speed.
+
+Q2. A car travels 240 km in 3 hours. Calculate the average speed of the car.
+
+Q3. A runner has an average speed of 6.0 m/s. How far does the runner travel 
+    in 2 minutes?
+
+Q4. Convert 25 m/s to km/h.
+
+Q5. A journey of 150 km takes 2.5 hours. Calculate the average speed in m/s.
+
+(Answers at end of section)
+
+================================================================================
+2.1.2  VELOCITY
+================================================================================
+
+--------------------------------------------------------------------------------
+INTRODUCTION
+--------------------------------------------------------------------------------
+
+Imagine two cars traveling at 60 km/h. One is heading north, and the other is 
+heading south. Do they have the same speed? Yes - both travel 60 km every hour.
+
+But are they moving in the same way? No - they are traveling in opposite 
+directions! This is where we need a quantity that includes both speed AND 
+direction.
+
+--------------------------------------------------------------------------------
+WHAT IS VELOCITY?
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> Velocity is speed in a given direction.
+
+Velocity tells us not just how fast an object is moving, but also the direction 
+of its motion.
+
+COMPARING SPEED AND VELOCITY:
+┌─────────────────┬─────────────────────────────────────────────────────────────┐
+│ SPEED           │ VELOCITY                                                    │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Scalar quantity │ Vector quantity                                             │
+│ Has magnitude   │ Has magnitude AND direction                                 │
+│ only            │                                                             │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ "The car is     │ "The car is traveling at 20 m/s heading north"              │
+│ traveling at    │                                                             │
+│ 20 m/s"         │                                                             │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Always positive │ Can be positive or negative (depending on direction)        │
+└─────────────────┴─────────────────────────────────────────────────────────────┘
+
+IMPORTANT: 
+• A change in speed means velocity changes
+• A change in direction (even at constant speed) also means velocity changes
+
+EXAMPLES:
+1. A car going around a roundabout at constant speed of 30 km/h:
+   - Speed: constant (30 km/h)
+   - Velocity: changing (direction keeps changing)
+
+2. A ball thrown vertically upward:
+   - Speed: changes (slows down going up, speeds up coming down)
+   - Velocity: changes (direction reverses at the top)
+
+--------------------------------------------------------------------------------
+DISPLACEMENT VS DISTANCE
+--------------------------------------------------------------------------------
+
+When dealing with velocity, we use DISPLACEMENT instead of distance.
+
+> DEFINITION
+> Displacement is the distance traveled in a particular direction 
+> (the straight-line distance from start to finish).
+
+COMPARING DISTANCE AND DISPLACEMENT:
+┌─────────────────┬─────────────────────────────────────────────────────────────┐
+│ DISTANCE        │ DISPLACEMENT                                                │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Total path      │ Shortest path from start to end point                       │
+│ length traveled │ (straight line)                                             │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Scalar          │ Vector                                                      │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Always positive │ Can be positive, negative, or zero                          │
+└─────────────────┴─────────────────────────────────────────────────────────────┘
+
+EXAMPLE:
+A person walks 4 m east, then 3 m north.
+
+    Distance traveled = 4 + 3 = 7 m
+    Displacement = 5 m (at an angle) [by Pythagoras: √(4² + 3²) = 5]
+
+If a person walks in a complete circle back to the starting point:
+    Distance = circumference of circle
+    Displacement = 0 (no net change in position)
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Velocity
+--------------------------------------------------------------------------------
+
+Q6. Define velocity.
+
+Q7. State one difference between speed and velocity.
+
+Q8. A bus travels 50 m east and then 50 m west. Calculate:
+    a) the total distance traveled
+    b) the displacement
+
+Q9. A cyclist travels at 10 m/s around a circular track at constant speed.
+    Explain why the cyclist's velocity is changing.
+
+Q10. Give an example of an object that has:
+     a) constant speed but changing velocity
+     b) zero velocity but non-zero speed (trick question - is this possible?)
+
+(Answers at end of section)
+
+================================================================================
+2.1.3  ACCELERATION
+================================================================================
+
+--------------------------------------------------------------------------------
+INTRODUCTION
+--------------------------------------------------------------------------------
+
+When you press the accelerator pedal in a car, the car speeds up. When you 
+apply the brakes, it slows down. Both of these are examples of acceleration - 
+but what exactly does this mean in physics?
+
+--------------------------------------------------------------------------------
+WHAT IS ACCELERATION?
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> Acceleration is the change in velocity per unit time.
+> (Or: Acceleration is the rate of change of velocity.)
+
+Acceleration tells us how quickly velocity is changing.
+
+FORMULA:
+                        change in velocity
+    acceleration = ────────────────────────────
+                           time taken
+
+Using symbols:
+
+                         Δv        v - u
+                a = ─────────  = ─────────
+                         Δt           t
+
+where:
+    a = acceleration (in m/s²)
+    Δv = change in velocity (in m/s)
+    v = final velocity (in m/s)
+    u = initial velocity (in m/s)
+    t = time taken (in s)
+
+SI UNITS:
+    Acceleration is measured in metres per second squared (m/s²)
+    
+    This unit makes sense: if velocity changes by 1 m/s every second,
+    the acceleration is 1 m/s².
+
+NOTE: Acceleration is a VECTOR quantity - it has both magnitude and direction.
+
+--------------------------------------------------------------------------------
+UNDERSTANDING ACCELERATION VALUES
+--------------------------------------------------------------------------------
+
+POSITIVE ACCELERATION:
+    • Velocity is increasing
+    • Object is speeding up (in the positive direction)
+    • Example: a = +2 m/s² means velocity increases by 2 m/s every second
+
+NEGATIVE ACCELERATION (DECELERATION):
+    • Velocity is decreasing
+    • Object is slowing down (in the positive direction)
+    • Example: a = -3 m/s² means velocity decreases by 3 m/s every second
+
+> DEFINITION
+> Deceleration is a negative acceleration.
+> It means the object is slowing down.
+
+CAUTION: 
+Negative acceleration does NOT always mean slowing down!
+• If an object moves in the negative direction and has negative acceleration,
+  it is actually speeding up!
+• The key is: acceleration in the same direction as velocity = speeding up
+                acceleration opposite to velocity = slowing down
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 4: Calculating Acceleration
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A car accelerates from rest to 24 m/s in 8.0 s. Calculate the acceleration.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   u = 0 m/s (rest)
+             v = 24 m/s
+             t = 8.0 s
+    Required: a = ?
+
+Step 2: Select the appropriate equation
+                 v - u
+    a = ─────────────────
+                    t
+
+Step 3: Substitute the values
+                 24 - 0
+    a = ─────────────────
+                  8.0
+
+Step 4: Calculate
+    a = 3.0 m/s²
+
+Step 5: State the answer
+    The acceleration of the car is 3.0 m/s².
+
+    (This means the car's velocity increases by 3.0 m/s every second)
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 5: Calculating Deceleration
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A cyclist traveling at 15 m/s applies the brakes and comes to rest in 6.0 s.
+Calculate the deceleration.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   u = 15 m/s
+             v = 0 m/s (comes to rest)
+             t = 6.0 s
+    Required: a = ?
+
+Step 2: Select the appropriate equation
+                 v - u
+    a = ─────────────────
+                    t
+
+Step 3: Substitute the values
+                 0 - 15
+    a = ─────────────────
+                  6.0
+
+Step 4: Calculate
+    a = -2.5 m/s²
+
+Step 5: State the answer
+    The acceleration is -2.5 m/s² (or deceleration of 2.5 m/s²).
+
+    (The negative sign indicates the cyclist is slowing down)
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 6: Finding Final Velocity
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A train accelerates at 0.80 m/s² for 25 s. If the initial velocity is 5.0 m/s,
+calculate the final velocity.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   u = 5.0 m/s
+             a = 0.80 m/s²
+             t = 25 s
+    Required: v = ?
+
+Step 2: Rearrange the equation to find final velocity
+    From a = (v - u)/t, we get:
+    v = u + at
+
+Step 3: Substitute the values
+    v = 5.0 + (0.80 × 25)
+
+Step 4: Calculate
+    v = 5.0 + 20
+    v = 25 m/s
+
+Step 5: State the answer
+    The final velocity of the train is 25 m/s.
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Acceleration
+--------------------------------------------------------------------------------
+
+Q11. Define acceleration.
+
+Q12. State the SI unit of acceleration.
+
+Q13. A motorbike accelerates from 10 m/s to 30 m/s in 5.0 s.
+     Calculate the acceleration.
+
+Q14. A car traveling at 25 m/s brakes and decelerates at 5.0 m/s².
+     Calculate the time taken for the car to stop.
+
+Q15. A skateboard accelerates from rest at 2.0 m/s² for 4.0 s.
+     Calculate the final velocity.
+
+Q16. Explain the difference between acceleration and deceleration.
+
+(Answers at end of section)
+
+================================================================================
+SECTION 2.1 SUMMARY
+================================================================================
+
+KEY DEFINITIONS:
+┌─────────────────┬────────────────────────────────────────────────────────────┐
+│ Speed           │ Distance travelled per unit time                           │
+├─────────────────┼────────────────────────────────────────────────────────────┤
+│ Velocity        │ Speed in a given direction                                 │
+├─────────────────┼────────────────────────────────────────────────────────────┤
+│ Acceleration    │ Change in velocity per unit time                           │
+├─────────────────┼────────────────────────────────────────────────────────────┤
+│ Deceleration    │ Negative acceleration (slowing down)                       │
+└─────────────────┴────────────────────────────────────────────────────────────┘
+
+KEY EQUATIONS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                            s                                                │
+│        Speed:     v = ─────────                                             │
+│                            t                                                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                            total distance                                   │
+│  Average Speed:   v̄ = ────────────────────                                  │
+│                             total time                                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                            Δv       v - u                                   │
+│  Acceleration:    a = ─────── = ─────────                                   │
+│                            t           t                                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+SCALAR VS VECTOR:
+┌──────────────────────────────────────┬──────────────────────────────────────┐
+│ SCALAR (magnitude only)              │ VECTOR (magnitude + direction)       │
+├──────────────────────────────────────┼──────────────────────────────────────┤
+│ Speed                                │ Velocity                             │
+│ Distance                             │ Displacement                         │
+│ Time                                 │ Acceleration                         │
+│ Mass                                 │ Force                                │
+└──────────────────────────────────────┴──────────────────────────────────────┘
+
+================================================================================
+COMMON MISCONCEPTIONS
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ MISCONCEPTION                        │ CORRECTION                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ "Speed and velocity are the same"    │ Speed is a scalar (magnitude only);  │
+│                                      │ velocity is a vector (magnitude +    │
+│                                      │ direction)                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ "Constant speed means constant       │ Not true! An object moving in a      │
+│ velocity"                            │ circle has constant speed but        │
+│                                      │ changing velocity (direction changes)│
+├─────────────────────────────────────────────────────────────────────────────┤
+│ "Negative acceleration always means  │ Negative acceleration means          │
+│ slowing down"                        │ acceleration in the negative         │
+│                                      │ direction. If the object is also     │
+│                                      │ moving in the negative direction,    │
+│                                      │ it speeds up!                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ "If acceleration is zero, the object │ Zero acceleration means constant     │
+│ is stationary"                       │ velocity, not necessarily zero       │
+│                                      │ velocity. The object could be moving │
+│                                      │ at steady speed.                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ "Deceleration is a type of           │ Deceleration is simply negative      │
+│ acceleration"                        │ acceleration - it's still            │
+│                                      │ acceleration, just with a negative   │
+│                                      │ value                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+ANSWERS TO CHECK YOUR UNDERSTANDING
+================================================================================
+
+SPEED (Q1-Q5):
+
+Q1. Speed is the distance travelled per unit time.
+
+Q2. Average speed = 240 km ÷ 3 h = 80 km/h
+
+Q3. Time = 2 min = 120 s
+    Distance = speed × time = 6.0 × 120 = 720 m
+
+Q4. 25 m/s × 3.6 = 90 km/h
+
+Q5. 150 km = 150,000 m
+    2.5 h = 9000 s
+    Average speed = 150,000 ÷ 9000 = 16.7 m/s (or 17 m/s to 2 s.f.)
+
+VELOCITY (Q6-Q10):
+
+Q6. Velocity is speed in a given direction.
+
+Q7. Any ONE of:
+    - Speed is scalar, velocity is vector
+    - Speed has magnitude only, velocity has magnitude and direction
+    - Speed is always positive, velocity can be positive or negative
+
+Q8. a) Distance = 50 + 50 = 100 m
+    b) Displacement = 0 (back to starting point)
+
+Q9. The cyclist's velocity is changing because the direction of motion 
+    constantly changes as they travel around the circle. Even though the 
+    speed (magnitude) stays the same, the velocity (which includes direction) 
+    is always changing.
+
+Q10. a) An object moving in a circle at constant speed (e.g., satellite, 
+        car on a roundabout)
+     b) This is impossible. If an object has any speed at all, it must have 
+        a velocity (velocity = speed + direction). Zero velocity means zero 
+        speed.
+
+ACCELERATION (Q11-Q16):
+
+Q11. Acceleration is the change in velocity per unit time 
+     (or rate of change of velocity).
+
+Q12. metres per second squared (m/s²)
+
+Q13. a = (v - u)/t = (30 - 10)/5.0 = 4.0 m/s²
+
+Q14. v = u + at
+     0 = 25 + (-5.0 × t)
+     5.0t = 25
+     t = 5.0 s
+
+Q15. v = u + at = 0 + (2.0 × 4.0) = 8.0 m/s
+
+Q16. Acceleration is the change in velocity per unit time (can be positive 
+     or negative). Deceleration specifically refers to negative acceleration, 
+     meaning the object is slowing down (velocity is decreasing in magnitude).
+
+================================================================================
+SELF-ASSESSMENT CHECKLIST
+================================================================================
+
+After studying this section, you should be able to check off each statement:
+
+□ I can define speed as distance travelled per unit time
+□ I can recall and use the equation v = s/t
+□ I can calculate average speed using total distance ÷ total time
+□ I can define velocity as speed in a given direction
+□ I can explain the difference between scalar and vector quantities
+□ I can give examples of scalars (speed, distance) and vectors (velocity)
+□ I can define acceleration as change in velocity per unit time
+□ I can recall and use the equation a = Δv/Δt
+□ I can calculate acceleration when given initial velocity, final velocity, 
+  and time
+□ I can explain what deceleration means and use negative acceleration in 
+  calculations
+□ I can rearrange equations to find unknown values (distance, time, velocity)
+□ I can convert units between m/s and km/h
+
+================================================================================
+                    END OF SECTION 2.1
+================================================================================

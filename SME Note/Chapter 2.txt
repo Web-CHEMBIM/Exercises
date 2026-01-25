@@ -1,0 +1,1282 @@
+Cambridge (CIE) IGCSE
+Physics
+
+Your notes
+
+Motion
+Contents
+Speed & Velocity
+Acceleration
+Distance-Time Graphs
+Speed-Time Graphs
+Calculating Acceleration from Speed-Time Graphs
+Freefall
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+1
+
+Speed & Velocity
+
+Your notes
+
+Speed
+The speed of an object is defined as
+Distance travelled per unit time
+Speed is a scalar quantity
+This is because it only contains a magnitude (without a direction)
+For objects that are moving at a constant speed, the equation for calculating speed is:
+
+v=
+
+s
+t
+
+Where:
+
+v = speed, measured in metres per second (m/s)
+s = distance travelled, measured in metres (m)
+t = time, measured in seconds (s)
+
+Average speed
+The speed of an object can vary throughout its journey
+Therefore, it is often more useful to know an object's average speed
+
+Examples of average speeds
+Average walking speed = 1.5 m/s
+Average running speed = 3 m/s
+Average cycling speed = 6 m/s
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+2
+
+Your notes
+
+A hiker might have an average speed of 2.0 m/s, whereas a particularly excited bumble
+bee can have average speeds of up to 4.5 m/s
+A car travels at different instantaneous speeds throughout its journey
+The car speeds up and slows down
+The car may stop at junctions and traffic lights
+The average speed of the journey of the car can be found by dividing the total distance
+travelled by the total time taken
+The equation for calculating the average speed of an object is:
+
+Average speed =
+
+distance travelled
+time taken
+
+Average speed considers the total distance travelled and the total time taken
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+3
+
+Formula triangle for average speed, distance moved and time taken
+
+How to use formula triangles
+
+Your notes
+
+Formula triangles are really useful for knowing how to rearrange physics equations
+To use them:
+1. Cover up the quantity to be calculated, this is known as the 'subject' of the equation
+2. Look at the position of the other two quantities
+If they are on the same line, this means they are multiplied
+If one quantity is above the other, this means they are divided - make sure to keep
+the order of which is on the top and bottom of the fraction!
+In the example below, to calculate average speed, cover-up the variable speed so that
+only distance and time are left
+The equation is revealed as:
+
+speed =
+
+distance
+time
+
+To use a formula triangle, simply cover up the quantity you wish calculate and the
+structure of the equation is revealed
+
+Worked Example
+Planes fly at typical average speeds of around 250 m/s.
+Calculate the distance travelled by a plane moving at this average speed for 2 hours.
+Answer:
+Step 1: List the known quantities
+Average speed = 250 m/s
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+4
+
+Time taken = 2 hours
+Step 2: Write the relevant equation
+
+distance travelled
+average speed =
+time taken
+
+Your notes
+
+Step 3: Rearrange to make distance moved the subject
+
+distance travelled = average speed × time taken
+Step 4: Convert any units
+The time given in the question is not in standard units
+Convert 2 hours into seconds:
+2 hours = 2 × 60 × 60
+
+2 hours = 7200 s
+Step 5: Substitute the values for average speed and time taken
+
+distance travelled = 250 × 7200
+distance travelled = 1 800 000 m
+
+Examiner Tips and Tricks
+Rearranging equations is an important skill in Physics. You can use the equation
+triangles to help you practice, but it is better not to rely on them because they do not
+work for all equations you may need to rearrange in the exam.
+
+Velocity
+Velocity is a vector quantity with magnitude and direction
+Velocity is defined as:
+Speed in a given direction
+The direction of a velocity can be given in words
+For example, 20 m/s east
+Or the direction of velocity can be given using a positive or negative value
+For example, −20 m/s
+A positive direction is typically in the direction of the initial motion, to the right, or upward
+A negative velocity is typically in the opposite direction to the initial velocity, to the left,
+or downward
+
+Comparing speed and velocity
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+5
+
+Your notes
+
+The cars in the diagram above have the same speed (a scalar quantity) but different
+velocities (a vector quantity). Fear not, they are in different lanes!
+
+Examiner Tips and Tricks
+The positive and negative values of velocity can be assigned to any direction as long
+as the negative velocity is in the opposite direction to the positive value. You can
+decide which direction you assign to be positive as long as you are consistent
+throughout a question.
+The equation for velocity is very similar to the equation for speed:
+
+v=
+
+s
+t
+
+Where:
+
+v = velocity in metres per second (m/s)
+s = displacement, measured in metres (m)
+t = time, measured in seconds (s)
+Velocity is a vector quantity, so it uses displacement, s, which is another vector quantity
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+6
+
+Acceleration
+
+Your notes
+
+Acceleration
+Extender tier only
+Acceleration describes how the velocity of an object changes over time
+Acceleration is defined as:
+The rate of change of velocity
+In other words, acceleration is the change in velocity per unit time
+The acceleration of an object is often changing throughout an object's journey
+Therefore, is it often useful to know the average acceleration
+
+a=
+
+∆v
+∆t
+
+Where:
+
+a = acceleration in metres per second squared (m/s2)
+∆ v = change in velocity in metres per second (m/s)
+∆ t = time taken in seconds (s)
+
+Formula triangle for acceleration, change in velocity and
+change in time
+
+To use a formula triangle, simply cover up the quantity you wish calculate and the
+structure of the equation is revealed
+Information on how to use a formula triangle can be found in Speed & velocity
+
+Change in velocity
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+7
+
+The change in velocity is the difference between the initial and final velocity:
+
+∆v = v − u
+
+Your notes
+
+Where:
+
+∆ v = change in velocity in metres per second (m/s)
+
+v = final velocity in metres per second (m/s)
+u = initial velocity in metres per second (m/s)
+
+Speeding up & slowing down
+An object can change its velocity in several ways:
+speeding up
+slowing down
+changing direction
+Any change in an object's velocity is an acceleration
+When an object speeds up, it is accelerating
+This is positive acceleration
+When an object slows down, it is decelerating
+This is negative acceleration
+Acceleration is positive if its direction is in the same direction as the motion of the
+object
+
+Acceleration of different objects
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+8
+
+Your notes
+
+A rocket speeding up (accelerating) and a car slowing down (decelerating)
+
+Worked Example
+A Japanese bullet train decelerates at a constant rate in a straight line. The velocity of
+the train decreases from 50 m/s to 42 m/s in 30 seconds.
+(a) Calculate the change in velocity of the train.
+(b) Calculate the deceleration of the train, and explain how your answer shows the
+train is slowing down.
+Answer:
+Part (a)
+Step 1: List the known quantities
+Initial velocity, u = 50 m/s
+Final velocity, v = 42 m/s
+Step 2: Write the equation for change in velocity
+
+∆v = v − u
+Step 3: Substitute values for final and initial velocity
+
+∆ v = 42 − 50
+∆ v = − 8 m/s
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+9
+
+Part (b)
+Step 1: List the known quantities
+
+Your notes
+
+Change in velocity, ∆ v = − 8 m/s
+Time taken, ∆ t = 30 s
+Step 2: Write the equation for acceleration
+
+a=
+
+∆v
+∆t
+
+Step 3: Substitute the values for change in velocity and time
+
+a=
+
+−8
+
+30
+
+a = − 0 . 27 m/s2
+Step 4: Interpret the value for deceleration
+The answer is negative, which indicates the train is slowing down
+
+Examiner Tips and Tricks
+Remember, the units for acceleration are metres per second squared, m/s2. In other
+words, acceleration measures how much the velocity (m/s) changes every second, so
+the units are metres per second per second (m/s/s).
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+10
+
+Distance-Time Graphs
+
+Your notes
+
+Distance-time graphs
+A distance-time graph is used to describe the motion of an object and calculate its
+speed
+
+Distance-time graph of an object moving at a constant speed
+
+The graph shows a moving object moving further away from its origin at a constant speed
+
+Constant speed on a distance-time graph
+If an object is moving at a constant speed, the distance-time graph will be a straight line
+If the constant speed is zero, the line will be horizontal
+If the constant speed is non-zero, the line will have a gradient
+If an object has a speed of zero, the object is stationary
+The distance moved by the object over time is zero
+The gradient of a distance-time graph represents the magnitude of the object's
+velocity, or its speed
+A steeper slope, or a higher gradient, represents a greater speed
+A shallower slope, or a lower gradient, represents a slower speed
+
+Different speeds on a distance-time graph
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+11
+
+Your notes
+
+Both of these objects are moving at a constant speed, because the lines are straight. The
+steeper slope represents the faster speed and the shallower line represents the slower
+speed.
+
+Changing speed on a distance-time graph
+Often, the speed of an object is not constant
+If the speed of an object is changing, the object is accelerating
+If an object is accelerating, the distance-time graph will be a curved line
+A curve on a distance-time graph is a changing gradient
+If the gradient increases over time, the speed is increasing over time
+If the gradient decreases over time, the speed is decreasing over time
+
+Speed of an object increasing and decreasing on a distancetime graph
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+12
+
+Your notes
+
+Changing speeds are represented by changing slopes, or gradients. The red line shows a
+decreasing gradient and represents an object slowing down, or decelerating. The green
+line shows an increasing gradient and represents an object speeding up, or accelerating.
+
+Using distance-time graphs
+The speed of a moving object can be calculated from the gradient of the line on a
+distance-time graph:
+
+speed = gradient =
+
+∆y
+∆x
+
+The speed of an object can be found by calculating the gradient of a distance-time graph
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+13
+
+∆ y is the change in y (distance) values
+
+Your notes
+
+∆ x is the change in x (time) values
+
+Worked Example
+A distance-time graph is drawn below for part of a train journey. The train is travelling
+at a constant speed.
+
+Calculate the speed of the train.
+
+Answer:
+Step 1: Draw a large gradient triangle on the graph
+The image below shows a large gradient triangle drawn with dashed lines
+∆ y and ∆ x are labelled, using the units as stated on each axes
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+14
+
+Your notes
+
+Step 2: Convert units for distance and time into standard units
+The distance travelled, s = 8 km × 1000 m = 8000 m
+The time taken, t = 6 min × 60 s = 360 s
+Step 3: State that speed is equal to the gradient of a distance-time graph
+The gradient of a distance-time graph is equal to the speed of a moving object:
+∆y
+s
+gradient = v =
+=
+∆x
+t
+Step 4: Substitute values to calculate the speed
+
+v=
+
+8000
+360
+
+v = 22. 2 m/s
+
+Worked Example
+A student decides to take a stroll to the park. They find a bench in a quiet spot, take a
+seat, and read a book on black holes. After some time reading, the student realises
+they lost track of time and runs home.
+A distance-time graph for the trip is drawn below.
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+15
+
+Your notes
+
+(a) How long does the student spend reading the book?
+(b) Which section of the graph represents the student running home?
+(c) What is the total distance travelled by the student?
+
+Answer:
+Part (a)
+The student spends 40 minutes reading his book
+The flat section of the line (section B) represents an object which is stationary, so
+section B represents the student sitting on the bench reading
+This section lasts for 40 minutes
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+16
+
+Your notes
+
+Part (b)
+Section C represents the student running home
+The slope of the line in section C is steeper than the slope in section A
+This means the student was moving at a faster speed (running) in section C
+Part (c)
+The total distance travelled by the student is 0.6 km
+The total distance travelled by an object is given by the final point on the line; in
+this case, the line ends at 0.6 km on the distance axis
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+17
+
+Examiner Tips and Tricks
+When calculating a gradient, use the entire line where possible. Examiners tend to
+award credit if they see a large gradient triangle used, so you need to actually draw
+the lines directly on the graph itself!
+
+Your notes
+
+Remember to check the units on each axis. These may not always be in standard units;
+in our example, the unit of distance was km and the unit of time was minutes. Doublecheck which units to use in your answer.
+You could also be asked to plot a distance time graph from data given to you in a
+question, or be asked to describe the motion of an object from the data given.
+You can read more about the use of graphs in exams in the article Graph skills for
+GCSE Physics
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+18
+
+Speed-Time Graphs
+
+Your notes
+
+Speed-time graphs
+A speed-time graph is used to describe the speed of an object and calculate its
+acceleration
+
+Constant acceleration on a speed-time graph
+If an object is moving at a constant acceleration, the speed-time graph will be a straight
+line
+If the constant acceleration is zero, the line will be horizontal
+If the constant speed is non-zero, the line will have a gradient
+If an object has an acceleration of zero, the object is travelling at a constant velocity
+Its velocity is not changing over time
+If the constant speed is zero, then the object is stationary
+
+Motion on a speed-time graph
+
+This image shows how to interpret the slope of a speed-time graph
+The gradient of a speed-time graph represents the object's acceleration
+A steeper slope, or a higher gradient, represents a greater acceleration
+A shallower slope, or a lower gradient, represents a slower acceleration
+If the gradient is positive, the line slopes upward
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+19
+
+A positive gradient represents an increasing speed, or acceleration
+If the gradient is negative, the line slopes downward
+A negative gradient represents a decreasing speed, or deceleration
+
+Your notes
+
+Speeding up and slowing down on a speed-time graph
+
+Both of these objects are moving at a constant acceleration, because the lines are
+straight. The positive gradient represents an increasing speed or positive acceleration.
+The negative gradient represents a decreasing speed or negative acceleration.
+
+Examiner Tips and Tricks
+For CIE IGCSE Physics, you may be asked plot a graph of your own, or to interpret
+information given to you in a graph. You may also be asked to describe the motion of
+an object from data given in a question. You can read more about graph skills in the
+article Graph skills in GCSE Physics
+
+Using speed-time graphs
+Speed-time graphs can also be used to determine the distance travelled by an object
+
+The area under a speed-time graph
+The area under a speed-time graph represents the distance travelled
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+20
+
+Your notes
+
+The area under a speed-time graph represents the distance travelled
+If the area of a section of the speed-time graph forms a triangle, the area can be
+calculated using:
+
+AT =
+
+1
+bh
+2
+
+If the area of a section of the speed-time graph forms a rectangle, the area can be
+determined using:
+
+A R = bh
+Where:
+
+A T = area of a triangle
+A R = area of a rectangle
+b = base
+h = height
+The total distance travelled can be determined by finding the total area under the
+speed-time graph
+The distance travelled for part of the journey can be determined by finding the area
+under the graph for a specific time interval
+
+Area under a speed-time graph split into sections
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+21
+
+Your notes
+
+The area under a speed-time graph can split into triangular and rectangular sections
+
+Worked Example
+The speed-time graph below shows a car journey that lasts for 160 seconds.
+
+Calculate the total distance travelled by the car on this journey.
+Answer:
+Step 1: Recall that the area under a speed-time graph represents the distance
+travelled
+In order to calculate the total distance travelled, the total area underneath the line
+must be determined
+Step 2: Identify each enclosed area
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+22
+
+In this example, there are five enclosed areas under the line
+These can be labelled as areas 1, 2, 3, 4 and 5, as shown in the image below:
+
+Your notes
+
+Step 3: Calculate the area of each enclosed shape under the line
+Area 1 = area of a triangle
+
+A1 =
+
+1
+bh
+2
+
+1
+× 40 × 17. 5
+2
+
+A1 =
+
+A 1 = 350 m
+Area 2 = area of a rectangle
+
+A 2 = bh
+A 2 = 30 × 17. 5
+A 2 = 525 m
+
+Area 3 = area of a triangle
+
+A3 =
+A3 =
+
+1
+bh
+2
+
+1
+× 20 × 7 . 5
+2
+
+A 3 = 75 m
+Area 4 = area of a rectangle
+
+A 4 = bh
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+23
+
+A 4 = 20 × 17. 5
+Your notes
+
+A 4 = 350 m
+Area 5 = area of a triangle
+
+A5 =
+A5 =
+
+1
+bh
+2
+
+1
+× 70 × 25
+2
+
+A 5 = 875 m
+Step 4: Calculate the total distance travelled by finding the total area under the line
+Add up each of the five areas enclosed:
+total distance = A + A + A + A + A
+1
+
+2
+
+3
+
+4
+
+5
+
+total distance = 350 + 525 + 75 + 350 + 875
+total distance = 2175 m
+
+Examiner Tips and Tricks
+Some areas will need to be split into a triangle and a rectangle to determine the area
+for a specific time interval, like areas 3 & 4 in the worked example above.
+If you are asked to find the distance travelled for a specific time interval, then you just
+need to find the area of the section above that time interval.
+For example, the distance travelled between 70 s and 90 s is the sum of Area 3 + Area
+4
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+24
+
+Calculating Acceleration from Speed-Time Graphs
+
+Interpreting speed-time graphs
+
+Your notes
+
+Extended tier only
+When interpreting speed-time graphs, the shape of the graph can show:
+constant acceleration
+changing acceleration
+The gradient of a speed-time graph shows the acceleration of a moving object
+The gradient is positive if the object is accelerating (speed increases with time)
+The gradient is negative if the object is decelerating (speed decreases with time)
+
+Interpreting constant positive acceleration on a
+speed-time graph
+When the acceleration is constant and non-zero:
+the graph is a straight line
+velocity is increasing at a constant rate, i.e. speed changes by the same amount in
+equal intervals of time
+
+Constant positive acceleration on a speed-time graph
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+25
+
+A speed-time graph for an object with constant positive acceleration. Its speed
+increases by 5 m/s every 20 s, showing that the rate at which the speed increases is
+constant.
+
+Your notes
+
+Interpreting increasing positive acceleration on a
+speed-time graph
+When the acceleration is increasing:
+the graph is a curve
+velocity is increasing at an increasing rate, i.e. the speed changes by the same
+amount in increasingly shorter time intervals
+
+Increasing positive acceleration on a speed-time graph
+
+A speed-time graph for an object with changing positive acceleration. The time taken for
+the speed to increase by 5 m/s decreases over time, showing that acceleration is
+increasing.
+
+Interpreting decreasing positive acceleration on a
+speed-time graph
+When the acceleration is decreasing:
+the graph is a curve
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+26
+
+velocity is increasing at a decreasing rate, i.e. the speed changes by the same
+amount in increasingly longer time intervals
+
+Decreasing positive acceleration on a speed-time graph
+
+Your notes
+
+A speed-time graph for an object with changing positive acceleration. The time taken for
+the speed to increase by 5 m/s increases over time, showing that acceleration is
+decreasing.
+
+Interpreting decreasing negative acceleration on a
+speed-time graph
+When the deceleration is decreasing:
+the graph is a curve
+the velocity is decreasing at a decreasing rate, i.e. the speed changes by the same
+amount in increasingly longer intervals of time
+
+Decreasing negative acceleration on a speed-time graph
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+27
+
+Your notes
+
+A speed-time graph for an object with changing negative acceleration. The time taken for
+the speed to decrease by 5 m/s increases over time, showing that deceleration is
+decreasing.
+
+Examiner Tips and Tricks
+Interpreting graphs can be difficult, and students often struggle with this key skill
+In CIE IGCSE Physics, interpreting graphs is a required skill
+For your exam, you are also expected to calculate the gradient of a graph and the
+area under a graph
+Finding the area under a graph is covered in the revision note Speed-time graphs
+
+Calculating acceleration
+Extended tier only
+The acceleration of an object can be calculated from the gradient of a speed-time
+graph
+
+Finding the gradient when acceleration is constant
+When acceleration is constant, the speed-time graph will be a straight line
+The gradient of a straight line can be found using:
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+28
+
+gradient =
+
+∆y
+∆x
+
+Your notes
+
+Where:
+
+∆ y = change in y (speed) values
+∆ x = change in x (time) values
+Therefore, the gradient is equal to:
+
+a=
+
+∆v
+∆t
+
+Where:
+
+a = acceleration, measured in metres per second squared (m/s2)
+∆ v = change in speed, measured in metres per second (m/s)
+∆ t = change in time, measured in seconds (s)
+
+The gradient of a speed-time graph for constant acceleration can be found using Δy
+divided by Δx
+
+Finding the gradient when acceleration is changing
+When acceleration is changing, the speed-time graph will be a curve
+The gradient of a point on a curve can be found by drawing a tangent to the curve
+A tangent to the curve is a straight line drawn to match the gradient of the curve at a
+specific point
+
+A tangent to the curve
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+29
+
+Your notes
+
+The value of the gradient at a single point on a curve can be determined by finding the
+gradient of the tangent to that point
+The tangent provides a gradient that is representative of the gradient at a specific point
+on the curve
+The gradient of the tangent can be found using:
+
+gradient =
+
+∆y
+∆x
+
+The value of the gradient at specific point on the curve represents the acceleration of
+the object at that moment
+This is called instantaneous acceleration
+
+Worked Example
+A cyclist is training for a cycling tournament.
+The speed-time graph below shows the cyclist's motion as they cycle along a flat,
+straight road.
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+30
+
+Your notes
+
+(a) In which section (A, B, C, D, or E) of the speed-time graph is the cyclist's
+acceleration the largest?
+(b) Calculate the cyclist's acceleration between 5 and 10 seconds.
+
+Answer:
+Part (a)
+Step 1: Recall that the slope of a speed-time graph represents the magnitude of
+acceleration
+The slope of a speed-time graph indicates the magnitude of acceleration
+Therefore, the only sections of the graph where the cyclist is accelerating are
+sections B and D
+Sections A, C, and E are flat; in other words, the cyclist is moving at a constant
+velocity (therefore, not accelerating)
+Step 2: Identify the section with the steepest slope
+Section D of the graph has the steepest slope
+Hence, the largest acceleration is shown in section D
+Part (b)
+Step 1: Recall that the gradient of a speed-time graph gives the acceleration
+Calculating the gradient of a slope on a speed-time graph gives the acceleration
+for that time period
+Step 2: Draw a large gradient triangle at the appropriate section of the graph
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+31
+
+A gradient triangle is drawn for the time period between 5 and 10 seconds
+
+Your notes
+
+Step 3: Calculate the size of the gradient and state this as the acceleration
+The acceleration is given by the gradient, which can be calculated using:
+∆y
+a=
+∆x
+
+a=
+
+5
+5
+
+a = 1 m/s2
+Therefore, the cyclist accelerated at 1 m/s2 between 5 and 10 seconds
+
+Examiner Tips and Tricks
+Use the entire slope, where possible, to calculate the gradient. Examiners tend to
+award credit if they see a large gradient triangle used.
+Remember to actually draw the lines directly on the graph itself, particularly when the
+question asks you to use the graph to calculate the acceleration.
+
+Worked Example
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+32
+
+A skydiver jumps from a plane and reaches terminal velocity after 15 seconds. A
+speed-time graph of their motion is shown below.
+Use the graph to find the acceleration at 5 seconds.
+
+Your notes
+
+Answer:
+Step 1: Draw a tangent to the curve at the point where t = 5 s
+
+Step 2: Calculate the gradient of the tangent
+Change in y (speed): ∆ y
+Change in x (time): ∆ x
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+33
+
+a=
+a=
+
+∆y
+∆x
+
+Your notes
+
+58 − 20
+9 . 75 − 0 . 75
+
+a=
+
+38
+9.0
+
+a = 4 . 2 m/s2 (2 s . f . )
+
+Examiner Tips and Tricks
+The CIE IGCSE Physics specification includes knowing how to calculate the gradient
+of a tangent to the curve in the maths skills section. This means that you could be
+asked to demonstrate this skill in any topic. The skills in this revision note are
+applicable to any type of graph. For more information on interpreting graphs in
+Physics, see the article Graph skills in GCSE Physics
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+34
+
+Freefall
+
+Your notes
+
+Acceleration of free fall
+In the absence of air resistance, all objects fall with the same acceleration regardless of
+their mass
+This is called the acceleration of freefall
+This is also sometimes called acceleration due to gravity
+
+acceleration of freefall = g = 9 . 8 m/s2
+
+In the absence of air resistance, Galileo discovered that all objects (near Earth's surface)
+fall with an acceleration of about 9.8 m/s2
+This means that for every second an object falls, its velocity will increase by 9.8 m/s
+The symbol g also stands for the gravitational field strength, and can be used to
+calculate the force of weight acting an object using its mass:
+
+W = mg
+Where:
+
+W = the force of weight acting on an object, measured in newtons (N)
+m = mass of object, measured in kilograms (kg)
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+35
+
+g = gravitational field strength, measured in newtons per kilogram (N/kg)
+
+Motion of falling objects
+
+Your notes
+
+Extended tier only
+
+Falling objects without air resistance
+A vacuum is a space that contains no matter, so there are no particles to exert frictional
+forces on a falling object
+When objects fall in a vacuum, there is no air resistance or liquid resistance so the only
+force acting on them is the force of weight
+
+W = mg
+Newton's second law of motion describes acceleration as:
+
+a=
+
+F
+m
+
+Where:
+
+a = acceleration, measured in metres per second squared (m/s2)
+F = force exerted on object, measured in newtons (N)
+m = mass of object, measured in kilograms (kg)
+Since the only force acting on a falling object in a vacuum is weight, the equation can be
+expressed as
+
+a=
+
+W
+m
+
+Weight is the product of mass and gravitational field strength, so the equation can be
+expressed as
+
+a=
+
+mg
+m
+
+Here, the masses cancel each other out
+
+a=
+
+mg
+m
+
+So, for objects falling in a vacuum
+
+a=g
+Where g = acceleration of free fall
+This theory was tested by astronauts on the Moon
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+36
+
+A hammer and a feather were dropped from equal heights on the Moon, where there
+is no air resistance
+The hammer and the feather fell with the same acceleration and landed at the same
+time
+
+Your notes
+
+This proved that objects falling in a vacuum have the same acceleration regardless
+of their mass
+This also applies when air resistance is so small that it can be disregarded
+When air resistance is described as negligible, it can be approximated to an object
+is falling in a vacuum
+
+Object falling with no air resistance
+
+In the absence of air resistance, objects fall with constant acceleration
+Objects falling through a vacuum will never reach a terminal velocity
+
+Falling objects with air resistance
+When objects fall through a fluid, the fluid exerts a frictional force on the object as it falls
+Fluids are liquids or gases
+Frictional forces oppose the motion of an object
+They act to slow it down
+When an object falls through air, it experiences air resistance
+Air resistance is a frictional force produced by collisions with air particles as the
+object moves through the air
+Air resistance increases as the speed of the object increases
+When objects fall through air, two forces are exerted on the object:
+The force of weight
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+37
+
+The force of air resistance
+When the force of air resistance becomes equal to the force of weight, then the object
+stops accelerating and falls at a constant speed
+
+Your notes
+
+This is called terminal velocity
+
+How does a skydiver reach terminal velocity?
+
+The stages of a skydivers fall until they reach terminal velocity
+When a skydiver jumps out of a plane, initially the only force acting on them is weight
+The resultant force acts in the downward direction
+The skydiver accelerates
+As the skydiver accelerates, their speed increases, so the force of air resistance
+increases
+The resultant force acts in the downward direction with a smaller magnitude
+The skydiver continues to accelerate but at a slower rate
+Air resistance increases until it is equal to the weight
+The forces are balanced
+There is no resultant force
+Terminal velocity is reached
+The parachute is deployed, increasing the surface area of the skydiver
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+38
+
+The parachute collides with many more air particles
+Air resistance increases greatly
+The force of air resistance is now greater than the force of weight
+
+Your notes
+
+The resultant force acts in the upward direction
+The skydiver continues falling in a downward direction
+The skydiver is decelerating
+As the skydiver decelerates, their speed decreases
+Therefore, air resistance decreases
+Therefore, the resultant force decreases
+Air resistance decreases until it is equal to the weight
+The forces are balanced
+There is no resultant force
+A new, slower terminal velocity is reached
+
+Graph showing the motion of the skydiver as they reach
+terminal velocity
+
+The graph shows how the speed of the skydiver changes during the descent. The
+horizontal parts of the graph show the periods of terminal velocity
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+39
+
+Your notes
+
+Worked Example
+A small object falls out of an aircraft. Choose words from the list to complete the
+sentences below:
+air resistance gravitational field strength air pressure
+accelerates falls at a steady speed slows down
+
+(a) The weight of an object is the product of the object's mass and the __________.
+(b) When an object falls, initially it ____________.
+(c) As the object falls faster, the force of ______________ acting upon the object
+increases.
+(d) Eventually the object ______________ when the force of friction equals the force
+of weight acting on it.
+Answer:
+Part (a)
+The weight of an object is the product of the object's mass and the gravitational field
+strength.
+The weight force is due to the Earth's gravitational pull on the object's mass as it
+falls through a uniform gravitational field
+Part (b)
+When an object falls, initially it accelerates.
+The resultant force on the object is very large initially, so it accelerates
+This is because there is a large unbalanced force downwards (its weight) - the
+upward force of air resistance is very small to begin with
+Part (c)
+As the object falls faster, the force of air resistance acting on the object increases.
+The force of air resistance is due to friction between the object's motion and
+collisions with air particles
+Collisions with air particles slow the object down, so air itself produces a
+frictional force, called air resistance (sometimes called drag)
+Part (d)
+Eventually, the object falls at a steady speed when the force of friction equals the
+force of weight acting on it.
+When the upward acting air resistance increases enough to balance the
+downward weight force, the resultant force on the object is zero
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+40
+
+This means the object is no longer accelerating; it is moving at a steady speed
+called terminal velocity
+
+Your notes
+
+Examiner Tips and Tricks
+Don't confuse 'air resistance' with 'air pressure' - these are two different concepts!
+Exam questions about terminal velocity tend to involve the motion of skydivers as
+they fall
+A common misconception is that skydivers move upwards when their parachutes are
+deployed; however, this is not the case, they are in fact decelerating to a lower
+terminal velocity
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+41
+
+

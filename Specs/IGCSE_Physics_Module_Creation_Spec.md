@@ -8,6 +8,31 @@
 
 ---
 
+## Role Definition
+
+> **Activate this role when creating learning modules for IGCSE Physics.**
+
+**Persona:** Expert IGCSE Physics Module Writer  
+**Expertise:** Physics education, instructional design, curriculum development, Cambridge assessment standards  
+**Tone:** Clear, engaging, age-appropriate (14-16), pedagogically structured  
+
+**Your Responsibilities:**
+1. Create comprehensive learning modules aligned with syllabus learning objectives
+2. Apply Gagne's 9 Events and Bloom's Taxonomy for effective lesson structure
+3. Include worked examples, formative assessments, and common misconceptions
+4. Embed inline graphic descriptions using the standard template
+5. Ensure content progresses from simple to complex
+
+**Quality Standards:**
+- Every learning objective from syllabus must be addressed
+- Reading level appropriate for ages 14-16
+- At least one worked example per calculation-based objective
+- Formative assessment after each major concept
+
+**Reference Documents:**
+- `IGCSE_Physics_Educational_Graphics_Spec.md` — Graphic type templates and AI prompt generation
+- `IGCSE_Physics_Exercise_Generation_Spec.md` — Practice question formats
+
 ## Instructional Design Framework
 
 This specification is built on established instructional design methodologies:
@@ -48,7 +73,12 @@ Module [Number]: [Title]
 │   ├── Recall Questions
 │   ├── Application Questions
 │   └── Analysis Questions
-└── Self-Assessment Checklist
+├── Self-Assessment Checklist
+│
+└── [OUTPUT FILES]
+    ├── Section_N.1_Graphics.txt  ← Graphics specifications per section
+    ├── Section_N.2_Graphics.txt  ← (See IGCSE_Physics_Educational_Graphics_Spec.md)
+    └── Generated Images/         ← AI-generated images from specs
 ```
 
 ---
@@ -115,16 +145,20 @@ Each section within a module follows **Gagne's 9 Events of Instruction**:
 
 #### Dual Coding: Text + Visuals
 
-Every major concept should be presented with both verbal and visual representations:
+Every major concept should be presented with both verbal and visual representations.
 
-| Content Type | Visual Support |
-|--------------|----------------|
-| Formulas | Annotated equation with labeled variables |
-| Processes | Flowchart or step diagram |
-| Relationships | Graph or concept map |
-| Comparisons | Side-by-side table or Venn diagram |
-| Real-world context | Labeled photograph or illustration |
-| Abstract concepts | Analogy diagram |
+> **See:** `IGCSE_Physics_Educational_Graphics_Spec.md` for detailed visual content guidelines and AI prompt generation
+
+| Content Type | Visual Support | Graphics Spec Reference |
+|--------------|----------------|-------------------------|
+| Formulas | Annotated equation with labeled variables | Type 6: Equation Graphics |
+| Processes | Flowchart or step diagram | Type 2: Process Diagrams |
+| Relationships | Graph or concept map | Type 9: Concept Maps |
+| Comparisons | Side-by-side table or Venn diagram | Type 3: Comparison Graphics |
+| Real-world context | Labeled photograph or illustration | Type 4: Annotated Images |
+| Abstract concepts | Analogy diagram | Type 1: Conceptual Illustrations |
+| Data/experiments | Graphs, tables | Type 5: Data Visualization |
+| Module summary | Infographic, overview | Type 7: Infographics |
 
 #### Content Chunking Rules
 
@@ -265,6 +299,72 @@ $$v = \frac{s}{t} \tag{2.1}$$
 
 Numbering format: `[Module].[Equation Number]`
 
+### Figure Numbering
+
+Format: `Fig. [Module].[Sequential Number]`
+
+Examples:
+- Fig. 2.1, Fig. 2.2, Fig. 2.3... (Module 2, Section 2.1)
+- Fig. 2.4, Fig. 2.5... (Module 2, Section 2.2)
+
+> **See:** `IGCSE_Physics_Educational_Graphics_Spec.md` → Integration with Module Creation → Figure Numbering
+
+---
+
+## Diagram and Graphic Generation Guidelines
+
+### Diagram Description Template
+
+> **IMPORTANT:** For detailed, structured diagram descriptions, refer to the comprehensive templates in `IGCSE_Physics_Diagram_Generation_Spec.md`.
+
+Use the **Structured Prompt Template System** with:
+- **7-layer structure:** Header → Canvas → Layout → Components → Connections → Labels → Annotations
+- **Grid-based positioning:** Specify exact positions using grid(x, y) coordinates
+- **Explicit component attributes:** Symbol, Position, Size, Orientation, Style, Fill, Label
+
+**Quick Reference Format:**
+
+```
+---DIAGRAM: Fig. [N]---
+TYPE: [Circuit | Ray | Graph | Force | Field | Apparatus | Wave | Particle]
+PURPOSE: [One-line description]
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: [4:3 landscape | 3:4 portrait | 16:9 wide | 1:1 square]
+GRID: [columns] × [rows]
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  [Overall arrangement description]
+
+COMPONENTS:
+  [Component 1]
+    Symbol: [description]
+    Position: grid(x, y)
+    Size: [dimensions]
+    Label: "[text]" [position]
+  
+  [Component 2]
+    ...
+
+CONNECTIONS:
+  [Wire/Line 1]: [Start] → [End], [style]
+  ...
+
+ANNOTATIONS:
+  [Any additional markings]
+---END DIAGRAM---
+```
+
+**For complete templates by diagram type, see `IGCSE_Physics_Diagram_Generation_Spec.md`:**
+- Circuit Diagram Template (with IEC symbols)
+- Ray Diagram Template (converging/diverging lenses)
+- Graph Template (I-V characteristics, decay curves)
+- Force Diagram Template (free body diagrams)
+- Field Diagram Template (magnetic/electric fields)
+- Apparatus Diagram Template (practical setups)
+
 ---
 
 ## Quality Checklist
@@ -301,6 +401,15 @@ Before finalizing a module, verify:
 - [ ] Significant figures are appropriate
 - [ ] Physical constants match syllabus values
 
+### Graphics Quality
+
+- [ ] Each major concept has an associated graphic specification
+- [ ] Graphics file created: `Section_X.X_Graphics.txt`
+- [ ] Graphics follow `IGCSE_Physics_Educational_Graphics_Spec.md` templates
+- [ ] Figure numbers assigned (Fig. M.N format)
+- [ ] AI prompts ready for generation (using AI Prompt Generation section in Educational Graphics Spec)
+- [ ] All variables and labels specified for post-processing
+
 ---
 
 ## Module Creation Workflow
@@ -316,14 +425,20 @@ Before finalizing a module, verify:
 
 1. **Structure sections** — Group related learning objectives
 2. **Plan assessment** — What questions will measure each objective?
-3. **Identify visuals** — What diagrams/graphs are needed?
+3. **Plan graphics** — For each key concept, identify:
+   - What graphic type is needed (Type 1-9 from Educational Graphics Spec)
+   - Figure number assignment
+   - Insert location in module
 4. **Plan worked examples** — What calculations need demonstration?
 
 ### Phase 3: Development
 
 1. **Write content** — Follow section structure template
-2. **Create visuals** — Using IGCSE_Physics_Diagram_Generation_Spec.md
-3. **Develop questions** — Using IGCSE_Physics_Exercise_Generation_Spec.md
+2. **Create visuals** — Using `IGCSE_Physics_Educational_Graphics_Spec.md`:
+   - Educational graphics (equations, comparisons, concept maps)
+   - AI prompt generation section for converting specs to prompts
+   - Refer to `IGCSE_Physics_Diagram_Generation_Spec.md` for exam-style technical diagrams (circuits, ray diagrams)
+3. **Develop questions** — Using `IGCSE_Physics_Exercise_Generation_Spec.md`
 4. **Add formative checks** — Quick quizzes after each concept
 
 ### Phase 4: Review
@@ -400,16 +515,44 @@ Module 2: Motion
     └── "I can..." statements for each learning objective
 ```
 
+### Graphics Plan for Module 2
+
+| Figure | Type | Content | Insert After |
+|--------|------|---------|---------------|
+| Fig. 2.1 | Type 6 (Equation) | Speed equation v=s/t with formula triangle | Section 2.1.1 equation |
+| Fig. 2.2 | Type 3 (Comparison) | Speed vs Velocity (scalar vs vector) | Section 2.1.2 |
+| Fig. 2.3 | Type 3 (Comparison) | Distance vs Displacement diagram | Section 2.1.2 |
+| Fig. 2.4 | Type 6 (Equation) | Acceleration equation a=Δv/t | Section 2.1.3 equation |
+| Fig. 2.5 | Type 5 (Data) | Distance-time graph interpretation | Section 2.2.1 |
+| Fig. 2.6 | Type 5 (Data) | Speed-time graph with area shading | Section 2.2.2 |
+| Fig. 2.7 | Type 9 (Concept Map) | Motion concepts overview | Module Summary |
+
+> **Output:** Create `Section_2.1_Graphics.txt`, `Section_2.2_Graphics.txt` using templates from `IGCSE_Physics_Educational_Graphics_Spec.md`
+> **Generate images:** Use AI Prompt Generation section in `IGCSE_Physics_Educational_Graphics_Spec.md`
+
 ---
 
 ## Related Specifications
 
+### Graphics & Visuals
+
+| Document | Purpose | When to Use |
+|----------|---------|-------------|
+| `IGCSE_Physics_Educational_Graphics_Spec.md` | 9 types of educational graphics with templates + AI prompt generation | Creating conceptual illustrations, equation graphics, comparison diagrams, concept maps; generating images with AI tools |
+| `IGCSE_Physics_Diagram_Generation_Spec.md` | Exam-style technical diagrams | Creating circuits, ray diagrams, force diagrams, apparatus drawings |
+
+### Exercises & Assessment
+
 | Document | Purpose |
 |----------|---------|
-| `IGCSE_Physics_Exercise_Generation_Spec.md` | Question design and mark schemes |
-| `IGCSE_Physics_Diagram_Generation_Spec.md` | Visual content creation |
+| `IGCSE_Physics_Exercise_Generation_Spec.md` | Question types, mark schemes, difficulty mapping |
+
+### Other
+
+| Document | Purpose |
+|----------|---------|
 | `IGCSE_Physics_Practical_Skills_Module.md` | Paper 6 practical skills |
-| `section_1.json` | Learning objectives data source |
+| `section_*.json` | Learning objectives data source |
 
 ---
 

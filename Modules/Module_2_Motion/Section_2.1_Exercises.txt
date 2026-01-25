@@ -1,0 +1,1397 @@
+================================================================================
+                    SECTION 2.1 EXERCISES
+                    SPEED, VELOCITY AND ACCELERATION
+================================================================================
+
+Learning Objectives Covered:
+  * Define speed and velocity.
+  * Recall and use the equation: average speed = total distance / total time
+  * Define acceleration.
+  * Recall and use the equation: a = Δv / Δt
+
+Total Questions: 50
+Distribution:
+  - AO1 (Recall):      12 questions (24%)
+  - AO2 (Application): 26 questions (52%)
+  - AO3 (Analysis):    12 questions (24%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (MCQ)
+================================================================================
+                              (10 Questions)
+
+Instructions: Select the best answer from the options A, B, C, or D.
+
+--------------------------------------------------------------------------------
+1. Which of the following correctly defines speed?
+
+   A  The rate of change of velocity
+   B  The distance travelled per unit time
+   C  The change in position per unit time
+   D  The total distance divided by mass
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+2. Which quantity is a vector?
+
+   A  Speed
+   B  Distance
+   C  Velocity
+   D  Time
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+3. A cyclist travels 120 m in 8.0 s. What is the cyclist's average speed?
+
+   A  0.067 m/s
+   B  15 m/s
+   C  128 m/s
+   D  960 m/s
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+4. A car accelerates from rest to 18 m/s in 6.0 s.
+   What is the acceleration of the car?
+
+   A  0.33 m/s²
+   B  3.0 m/s²
+   C  24 m/s²
+   D  108 m/s²
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+5. A train travels at a constant speed of 25 m/s for 40 s.
+   What is the total distance travelled?
+
+   A  0.625 m
+   B  65 m
+   C  1000 m
+   D  1.6 m
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+6. An object travels 60 m east and then 40 m west.
+   What is the displacement of the object?
+
+   A  20 m east
+   B  20 m west
+   C  100 m
+   D  100 m east
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+7. A vehicle is travelling at 72 km/h.
+   What is this speed in m/s?
+
+   A  4.3 m/s
+   B  20 m/s
+   C  72 m/s
+   D  259 m/s
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+8. The SI unit of acceleration is:
+
+   A  m/s
+   B  m/s²
+   C  km/h
+   D  m²/s
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+9. A bus decelerates from 20 m/s to rest in 4.0 s.
+   What is the deceleration?
+
+   A  -5.0 m/s²
+   B  5.0 m/s²
+   C  16 m/s²
+   D  80 m/s²
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+10. Which statement correctly distinguishes between speed and velocity?
+
+    A  Speed has direction; velocity does not
+    B  Velocity has direction; speed does not
+    C  Speed is always greater than velocity
+    D  Velocity can only be positive
+
+    [AO1 - 1 mark]
+
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION
+================================================================================
+                              (4 Questions)
+
+Instructions: State whether each statement is TRUE or FALSE.
+              If FALSE, write the correct statement.
+
+--------------------------------------------------------------------------------
+11. "Speed is a vector quantity because it describes motion."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+12. "A car travelling in a circle at constant speed has constant velocity."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+13. "Displacement can be zero even if distance travelled is not zero."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+14. "Deceleration is always represented by a negative value of acceleration."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK
+================================================================================
+                              (4 Questions)
+
+Instructions: Complete each sentence using the correct word(s) or value(s).
+
+--------------------------------------------------------------------------------
+15. Speed is defined as _________________ per unit time.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+16. The equation for average speed is:
+
+    average speed = _________________ ÷ _________________
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+17. Acceleration is the _________________ in velocity per unit _________________.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+18. The SI unit for speed is __________ and for acceleration is __________.
+
+    [AO1 - 1 mark]
+
+
+================================================================================
+                    SECTION D: MATCHING
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+19. Match each quantity with its correct classification.
+
+    Quantity                          Classification
+    ─────────────────────────────     ─────────────────────────────
+    A. Speed                          1. Vector
+    B. Velocity                       2. Scalar
+    C. Distance
+    D. Displacement
+    E. Acceleration
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___, E = ___
+
+    [AO1 - 5 marks]
+
+--------------------------------------------------------------------------------
+20. Match each symbol with the correct quantity.
+
+    Symbol                            Quantity
+    ─────────────────────────────     ─────────────────────────────
+    A. v                              1. Time
+    B. s                              2. Acceleration
+    C. t                              3. Speed/Velocity
+    D. a                              4. Distance/Displacement
+    E. Δv                             5. Change in velocity
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___, E = ___
+
+    [AO1 - 5 marks]
+
+
+================================================================================
+                    SECTION E: SHORT ANSWER QUESTIONS
+================================================================================
+                              (5 Questions)
+
+--------------------------------------------------------------------------------
+21. Define speed.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+22. Define velocity and state how it differs from speed.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 3 marks]
+
+--------------------------------------------------------------------------------
+23. Define acceleration.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+24. State the difference between distance and displacement.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+25. Explain why a satellite orbiting Earth at constant speed has
+    changing velocity.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION F: CALCULATIONS (STRUCTURED)
+================================================================================
+                              (8 Questions)
+
+--------------------------------------------------------------------------------
+26. A runner completes a 400 m race in 50 s.
+
+    (a) Calculate the average speed of the runner.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) If the runner increased their speed by 25%, what would be
+        the new time to complete the race?                                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+27. A car travels 2.4 km in 2 minutes.
+
+    (a) Convert 2.4 km to metres.                                            [1]
+
+    _____________________________________________________________
+
+
+    (b) Convert 2 minutes to seconds.                                        [1]
+
+    _____________________________________________________________
+
+
+    (c) Calculate the average speed of the car in m/s.                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+28. A plane accelerates from rest to a speed of 60 m/s in 12 s.
+
+    (a) State the initial velocity of the plane.                             [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the acceleration of the plane.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) State the unit of your answer to part (b).                           [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+29. A train travelling at 30 m/s applies the brakes and comes to rest in 15 s.
+
+    (a) Calculate the deceleration of the train.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) State why the acceleration has a negative value.                     [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+30. A cheetah accelerates from rest at 10 m/s² for 3.0 s.
+
+    (a) Calculate the final velocity of the cheetah.                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) If the cheetah then decelerates at 2.0 m/s²,
+        calculate the time taken to come to rest.                            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+31. A bus travels at an average speed of 54 km/h.
+
+    (a) Convert this speed to m/s.                                           [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate how far the bus travels in 20 seconds.                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the time taken to travel 450 m at this speed.              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+32. An athlete runs 200 m north, then 200 m south, in a total time of 80 s.
+
+    (a) Calculate the total distance travelled.                              [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the average speed.                                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) State the displacement of the athlete.                               [1]
+
+    _____________________________________________________________
+
+
+    (d) Calculate the average velocity.                                      [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+33. A car accelerates uniformly from 12 m/s to 28 m/s in 8.0 s.
+
+    (a) Calculate the change in velocity.                                    [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the acceleration.                                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Predict the velocity after a further 4.0 s if the same
+        acceleration continues.                                              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+34. A student records the distance travelled by a toy car every 2 seconds.
+
+    ┌─────────────────┬─────────────────┐
+    │ Time / s        │ Distance / m    │
+    ├─────────────────┼─────────────────┤
+    │ 0               │ 0               │
+    │ 2               │ 6               │
+    │ 4               │ 12              │
+    │ 6               │ 18              │
+    │ 8               │ 24              │
+    └─────────────────┴─────────────────┘
+
+    (a) Describe the motion of the toy car.                                  [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the speed of the toy car.                                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Predict the distance at t = 10 s if the motion continues.            [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+35. A car accelerates from rest. The table shows how the velocity changes.
+
+    ┌─────────────────┬─────────────────┐
+    │ Time / s        │ Velocity / m/s  │
+    ├─────────────────┼─────────────────┤
+    │ 0               │ 0               │
+    │ 2               │ 8               │
+    │ 4               │ 16              │
+    │ 6               │ 24              │
+    │ 8               │ 32              │
+    └─────────────────┴─────────────────┘
+
+    (a) Describe the motion of the car.                                      [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the acceleration.                                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the velocity at t = 10 s if the acceleration is constant.  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+36. A jogger runs along a straight track. The table shows the data.
+
+    ┌─────────────────┬─────────────────┐
+    │ Time / s        │ Distance / m    │
+    ├─────────────────┼─────────────────┤
+    │ 0               │ 0               │
+    │ 10              │ 30              │
+    │ 20              │ 60              │
+    │ 30              │ 60              │
+    │ 40              │ 100             │
+    └─────────────────┴─────────────────┘
+
+    (a) Calculate the average speed between t = 0 s and t = 20 s.            [2]
+
+    _____________________________________________________________
+
+
+    (b) Describe the motion between t = 20 s and t = 30 s.                   [1]
+
+    _____________________________________________________________
+
+
+    (c) Calculate the speed between t = 30 s and t = 40 s.                   [2]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+37. A cyclist's velocity data is shown below.
+
+    ┌─────────────────┬─────────────────┐
+    │ Time / s        │ Velocity / m/s  │
+    ├─────────────────┼─────────────────┤
+    │ 0               │ 12              │
+    │ 5               │ 12              │
+    │ 10              │ 7               │
+    │ 15              │ 2               │
+    │ 20              │ 0               │
+    └─────────────────┴─────────────────┘
+
+    (a) Describe the motion between t = 0 s and t = 5 s.                     [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the deceleration between t = 5 s and t = 20 s.             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) State what happens at t = 20 s.                                      [1]
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+38. Complete the table to compare speed and velocity.
+
+    ┌─────────────────────────┬─────────────────────────────────────────────────┐
+    │ Characteristic          │ Speed               │ Velocity                  │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Type of quantity        │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Has direction?          │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Can be negative?        │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ SI unit                 │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Example statement       │                     │                           │
+    └─────────────────────────┴─────────────────────┴───────────────────────────┘
+
+    [AO2 - 5 marks]
+
+--------------------------------------------------------------------------------
+39. Complete the table to compare distance and displacement.
+
+    ┌─────────────────────────┬─────────────────────────────────────────────────┐
+    │ Characteristic          │ Distance            │ Displacement              │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Type of quantity        │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Definition              │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Can be zero when        │                     │                           │
+    │ object has moved?       │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Always positive?        │                     │                           │
+    └─────────────────────────┴─────────────────────┴───────────────────────────┘
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+40. Compare acceleration and deceleration.
+
+    (a) State the similarity between acceleration and deceleration.          [1]
+
+    _____________________________________________________________
+
+
+    (b) State two differences between acceleration and deceleration.         [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION I: STRUCTURED QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+41. A student investigates the motion of a trolley on a track.
+
+    (a) Define speed.                                                        [1]
+
+    _____________________________________________________________
+
+
+    (b) The trolley travels 2.4 m in 1.5 s.
+        Calculate the average speed of the trolley.                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) The student then releases the trolley from rest on a slope.
+        The trolley reaches a speed of 4.0 m/s in 2.0 s.
+
+        (i) Calculate the acceleration of the trolley.                       [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+        (ii) Suggest one factor that affects the acceleration
+             of the trolley on the slope.                                    [1]
+
+        _____________________________________________________________
+
+
+    (d) Explain why the calculated values are average values, not
+        instantaneous values.                                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [Total: 8 marks]
+
+--------------------------------------------------------------------------------
+42. A sprinter runs a 100 m race.
+
+    The sprinter starts from rest and accelerates uniformly for the first 4.0 s,
+    reaching a speed of 10 m/s. The sprinter then maintains this speed until
+    the finish line.
+
+    ---DIAGRAM: Fig. S1---
+    TYPE: Graph
+    PURPOSE: Speed-time graph for the sprinter's race
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Standard 2D cartesian graph
+
+    COMPONENTS:
+      [Axes]
+        Symbol: axes
+        Position: grid(1,1) to grid(9,7)
+        Label: "Time / s" [x-axis], "Speed / (m/s)" [y-axis]
+        Scale: x-axis 0-14s (1 cm = 2 s), y-axis 0-12 m/s (1 cm = 2 m/s)
+
+    CONNECTIONS:
+      [Phase 1]: grid(1,1) → grid(3,5), solid line (acceleration)
+      [Phase 2]: grid(3,5) → grid(8,5), solid line (constant speed)
+
+    ANNOTATIONS:
+      [Point A]: at (0, 0) labeled "Start"
+      [Point B]: at (4, 10) labeled "B"
+      [Point C]: at (?, 10) labeled "Finish"
+    ---END DIAGRAM---
+
+    (a) Define acceleration.                                                 [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the acceleration of the sprinter during the first 4.0 s.   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the distance travelled during the first 4.0 s.             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Calculate the time taken to complete the remaining distance.         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (e) Calculate the total time for the 100 m race.                         [1]
+
+    _____________________________________________________________
+
+    [Total: 8 marks]
+
+--------------------------------------------------------------------------------
+43. A delivery truck makes a journey between two towns.
+
+    The truck travels 30 km at an average speed of 60 km/h.
+    It then travels 50 km at an average speed of 50 km/h.
+
+    (a) Calculate the time taken for the first part of the journey.          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the time taken for the second part of the journey.         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the total distance travelled.                              [1]
+
+    _____________________________________________________________
+
+
+    (d) Calculate the total time taken.                                      [1]
+
+    _____________________________________________________________
+
+
+    (e) Calculate the average speed for the whole journey.                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (f) Explain why the average speed is not equal to the mean of
+        60 km/h and 50 km/h (i.e., not 55 km/h).                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [Total: 10 marks]
+
+
+================================================================================
+                    SECTION J: ERROR ANALYSIS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+44. A student attempts to calculate acceleration:
+
+    "The car accelerated from 10 m/s to 30 m/s in 5 seconds.
+     Acceleration = 30 ÷ 5 = 6 m/s²"
+
+    (a) Identify the error in the student's calculation.                     [1]
+
+    _____________________________________________________________
+
+
+    (b) Show the correct calculation.                                        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) State the correct answer with the unit.                              [1]
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+--------------------------------------------------------------------------------
+45. A student writes:
+
+    "A car travelling at 20 m/s stops in 4 s.
+     The deceleration is 20 × 4 = 80 m/s²."
+
+    (a) Identify two errors in the student's working.                        [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+
+    (b) Calculate the correct deceleration.                                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+
+================================================================================
+                    SECTION K: EXTENDED RESPONSE
+================================================================================
+                              (5 Questions)
+
+--------------------------------------------------------------------------------
+46. A car travels around a circular track at a constant speed of 15 m/s.
+
+    (a) State whether the speed of the car is changing. Explain your answer. [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) State whether the velocity of the car is changing.
+        Explain your answer.                                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Deduce whether the car is accelerating. Justify your answer.         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 6 marks]
+
+--------------------------------------------------------------------------------
+47. A cyclist travels from town A to town B, a distance of 10 km.
+    The cyclist then returns from B to A along the same route.
+    The total journey takes 1 hour.
+
+    (a) Calculate the total distance travelled.                              [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the average speed for the whole journey.                   [2]
+
+    _____________________________________________________________
+
+
+    (c) State the displacement of the cyclist at the end of the journey.     [1]
+
+    _____________________________________________________________
+
+
+    (d) Explain why the average velocity for the journey is zero.            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 6 marks]
+
+--------------------------------------------------------------------------------
+48. A train accelerates from rest at 0.8 m/s² for 25 s, then travels at
+    constant speed for 2 minutes, before decelerating at 0.5 m/s² until
+    it stops at the station.
+
+    (a) Calculate the maximum speed reached by the train.                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the time taken for the train to decelerate to rest.        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the total time for the journey.                            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Suggest why trains accelerate and decelerate more slowly
+        than cars.                                                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 8 marks]
+
+--------------------------------------------------------------------------------
+49. Two cars, X and Y, start from the same point.
+    Car X travels at a constant speed of 20 m/s.
+    Car Y starts from rest and accelerates at 2 m/s².
+
+    (a) Calculate the speed of Car Y after 10 seconds.                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Determine whether Car X or Car Y is travelling faster after 10 s.    [1]
+
+    _____________________________________________________________
+
+
+    (c) Predict after how many seconds Car Y will have the same
+        speed as Car X.                                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Suggest what happens to Car Y if it continues to accelerate
+        beyond this point.                                                   [1]
+
+    _____________________________________________________________
+
+    [AO3 - 6 marks]
+
+--------------------------------------------------------------------------------
+50. A student measures the time taken for a marble to roll down a slope.
+
+    The marble rolls 80 cm in a time of 2.0 s, starting from rest.
+
+    (a) Convert 80 cm to metres.                                             [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the average speed of the marble.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Assuming constant acceleration, explain why the average speed
+        is not the same as the final speed.                                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Calculate the final speed of the marble.                             [2]
+        (Hint: For constant acceleration from rest, final speed = 2 × average speed)
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (e) Calculate the acceleration of the marble.                            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 9 marks]
+
+
+================================================================================
+                    SECTION L: GRAPHICAL ANALYSIS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+51. Fig. 2.12 shows the distance-time graphs for four objects, A, B, C, and D.
+
+    ---DIAGRAM: Fig. 2.12---
+    TYPE: Graph
+    PURPOSE: Distance-time graphs showing different types of motion
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 4
+    
+    CANVAS:
+      Background: pure white
+    
+    LAYOUT:
+      Four separate small graphs arranged horizontally
+    
+    COMPONENTS:
+      [Graph A]: Horizontal line (At rest)
+      [Graph B]: Straight diagonal line (Constant speed)
+      [Graph C]: Curve with increasing gradient (Accelerating)
+      [Graph D]: Curve with decreasing gradient (Decelerating)
+    ---END DIAGRAM---
+
+    (a) State which object is at rest.                                       [1]
+
+    _____________________________________________________________
+
+
+    (b) State which object is moving at a constant speed.                      [1]
+
+    _____________________________________________________________
+
+
+    (c) Explain how the shape of graph C shows that the object is
+        accelerating.                                                        [1]
+
+    _____________________________________________________________
+
+
+    (d) Describe the motion of object D.                                     [1]
+
+    _____________________________________________________________
+
+    [AO1/AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+52. Fig. 2.13 shows the distance-time graph for a train journey.
+
+    ---DIAGRAM: Fig. 2.13---
+    TYPE: Graph
+    PURPOSE: Distance-time graph for a train journey
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 3:4 portrait
+    GRID: 8 × 10
+    
+    CANVAS:
+      Background: pure white
+      Plot Area: SQUARE proportions
+
+    GRID_CELLS:
+      Shape: SQUARE
+      Major Divisions: 6 × 8 (6 columns for X, 8 rows for Y)
+      Line Style: thin light gray (#CCCCCC)
+    
+    AXES:
+      [X-Axis]: Time (minutes), 0 to 6
+      [Y-Axis]: Distance (km), 0 to 8
+    
+    CURVES/LINES:
+      [Line]: Straight line from (0,0) to (6,8)
+    ---END DIAGRAM---
+
+    (a) Determine the total distance travelled by the train.                 [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the gradient of the graph to find the speed of the
+        train in km/min.                                                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Convert your answer from (b) into km/h.                              [1]
+
+    _____________________________________________________________
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+53. A student walks to a park, sits on a bench, and then runs home.
+    Fig. 2.14 shows the distance-time graph for the trip.
+
+    ---DIAGRAM: Fig. 2.14---
+    TYPE: Graph
+    PURPOSE: Distance-time graph with three sections A, B, C
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    
+    CANVAS:
+      Background: pure white
+    
+    AXES:
+      [X-Axis]: Time (minutes), 0 to 90
+      [Y-Axis]: Distance (km), 0 to 0.7
+    
+    CURVES/LINES:
+      [Section A]: (0,0) to (25, 0.3) - Walking
+      [Section B]: (25, 0.3) to (65, 0.3) - Resting
+      [Section C]: (65, 0.3) to (75, 0.6) - Running
+    ---END DIAGRAM---
+
+    (a) Identify the section (A, B, or C) that represents the student
+        sitting on the bench. Explain your answer.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the time, in minutes, that the student spends
+        sitting on the bench.                                                [1]
+
+    _____________________________________________________________
+
+
+    (c) Calculate the speed of the student in Section A in km/min.           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Identify which section represents the fastest speed.
+        Explain how the graph shows this without calculating.                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 7 marks]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+
+1.  B - Speed is the distance travelled per unit time
+2.  C - Velocity is a vector (has magnitude and direction)
+3.  B - v = s/t = 120/8 = 15 m/s
+4.  B - a = Δv/t = (18-0)/6 = 3.0 m/s²
+5.  C - s = v × t = 25 × 40 = 1000 m
+6.  A - Displacement = 60 - 40 = 20 m east
+7.  B - 72 ÷ 3.6 = 20 m/s
+8.  B - m/s² is the SI unit of acceleration
+9.  B - a = (0-20)/4 = -5.0 m/s² (deceleration = 5.0 m/s²)
+10. B - Velocity has direction; speed does not
+
+SECTION B: TRUE/FALSE
+
+11. FALSE - Speed is a scalar quantity (has magnitude only, no direction)
+12. FALSE - The car has changing velocity because the direction changes
+13. TRUE - If the object returns to its starting point
+14. TRUE - Deceleration is represented by negative acceleration values
+
+SECTION C: FILL-IN-THE-BLANK
+
+15. distance (travelled)
+16. total distance ÷ total time
+17. change / time
+18. m/s ; m/s²
+
+SECTION D: MATCHING
+
+19. A = 2, B = 1, C = 2, D = 1, E = 1
+20. A = 3, B = 4, C = 1, D = 2, E = 5
+
+SECTION E: SHORT ANSWER
+
+21. Speed is the distance travelled per unit time.
+    OR Speed = distance ÷ time
+
+22. Velocity is speed in a given direction.
+    Speed is a scalar (magnitude only); velocity is a vector (magnitude + direction).
+
+23. Acceleration is the change in velocity per unit time.
+    OR Acceleration is the rate of change of velocity.
+
+24. Distance is the total length of the path travelled (scalar).
+    Displacement is the straight-line distance from start to end in a given direction (vector).
+
+25. The satellite is constantly changing direction as it orbits.
+    Since velocity includes direction, a change in direction means the velocity changes.
+    Even though speed is constant, the velocity is not constant.
+
+SECTION F: CALCULATIONS
+
+26. (a) v = s/t = 400/50 = 8.0 m/s
+    (b) New speed = 8.0 × 1.25 = 10 m/s
+        New time = 400/10 = 40 s
+
+27. (a) 2.4 km = 2400 m
+    (b) 2 min = 120 s
+    (c) v = s/t = 2400/120 = 20 m/s
+
+28. (a) u = 0 m/s (rest)
+    (b) a = Δv/t = (60-0)/12 = 5.0 m/s²
+    (c) m/s²
+
+29. (a) a = Δv/t = (0-30)/15 = -2.0 m/s² (deceleration = 2.0 m/s²)
+    (b) The velocity is decreasing / the object is slowing down
+
+30. (a) v = u + at = 0 + (10 × 3) = 30 m/s
+    (b) t = Δv/a = 30/2 = 15 s
+
+31. (a) 54 ÷ 3.6 = 15 m/s
+    (b) s = v × t = 15 × 20 = 300 m
+    (c) t = s/v = 450/15 = 30 s
+
+32. (a) Distance = 200 + 200 = 400 m
+    (b) Average speed = 400/80 = 5.0 m/s
+    (c) Displacement = 0 m (or 0 m, as athlete returns to start)
+    (d) Average velocity = 0 m/s
+
+33. (a) Δv = 28 - 12 = 16 m/s
+    (b) a = Δv/t = 16/8 = 2.0 m/s²
+    (c) v = 28 + (2.0 × 4) = 36 m/s
+
+SECTION G: DATA INTERPRETATION
+
+34. (a) The toy car moves at constant speed
+    (b) v = Δs/Δt = 24/8 = 3.0 m/s (or use any two points)
+    (c) 30 m
+
+35. (a) The car is accelerating uniformly / accelerating at a constant rate
+    (b) a = Δv/Δt = (32-0)/8 = 4.0 m/s²
+    (c) v = 0 + (4 × 10) = 40 m/s
+
+36. (a) v = 60/20 = 3.0 m/s
+    (b) The jogger is stationary / at rest
+    (c) v = (100-60)/(40-30) = 40/10 = 4.0 m/s
+
+37. (a) Moving at constant speed / velocity
+    (b) a = Δv/Δt = (0-12)/(20-5) = -12/15 = -0.80 m/s²
+        Deceleration = 0.80 m/s²
+    (c) The cyclist stops / comes to rest
+
+SECTION H: COMPARE AND CONTRAST
+
+38. 
+    | Characteristic     | Speed          | Velocity                |
+    |--------------------|----------------|-------------------------|
+    | Type of quantity   | Scalar         | Vector                  |
+    | Has direction?     | No             | Yes                     |
+    | Can be negative?   | No             | Yes                     |
+    | SI unit            | m/s            | m/s                     |
+    | Example statement  | "20 m/s"       | "20 m/s north"          |
+
+39. 
+    | Characteristic         | Distance              | Displacement                       |
+    |------------------------|-----------------------|------------------------------------|
+    | Type of quantity       | Scalar                | Vector                             |
+    | Definition             | Total path length     | Straight line from start to finish |
+    | Can be zero when       | No                    | Yes                                |
+    | object has moved?      |                       |                                    |
+    | Always positive?       | Yes                   | No                                 |
+
+40. (a) Both are measures of the rate of change of velocity
+    (b) 1. Acceleration: velocity increases; Deceleration: velocity decreases
+        2. Acceleration: positive value; Deceleration: negative value (or opposite sign)
+
+SECTION I: STRUCTURED QUESTIONS
+
+41. (a) Speed is the distance travelled per unit time
+    (b) v = s/t = 2.4/1.5 = 1.6 m/s
+    (c)(i) a = Δv/t = (4.0-0)/2.0 = 2.0 m/s²
+    (c)(ii) Any one of: angle/steepness of slope, mass of trolley, friction
+    (d) The speed/acceleration varies during the motion; we measure total distance/total time,
+        not the value at each instant.
+
+42. (a) Acceleration is the change in velocity per unit time
+    (b) a = Δv/t = (10-0)/4 = 2.5 m/s²
+    (c) s = ½ × v × t = ½ × 10 × 4 = 20 m (area of triangle)
+    (d) Remaining distance = 100 - 20 = 80 m
+        t = s/v = 80/10 = 8.0 s
+    (e) Total time = 4 + 8 = 12 s
+
+43. (a) t = s/v = 30/60 = 0.5 h = 30 min
+    (b) t = s/v = 50/50 = 1 h = 60 min
+    (c) Total distance = 30 + 50 = 80 km
+    (d) Total time = 0.5 + 1 = 1.5 h
+    (e) Average speed = total distance / total time = 80/1.5 = 53.3 km/h (or 53 km/h)
+    (f) The truck spent more time travelling at the slower speed (50 km/h)
+        Average speed must account for time spent at each speed, not just the speeds themselves.
+
+SECTION J: ERROR ANALYSIS
+
+44. (a) The student used final velocity (30) instead of change in velocity (30-10=20)
+    (b) a = Δv/t = (30-10)/5 = 20/5 = 4 m/s²
+    (c) Acceleration = 4 m/s²
+
+45. (a) 1. Multiplied instead of divided
+        2. Did not use the correct formula (a = Δv/t)
+    (b) a = Δv/t = (0-20)/4 = -5 m/s²
+        Deceleration = 5 m/s²
+
+SECTION K: EXTENDED RESPONSE
+
+46. (a) No, speed is not changing. Speed is the magnitude of velocity, and this remains
+        constant at 15 m/s.
+    (b) Yes, velocity is changing. Although speed is constant, the direction of motion
+        is constantly changing as the car goes around the circle.
+    (c) Yes, the car is accelerating. Acceleration is the rate of change of velocity.
+        Since velocity is changing (direction), the car is accelerating (centripetal acceleration).
+
+47. (a) Total distance = 10 + 10 = 20 km
+    (b) Average speed = 20/1 = 20 km/h
+    (c) Displacement = 0 km (returned to starting point)
+    (d) Average velocity = displacement/time = 0/1 = 0 km/h
+        The cyclist ends at the same position as they started, so displacement is zero.
+
+48. (a) v = u + at = 0 + (0.8 × 25) = 20 m/s
+    (b) t = Δv/a = 20/0.5 = 40 s
+    (c) Total time = 25 + 120 + 40 = 185 s (or 3 min 5 s)
+    (d) Trains have large mass, so require more force/time to change velocity.
+        Rapid acceleration/deceleration would be uncomfortable for passengers.
+
+49. (a) v = u + at = 0 + (2 × 10) = 20 m/s
+    (b) Both are travelling at 20 m/s, so they have the same speed.
+    (c) 20 = 2 × t, so t = 10 s
+    (d) Car Y will be travelling faster than Car X
+
+50. (a) 80 cm = 0.80 m
+    (b) Average speed = s/t = 0.80/2.0 = 0.40 m/s
+    (c) The marble accelerates, so it starts slow and finishes fast.
+        The average speed is the mean of initial and final speeds.
+    (d) Final speed = 2 × 0.40 = 0.80 m/s
+    (e) a = Δv/t = (0.80-0)/2.0 = 0.40 m/s²
+
+
+SECTION L: GRAPHICAL ANALYSIS
+
+51. (a) Graph A
+    (b) Graph B
+    (c) The gradient (slope) of the line is increasing (getting steeper).
+    (d) The object is decelerating (slowing down) because the gradient is decreasing.
+
+52. (a) 8 km
+    (b) Gradient = Δy/Δx = (8 - 0) / (6 - 0) = 8/6 = 1.33 km/min
+    (c) 1.33 km/min × 60 = 80 km/h
+
+53. (a) Section B. The line is horizontal, meaning distance is not changing (speed is zero).
+    (b) Time = 65 - 25 = 40 minutes
+    (c) Speed = Gradient = 0.3 / 25 = 0.012 km/min
+    (d) Section C. The slope is the steepest in this section.
+
+================================================================================
+                    END OF SECTION 2.1 EXERCISES
+================================================================================

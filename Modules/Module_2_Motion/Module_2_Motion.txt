@@ -1,0 +1,1377 @@
+================================================================================
+                    MODULE 2: MOTION
+================================================================================
+
+================================================================================
+MODULE OVERVIEW
+================================================================================
+
+At the end of this module, students should be able to:
+
+Section 2.1 - Speed, Velocity and Acceleration:
+  * Define speed and velocity.
+  * Recall and use the equation: average speed = total distance / total time
+  * Define acceleration.
+  * Recall and use the equation: a = Δv / Δt
+
+Section 2.2 - Graphs of Motion:
+  * Sketch, plot and interpret distance-time and speed-time graphs.
+  * Determine qualitatively, from given data or the shape of a graph, when an
+    object is at rest, moving with constant speed, accelerating or decelerating.
+  * Calculate speed from a distance-time graph.
+  * Calculate the area under a speed-time graph to determine distance travelled.
+  * Determine when an object is moving with constant or changing acceleration.
+  * Calculate acceleration from a speed-time graph.
+  * Know what is meant by deceleration and use this in calculations.
+
+Section 2.3 - Acceleration of Free Fall:
+  * State that the acceleration of free fall, g, for an object near to the
+    surface of the Earth is approximately constant and is approximately 9.8 m/s².
+  * Describe the motion of objects falling in a uniform gravitational field with
+    and without air resistance.
+
+Prerequisites:
+  - Module 1.1: Physical Quantities and Measurement (Units, calculations)
+  - Basic mathematical skills (division, unit conversion, graph plotting)
+
+Estimated Time: 3-4 hours total
+
+Key Vocabulary:
+  - Speed          - Velocity        - Acceleration   - Deceleration
+  - Scalar         - Vector          - Displacement   - Gradient
+  - Free fall      - Terminal velocity
+
+
+================================================================================
+                    SECTION 2.1: SPEED, VELOCITY AND ACCELERATION
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Define speed and velocity.
+  * Recall and use the equation: average speed = total distance / total time
+  * Define acceleration.
+  * Recall and use the equation: a = Δv / Δt
+
+--------------------------------------------------------------------------------
+2.1.1  SPEED AND AVERAGE SPEED
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Think about the last time you traveled by car, bus, or train. How would you
+describe how fast you were moving? In physics, we use the term "speed" to
+describe this quantitatively.
+
+> DEFINITION
+> Speed is the distance travelled per unit time.
+
+Speed tells us how quickly an object covers a distance. The faster an object
+moves, the greater its speed.
+
+FORMULA:
+
+                          distance
+    speed = ─────────────────────────────
+                            time
+
+Using symbols:
+
+                              s
+                    v = ─────────
+                              t
+
+where:
+    v = speed (in m/s or km/h)
+    s = distance (in m or km)
+    t = time (in s or h)
+
+SI UNITS:
+┌─────────────────┬─────────────────┬─────────────────┐
+│ Quantity        │ SI Unit         │ Symbol          │
+├─────────────────┼─────────────────┼─────────────────┤
+│ Speed           │ metres per      │ m/s             │
+│                 │ second          │                 │
+├─────────────────┼─────────────────┼─────────────────┤
+│ Distance        │ metres          │ m               │
+├─────────────────┼─────────────────┼─────────────────┤
+│ Time            │ seconds         │ s               │
+└─────────────────┴─────────────────┴─────────────────┘
+
+NOTE: Speed is a SCALAR quantity - it has magnitude (size) only, with no
+direction.
+
+AVERAGE SPEED
+---------------
+
+In real life, objects rarely travel at a constant speed. To describe the
+overall motion, we use average speed.
+
+> DEFINITION
+> Average speed is the total distance travelled divided by the total time taken.
+
+FORMULA:
+                            total distance
+    average speed = ─────────────────────────────
+                              total time
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 1: Calculating Speed
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A cyclist travels 450 m in 30 s. Calculate the cyclist's speed.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   s = 450 m
+             t = 30 s
+    Required: v = ?
+
+Step 2: Select the appropriate equation
+             s
+    v = ─────────
+             t
+
+Step 3: Substitute the values
+             450 m
+    v = ─────────────
+             30 s
+
+Step 4: Calculate
+    v = 15 m/s
+
+Step 5: State the answer with correct unit
+    The cyclist's speed is 15 m/s.
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 2: Calculating Distance
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A train travels at an average speed of 80 km/h for 2.5 hours.
+Calculate the total distance traveled.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   v = 80 km/h
+             t = 2.5 h
+    Required: s = ?
+
+Step 2: Rearrange the equation to find distance
+    From v = s/t, we get:
+    s = v × t
+
+Step 3: Substitute the values
+    s = 80 km/h × 2.5 h
+
+Step 4: Calculate
+    s = 200 km
+
+Step 5: State the answer
+    The train travels 200 km.
+
+
+--------------------------------------------------------------------------------
+UNIT CONVERSION REMINDER
+--------------------------------------------------------------------------------
+
+COMMON CONVERSIONS:
+┌────────────────────────────────────────────────────────────────────────────┐
+│ km/h to m/s:    divide by 3.6      │  Example: 72 km/h ÷ 3.6 = 20 m/s    │
+├────────────────────────────────────────────────────────────────────────────┤
+│ m/s to km/h:    multiply by 3.6    │  Example: 15 m/s × 3.6 = 54 km/h    │
+├────────────────────────────────────────────────────────────────────────────┤
+│ min to s:       multiply by 60     │  Example: 5 min × 60 = 300 s        │
+└────────────────────────────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.1---
+TYPE: Equation
+PURPOSE: Help students remember and rearrange the speed equation v = s/t
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 1:1 square
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Centered equilateral triangle with internal dividers
+
+COMPONENTS:
+  [Triangle Outline]
+    Symbol: triangle
+    Position: grid(2,2) to grid(8,8)
+    Size: large
+    Style: solid thick (3px)
+    Fill: none
+
+  [Horizontal Divider]
+    Symbol: line
+    Position: grid(2,5) to grid(8,5)
+    Size: full width
+    Style: solid medium (2px)
+
+  [Vertical Divider]
+    Symbol: line
+    Position: grid(5,5) to grid(5,8)
+    Size: half height
+    Style: solid medium (2px)
+
+  [Variable s]
+    Symbol: text_placeholder
+    Position: grid(5,3.5)
+    Label: "s" [center]
+
+  [Variable v]
+    Symbol: text_placeholder
+    Position: grid(3.5,6.5)
+    Label: "v" [center]
+
+  [Variable t]
+    Symbol: text_placeholder
+    Position: grid(6.5,6.5)
+    Label: "t" [center]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  None
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+2.1.2  VELOCITY
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Imagine two cars traveling at 60 km/h. One is heading north, the other south.
+They have the same speed, but they are not moving in the same way! This is
+where we need a quantity that includes both speed AND direction.
+
+> DEFINITION
+> Velocity is speed in a given direction.
+
+Velocity tells us not just how fast an object is moving, but also the direction
+of its motion.
+
+COMPARING SPEED AND VELOCITY:
+┌─────────────────┬─────────────────────────────────────────────────────────────┐
+│ SPEED           │ VELOCITY                                                    │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Scalar quantity │ Vector quantity                                             │
+│ Has magnitude   │ Has magnitude AND direction                                 │
+│ only            │                                                             │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ "The car is     │ "The car is traveling at 20 m/s heading north"              │
+│ traveling at    │                                                             │
+│ 20 m/s"         │                                                             │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Always positive │ Can be positive or negative (depending on direction)        │
+└─────────────────┴─────────────────────────────────────────────────────────────┘
+
+IMPORTANT:
+* A change in speed means velocity changes.
+* A change in direction (even at constant speed) also means velocity changes.
+
+DISPLACEMENT VS DISTANCE
+--------------------------
+
+When dealing with velocity, we use DISPLACEMENT instead of distance.
+
+> DEFINITION
+> Displacement is the distance traveled in a particular direction
+> (the straight-line distance from start to finish).
+
+COMPARING DISTANCE AND DISPLACEMENT:
+┌─────────────────┬─────────────────────────────────────────────────────────────┐
+│ DISTANCE        │ DISPLACEMENT                                                │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Total path      │ Shortest path from start to end point                       │
+│ length traveled │ (straight line)                                             │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Scalar          │ Vector                                                      │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Always positive │ Can be positive, negative, or zero                          │
+└─────────────────┴─────────────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.2---
+TYPE: Comparison
+PURPOSE: Distinguish between scalar (speed) and vector (velocity) quantities
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Side-by-side comparison panels
+
+COMPONENTS:
+  [Left Panel - Speed]
+    Symbol: speedometer
+    Position: grid(2,2)
+    Size: medium
+    Label: "SPEED" [top], "SCALAR" [bottom]
+    Style: blue accent
+
+  [Right Panel - Velocity]
+    Symbol: car_with_arrow
+    Position: grid(8,2)
+    Size: medium
+    Label: "VELOCITY" [top], "VECTOR" [bottom]
+    Style: green accent
+
+  [Divider]
+    Symbol: vertical_line
+    Position: grid(6,1) to grid(6,7)
+    Style: dashed gray
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Speed Value]: "20 m/s" inside speedometer
+  [Velocity Value]: "20 m/s North" near arrow
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.3---
+TYPE: Comparison
+PURPOSE: Distinguish between distance (total path) and displacement (straight-line)
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Geometric path diagram
+
+COMPONENTS:
+  [Start Point]
+    Symbol: circle_filled
+    Position: grid(2,2)
+    Label: "Start" [left]
+    Color: blue
+
+  [End Point]
+    Symbol: circle_filled
+    Position: grid(6,5)
+    Label: "End" [right]
+    Color: green
+
+CONNECTIONS:
+  [Path Segment 1]: grid(2,2) → grid(6,2), solid orange line, "4 m East"
+  [Path Segment 2]: grid(6,2) → grid(6,5), solid orange line, "3 m North"
+  [Displacement]: grid(2,2) → grid(6,5), dashed blue arrow, "Displacement = 5 m"
+
+ANNOTATIONS:
+  [Distance Label]: "Distance = 7 m" near path
+  [Compass]: Top-right corner
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Speed and Velocity
+--------------------------------------------------------------------------------
+
+Q1. Define speed.
+
+Q2. Define velocity.
+
+Q3. A car travels 240 km in 3 hours. Calculate the average speed.
+
+Q4. A bus travels 50 m east and then 50 m west. Calculate:
+    a) the total distance traveled
+    b) the displacement
+
+Q5. Explain why a car moving around a roundabout at constant speed has a
+    changing velocity.
+
+(Answers at end of section)
+
+
+--------------------------------------------------------------------------------
+2.1.3  ACCELERATION
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+When you press the accelerator pedal in a car, the car speeds up. When you
+apply the brakes, it slows down. Both are examples of a change in velocity.
+
+> DEFINITION
+> Acceleration is the change in velocity per unit time.
+> (Or: Acceleration is the rate of change of velocity.)
+
+FORMULA:
+
+                        change in velocity
+    acceleration = ────────────────────────────
+                           time taken
+
+Using symbols:
+
+                         Δv        v - u
+                a = ─────────  = ─────────
+                         Δt           t
+
+where:
+    a  = acceleration (in m/s²)
+    Δv = change in velocity (in m/s)
+    v  = final velocity (in m/s)
+    u  = initial velocity (in m/s)
+    t  = time taken (in s)
+
+SI UNITS:
+    Acceleration is measured in metres per second squared (m/s²).
+
+NOTE: Acceleration is a VECTOR quantity - it has both magnitude and direction.
+
+
+UNDERSTANDING ACCELERATION VALUES
+-----------------------------------
+
+POSITIVE ACCELERATION:
+    * Velocity is increasing
+    * Object is speeding up
+    * Example: a = +2 m/s² means velocity increases by 2 m/s every second
+
+NEGATIVE ACCELERATION (DECELERATION):
+    * Velocity is decreasing
+    * Object is slowing down
+    * Example: a = -3 m/s² means velocity decreases by 3 m/s every second
+
+> DEFINITION
+> Deceleration is a negative acceleration.
+> It means the object is slowing down.
+
+CAUTION:
+Negative acceleration does NOT always mean slowing down!
+If an object moves in the negative direction and has negative acceleration,
+it is actually speeding up! The key is whether acceleration and velocity
+point in the same direction.
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 3: Calculating Acceleration
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A car accelerates from rest to 24 m/s in 8.0 s. Calculate the acceleration.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   u = 0 m/s (rest)
+             v = 24 m/s
+             t = 8.0 s
+    Required: a = ?
+
+Step 2: Select the appropriate equation
+                 v - u
+    a = ─────────────────
+                    t
+
+Step 3: Substitute the values
+                 24 - 0
+    a = ─────────────────
+                  8.0
+
+Step 4: Calculate
+    a = 3.0 m/s²
+
+Step 5: State the answer
+    The acceleration of the car is 3.0 m/s².
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 4: Calculating Deceleration
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A cyclist traveling at 15 m/s applies the brakes and comes to rest in 6.0 s.
+Calculate the deceleration.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   u = 15 m/s
+             v = 0 m/s (comes to rest)
+             t = 6.0 s
+    Required: a = ?
+
+Step 2: Select the appropriate equation
+                 v - u
+    a = ─────────────────
+                    t
+
+Step 3: Substitute the values
+                 0 - 15
+    a = ─────────────────
+                  6.0
+
+Step 4: Calculate
+    a = -2.5 m/s²
+
+Step 5: State the answer
+    The acceleration is -2.5 m/s² (or deceleration of 2.5 m/s²).
+    (The negative sign indicates the cyclist is slowing down)
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.4---
+TYPE: Equation
+PURPOSE: Help students remember and rearrange the acceleration equation a = Δv/t
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 1:1 square
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Centered equilateral triangle with internal dividers
+
+COMPONENTS:
+  [Triangle Outline]
+    Symbol: triangle
+    Position: grid(2,2) to grid(8,8)
+    Size: large
+    Style: solid thick (3px)
+
+  [Horizontal Divider]
+    Symbol: line
+    Position: grid(2,5) to grid(8,5)
+    Size: full width
+    Style: solid medium (2px)
+
+  [Vertical Divider]
+    Symbol: line
+    Position: grid(5,5) to grid(5,8)
+    Size: half height
+    Style: solid medium (2px)
+
+  [Variable Δv]
+    Symbol: text_placeholder
+    Position: grid(5,3.5)
+    Label: "Δv" [center]
+
+  [Variable a]
+    Symbol: text_placeholder
+    Position: grid(3.5,6.5)
+    Label: "a" [center]
+
+  [Variable t]
+    Symbol: text_placeholder
+    Position: grid(6.5,6.5)
+    Label: "t" [center]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  None
+---END DIAGRAM---
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Acceleration
+--------------------------------------------------------------------------------
+
+Q6. Define acceleration.
+
+Q7. State the SI unit of acceleration.
+
+Q8. A motorbike accelerates from 10 m/s to 30 m/s in 5.0 s.
+    Calculate the acceleration.
+
+Q9. A car traveling at 25 m/s brakes and decelerates at 5.0 m/s².
+    Calculate the time taken for the car to stop.
+
+Q10. Explain the difference between acceleration and deceleration.
+
+(Answers at end of section)
+
+
+================================================================================
+                    SECTION 2.2: GRAPHS OF MOTION
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Sketch, plot and interpret distance-time and speed-time graphs.
+  * Determine qualitatively, from given data or the shape of a distance-time graph or speed-time
+    graph, when an object is at rest, moving with constant speed, accelerating or decelerating.
+  * Calculate speed from a distance-time graph.
+  * Calculate the area under a speed-time graph to determine distance travelled.
+  * Determine when an object is moving with constant or changing acceleration from given data or the shape of a speed-time graph.
+  * Calculate acceleration from a speed-time graph.
+  * Know what is meant by deceleration and use this in calculations.
+
+--------------------------------------------------------------------------------
+2.2.1  DISTANCE-TIME GRAPHS
+--------------------------------------------------------------------------------
+
+A distance-time graph is used to describe the motion of an object and calculate its speed.
+  - The x-axis represents TIME.
+  - The y-axis represents DISTANCE.
+
+INTERPRETING THE SHAPE:
+
+Shape                     | Meaning
+--------------------------|--------------------------------------------
+Horizontal line           | Object is AT REST (stationary). Distance does not change.
+Straight diagonal line    | Object is moving at CONSTANT SPEED.
+Curved line (concave up)  | Object is ACCELERATING (speeding up). Gradient increases.
+Curved line (concave down)| Object is DECELERATING (slowing down). Gradient decreases.
+
+- **Steeper slope** = Faster speed.
+- **Shallower slope** = Slower speed.
+
+CALCULATING SPEED FROM A DISTANCE-TIME GRAPH:
+
+The GRADIENT (slope) of a distance-time graph equals the SPEED.
+
+                        change in y      distance
+    Speed = Gradient = ──────────────────────  = ───────────────
+                        change in x         time
+
+    v = Δy / Δx
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.5---
+TYPE: Graph
+PURPOSE: Show how different straight line shapes represent constant motion
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Time / s" [x-axis], "Distance / m" [y-axis]
+
+  [Gradient Box]
+    Symbol: box
+    Position: grid(4,4)
+    Label: "Gradient = Speed"
+
+CONNECTIONS:
+  [Segment 1]: grid(1,2) → grid(3,2), solid blue line, "At rest"
+  [Segment 2]: grid(3,2) → grid(6,6), solid green line, "Constant speed (Slow)"
+  [Segment 3]: grid(3,2) → grid(6,8), solid red line, "Constant speed (Fast)"
+
+ANNOTATIONS:
+  None
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.6---
+TYPE: Graph
+PURPOSE: Show how curved lines represent changing speed (acceleration/deceleration)
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Time / s" [x-axis], "Distance / m" [y-axis]
+
+CONNECTIONS:
+  [Curve 1]: grid(1,1) → grid(9,9), solid orange curve (concave up), "Accelerating"
+  [Curve 2]: grid(1,1) → grid(9,5), solid purple curve (concave down), "Decelerating"
+
+ANNOTATIONS:
+  [Note 1]: "Gradient increases" near Curve 1
+  [Note 2]: "Gradient decreases" near Curve 2
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 5: Speed from a Distance-Time Graph
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A distance-time graph shows a train journey. The train travels at a constant speed, covering 8000 m in 360 s.
+Calculate the speed of the train.
+
+SOLUTION:
+
+Step 1: Identify that speed is the gradient of the distance-time graph.
+    Speed = Gradient = Δy / Δx
+
+Step 2: Substitute the values.
+    Δy (distance) = 8000 m
+    Δx (time) = 360 s
+
+    v = 8000 / 360
+
+Step 3: Calculate.
+    v = 22.2 m/s
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 6: Interpreting a Distance-Time Graph
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A student walks to a park, sits on a bench to read, and then runs home.
+- Section A: Straight line with moderate slope.
+- Section B: Horizontal line.
+- Section C: Straight line with steep slope.
+
+a) What does Section B represent?
+b) Which section represents the fastest speed?
+
+SOLUTION:
+
+a) Section B is a horizontal line. This means the distance is not changing.
+   The student is AT REST (sitting on the bench).
+
+b) Section C has the steepest slope.
+   A steeper slope means a higher gradient, which means a higher speed.
+   Therefore, Section C represents the fastest speed (running home).
+
+
+--------------------------------------------------------------------------------
+2.2.2  SPEED-TIME GRAPHS
+--------------------------------------------------------------------------------
+
+A speed-time graph is used to describe the speed of an object and calculate its acceleration and distance travelled.
+  - The x-axis represents TIME.
+  - The y-axis represents SPEED.
+
+INTERPRETING THE SHAPE:
+
+Shape                     | Meaning
+--------------------------|--------------------------------------------
+Horizontal line (y > 0)   | Moving at CONSTANT SPEED (Acceleration = 0).
+Horizontal line (y = 0)   | Object is AT REST (Stationary).
+Straight line going UP    | CONSTANT ACCELERATION (Speeding up).
+Straight line going DOWN  | CONSTANT DECELERATION (Slowing down).
+Curved line               | CHANGING ACCELERATION.
+
+- **Positive Gradient** = Acceleration.
+- **Negative Gradient** = Deceleration.
+
+KEY CALCULATIONS:
+
+1.  CALCULATING ACCELERATION:
+    The GRADIENT of a speed-time graph equals the ACCELERATION.
+
+                            change in speed      Δv
+    Acceleration = Gradient = ─────────────────────────────────  = ────
+                                time taken         Δt
+
+2.  CALCULATING DISTANCE:
+    The AREA UNDER a speed-time graph equals the DISTANCE TRAVELLED.
+
+    - For a rectangle: Area = base × height
+    - For a triangle:  Area = ½ × base × height
+    - Total Distance = Sum of all areas.
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.7---
+TYPE: Graph
+PURPOSE: Show how to interpret speed-time graphs and calculate distance
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Time / s" [x-axis], "Speed / (m/s)" [y-axis]
+
+  [Shaded Area]
+    Symbol: rectangle_filled
+    Position: grid(1,1) to grid(3,3)
+    Fill: light blue (20%)
+    Label: "Distance = Area"
+
+CONNECTIONS:
+  [Segment 1]: grid(1,3) → grid(3,3), solid blue line, "Constant speed"
+  [Segment 2]: grid(3,3) → grid(6,6), solid green line, "Constant acceleration"
+  [Segment 3]: grid(6,6) → grid(9,3), solid orange line, "Deceleration"
+
+ANNOTATIONS:
+  None
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.8---
+TYPE: Graph
+PURPOSE: Show changing acceleration on a speed-time graph
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Time / s" [x-axis], "Speed / (m/s)" [y-axis]
+
+CONNECTIONS:
+  [Curve 1]: grid(1,1) → grid(5,8), solid red curve (concave up), "Increasing Acceleration"
+  [Curve 2]: grid(1,1) → grid(9,5), solid blue curve (concave down), "Decreasing Acceleration"
+
+ANNOTATIONS:
+  [Note 1]: "Steeper slope over time" near Curve 1
+  [Note 2]: "Flatter slope over time" near Curve 2
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 7: Distance from a Speed-Time Graph
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A car travels at 10 m/s for 5 s, then accelerates to 20 m/s in 5 s.
+Calculate the total distance travelled.
+
+SOLUTION:
+
+Step 1: Split the area under the graph into shapes.
+    - Area A (Rectangle): 0 to 5 s. Speed = 10 m/s.
+    - Area B (Trapezium or Rectangle + Triangle): 5 to 10 s. Speed 10 to 20 m/s.
+
+Step 2: Calculate Area A.
+    Area A = base × height = 5 s × 10 m/s = 50 m.
+
+Step 3: Calculate Area B.
+    Split into a rectangle (5s × 10 m/s) and a triangle (5s × 10 m/s).
+    Rectangle Area = 5 × 10 = 50 m.
+    Triangle Area = ½ × 5 × (20 - 10) = ½ × 5 × 10 = 25 m.
+    Total Area B = 50 + 25 = 75 m.
+
+Step 4: Total Distance.
+    Distance = Area A + Area B = 50 m + 75 m = 125 m.
+
+
+--------------------------------------------------------------------------------
+2.2.3  NON-UNIFORM ACCELERATION (EXTENDED)
+--------------------------------------------------------------------------------
+
+When the speed-time graph is a CURVE, the acceleration is changing.
+- **Increasing Gradient** (curve getting steeper) = Increasing Acceleration.
+- **Decreasing Gradient** (curve flattening) = Decreasing Acceleration.
+
+CALCULATING INSTANTANEOUS ACCELERATION:
+To find the acceleration at a specific time on a curve:
+1.  Draw a **TANGENT** to the curve at that specific time point.
+    (A tangent is a straight line that touches the curve at only one point and matches its slope).
+2.  Calculate the **GRADIENT** of the tangent.
+
+    Acceleration = Gradient of Tangent = Δv / Δt
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.9---
+TYPE: Graph
+PURPOSE: Show how to calculate acceleration from a tangent on a curve
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Time / s" [x-axis], "Speed / (m/s)" [y-axis]
+
+  [Curve]
+    Symbol: curve
+    Position: grid(1,1) to grid(9,8)
+    Style: solid black
+    Label: "Changing Acceleration"
+
+  [Tangent Line]
+    Symbol: line
+    Position: grid(3,2) to grid(7,8)
+    Style: dashed red
+    Label: "Tangent at t=5s"
+
+  [Gradient Triangle]
+    Symbol: triangle_dashed
+    Position: grid(5,5)
+    Label: "Gradient = Acceleration"
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Point]: Dot at grid(5,5) where tangent touches curve
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 8: Acceleration from a Tangent
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A skydiver falls with changing acceleration. A speed-time graph is plotted.
+Calculate the acceleration at t = 5 s.
+
+SOLUTION:
+
+Step 1: Draw a tangent.
+    Draw a straight line touching the curve at t = 5 s.
+
+Step 2: Calculate the gradient of the tangent.
+    Pick two points on the tangent line (not necessarily on the curve).
+    Point 1: (0.75 s, 20 m/s)
+    Point 2: (9.75 s, 58 m/s)
+
+    Gradient = (58 - 20) / (9.75 - 0.75)
+             = 38 / 9.0
+             = 4.2
+
+Step 3: State the answer.
+    Acceleration = 4.2 m/s²
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Graphs of Motion
+--------------------------------------------------------------------------------
+
+Q11. What does a horizontal line represent on a distance-time graph?
+
+Q12. How do you calculate speed from a distance-time graph?
+
+Q13. What does the area under a speed-time graph represent?
+
+Q14. Sketch a speed-time graph for a car that starts from rest, accelerates
+     uniformly for 5 seconds, then moves at constant speed for 10 seconds.
+
+Q15. From a speed-time graph, a car accelerates from 0 to 20 m/s in 4 seconds.
+     Calculate the acceleration.
+
+(Answers at end of section)
+
+
+================================================================================
+                    SECTION 2.3: ACCELERATION OF FREE FALL
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * State that the acceleration of free fall g is approximately 9.8 m/s².
+  * Describe the motion of objects falling with and without air resistance.
+
+--------------------------------------------------------------------------------
+2.3.1  ACCELERATION DUE TO GRAVITY
+--------------------------------------------------------------------------------
+
+> KEY STATEMENT
+> The acceleration of free fall, g, for an object near to the surface of the
+> Earth is approximately constant and is approximately 9.8 m/s².
+
+This means:
+  - All objects, regardless of their mass, fall with the same acceleration
+    (when air resistance is negligible).
+  - Every second, the velocity of a falling object increases by about 9.8 m/s.
+
+    g ≈ 9.8 m/s²
+
+EXAMPLE: Falling object
+If you drop a ball from rest:
+  - After 1 second: speed = 9.8 m/s
+  - After 2 seconds: speed = 19.6 m/s
+  - After 3 seconds: speed = 29.4 m/s
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.10---
+TYPE: Graph
+PURPOSE: Show that objects in free fall have constant acceleration (g = 9.8 m/s²)
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Time / s" [x-axis], "Speed / (m/s)" [y-axis]
+
+  [Gradient Triangle]
+    Symbol: triangle_dashed
+    Position: grid(5,5)
+    Label: "Gradient = g = 9.8 m/s²"
+
+CONNECTIONS:
+  [Free Fall Line]: grid(1,1) → grid(9,9), solid blue line, "Free fall (no air resistance)"
+
+ANNOTATIONS:
+  [Data Points]: Dots at t=1, t=2, t=3
+---END DIAGRAM---
+
+
+--------------------------------------------------------------------------------
+2.3.2  MOTION WITH AIR RESISTANCE
+--------------------------------------------------------------------------------
+
+In the real world, air resistance (drag) opposes the motion of falling objects.
+
+MOTION OF A FALLING OBJECT IN AIR:
+
+1.  START: Object falls, speed is low, air resistance is small.
+    Net force is large → acceleration is close to g (9.8 m/s²).
+
+2.  MIDDLE: As speed increases, air resistance increases.
+    Net force decreases → acceleration decreases.
+
+3.  END (TERMINAL VELOCITY): Air resistance equals weight.
+    Net force is zero → acceleration is zero.
+    The object now falls at a constant maximum speed.
+
+> DEFINITION
+> Terminal velocity is the maximum constant velocity reached by a falling
+> object when the air resistance (drag) equals the object's weight.
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.11---
+TYPE: Graph
+PURPOSE: Compare motion of falling objects with and without air resistance
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Time / s" [x-axis], "Speed / (m/s)" [y-axis]
+
+  [Terminal Velocity Line]
+    Symbol: line_dashed
+    Position: grid(1,7) to grid(9,7)
+    Label: "Terminal velocity"
+
+CONNECTIONS:
+  [Line A (Vacuum)]: grid(1,1) → grid(9,9), solid blue line, "In a vacuum"
+  [Line B (Air)]: grid(1,1) → grid(9,7), solid green curve, "In air"
+
+ANNOTATIONS:
+  [Note]: "Acceleration decreasing" near curve
+---END DIAGRAM---
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Free Fall
+--------------------------------------------------------------------------------
+
+Q16. State the approximate value of the acceleration of free fall, g.
+
+Q17. What is terminal velocity?
+
+Q18. Describe how the acceleration of a skydiver changes from the moment
+     they jump out of the plane until they reach terminal velocity.
+
+Q19. Why does a feather fall slower than a hammer in air, but at the same
+     rate in a vacuum?
+
+(Answers at end of section)
+
+
+================================================================================
+SECTION 2.1-2.3 SUMMARY
+================================================================================
+
+KEY DEFINITIONS:
+┌─────────────────┬────────────────────────────────────────────────────────────┐
+│ Speed           │ Distance travelled per unit time                           │
+├─────────────────┼────────────────────────────────────────────────────────────┤
+│ Velocity        │ Speed in a given direction                                 │
+├─────────────────┼────────────────────────────────────────────────────────────┤
+│ Acceleration    │ Change in velocity per unit time                           │
+├─────────────────┼────────────────────────────────────────────────────────────┤
+│ Deceleration    │ Negative acceleration (slowing down)                       │
+├─────────────────┼────────────────────────────────────────────────────────────┤
+│ Terminal        │ Maximum constant velocity when air resistance equals       │
+│ velocity        │ the weight of the object                                   │
+└─────────────────┴────────────────────────────────────────────────────────────┘
+
+KEY EQUATIONS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                            s            total distance                      │
+│        Speed:     v = ─────────    or   ─────────────────                   │
+│                            t              total time                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                            Δv       v - u                                   │
+│  Acceleration:    a = ─────────  = ────────                                 │
+│                             t          t                                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+KEY GRAPH RELATIONSHIPS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ DISTANCE-TIME GRAPH                                                         │
+│   - Gradient = Speed                                                        │
+│   - Horizontal line = At rest                                               │
+│   - Straight line = Constant speed                                          │
+│   - Curved line = Changing speed (Acceleration/Deceleration)                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ SPEED-TIME GRAPH                                                            │
+│   - Gradient = Acceleration                                                 │
+│   - Area under graph = Distance                                             │
+│   - Horizontal line = Constant speed (or at rest if at y=0)                 │
+│   - Curved line = Changing acceleration                                     │
+│   - Gradient of Tangent = Instantaneous Acceleration                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+SCALAR VS VECTOR:
+┌──────────────────────────────────────┬──────────────────────────────────────┐
+│ SCALAR (magnitude only)              │ VECTOR (magnitude + direction)       │
+├──────────────────────────────────────┼──────────────────────────────────────┤
+│ Speed                                │ Velocity                             │
+│ Distance                             │ Displacement                         │
+│ Time                                 │ Acceleration                         │
+│ Mass                                 │ Force                                │
+└──────────────────────────────────────┴──────────────────────────────────────┘
+
+
+================================================================================
+COMMON MISCONCEPTIONS
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ MISCONCEPTION                        │ CORRECTION                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ "Speed and velocity are the same"    │ Speed is a scalar (magnitude only);  │
+│                                      │ velocity is a vector (magnitude +    │
+│                                      │ direction)                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ "Constant speed means constant       │ Not true! An object moving in a      │
+│ velocity"                            │ circle has constant speed but        │
+│                                      │ changing velocity (direction changes)│
+├─────────────────────────────────────────────────────────────────────────────┤
+│ "Negative acceleration always means  │ Negative acceleration means          │
+│ slowing down"                        │ acceleration in the negative         │
+│                                      │ direction. If the object is also     │
+│                                      │ moving in the negative direction,    │
+│                                      │ it speeds up!                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ "Heavier objects fall faster"        │ In a vacuum, all objects fall with   │
+│                                      │ the same acceleration (g). In air,   │
+│                                      │ differences are due to air           │
+│                                      │ resistance, not mass alone.          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+
+================================================================================
+ANSWERS TO CHECK YOUR UNDERSTANDING
+================================================================================
+
+SPEED AND VELOCITY (Q1-Q5):
+
+Q1. Speed is the distance travelled per unit time.
+
+Q2. Velocity is speed in a given direction.
+
+Q3. Average speed = 240 km ÷ 3 h = 80 km/h
+
+Q4. a) Distance = 50 + 50 = 100 m
+    b) Displacement = 0 (back to starting point)
+
+Q5. Although the speed is constant, the direction of the car continuously
+    changes as it goes around the roundabout. Since velocity depends on
+    direction, the velocity is changing.
+
+ACCELERATION (Q6-Q10):
+
+Q6. Acceleration is the change in velocity per unit time.
+
+Q7. metres per second squared (m/s²)
+
+Q8. a = (v - u)/t = (30 - 10)/5.0 = 4.0 m/s²
+
+Q9. From v = u + at, rearranging for t:
+    t = (v - u) / a = (0 - 25) / (-5.0) = 5.0 s
+
+Q10. Acceleration is the rate of change of velocity. Deceleration is
+     specifically a negative acceleration, meaning the object is slowing
+     down (velocity magnitude is decreasing).
+
+GRAPHS OF MOTION (Q11-Q15):
+
+Q11. A horizontal line on a distance-time graph means the object is at rest
+     (stationary).
+
+Q12. Speed = Gradient of the distance-time graph = Δdistance / Δtime.
+
+Q13. The area under a speed-time graph represents the distance travelled.
+
+Q14. The graph should show:
+     - A diagonal line going up from (0,0) to (5, v_max) for acceleration.
+     - A horizontal line from (5, v_max) to (15, v_max) for constant speed.
+
+Q15. Acceleration = (20 - 0) / 4 = 5.0 m/s²
+
+FREE FALL (Q16-Q19):
+
+Q16. g ≈ 9.8 m/s²
+
+Q17. Terminal velocity is the maximum constant velocity reached by a falling
+     object when the air resistance equals the object's weight.
+
+Q18. Initially, the skydiver accelerates at approximately 9.8 m/s². As their
+     speed increases, air resistance increases. This causes the net force
+     and thus acceleration to decrease. When air resistance equals their
+     weight, acceleration becomes zero, and they fall at terminal velocity.
+
+Q19. In air, the feather has a large surface area relative to its weight, so
+     air resistance slows it significantly. The hammer is denser and
+     reaches higher speeds before air resistance becomes significant.
+     In a vacuum, there is no air resistance, so both fall with the same
+     acceleration (g).
+
+
+================================================================================
+PRACTICE EXERCISES
+================================================================================
+
+SECTION A: RECALL
+
+1.  Define speed.
+
+2.  State the equation for calculating average speed.
+
+3.  What is the difference between speed and velocity?
+
+4.  State the value of the acceleration of free fall near Earth.
+
+5.  What does the gradient of a distance-time graph represent?
+
+SECTION B: APPLICATION
+
+6.  A car travels 600 m in 30 s. Calculate its average speed.
+
+7.  A cyclist accelerates from 5.0 m/s to 15 m/s in 4.0 s.
+    Calculate the acceleration.
+
+8.  An object falls from rest. Assuming no air resistance, calculate its
+    speed after 3.0 s. (g = 9.8 m/s²)
+
+9.  The distance-time graph of a bicycle shows it travels 0 m at t=0 s
+    and 120 m at t=20 s in a straight line. Calculate the speed.
+
+10. A car is traveling at 20 m/s for 10 seconds. Calculate the distance
+    covered using the area under a speed-time graph.
+
+SECTION C: ANALYSIS
+
+11. A bus leaves a stop and accelerates uniformly for 10 s, reaching a speed
+    of 15 m/s. It then travels at constant speed for 30 s before decelerating
+    uniformly to rest in 5 s.
+    a) Sketch the speed-time graph for this journey.
+    b) Calculate the acceleration in the first 10 s.
+    c) Calculate the total distance travelled.
+
+12. A stone is dropped from a cliff. Describe and explain how its velocity
+    changes over time if there is significant air resistance.
+
+
+================================================================================
+SELF-ASSESSMENT CHECKLIST
+================================================================================
+
+After studying this module, you should be able to check off each statement:
+
+□ I can define speed as distance travelled per unit time.
+□ I can recall and use the equation v = s/t.
+□ I can calculate average speed using total distance ÷ total time.
+□ I can define velocity as speed in a given direction.
+□ I can explain the difference between scalar and vector quantities.
+□ I can define acceleration as change in velocity per unit time.
+□ I can recall and use the equation a = Δv/Δt.
+□ I can calculate acceleration, including deceleration (negative values).
+□ I can sketch, plot and interpret distance-time graphs.
+□ I can calculate speed from the gradient of a distance-time graph.
+□ I can sketch, plot and interpret speed-time graphs.
+□ I can calculate acceleration from the gradient of a speed-time graph.
+□ I can calculate distance from the area under a speed-time graph.
+□ I can state that g ≈ 9.8 m/s².
+□ I can describe motion with and without air resistance.
+□ I can explain terminal velocity.
+
+
+================================================================================
+                    END OF MODULE 2: MOTION
+================================================================================

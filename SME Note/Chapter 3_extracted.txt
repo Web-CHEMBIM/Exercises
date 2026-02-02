@@ -1,0 +1,1009 @@
+Cambridge (CIE) IGCSE
+
+Physics
+
+Mass, Weight & Density
+
+Your notes
+
+Contents
+
+Mass & Weight
+Density
+Measuring Density
+Floating
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+1
+
+Your notes
+
+Mass & Weight
+
+Mass & weight
+
+Mass
+
+Mass is defined as:
+
+A measure of the quantity of matter in an object at rest relative to the observer
+
+Consequently, mass is the property of an object that resists change in motion
+
+The greater the mass of an object, the more difficult it is to speed it up, slow it down, or
+change its direction
+
+Mass is a scalar quantity that has magnitude but no direction
+
+Mass is measured in kilograms (kg)
+
+Sometimes mass may be given in grams (g) but this will need to be converted to
+
+kilograms when used in calculations
+
+1000 g = 1 kg
+
+1 g = 0.001 kg
+
+To convert g to kg, divide the mass in g by 1000
+
+To convert kg to g, multiply the mass in g by 1000
+
+Weight
+
+Weight is a gravitational force on an object with mass
+
+Since weight is a force, it is a vector quantity with both magnitude and direction
+
+Weight is measured in newtons (N)
+
+Worked Example
+
+An object has a mass of 4.5 kg.
+
+State the mass of the object in grams (g).
+
+Answer:
+
+Step 1: State the conversion between g and kg
+
+1 kg = 1000 g
+
+Step 2: Convert kg into g by multiplying 
+
+m = 4.5 × 1000
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+2
+
+m = 4500 g
+
+Your notes
+
+Examiner Tips and Tricks
+
+Students commonly confuse mass and weight because the terms are used
+
+interchangeably in everyday speech. In Physics, mass and weight mean very different
+
+things, and you must be confident that you can explain the difference. 
+
+Mass is the amount of matter an object has; it is a scalar quantity, and it is
+
+measured in kg.
+
+Weight is a force; it is a vector quantity, and it is measured in N.
+
+Weight & gravity
+
+Extended tier only
+
+Weight and gravitational field strength
+
+Weight is the effect of a gravitational field on a mass
+
+Weight is defined as:
+
+The force acting on an object with mass when placed in a gravitational field
+
+Planets have strong gravitational fields
+
+Hence, they attract nearby masses with a strong gravitational force
+
+Because of weight:
+
+Objects stay firmly on the ground
+
+Objects will always fall to the ground
+
+Satellites are kept in orbit
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+3
+
+Your notes
+
+Some of the phenomena associated with gravitational attraction and the weight force
+
+Defining gravitational field strength
+
+Gravitational field strength is defined as:
+
+The force per unit mass acting on an object in a gravitational field
+
+On Earth, this is equal to 9.8 N/kg 
+
+g =
+
+W
+m
+
+Where:
+
+g = gravitational field strength, measured in newtons per kilogram (N/kg)
+
+W = force of weight, measured in newtons (N)
+
+m = mass of object, measured in kilograms (kg)
+
+An object in free fall in a vacuum, in a uniform gravitational field, will accelerate at a rate
+also known as g
+
+Where g = acceleration of free fall
+
+In this context, g = 9.8 m/s
+
+2
+
+Gravitational field strength and acceleration of free fall are equivalent quantities 
+
+Mass vs. weight
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+4
+
+An object’s mass always remains the same, regardless of its location in the Universe
+
+The weight force exerted on the object will differ depending on the strength of the
+gravitational field in its location
+
+Your notes
+
+For example, the gravitational field strength on the Moon is 1.63 N/kg, meaning an
+object’s weight will be about 6 times less than on Earth
+
+On the Moon, a person's mass will stay the same but their weight will be much lower
+
+You can find more information about the gravitational field strength on different planets
+
+in the revision note Gravitational field strength
+
+Worked Example
+
+NASA's Artemis mission aims to send the first woman astronaut to the Moon. Isabelle
+hopes to one day become an astronaut. She has a mass of 42 kg.
+
+Compare the difference between Isabelle's weight on Earth, and her weight on the
+Moon.
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+5
+
+Take the Earth's gravitational field strength as 9.8 N/kg, and the Moon's gravitational
+
+field strength as 1.6 N/kg.
+
+Answer:
+
+Step 1: List the known values
+
+Your notes
+
+Mass, m = 42 kg
+Gravitational field strength on Earth, g
+E
+
+Gravitational field strength on Moon, 
+
+= 9.8 N/kg
+
+Step 2: State the equation linking weight,  mass and gravitational field strength
+
+g =
+
+W
+m
+
+Step 3: Rearrange to make weight the subject
+
+W = mg
+
+Step 3: Calculate the weight force exerted on Isabelle on Earth
+
+W
+E
+
+= mg
+E
+
+W
+E
+
+= 42 × 9.8
+
+W
+E
+
+= 411.6 N = 410 N (
+
+2 s.f .
+
+)
+
+Step 4: Calculate the weight force exerted on Isabelle on the Moon
+
+W
+
+M
+
+= mg
+
+M
+
+W
+
+M
+
+= 42 × 1.6
+
+W
+
+M
+
+= 67.2 N = 67 N (
+
+2 s.f .
+
+)
+
+Step 5: Compare the two values of weight
+
+The weight force is greater on Earth than on the Moon
+This is because the Earth has a larger gravitational field strength than the Moon,
+
+so Isabelle's weight force is larger on Earth than on the Moon
+
+Examiner Tips and Tricks
+
+You won't be expected the learn the exact value of g (9.81 N/kg), but you will be
+
+expected to remember that g = 9.8 N/kg and use it in calculations
+
+Using a balance
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+6
+
+The weight of two objects can be compared using a balance
+
+Because the gravitational field strength is constant everywhere on Earth, this also
+allows us to measure the mass of an object
+
+Your notes
+
+m =
+
+W
+g
+
+A balance can be used to compare two different weights
+
+Balances can be digital or analogue
+
+The object being measured is placed on the balance
+
+The reading given is mass in kg or g
+
+Force meters, or newton meters, consist of a spring and hook
+
+The object being measured is hung from the hook
+
+The reading given is weight in N
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+7
+
+Your notes
+
+Density
+
+Density
+
+Density is defined as:
+
+The mass per unit volume of a material
+
+Density is related to mass and volume by the following equation:
+
+ρ =
+
+m
+V
+
+Where:
+
+−3
+ρ = density, measured in kilograms per metre cubed (kg m )
+
+m = mass, measured in kilograms (kg)
+
+3
+V = volume, measured in metres cubed (m )
+
+Formula triangle for density, mass and volume
+
+To use a formula triangle, simply cover up the quantity you wish calculate and the
+structure of the equation is revealed
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+8
+
+Objects made from low density materials typically have a low mass
+
+Similarly sized objects made from high density materials have a high mass
+
+Your notes
+
+For example, a bag full of feathers is far lighter compared to the same bag full of
+
+metal
+
+Or another example, a balloon is less dense than a small bar of lead despite
+
+occupying a larger volume
+
+Gases, for example, are generally less dense than solids because the particles in a gas
+are more spread out (same mass, over a larger volume)
+
+Comparing the density of solids and gases
+
+A gas is less dense than the same substance in liquid or solid form
+
+The units of density depend on what units are used for mass and volume:
+
+If the mass is measured in g and volume in cm , then the density will be in g/cm
+
+3
+
+3
+
+If the mass is measured in kg and volume in m , then the density will be in kg/m
+
+3
+
+3
+
+Determining volume to calculate density
+
+The volume of an object may not always be given directly, but can be calculated with the
+appropriate equation depending on the object’s shape
+
+Common formulae required to calculate the volumes of
+objects
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+9
+
+Your notes
+
+Volumes of common 3D shapes
+
+Worked Example
+
+A paving slab has a mass of 73 kg and dimensions 0.04 m × 0.5 m × 0.85 m.
+
+Calculate the density, in kg/m , of the material from which the paving slab is made.
+
+3
+
+Answer:
+
+Step 1: List the known quantities
+
+Mass of slab, m = 73 kg
+
+Volume of slab, V = 0.04 m × 0.5 m × 0.85 m = 0.017 m
+Step 2: Write out the equation for density, mass and volume
+
+3
+
+Step 3: Substitute in values
+
+ρ =
+
+m
+V
+
+ρ =
+
+73
+0.017
+
+ρ = 4294 kg/m
+
+3
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+10
+
+Step 4: Round the answer to two significant figures
+
+ρ = 4300 kg/m3
+
+Your notes
+
+Examiner Tips and Tricks
+
+Make sure you are comfortable converting between units such as metres (m) and
+
+centimetres (cm) or grams (g) and kilograms (kg).
+
+When converting a larger unit to a smaller one, you multiply (×)
+
+E.g. 125 m = 125 × 100 = 12 500 cm
+
+When you convert a smaller unit to a larger one, you divide (÷)
+
+E.g. 5 g = 5 ÷ 1000 = 0.005 or 5 × 10  kg-3
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+11
+
+Measuring Density
+
+Measuring density
+
+Equipment list
+
+Your notes
+
+Apparatus
+
+Purpose
+
+Regular and irregularly shaped
+
+Objects used to measure the density of
+
+objects
+
+A suitable liquid (e.g. sugar or salt
+
+Liquid to use to measure the density
+
+solution)
+
+A 30 cm ruler
+
+To measure objects up to 30 cm in length
+
+Vernier Calipers
+
+To measure objects to around 15 cm in length
+
+Micrometer
+
+To measure objects to around 3 cm in length
+
+Digital Balance
+
+To measure the mass of objects
+
+Displacement "Eureka" can
+
+To measure the displacement of water of irregularly
+
+shaped objects
+
+Measuring cylinders
+
+To measure the volume of liquid
+
+Resolution of measuring equipment:
+
+30 cm ruler = 1 mm
+
+Vernier calipers = 0.01 mm
+
+Micrometer = 0.001 mm
+
+Digital balance = 0.01 g
+
+Experiment 1: measuring the density of regularly
+shaped objects
+
+The aim of this experiment is to determine the densities of regular objects by using
+measurements of their dimensions
+
+Variables:
+
+Independent variable = Type of shape / volume
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+12
+
+Dependent variable = Mass of the object
+
+Method
+
+Equipment needed to measure the density of regularly shaped
+objects
+
+Your notes
+
+1. Place the object on a digital balance and note down its mass
+
+2. Use either the ruler, Vernier callipers or micrometer to measure the object’s dimensions
+
+(width, height, length, radius) – the apparatus will depend on the size of the object
+
+3. Repeat these measurements and take an average of these readings before calculating
+
+the density
+
+Results
+
+An example results table to measure the density of regularly
+shaped objects
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+13
+
+Your notes
+
+A suitable results table must contain space for multiple readings and any calculations that
+
+need to performed
+
+Analysis of results
+
+Calculate the volume of the object depending on whether it is a cube, sphere, cylinder
+
+(or other regular shape)
+
+Then use the formula for density to calculate the density of each object 
+
+The formulae for volume and density are explained in the revision note Density
+
+Experiment 2: measuring the density of irregularly
+shaped objects
+
+This experiment aims to determine the densities of irregular objects using a
+
+displacement technique
+
+Variables:
+
+Independent variable = Different irregular shapes / mass
+
+Dependent variable = Volume of displaced water
+
+Method
+
+Equipment needed to measure the density of irregularly
+shaped objects
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+14
+
+Your notes
+
+Apparatus for measuring the density of irregular objects
+
+1. Place the object on a digital balance and note down its mass
+
+2. Fill the eureka can with water up to a point just below the spout
+
+3. Place an empty measuring cylinder below its spout
+
+4. Carefully lower the object into the eureka can
+
+5. Measure the volume of the displaced water in the measuring cylinder
+
+6. Repeat these measurements and take an average before calculating the density
+
+Alternatively, the object can be placed in a measuring cylinder containing a known
+volume of liquid, and the change in volume then measured
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+15
+
+Your notes
+
+When an irregular solid is placed in a measuring cylinder, the level of the liquid will rise by
+
+an amount equal to the volume of the solid
+
+Once the mass and volume of the shape is known, its density can be calculated
+
+Results
+
+An example results table to measure the density of irregularly
+shaped objects
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+16
+
+A suitable results table must contain space for multiple readings and any calculations that
+need to performed
+
+Your notes
+
+Analysis of results
+
+The volume of the water displaced is equal to the volume of the object
+
+Once the mass and volume of the shape are known, the density can be calculated using:
+
+ρ =
+
+m
+V
+
+Experiment 3: measuring the density of liquids
+
+This experiment aims to determine the density of a liquid by finding a difference in its
+
+mass
+
+Variables:
+
+Independent variable = Volume of water added
+
+Dependent variable = Mass of cylinder
+
+Method
+
+Equipment needed to measure the density of liquid
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+17
+
+Apparatus for determining the density of a liquid
+
+1. Place an empty measuring cylinder on a digital balance and note down the mass
+
+Your notes
+
+2. Fill the cylinder with the liquid and note down the volume
+
+3. Note down the new reading on the digital balance
+
+4. Repeat these measurements and take an average before calculating the density
+
+Results
+
+An example results table to measure the density of a liquid
+
+A suitable results table must contain space for multiple readings and any calculations that
+need to performed
+
+Analysis of results
+
+Find the mass of the liquid by subtracting the final reading from the original reading
+
+Mass of liquid = Mass of cylinder with water – mass of cylinder
+
+Once the mass and volume of the liquid are known, the density can be calculated using
+the equation for calculating density
+
+This is explained in the revision note Density
+
+Evaluating the experiments
+
+Systematic errors
+
+Ensure the digital balance is set to zero before taking measurements of mass
+
+This includes when measuring the density of the liquid – remove the measuring
+cylinder and zero the balance before adding the liquid
+
+Random errors
+
+A main cause of error in this experiment is in the measurements of length
+
+Ensure to take repeat readings and calculate an average to keep this error to a
+minimum
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+18
+
+Place the irregular object in the displacement can carefully, as dropping it from a height
+might cause water to splash, which will lead to an incorrect volume reading
+
+Safety considerations
+
+Your notes
+
+There is a lot of glassware in this experiment, ensure this is handled carefully
+
+Water should not be poured into the measuring cylinder when it is on the electric
+balance
+
+This could lead to electric shock
+
+Make sure to stand up during the whole experiment, to react quickly to any spills
+
+Examiner Tips and Tricks
+
+There is a lot of information to take in here! When writing about experiments, a good
+
+sequence is as follows:
+
+If you need to use an equation to calculate something, start off by giving it as this
+
+will give you some hints about what you need to mention later
+List the apparatus that you need
+
+State what measurements you need to make (your equation will give you some
+hints) and how you will measure them
+Finally, state that you will repeat each measurement several times and take
+
+averages
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+19
+
+Your notes
+
+Floating
+
+Floating objects
+
+Density and floating
+
+Whether an object floats or sinks depends on the relative densities of the object and
+the fluid it is submerged in
+
+If the object is denser than the fluid, it will sink
+
+If the object is less dense than the fluid, it will float
+
+Upthrust is a force that pushes upwards on an object submerged in a fluid
+
+Upthrust always acts in the opposite direction to the object's weight force
+
+This is how objects float
+
+The size of the upthrust force depends on:
+
+the density of the fluid
+
+the volume of fluid that is displaced (which is equal to the volume of the object)
+
+The denser the liquid, the greater the force of upthrust exerted on the object 
+
+Upthrust and weight forces on a boat
+
+An object will float if the force of upthrust is equal to the force of weight
+
+Factors affecting floating & sinking
+
+The factors affecting floating and sinking are:
+
+upthrust
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+20
+
+density
+
+If the force of upthrust on an object is:
+
+equal to the object’s weight, then the object will float
+
+less than the object’s weight, then the object will sink
+
+If the density of the object is:
+
+greater than the density of the fluid, then the object will sink
+
+less than the density of the fluid, then the object will float
+
+If the density of the object is greater than the density of the fluid, the object can never
+
+displace enough fluid to create an upthrust that will equal its weight (and therefore it
+sinks)
+
+Your notes
+
+Objects which are less dense than water will float in water, and those that are more dense
+
+A polystyrene block will float in water
+
+will sink
+
+This is because polystyrene has a density of 0.05 g/cm  which is much less than the
+3
+density of water (1.0 g/cm )
+
+3
+
+A wooden block will be partially submerged but will still float
+
+This is because the density of a wooden block (0.9 g/cm ) is slightly less than the
+density of water
+
+3
+
+An iron block will sink
+
+This is because iron has a density (7.9 g/cm ) that is much higher than water
+
+3
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+21
+
+Worked Example
+
+Potassium is an alkali metal that reacts with oxygen and water. Potassium is therefore
+stored in containers filled with mineral oil. The potassium must sink in the mineral oil to
+
+Your notes
+
+ensure it has no contact with any air in the container.
+
+A science teacher has four different mineral oils in which they could store their
+
+3
+potassium. Potassium has a density of 0.862 g/cm . 
+
+Which mineral oil should the teacher choose?
+
+A: White mineral oil, ρ = 0.864 g/cm3
+
+B: Paraffin oil, ρ = 0.890 g/cm3
+
+C: Liquid paraffin, ρ = 0.825 g/cm3
+
+D: Food grade mineral oil, ρ = 0.880 g/cm3
+
+Answer: C
+
+An object will sink in a fluid if the density of the object is greater than the density
+of the fluid
+
+Therefore, for the potassium to sink, the density of the oil must be less than the
+density of the potassium
+Liquid paraffin is less dense than potassium
+0.825 g/cm3 < 0.862 g/cm3
+The only oil which is less dense than potassium is C
+
+Examiner Tips and Tricks
+
+The main thing to remember is that density is mass per unit volume
+
+In Physics, mass is almost always measured in kg
+
+Density is the only topic in which physicists sometimes use grams instead
+
+Floating liquids
+
+Extended tier only
+
+A liquid with a lower density will float on a liquid with a higher density if the liquids do not
+mix
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+22
+
+Your notes
+
+Lower density liquids float on higher density liquids as long as the liquids do not mix
+
+Worked Example
+
+3
+Liquid A has a density of 0.76 g/cm  and liquid B has a density of 0.93 g/cm .
+
+3
+
+If the two liquids do not mix, which liquid will float on top of the other?
+
+Answer:
+
+Step 1: List the known quantities
+
+Liquid A = 0.76 g/cm
+Liquid B = 0.93 g/cm
+
+3 
+
+3
+
+Step 2: Determine which liquid has the lowest density
+
+The liquid with the lowest density will float on top of the liquid with the higher
+
+density
+0.76 is less than 0.93
+Therefore, liquid A has the lowest density
+
+Step 3: State your answer
+
+Liquid A will float on top of liquid B
+
+© 2026 Save My Exams, Ltd.
+
+Get more and ace your exams at savemyexams.com
+
+23
+
+

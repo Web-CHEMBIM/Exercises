@@ -1,0 +1,1273 @@
+================================================================================
+                    SECTION 2.3 EXERCISES
+                    ACCELERATION OF FREE FALL
+================================================================================
+
+Learning Objectives Covered:
+  * State that the acceleration of free fall g for an object near to the
+    surface of the Earth is approximately constant and is approximately 9.8 m/s².
+  * Describe the motion of objects falling in a uniform gravitational field with
+    and without air resistance.
+
+Total Questions: 50
+Distribution:
+  - AO1 (Recall):      15 questions (30%)
+  - AO2 (Application): 25 questions (50%)
+  - AO3 (Analysis):    10 questions (20%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (MCQ)
+================================================================================
+                              (12 Questions)
+
+Instructions: Select the best answer from the options A, B, C, or D.
+
+--------------------------------------------------------------------------------
+1. What is the approximate value of the acceleration of free fall, g, near
+   the Earth's surface?
+
+   A  1.0 m/s²
+   B  9.8 m/s²
+   C  10.0 m/s
+   D  98 m/s²
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+2. An object is dropped from rest near the Earth's surface. Ignoring air
+   resistance, what is its speed after 2.0 s?
+
+   A  4.9 m/s
+   B  9.8 m/s
+   C  19.6 m/s
+   D  39.2 m/s
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+3. In a vacuum, a feather and a hammer are dropped from the same height
+   at the same time. Which statement is correct?
+
+   A  The hammer hits the ground first because it is heavier.
+   B  The feather hits the ground first because it is lighter.
+   C  They hit the ground at the same time.
+   D  The hammer hits first because it has more momentum.
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+4. What is terminal velocity?
+
+   A  The initial velocity of a falling object
+   B  The maximum constant velocity reached when air resistance equals weight
+   C  The velocity at which an object starts to fall
+   D  The velocity just before an object hits the ground
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+5. A ball is dropped from rest. After 3.0 s, what is its velocity?
+   (Take g = 9.8 m/s²)
+
+   A  3.3 m/s
+   B  9.8 m/s
+   C  14.7 m/s
+   D  29.4 m/s
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+6. Which graph correctly shows the speed-time graph for an object falling
+   through air until it reaches terminal velocity?
+
+   A  A straight line from the origin with constant gradient
+   B  A horizontal line at a constant speed
+   C  A curve that starts steep and gradually becomes horizontal
+   D  A curve that starts horizontal and gradually becomes steep
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+7. A skydiver jumps from a plane and eventually reaches terminal velocity.
+   At terminal velocity, what is the net force on the skydiver?
+
+   A  Equal to the weight of the skydiver, acting downward
+   B  Equal to the weight of the skydiver, acting upward
+   C  Zero
+   D  Greater than the weight of the skydiver
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+8. The acceleration of free fall, g, is approximately constant near the
+   Earth's surface. This means that:
+
+   A  All objects fall at the same speed
+   B  All objects fall with the same acceleration (ignoring air resistance)
+   C  Heavier objects accelerate faster than lighter objects
+   D  Objects in air fall at the same rate as objects in a vacuum
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+9. An object is dropped from a height. During its fall (with air resistance),
+   how does the acceleration change?
+
+   A  It remains constant at 9.8 m/s²
+   B  It increases from 0 to 9.8 m/s²
+   C  It decreases from 9.8 m/s² towards 0
+   D  It increases until terminal velocity is reached
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+10. A stone is dropped from a cliff and takes 4.0 s to reach the ground.
+    Ignoring air resistance, what is the height of the cliff?
+    (Take g = 9.8 m/s², use s = ½gt²)
+
+    A  19.6 m
+    B  39.2 m
+    C  78.4 m
+    D  156.8 m
+
+    [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+11. Two objects, one with mass 1 kg and one with mass 10 kg, are dropped
+    simultaneously in a vacuum from the same height. Which statement is TRUE?
+
+    A  The 10 kg object hits the ground first.
+    B  The 1 kg object hits the ground first.
+    C  Both objects hit the ground at the same time.
+    D  The 10 kg object has 10 times the acceleration.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+12. Why does a parachute reduce the terminal velocity of a skydiver?
+
+    A  It increases the weight of the skydiver.
+    B  It decreases the weight of the skydiver.
+    C  It increases the air resistance at any given speed.
+    D  It decreases the air resistance at any given speed.
+
+    [AO2 - 1 mark]
+
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION
+================================================================================
+                              (6 Questions)
+
+Instructions: State whether each statement is TRUE or FALSE.
+              If FALSE, write the correct statement.
+
+--------------------------------------------------------------------------------
+13. "The acceleration of free fall, g, has the same value on all planets."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+14. "An object in free fall (no air resistance) has zero acceleration."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+15. "Heavier objects fall faster than lighter objects in a vacuum."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+16. "At terminal velocity, the acceleration of a falling object is zero."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+17. "Air resistance increases as the speed of a falling object increases."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+18. "When a skydiver reaches terminal velocity, they stop falling."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK
+================================================================================
+                              (6 Questions)
+
+Instructions: Complete each sentence using the correct word(s) or value(s).
+
+--------------------------------------------------------------------------------
+19. The acceleration of free fall near the Earth's surface is approximately
+    __________ m/s².
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+20. In a vacuum, all objects fall with the same __________________ regardless
+    of their mass.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+21. Terminal velocity is reached when __________________ equals the weight
+    of the falling object.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+22. At terminal velocity, the net force on the object is __________________
+    and the acceleration is __________________.
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+23. As a skydiver falls, air resistance __________________ as their speed
+    __________________.
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+24. The symbol for acceleration due to gravity is __________ and its SI unit
+    is __________.
+
+    [AO1 - 1 mark]
+
+
+================================================================================
+                    SECTION D: MATCHING
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+25. Match each term with its correct definition.
+
+    Term                              Definition
+    ─────────────────────────────     ─────────────────────────────
+    A. Free fall                      1. Maximum constant velocity when
+                                         air resistance equals weight
+    B. Terminal velocity              2. Motion under the influence of
+                                         gravity only (no air resistance)
+    C. Air resistance                 3. 9.8 m/s² near Earth's surface
+    D. Acceleration of free fall (g)  4. A force that opposes the motion
+                                         of objects through air
+    E. Vacuum                         5. A space with no air or matter
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___, E = ___
+
+    [AO1 - 5 marks]
+
+--------------------------------------------------------------------------------
+26. Match each scenario with the description of the object's motion.
+
+    Scenario                          Description of Motion
+    ─────────────────────────────     ─────────────────────────────
+    A. Object just released           1. Constant velocity (no acceleration)
+       from rest in a vacuum
+    B. Object at terminal velocity    2. Acceleration is 9.8 m/s², velocity
+       in air                            is increasing
+    C. Object falling in air,         3. Acceleration is decreasing as
+       speed is increasing              velocity increases
+    D. Object falling in a vacuum     4. Acceleration is constant at 9.8 m/s²
+       for 5 seconds
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO2 - 4 marks]
+
+
+================================================================================
+                    SECTION E: SHORT ANSWER QUESTIONS
+================================================================================
+                              (6 Questions)
+
+--------------------------------------------------------------------------------
+27. State the value of the acceleration of free fall, g, near the Earth's
+    surface.
+
+    _____________________________________________________________
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+28. Define terminal velocity.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+29. Explain why all objects fall with the same acceleration in a vacuum.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+30. Describe what happens to the acceleration of a falling object as it
+    approaches terminal velocity.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+31. State two factors that affect the terminal velocity of a falling object.
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+32. Explain why a parachutist opens their parachute before landing.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+
+================================================================================
+                    SECTION F: CALCULATIONS (STRUCTURED)
+================================================================================
+                              (8 Questions)
+
+--------------------------------------------------------------------------------
+33. A ball is dropped from rest from a tall building.
+    (Take g = 9.8 m/s²)
+
+    (a) Calculate the ball's velocity after 1.0 s.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the ball's velocity after 3.0 s.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the distance the ball falls in the first 2.0 s.
+        (Use s = ½gt²)                                                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+34. An object is dropped from rest and falls for 5.0 s in a vacuum.
+    (Take g = 9.8 m/s²)
+
+    (a) Calculate the final velocity of the object.                            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the average velocity during the fall.                        [1]
+
+    _____________________________________________________________
+
+
+    (c) Calculate the distance fallen.
+        (Use s = ½gt²)                                                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+35. A stone is dropped from a cliff 78.4 m high. (Take g = 9.8 m/s²)
+
+    (a) State the initial velocity of the stone.                               [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the time taken for the stone to reach the ground.
+        (Use s = ½gt², rearrange to find t)                                    [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the velocity of the stone just before it hits the ground.    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+36. A skydiver with a mass of 70 kg jumps from a plane.
+    (Take g = 9.8 m/s²)
+
+    (a) Calculate the weight of the skydiver.                                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) State the value of air resistance when the skydiver reaches
+        terminal velocity.                                                     [1]
+
+    _____________________________________________________________
+
+
+    (c) State the net force on the skydiver at terminal velocity.              [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+37. A ball is dropped and takes 2.5 s to hit the ground.
+    (Take g = 9.8 m/s²)
+
+    (a) Calculate the height from which the ball was dropped.                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the velocity of the ball just before impact.                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) State one assumption made in these calculations.                       [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+38. An object is thrown vertically upward with an initial velocity of 19.6 m/s.
+    (Take g = 9.8 m/s²)
+
+    (a) Calculate the time taken for the object to reach its highest point.   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the maximum height reached.                                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) State the velocity of the object at its highest point.                 [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+39. A feather falls in air and reaches a terminal velocity of 0.5 m/s.
+    The same feather is dropped in a vacuum tube from a height of 2.0 m.
+    (Take g = 9.8 m/s²)
+
+    (a) Calculate the time taken for the feather to fall 2.0 m in a vacuum.   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the time taken for the feather to fall 2.0 m in air
+        at terminal velocity.                                                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) State which takes longer and explain why.                              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+40. A stone is dropped from rest and falls 44.1 m. (Take g = 9.8 m/s²)
+
+    (a) Calculate the time taken for the stone to fall this distance.         [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the stone's velocity when it has fallen this distance.       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+41. The table shows the velocity of a falling object at different times.
+    The object is falling in air.
+
+    ┌─────────────────┬─────────────────┐
+    │ Time / s        │ Velocity / m/s  │
+    ├─────────────────┼─────────────────┤
+    │ 0               │ 0               │
+    │ 1               │ 8.0             │
+    │ 2               │ 14.0            │
+    │ 3               │ 18.0            │
+    │ 4               │ 20.0            │
+    │ 5               │ 20.0            │
+    └─────────────────┴─────────────────┘
+
+    (a) Calculate the acceleration during the first second.                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the acceleration between t = 3 s and t = 4 s.                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Explain why the acceleration decreases over time.                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) State the terminal velocity of the object.                             [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+42. A student drops a ball and records the following data.
+    (Assume no air resistance)
+
+    ┌─────────────────┬─────────────────┬─────────────────┐
+    │ Time / s        │ Velocity / m/s  │ Distance / m    │
+    ├─────────────────┼─────────────────┼─────────────────┤
+    │ 0               │ 0               │ 0               │
+    │ 1               │ 9.8             │ 4.9             │
+    │ 2               │ 19.6            │ 19.6            │
+    │ 3               │ 29.4            │ ?               │
+    │ 4               │ ?               │ 78.4            │
+    └─────────────────┴─────────────────┴─────────────────┘
+
+    (a) Calculate the missing velocity at t = 4 s.                             [2]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the missing distance at t = 3 s.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Show that the acceleration is constant at 9.8 m/s².                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+43. A speed-time graph shows the motion of a skydiver.
+
+    ---DIAGRAM: Fig. E1---
+    TYPE: Graph
+    PURPOSE: Speed-time graph for a skydiver showing acceleration to terminal velocity
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Standard 2D cartesian graph
+
+    COMPONENTS:
+      [Axes]
+        Symbol: axes
+        Position: grid(1,1) to grid(9,7)
+        Label: "Time / s" [x-axis], "Speed / (m/s)" [y-axis]
+        Scale: x-axis 0-50s, y-axis 0-60 m/s
+
+      [Curve]
+        Symbol: curve
+        Position: grid(1,1) curved to flatten at grid(7,5)
+        Style: solid blue
+
+      [Terminal Velocity Line]
+        Symbol: dashed_line
+        Position: grid(7,5) to grid(9,5)
+        Label: "Terminal velocity = 50 m/s"
+
+    CONNECTIONS:
+      [Motion Curve]: grid(1,1) → curved → grid(9,5), solid blue curve
+
+    ANNOTATIONS:
+      [Point A]: at (0, 0) labeled "A"
+      [Point B]: at (20, 40) labeled "B"
+      [Point C]: at (40, 50) labeled "C"
+    ---END DIAGRAM---
+
+    (a) Describe the motion of the skydiver between points A and B.            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) State the acceleration at point C.                                     [1]
+
+    _____________________________________________________________
+
+
+    (c) Explain why the acceleration decreases between A and C.                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Estimate the acceleration at point A.                                  [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+44. Two objects are dropped from the same height. Object X falls in a vacuum,
+    and Object Y falls in air. The table shows their velocities at different
+    times.
+
+    ┌─────────────────┬─────────────────┬─────────────────┐
+    │ Time / s        │ Velocity of X   │ Velocity of Y   │
+    │                 │ (vacuum) / m/s  │ (air) / m/s     │
+    ├─────────────────┼─────────────────┼─────────────────┤
+    │ 0               │ 0               │ 0               │
+    │ 1               │ 9.8             │ 8.0             │
+    │ 2               │ 19.6            │ 14.0            │
+    │ 3               │ 29.4            │ 17.0            │
+    │ 4               │ 39.2            │ 18.5            │
+    │ 5               │ 49.0            │ 19.0            │
+    └─────────────────┴─────────────────┴─────────────────┘
+
+    (a) Explain why Object X has a constant acceleration.                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Explain why Object Y has a decreasing acceleration.                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Estimate the terminal velocity of Object Y.                            [1]
+
+    _____________________________________________________________
+
+
+    (d) Calculate the acceleration of Object X.                                [1]
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+45. Complete the table to compare motion in a vacuum and motion in air.
+
+    ┌─────────────────────────┬─────────────────────────────────────────────────┐
+    │ Characteristic          │ In a Vacuum         │ In Air                    │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Air resistance present? │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Acceleration during     │                     │                           │
+    │ fall                    │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Does a feather and      │                     │                           │
+    │ hammer fall at the same │                     │                           │
+    │ rate?                   │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Terminal velocity       │                     │                           │
+    │ reached?                │                     │                           │
+    └─────────────────────────┴─────────────────────┴───────────────────────────┘
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+46. Compare the motion of a skydiver before and after opening their parachute.
+
+    ┌─────────────────────────┬─────────────────────────────────────────────────┐
+    │ Characteristic          │ Before Parachute    │ After Parachute           │
+    │                         │ Opens               │ Opens                     │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Air resistance (high/   │                     │                           │
+    │ low)                    │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Terminal velocity       │                     │                           │
+    │ (fast/slow)             │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Time to reach terminal  │                     │                           │
+    │ velocity                │                     │                           │
+    └─────────────────────────┴─────────────────────┴───────────────────────────┘
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+47. Compare the forces on a falling object at the start of its fall and at
+    terminal velocity.
+
+    (a) At the start of the fall:
+
+        Weight = __________ (compared to air resistance)
+
+        Net force = __________ (upward/downward/zero)
+
+        Acceleration = __________
+
+    (b) At terminal velocity:
+
+        Weight = __________ (compared to air resistance)
+
+        Net force = __________ (upward/downward/zero)
+
+        Acceleration = __________
+
+    [AO2 - 6 marks]
+
+
+================================================================================
+                    SECTION I: STRUCTURED QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+48. A student investigates the motion of a ball falling through air.
+
+    (a) State the value of the acceleration of free fall, g, near the
+        Earth's surface.                                                       [1]
+
+    _____________________________________________________________
+
+
+    (b) The ball is dropped from rest. After 1.0 s, the ball has a velocity
+        of 8.5 m/s. Calculate the acceleration during the first second.       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Explain why the acceleration is less than 9.8 m/s².                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) As the ball continues to fall, describe how its acceleration changes
+        and explain why.                                                       [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (e) Eventually, the ball reaches terminal velocity. State two ways the
+        ball could reach a lower terminal velocity.                            [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [Total: 10 marks]
+
+--------------------------------------------------------------------------------
+49. A skydiver with mass 80 kg jumps from an aircraft.
+
+    ---DIAGRAM: Fig. E2---
+    TYPE: Graph
+    PURPOSE: Speed-time graph for a skydiver with parachute deployment
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Standard 2D cartesian graph
+
+    COMPONENTS:
+      [Axes]
+        Symbol: axes
+        Position: grid(1,1) to grid(9,7)
+        Label: "Time / s" [x-axis], "Speed / (m/s)" [y-axis]
+
+      [Section Labels]
+        Position: Various
+        Labels: "A", "B", "C", "D" marking sections of the curve
+
+    CONNECTIONS:
+      [Section A]: grid(1,1) → grid(2,4), curved steep line (initial acceleration)
+      [Section B]: grid(2,4) → grid(4,5), curved flattening (approaching terminal velocity)
+      [Section C]: grid(4,5) → grid(5,5), horizontal (terminal velocity 1)
+      [Section D]: grid(5,5) → grid(5.5,2), steep drop (parachute opens)
+      [Section E]: grid(5.5,2) → grid(9,1.5), gradual curve to horizontal (terminal velocity 2)
+
+    ANNOTATIONS:
+      [Parachute]: Arrow pointing to Section D labeled "Parachute opens"
+    ---END DIAGRAM---
+
+    (a) Calculate the weight of the skydiver. (Take g = 9.8 m/s²)              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Describe the motion of the skydiver during section A.                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) During section C, the skydiver has reached a terminal velocity of
+        50 m/s. State the value of the air resistance at this point.          [1]
+
+    _____________________________________________________________
+
+
+    (d) Explain what happens immediately after the parachute opens
+        (section D).                                                           [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (e) Explain why the new terminal velocity (section E) is lower than
+        the terminal velocity in section C.                                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [Total: 10 marks]
+
+--------------------------------------------------------------------------------
+50. The famous "Hammer and Feather" experiment was conducted on the Moon by
+    astronaut David Scott. He dropped a hammer and a feather simultaneously.
+
+    (a) Predict what would happen if this experiment was conducted on Earth
+        in normal air conditions. Explain your answer.                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) State the result of the experiment on the Moon and explain why
+        this happened.                                                         [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) The acceleration due to gravity on the Moon is about 1.6 m/s².
+        Calculate the time taken for the hammer to fall 1.28 m from rest
+        on the Moon. (Use s = ½gt²)                                            [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Calculate the velocity of the hammer just before it hits the Moon's
+        surface after falling 1.28 m.                                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [Total: 10 marks]
+
+
+================================================================================
+                    SECTION J: DIAGRAM/GRAPH QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+Diagram Question 1 (DQ1)
+
+A ball is dropped from rest.
+
+(a) Sketch a speed-time graph for the ball falling in a vacuum for 5 seconds.
+    Label the axes clearly.                                                    [3]
+
+    [Space for graph]
+
+
+(b) On the same graph, add a second line to show the ball falling in air
+    until it reaches terminal velocity. Label this line "In air".              [2]
+
+
+(c) Using your graph, explain the difference between the two motions.          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+Diagram Question 2 (DQ2)
+
+The diagram shows a skydiver falling through the air.
+
+---DIAGRAM: Fig. E3---
+TYPE: Force
+PURPOSE: Free body diagram of a skydiver at different stages of falling
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Three side-by-side skydiver figures
+
+COMPONENTS:
+  [Skydiver 1]
+    Symbol: stick_figure
+    Position: grid(2,4)
+    Label: "Just after jumping" [below]
+
+  [Skydiver 2]
+    Symbol: stick_figure
+    Position: grid(6,4)
+    Label: "Falling faster" [below]
+
+  [Skydiver 3]
+    Symbol: stick_figure
+    Position: grid(10,4)
+    Label: "At terminal velocity" [below]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Weight arrows]: Downward arrows labeled "W" on each skydiver
+  [Air resistance arrows]: Upward arrows (varying sizes) labeled "R" on each skydiver
+---END DIAGRAM---
+
+(a) On Skydiver 1, draw and label arrows to show:
+    - Weight (W) acting downward
+    - Air resistance (R) acting upward
+    Make the length of the arrows proportional to the size of the forces.      [2]
+
+
+(b) On Skydiver 3 (at terminal velocity), draw and label the force arrows.
+    What must be true about the relative sizes of W and R?                     [2]
+
+    _____________________________________________________________
+
+
+(c) Explain why the net force on Skydiver 3 is zero.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+Diagram Question 3 (DQ3)
+
+The graph shows how the acceleration of a falling object changes with time.
+
+(a) Sketch an acceleration-time graph for an object falling in air until
+    it reaches terminal velocity.                                              [3]
+
+    [Space for graph]
+
+
+(b) Mark on your graph the point where terminal velocity is reached.           [1]
+
+
+(c) Using the graph, explain why acceleration decreases over time.             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+
+1.  B (9.8 m/s²)
+2.  C (v = gt = 9.8 × 2 = 19.6 m/s)
+3.  C (In vacuum, no air resistance, same acceleration)
+4.  B (Maximum constant velocity when air resistance equals weight)
+5.  D (v = gt = 9.8 × 3 = 29.4 m/s)
+6.  C (Curve starts steep, flattens to horizontal)
+7.  C (At terminal velocity, air resistance = weight, net force = 0)
+8.  B (Same acceleration for all objects, ignoring air resistance)
+9.  C (Decreases from 9.8 m/s² towards 0)
+10. C (s = ½gt² = 0.5 × 9.8 × 16 = 78.4 m)
+11. C (Same acceleration in vacuum, hit ground together)
+12. C (Increases surface area, increases air resistance at any speed)
+
+SECTION B: TRUE/FALSE
+
+13. FALSE. The acceleration of free fall depends on the mass of the planet
+    and varies between planets.
+
+14. FALSE. An object in free fall has constant acceleration of approximately
+    9.8 m/s² near Earth's surface.
+
+15. FALSE. In a vacuum, all objects fall with the same acceleration regardless
+    of mass.
+
+16. TRUE.
+
+17. TRUE.
+
+18. FALSE. At terminal velocity, the object continues to fall at a constant
+    speed.
+
+SECTION C: FILL-IN-THE-BLANK
+
+19. 9.8
+
+20. acceleration
+
+21. air resistance
+
+22. zero; zero
+
+23. increases; increases
+
+24. g; m/s²
+
+SECTION D: MATCHING
+
+25. A = 2, B = 1, C = 4, D = 3, E = 5
+
+26. A = 2, B = 1, C = 3, D = 4
+
+SECTION E: SHORT ANSWER
+
+27. g ≈ 9.8 m/s² (or approximately 10 m/s²)
+
+28. Terminal velocity is the maximum constant velocity reached by a falling
+    object when the air resistance (drag) equals the object's weight.
+
+29. In a vacuum, there is no air resistance. The only force acting on all
+    objects is gravity (their weight). Since acceleration = force/mass, and
+    weight = mg, all objects experience the same acceleration of g regardless
+    of their mass.
+
+30. As the object falls faster, air resistance increases. This reduces the
+    net downward force, which causes the acceleration to decrease. Eventually,
+    when air resistance equals weight, the acceleration becomes zero.
+
+31. Any two from:
+    - Mass/weight of the object
+    - Surface area of the object
+    - Shape/streamlining of the object
+    - Density of the air
+
+32. Opening the parachute increases the surface area, which greatly increases
+    air resistance. This reduces the terminal velocity to a safe landing speed.
+
+SECTION F: CALCULATIONS
+
+33. (a) v = gt = 9.8 × 1.0 = 9.8 m/s
+    (b) v = gt = 9.8 × 3.0 = 29.4 m/s
+    (c) s = ½gt² = 0.5 × 9.8 × 4 = 19.6 m
+
+34. (a) v = gt = 9.8 × 5.0 = 49 m/s
+    (b) Average velocity = (0 + 49)/2 = 24.5 m/s
+    (c) s = ½gt² = 0.5 × 9.8 × 25 = 122.5 m
+
+35. (a) u = 0 m/s
+    (b) s = ½gt², 78.4 = 0.5 × 9.8 × t², t² = 16, t = 4.0 s
+    (c) v = gt = 9.8 × 4.0 = 39.2 m/s
+
+36. (a) W = mg = 70 × 9.8 = 686 N
+    (b) Air resistance = 686 N
+    (c) Net force = 0 N
+
+37. (a) s = ½gt² = 0.5 × 9.8 × 6.25 = 30.625 m ≈ 31 m
+    (b) v = gt = 9.8 × 2.5 = 24.5 m/s
+    (c) Air resistance is negligible / The object is in a vacuum
+
+38. (a) At highest point, v = 0. t = (v-u)/a = (0-19.6)/(-9.8) = 2.0 s
+    (b) s = ut + ½at² = 19.6(2) + 0.5(-9.8)(4) = 39.2 - 19.6 = 19.6 m
+    (c) v = 0 m/s
+
+39. (a) s = ½gt², 2.0 = 0.5 × 9.8 × t², t = 0.64 s
+    (b) t = s/v = 2.0/0.5 = 4.0 s
+    (c) In air takes longer because air resistance slows the feather to a
+        much lower speed (terminal velocity)
+
+40. (a) s = ½gt², 44.1 = 0.5 × 9.8 × t², t² = 9, t = 3.0 s
+    (b) v = gt = 9.8 × 3.0 = 29.4 m/s
+
+SECTION G: DATA INTERPRETATION
+
+41. (a) a = Δv/Δt = (8-0)/1 = 8.0 m/s²
+    (b) a = Δv/Δt = (20-18)/1 = 2.0 m/s²
+    (c) As speed increases, air resistance increases. Net force decreases,
+        so acceleration decreases.
+    (d) Terminal velocity = 20 m/s
+
+42. (a) v = gt = 9.8 × 4 = 39.2 m/s
+    (b) s = ½gt² = 0.5 × 9.8 × 9 = 44.1 m
+    (c) a = Δv/Δt = (19.6-9.8)/(2-1) = 9.8 m/s² (same between any intervals)
+
+43. (a) The skydiver is accelerating, speed increasing, acceleration decreasing
+    (b) a = 0 m/s² (at terminal velocity)
+    (c) As speed increases, air resistance increases, reducing net force
+    (d) a ≈ 9.8 m/s² (initial acceleration ≈ g)
+
+44. (a) In a vacuum there is no air resistance, only gravity acts,
+        so acceleration is constant at g
+    (b) Air resistance increases with speed, reducing net force,
+        so acceleration decreases
+    (c) Approximately 19-20 m/s
+    (d) a = 9.8 m/s²
+
+SECTION H: COMPARE AND CONTRAST
+
+45. In a Vacuum: No, Constant 9.8 m/s², Yes, No
+    In Air: Yes, Decreasing towards 0, No, Yes
+
+46. Before: Low (relatively), Fast (about 50 m/s), Shorter
+    After: High, Slow (about 5-7 m/s), Shorter (quick adjustment)
+
+47. (a) Weight > air resistance, Net force = downward, Acceleration = 9.8 m/s²
+    (b) Weight = air resistance, Net force = zero, Acceleration = 0 m/s²
+
+SECTION I: STRUCTURED QUESTIONS
+
+48. (a) g ≈ 9.8 m/s²
+    (b) a = Δv/Δt = 8.5/1 = 8.5 m/s²
+    (c) Air resistance opposes motion, reducing net downward force
+    (d) Acceleration continues to decrease because air resistance increases
+        as speed increases, until acceleration becomes zero at terminal velocity
+    (e) Any two: Smaller surface area, more streamlined shape, lower mass
+
+49. (a) W = mg = 80 × 9.8 = 784 N
+    (b) Accelerating rapidly, speed increasing, acceleration decreasing
+    (c) Air resistance = 784 N (equals weight at terminal velocity)
+    (d) Suddenly, air resistance becomes much greater than weight.
+        Net force is upward (decelerating). Speed decreases rapidly.
+    (e) Parachute has larger surface area, creating more air resistance
+        at lower speeds, so terminal velocity is reached at a lower speed
+
+50. (a) Hammer would hit ground first because feather has large surface area
+        relative to weight, experiences more air resistance
+    (b) Both hit at same time because Moon has no atmosphere (vacuum),
+        so no air resistance, both accelerate at same rate
+    (c) s = ½gt², 1.28 = 0.5 × 1.6 × t², t² = 1.6, t = 1.26 s ≈ 1.3 s
+    (d) v = gt = 1.6 × 1.26 = 2.0 m/s
+
+================================================================================
+                    END OF SECTION 2.3 EXERCISES
+================================================================================

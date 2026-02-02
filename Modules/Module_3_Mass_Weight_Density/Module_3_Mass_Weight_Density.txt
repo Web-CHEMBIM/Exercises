@@ -1,0 +1,1487 @@
+================================================================================
+                    MODULE 3: MASS, WEIGHT & DENSITY
+================================================================================
+
+================================================================================
+MODULE OVERVIEW
+================================================================================
+
+At the end of this module, students should be able to:
+
+Section 3.1 - Mass and Weight:
+  * State that mass is a measure of the quantity of matter in an object at rest
+    relative to the observer.
+  * State that weight is a gravitational force on an object that has mass.
+  * Define gravitational field strength as force per unit mass; recall and use
+    the equation g = W/m.
+  * Know that weights (and masses) may be compared using a balance.
+  * (Supplement) Describe, and use the concept of, weight as the effect of a
+    gravitational field on a mass.
+
+Section 3.2 - Density:
+  * Define density as mass per unit volume; recall and use the equation ρ = m/V.
+  * Describe how to determine the density of a liquid, of a regularly shaped
+    solid and of an irregularly shaped solid which sinks in a liquid.
+  * Determine whether an object floats based on density data.
+  * (Supplement) Determine whether one liquid will float on another liquid based
+    on density data given that the liquids do not mix.
+
+Prerequisites:
+  - Module 1.1: Physical Quantities and Measurement (Units, SI system)
+  - Basic mathematical skills (multiplication, division, unit conversion)
+
+Estimated Time: 2-3 hours total
+
+Key Vocabulary:
+  - Mass           - Weight          - Gravitational field strength
+  - Density        - Volume          - Displacement
+  - Upthrust       - Float           - Sink
+
+
+================================================================================
+                    SECTION 3.1: MASS AND WEIGHT
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * State that mass is a measure of the quantity of matter in an object.
+  * State that weight is a gravitational force on an object that has mass.
+  * Define gravitational field strength and use g = W/m.
+  * Know that masses may be compared using a balance.
+  * (Supplement) Describe weight as the effect of a gravitational field on mass.
+
+--------------------------------------------------------------------------------
+3.1.1  MASS
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Have you ever wondered why it's harder to push a shopping trolley when it's full
+compared to when it's empty? The answer lies in understanding mass - one of the
+most fundamental concepts in physics.
+
+> DEFINITION
+> Mass is a measure of the quantity of matter in an object at rest relative to
+> the observer.
+
+KEY POINTS ABOUT MASS:
+
+* Mass is a measure of how much "stuff" (matter) an object contains
+* The greater the mass, the more difficult it is to change the object's motion
+  (speed it up, slow it down, or change its direction)
+* Mass is a SCALAR quantity - it has magnitude (size) only, with no direction
+* Mass is measured in kilograms (kg)
+
+SI UNITS:
+┌─────────────────┬─────────────────┬─────────────────┐
+│ Quantity        │ SI Unit         │ Symbol          │
+├─────────────────┼─────────────────┼─────────────────┤
+│ Mass            │ kilogram        │ kg              │
+└─────────────────┴─────────────────┴─────────────────┘
+
+UNIT CONVERSION:
+Sometimes mass is given in grams (g), but calculations require kilograms (kg).
+
+  1000 g = 1 kg
+  1 g = 0.001 kg
+
+  To convert g to kg: divide by 1000
+  To convert kg to g: multiply by 1000
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 1: Converting Mass Units
+--------------------------------------------------------------------------------
+
+PROBLEM:
+An object has a mass of 4.5 kg. State the mass of the object in grams (g).
+
+SOLUTION:
+
+Step 1: State the conversion between g and kg
+    1 kg = 1000 g
+
+Step 2: Convert kg to g by multiplying
+    m = 4.5 × 1000
+
+Step 3: State the answer
+    m = 4500 g
+
+
+--------------------------------------------------------------------------------
+3.1.2  WEIGHT
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+When you hold a heavy book, you feel it pulling downward. This "pull" you feel
+is not the book's mass - it's the book's weight! Weight and mass are different
+quantities, though people often confuse them in everyday speech.
+
+> DEFINITION
+> Weight is a gravitational force on an object that has mass.
+
+KEY POINTS ABOUT WEIGHT:
+
+* Weight is a force - the gravitational pull of a planet on an object
+* Weight is a VECTOR quantity - it has both magnitude and direction
+* Weight always acts downward (toward the centre of the Earth)
+* Weight is measured in newtons (N)
+
+IMPORTANT DISTINCTION:
+┌─────────────────┬─────────────────────────────────────────────────────────────┐
+│ MASS            │ WEIGHT                                                      │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Amount of       │ Gravitational force on an object                            │
+│ matter          │                                                             │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Scalar quantity │ Vector quantity                                             │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Measured in kg  │ Measured in N                                               │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Same everywhere │ Changes depending on gravitational field strength           │
+│ in the Universe │                                                             │
+└─────────────────┴─────────────────────────────────────────────────────────────┘
+
+NOTE: An object's mass stays the same wherever it is in the Universe.
+However, its weight changes depending on the strength of gravity at that
+location. On the Moon, you would weigh about 1/6 of your weight on Earth, but
+your mass would be exactly the same!
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 3.1---
+TYPE: Comparison
+PURPOSE: Distinguish between mass (scalar, measured in kg) and weight (vector force, measured in N)
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Side-by-side comparison panels with icons
+
+COMPONENTS:
+  [Left Panel - Mass]
+    Symbol: balance_scale
+    Position: grid(2,3)
+    Size: medium
+    Label: "MASS" [top], "Scalar" [bottom]
+    Style: blue accent
+
+  [Left Text Box]
+    Symbol: text_box
+    Position: grid(2,5)
+    Label: "• Amount of matter\n• Measured in kg\n• Same everywhere"
+
+  [Right Panel - Weight]
+    Symbol: newton_meter
+    Position: grid(9,3)
+    Size: medium
+    Label: "WEIGHT" [top], "Vector" [bottom]
+    Style: green accent
+
+  [Right Text Box]
+    Symbol: text_box
+    Position: grid(9,5)
+    Label: "• Gravitational force\n• Measured in N\n• Depends on location"
+
+  [Divider]
+    Symbol: vertical_line
+    Position: grid(6,1) to grid(6,7)
+    Style: dashed gray
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Title]: "Mass vs Weight" [top center]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+3.1.3  GRAVITATIONAL FIELD STRENGTH
+--------------------------------------------------------------------------------
+
+(Extended Tier)
+
+INTRODUCTION
+---------------
+Why do objects fall to the ground when released? Because Earth has a
+gravitational field that attracts all objects with mass. The strength of this
+field determines how strongly objects are pulled downward.
+
+> DEFINITION
+> Gravitational field strength is the force per unit mass acting on an object
+> in a gravitational field.
+
+FORMULA:
+
+                          W
+                g = ─────────
+                          m
+
+where:
+    g = gravitational field strength (in N/kg)
+    W = weight (in N)
+    m = mass (in kg)
+
+On Earth, g ≈ 9.8 N/kg
+
+The formula can be rearranged to find weight:
+
+    W = m × g
+
+IMPORTANT:
+Gravitational field strength (g) has the same numerical value as the
+acceleration of free fall. This is why we also write g = 9.8 m/s².
+
+COMPARING GRAVITATIONAL FIELD STRENGTH:
+┌─────────────────┬─────────────────┐
+│ Location        │ g (N/kg)        │
+├─────────────────┼─────────────────┤
+│ Earth           │ 9.8             │
+├─────────────────┼─────────────────┤
+│ Moon            │ 1.6             │
+├─────────────────┼─────────────────┤
+│ Mars            │ 3.7             │
+├─────────────────┼─────────────────┤
+│ Jupiter         │ 24.8            │
+└─────────────────┴─────────────────┘
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 3.2---
+TYPE: Equation
+PURPOSE: Help students remember and rearrange the weight equation W = mg
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 1:1 square
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Centered equilateral triangle with internal dividers (formula triangle)
+
+COMPONENTS:
+  [Triangle Outline]
+    Symbol: triangle
+    Position: grid(2,2) to grid(8,8)
+    Size: large
+    Style: solid thick (3px)
+    Fill: none
+
+  [Horizontal Divider]
+    Symbol: line
+    Position: grid(2,5) to grid(8,5)
+    Size: full width
+    Style: solid medium (2px)
+
+  [Vertical Divider]
+    Symbol: line
+    Position: grid(5,5) to grid(5,8)
+    Size: half height
+    Style: solid medium (2px)
+
+  [Variable W]
+    Symbol: text_placeholder
+    Position: grid(5,3.5)
+    Label: "W" [center]
+
+  [Variable m]
+    Symbol: text_placeholder
+    Position: grid(3.5,6.5)
+    Label: "m" [center]
+
+  [Variable g]
+    Symbol: text_placeholder
+    Position: grid(6.5,6.5)
+    Label: "g" [center]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Title]: "Weight Formula Triangle" [below]
+  [Usage Note]: "Cover the quantity you want to find" [bottom]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 2: Calculating Weight on Earth and Moon
+--------------------------------------------------------------------------------
+
+PROBLEM:
+Isabelle has a mass of 42 kg. Compare the difference between Isabelle's weight
+on Earth and her weight on the Moon.
+Take the Earth's gravitational field strength as 9.8 N/kg, and the Moon's
+gravitational field strength as 1.6 N/kg.
+
+SOLUTION:
+
+Step 1: List the known values
+    Mass, m = 42 kg
+    Gravitational field strength on Earth, g_E = 9.8 N/kg
+    Gravitational field strength on Moon, g_M = 1.6 N/kg
+
+Step 2: State the equation
+    W = m × g
+
+Step 3: Calculate the weight on Earth
+    W_E = m × g_E
+    W_E = 42 × 9.8
+    W_E = 411.6 N ≈ 410 N (2 s.f.)
+
+Step 4: Calculate the weight on the Moon
+    W_M = m × g_M
+    W_M = 42 × 1.6
+    W_M = 67.2 N ≈ 67 N (2 s.f.)
+
+Step 5: Compare the two values
+    Isabelle's weight on Earth (410 N) is much greater than on the Moon (67 N).
+    This is because Earth has a larger gravitational field strength than the
+    Moon. Her mass remains the same (42 kg) in both locations.
+
+
+--------------------------------------------------------------------------------
+USING A BALANCE TO COMPARE MASSES
+--------------------------------------------------------------------------------
+
+Masses (and weights) can be compared using a balance.
+
+HOW IT WORKS:
+* A balance compares the weight of two objects
+* Since gravitational field strength is constant at any one location, comparing
+  weights also compares masses
+* We can use the equation: m = W/g
+
+TYPES OF BALANCES:
+1. Digital balance - gives mass reading directly in kg or g
+2. Beam balance - compares unknown mass with known masses
+
+FORCE METERS:
+* Also called newton meters or spring balances
+* Measure weight directly in newtons (N)
+* The object is hung from a hook and stretches a spring
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Mass and Weight
+--------------------------------------------------------------------------------
+
+Q1. Define mass.
+
+Q2. State two differences between mass and weight.
+
+Q3. A student has a mass of 50 kg. Calculate their weight on Earth.
+    (Take g = 9.8 N/kg)
+
+Q4. An astronaut has a weight of 784 N on Earth. Calculate their mass.
+    (Take g = 9.8 N/kg)
+
+Q5. Explain why an astronaut's weight is different on the Moon compared to
+    Earth, but their mass stays the same.
+
+(Answers at end of section)
+
+
+--------------------------------------------------------------------------------
+COMMON MISCONCEPTIONS: Mass and Weight
+--------------------------------------------------------------------------------
+
+┌─────────────────────────────────────┬───────────────────────────────────────┐
+│ Misconception                       │ Correction                            │
+├─────────────────────────────────────┼───────────────────────────────────────┤
+│ "Mass and weight are the same       │ Mass is the amount of matter (kg);    │
+│ thing"                              │ weight is a force (N). They are       │
+│                                     │ related but different quantities.     │
+├─────────────────────────────────────┼───────────────────────────────────────┤
+│ "My weight is 60 kg"                │ Weight is measured in newtons, not    │
+│                                     │ kilograms. "I have a mass of 60 kg"   │
+│                                     │ is correct.                           │
+├─────────────────────────────────────┼───────────────────────────────────────┤
+│ "Objects in space have no mass"     │ Objects always have mass. In space,   │
+│                                     │ they may experience weightlessness    │
+│                                     │ (very small weight) but mass remains. │
+└─────────────────────────────────────┴───────────────────────────────────────┘
+
+
+================================================================================
+                    SECTION 3.2: DENSITY
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Define density as mass per unit volume.
+  * Recall and use the equation ρ = m/V.
+  * Convert between density units.
+
+--------------------------------------------------------------------------------
+3.2.1  DEFINITION AND EQUATION
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Why does a bag of feathers feel lighter than a same-sized bag of metal? Why
+does a balloon float but a small lead weight sinks? The answer lies in density
+- how much mass is packed into a given volume.
+
+> DEFINITION
+> Density is the mass per unit volume of a material.
+
+FORMULA:
+
+                          m
+                ρ = ─────────
+                          V
+
+where:
+    ρ = density (in kg/m³ or g/cm³)
+    m = mass (in kg or g)
+    V = volume (in m³ or cm³)
+
+This formula can be rearranged:
+    m = ρ × V     (to find mass)
+    V = m / ρ     (to find volume)
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 3.3---
+TYPE: Equation
+PURPOSE: Help students remember and rearrange the density equation ρ = m/V
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 1:1 square
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Centered equilateral triangle with internal dividers (formula triangle)
+
+COMPONENTS:
+  [Triangle Outline]
+    Symbol: triangle
+    Position: grid(2,2) to grid(8,8)
+    Size: large
+    Style: solid thick (3px)
+    Fill: none
+
+  [Horizontal Divider]
+    Symbol: line
+    Position: grid(2,5) to grid(8,5)
+    Size: full width
+    Style: solid medium (2px)
+
+  [Vertical Divider]
+    Symbol: line
+    Position: grid(5,5) to grid(5,8)
+    Size: half height
+    Style: solid medium (2px)
+
+  [Variable m]
+    Symbol: text_placeholder
+    Position: grid(5,3.5)
+    Label: "m" [center]
+
+  [Variable ρ]
+    Symbol: text_placeholder
+    Position: grid(3.5,6.5)
+    Label: "ρ" [center]
+
+  [Variable V]
+    Symbol: text_placeholder
+    Position: grid(6.5,6.5)
+    Label: "V" [center]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Title]: "Density Formula Triangle" [below]
+  [Usage Note]: "Cover the quantity you want to find" [bottom]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+SI UNITS FOR DENSITY:
+
+┌─────────────────────┬─────────────────────┬─────────────────────────────────┐
+│ Mass Unit           │ Volume Unit         │ Density Unit                    │
+├─────────────────────┼─────────────────────┼─────────────────────────────────┤
+│ kilogram (kg)       │ cubic metre (m³)    │ kg/m³ (SI unit)                 │
+├─────────────────────┼─────────────────────┼─────────────────────────────────┤
+│ gram (g)            │ cubic centimetre    │ g/cm³                           │
+│                     │ (cm³)               │                                 │
+└─────────────────────┴─────────────────────┴─────────────────────────────────┘
+
+UNIT CONVERSION:
+    1 g/cm³ = 1000 kg/m³
+
+    To convert g/cm³ to kg/m³: multiply by 1000
+    To convert kg/m³ to g/cm³: divide by 1000
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 3: Calculating Density
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A paving slab has a mass of 73 kg and dimensions 0.04 m × 0.5 m × 0.85 m.
+Calculate the density, in kg/m³, of the material from which the paving slab
+is made.
+
+SOLUTION:
+
+Step 1: List the known quantities
+    Mass of slab, m = 73 kg
+    Dimensions = 0.04 m × 0.5 m × 0.85 m
+
+Step 2: Calculate the volume
+    V = 0.04 × 0.5 × 0.85
+    V = 0.017 m³
+
+Step 3: Write out the equation for density
+    ρ = m / V
+
+Step 4: Substitute in values
+    ρ = 73 / 0.017
+
+Step 5: Calculate
+    ρ = 4294 kg/m³
+
+Step 6: Round to appropriate significant figures
+    ρ ≈ 4300 kg/m³
+
+
+--------------------------------------------------------------------------------
+3.2.2  UNDERSTANDING DENSITY
+--------------------------------------------------------------------------------
+
+COMPARING DENSITIES:
+
+* Objects made from low-density materials typically have a low mass
+* Similarly-sized objects made from high-density materials have a high mass
+
+EXAMPLE:
+A bag full of feathers is much lighter than the same bag full of metal, even
+though they occupy the same volume. This is because metal has a much higher
+density than feathers.
+
+COMPARING STATES OF MATTER:
+┌─────────────────┬─────────────────────────────────────────────────────────────┐
+│ State           │ Density Characteristics                                     │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Solids          │ Usually highest density - particles tightly packed          │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Liquids         │ Usually medium density - particles close but can move       │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ Gases           │ Lowest density - particles spread out with large gaps       │
+└─────────────────┴─────────────────────────────────────────────────────────────┘
+
+NOTE: A gas is less dense than the same substance in liquid or solid form
+because the particles are more spread out (same mass over a larger volume).
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 3.4---
+TYPE: Comparison
+PURPOSE: Show particle arrangement affects density in solids, liquids and gases
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 15 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Three side-by-side boxes showing particle arrangements
+
+COMPONENTS:
+  [Solid Box]
+    Symbol: rectangle
+    Position: grid(2,2) to grid(4,6)
+    Label: "SOLID" [top]
+    Content: densely packed circles in regular pattern
+    Style: blue fill
+
+  [Liquid Box]
+    Symbol: rectangle
+    Position: grid(6,2) to grid(9,6)
+    Label: "LIQUID" [top]
+    Content: closely packed circles, slightly irregular
+    Style: green fill
+
+  [Gas Box]
+    Symbol: rectangle
+    Position: grid(11,2) to grid(14,6)
+    Label: "GAS" [top]
+    Content: widely spaced circles with arrows showing movement
+    Style: red fill
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Solid Label]: "High density" [below solid]
+  [Liquid Label]: "Medium density" [below liquid]
+  [Gas Label]: "Low density" [below gas]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+VOLUME FORMULAS FOR COMMON SHAPES:
+
+When calculating density, you may need to calculate volume first.
+
+┌─────────────────────┬─────────────────────────────────────────┐
+│ Shape               │ Volume Formula                          │
+├─────────────────────┼─────────────────────────────────────────┤
+│ Cube                │ V = l³ (where l = side length)          │
+├─────────────────────┼─────────────────────────────────────────┤
+│ Rectangular block   │ V = l × w × h (length × width × height) │
+├─────────────────────┼─────────────────────────────────────────┤
+│ Cylinder            │ V = πr²h (where r = radius, h = height) │
+├─────────────────────┼─────────────────────────────────────────┤
+│ Sphere              │ V = (4/3)πr³                            │
+└─────────────────────┴─────────────────────────────────────────┘
+
+
+TYPICAL DENSITIES:
+
+┌─────────────────────┬─────────────────────┐
+│ Material            │ Density (g/cm³)     │
+├─────────────────────┼─────────────────────┤
+│ Air                 │ 0.0012              │
+├─────────────────────┼─────────────────────┤
+│ Cork                │ 0.2 - 0.3           │
+├─────────────────────┼─────────────────────┤
+│ Wood (oak)          │ 0.6 - 0.9           │
+├─────────────────────┼─────────────────────┤
+│ Water               │ 1.0                 │
+├─────────────────────┼─────────────────────┤
+│ Aluminium           │ 2.7                 │
+├─────────────────────┼─────────────────────┤
+│ Iron                │ 7.9                 │
+├─────────────────────┼─────────────────────┤
+│ Gold                │ 19.3                │
+└─────────────────────┴─────────────────────┘
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Density
+--------------------------------------------------------------------------------
+
+Q6. Define density.
+
+Q7. State the equation for density.
+
+Q8. A metal cube has a side length of 0.02 m and a mass of 64 g.
+    Calculate the density of the metal in kg/m³.
+
+Q9. A container holds 500 cm³ of oil with a density of 0.8 g/cm³.
+    Calculate the mass of the oil.
+
+Q10. Explain why ice floats on water.
+
+(Answers at end of section)
+
+
+================================================================================
+                    SECTION 3.3: MEASURING DENSITY
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Describe how to determine the density of a liquid.
+  * Describe how to determine the density of a regularly shaped solid.
+  * Describe how to determine the density of an irregularly shaped solid which
+    sinks in a liquid (volume by displacement).
+
+--------------------------------------------------------------------------------
+3.3.1  MEASURING DENSITY OF REGULAR OBJECTS
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+How do we find the density of a solid object? We need to measure its mass and
+volume, then use the formula ρ = m/V. For regularly shaped objects (cubes,
+rectangular blocks, cylinders), we can calculate the volume from measurements
+of their dimensions.
+
+EQUIPMENT:
+┌─────────────────────────────┬─────────────────────────────────────────────────┐
+│ Apparatus                   │ Purpose                                         │
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ Digital balance             │ To measure the mass of the object               │
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ 30 cm ruler                 │ To measure objects up to 30 cm (resolution 1mm) │
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ Vernier calipers            │ For more precise measurements (resolution 0.1mm)│
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ Micrometer                  │ For very precise measurements (resolution 0.01mm│
+└─────────────────────────────┴─────────────────────────────────────────────────┘
+
+METHOD:
+
+1. Place the object on a digital balance and record its mass
+
+2. Use a ruler (or vernier calipers or micrometer depending on size) to measure
+   the object's dimensions (length, width, height, or radius)
+
+3. Repeat these measurements and take an average to reduce random errors
+
+4. Calculate the volume using the appropriate formula
+
+5. Calculate the density using ρ = m/V
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 3.5---
+TYPE: Apparatus
+PURPOSE: Show setup for measuring density of regular objects
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two scenes side-by-side: weighing and measuring dimensions
+
+COMPONENTS:
+  [Digital Balance]
+    Symbol: digital_balance
+    Position: grid(2,5)
+    Size: medium
+    Label: "Digital balance" [below]
+
+  [Object on Balance]
+    Symbol: rectangular_block
+    Position: grid(2,4)
+    Size: small
+
+  [Ruler Scene]
+    Symbol: ruler_and_block
+    Position: grid(7,5)
+    Size: medium
+    Label: "Measuring dimensions" [below]
+
+  [Dimension Labels]
+    Symbol: dimension_arrows
+    Position: around object
+    Labels: "l", "w", "h"
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Step 1]: "1. Measure mass" [below balance]
+  [Step 2]: "2. Measure dimensions" [below ruler]
+  [Formula]: "3. Calculate: V = l × w × h, then ρ = m/V" [bottom center]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+3.3.2  MEASURING DENSITY OF IRREGULAR OBJECTS
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+What if the object is an irregular shape, like a stone or a key? We can't
+easily calculate its volume from dimensions. Instead, we use the displacement
+method - the object displaces its own volume of water when submerged.
+
+EQUIPMENT:
+┌─────────────────────────────┬─────────────────────────────────────────────────┐
+│ Apparatus                   │ Purpose                                         │
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ Digital balance             │ To measure the mass of the object               │
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ Eureka can (displacement can│ To measure volume by displacement               │
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ Measuring cylinder          │ To collect and measure displaced water          │
+└─────────────────────────────┴─────────────────────────────────────────────────┘
+
+METHOD (EUREKA CAN):
+
+1. Place the object on a digital balance and record its mass
+
+2. Fill the Eureka can with water up to just below the spout
+
+3. Place an empty measuring cylinder below the spout
+
+4. Carefully lower the object into the Eureka can
+
+5. Water will flow out through the spout into the measuring cylinder
+
+6. Read the volume of displaced water - this equals the volume of the object
+
+7. Calculate the density using ρ = m/V
+
+ALTERNATIVE METHOD (MEASURING CYLINDER):
+
+1. Measure the mass of the object on a balance
+
+2. Fill a measuring cylinder with a known volume of water (V₁)
+
+3. Carefully lower the object into the water
+
+4. Read the new water level (V₂)
+
+5. Volume of object = V₂ - V₁
+
+6. Calculate the density using ρ = m/V
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 3.6---
+TYPE: Apparatus
+PURPOSE: Show Eureka can displacement method for irregular objects
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Sequential steps showing displacement process
+
+COMPONENTS:
+  [Eureka Can]
+    Symbol: can_with_spout
+    Position: grid(3,4)
+    Size: medium
+    Label: "Eureka can" [below]
+    Content: water level just below spout
+
+  [Measuring Cylinder]
+    Symbol: measuring_cylinder
+    Position: grid(5,6)
+    Size: small
+    Label: "Measuring cylinder" [below]
+
+  [Object Being Lowered]
+    Symbol: irregular_shape
+    Position: grid(3,2)
+    Size: small
+    Style: dashed outline with downward arrow
+
+  [Water Flow Arrow]
+    Symbol: curved_arrow
+    Position: from spout to cylinder
+    Style: blue wavy line
+
+CONNECTIONS:
+  [Spout to Cylinder]: Eureka can spout → Measuring cylinder, curved arrow
+
+ANNOTATIONS:
+  [Step Label]: "Object displaces its own volume of water" [right side]
+  [Volume Note]: "V = volume reading in cylinder" [bottom]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 4: Finding Density by Displacement
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A student measures the density of an irregular stone. The mass is 45 g. When
+placed in a measuring cylinder containing 50 cm³ of water, the water level
+rises to 65 cm³. Calculate the density of the stone.
+
+SOLUTION:
+
+Step 1: List the known values
+    Mass, m = 45 g
+    Initial water level, V₁ = 50 cm³
+    Final water level, V₂ = 65 cm³
+
+Step 2: Calculate the volume of the stone
+    V = V₂ - V₁
+    V = 65 - 50
+    V = 15 cm³
+
+Step 3: Calculate the density
+    ρ = m / V
+    ρ = 45 / 15
+    ρ = 3.0 g/cm³
+
+
+--------------------------------------------------------------------------------
+3.3.3  MEASURING DENSITY OF LIQUIDS
+--------------------------------------------------------------------------------
+
+METHOD:
+
+1. Place an empty measuring cylinder on a digital balance
+
+2. Reset the balance to zero (or note the mass of the empty cylinder)
+
+3. Pour the liquid into the measuring cylinder and note the volume
+
+4. Read the new mass on the balance
+
+5. Calculate the mass of liquid = final mass - mass of empty cylinder
+
+6. Calculate the density using ρ = m/V
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 3.7---
+TYPE: Apparatus
+PURPOSE: Show method for measuring density of a liquid
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Three sequential steps left to right
+
+COMPONENTS:
+  [Step 1 - Empty Cylinder]
+    Symbol: measuring_cylinder
+    Position: grid(2,5)
+    Size: medium
+    Label: "Empty cylinder" [below]
+    Content: empty
+
+  [Step 1 - Balance]
+    Symbol: digital_balance
+    Position: grid(2,7)
+    Label: "Zero the balance"
+
+  [Step 2 - With Liquid]
+    Symbol: measuring_cylinder
+    Position: grid(6,5)
+    Size: medium
+    Content: filled with liquid, volume marked
+    Label: "Add liquid, note volume" [below]
+
+  [Step 3 - Read Mass]
+    Symbol: digital_balance_with_reading
+    Position: grid(10,5)
+    Label: "Read mass" [below]
+
+CONNECTIONS:
+  [Arrows]: Step 1 → Step 2 → Step 3
+
+ANNOTATIONS:
+  [Formula]: "ρ = mass of liquid / volume of liquid" [bottom center]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+SOURCES OF ERROR AND PRECAUTIONS:
+
+Systematic Errors:
+* Ensure the digital balance is set to zero before taking measurements
+* For liquid density, remove the measuring cylinder and zero the balance before
+  adding the liquid
+
+Random Errors:
+* Take repeat readings and calculate an average
+* Read the measuring cylinder at eye level to avoid parallax error
+
+Safety Considerations:
+* Handle glassware carefully to avoid breakage
+* Do not pour water into equipment when it is on an electric balance
+* Stand during the experiment to react quickly to any spills
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Measuring Density
+--------------------------------------------------------------------------------
+
+Q11. Describe how you would measure the density of a rectangular metal block.
+
+Q12. Explain why the displacement method is used for irregular objects.
+
+Q13. A stone has a mass of 120 g. When placed in water in a measuring cylinder,
+     the water level rises from 40 cm³ to 80 cm³. Calculate the density.
+
+Q14. What precautions should be taken to improve accuracy when measuring
+     the density of a liquid?
+
+(Answers at end of section)
+
+
+================================================================================
+                    SECTION 3.4: FLOATING AND SINKING
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Determine whether an object floats based on density data.
+  * (Supplement) Determine whether one liquid will float on another liquid
+    based on density data given that the liquids do not mix.
+
+--------------------------------------------------------------------------------
+3.4.1  DENSITY AND FLOATING
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Have you ever wondered why a heavy steel ship floats while a small stone
+sinks? Or why some objects float on water but others don't? The answer depends
+on comparing the densities of the object and the fluid.
+
+> KEY PRINCIPLE
+> Whether an object floats or sinks depends on the relative densities of the
+> object and the fluid it is placed in.
+
+FLOATING AND SINKING RULES:
+┌─────────────────────────────────────┬───────────────────────────────────────┐
+│ Condition                           │ Result                                │
+├─────────────────────────────────────┼───────────────────────────────────────┤
+│ Object density > Fluid density      │ Object SINKS                          │
+├─────────────────────────────────────┼───────────────────────────────────────┤
+│ Object density < Fluid density      │ Object FLOATS                         │
+├─────────────────────────────────────┼───────────────────────────────────────┤
+│ Object density = Fluid density      │ Object stays at current position      │
+│                                     │ (neither floats nor sinks)            │
+└─────────────────────────────────────┴───────────────────────────────────────┘
+
+UPTHRUST:
+
+When an object is placed in a fluid:
+* The fluid exerts an upward force called UPTHRUST
+* Upthrust acts in the opposite direction to weight
+* The size of upthrust depends on:
+  - The density of the fluid
+  - The volume of fluid displaced (equal to the volume of the submerged object)
+
+An object floats when upthrust = weight
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 3.8---
+TYPE: Conceptual
+PURPOSE: Show relationship between density and floating/sinking
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Container of water with three objects at different levels
+
+COMPONENTS:
+  [Water Container]
+    Symbol: rectangular_tank
+    Position: grid(2,2) to grid(10,9)
+    Size: large
+    Content: water with surface line
+    Label: "Water (ρ = 1.0 g/cm³)" [right side]
+
+  [Floating Object]
+    Symbol: rectangle
+    Position: grid(3,3) (partially above water line)
+    Size: small
+    Label: "Cork (ρ = 0.2 g/cm³)" [above]
+    Note: "FLOATS" [arrow pointing to object]
+
+  [Partially Submerged Object]
+    Symbol: rectangle
+    Position: grid(6,4) (just below water line)
+    Size: small
+    Label: "Wood (ρ = 0.9 g/cm³)" [left]
+    Note: "FLOATS (partially submerged)"
+
+  [Sinking Object]
+    Symbol: rectangle
+    Position: grid(9,8) (at bottom)
+    Size: small
+    Label: "Iron (ρ = 7.9 g/cm³)" [right]
+    Note: "SINKS" [arrow pointing to object]
+
+CONNECTIONS:
+  [Weight Arrows]: Downward arrows on each object labeled "W"
+  [Upthrust Arrows]: Upward arrows on each object labeled "Upthrust"
+
+ANNOTATIONS:
+  [Rule]: "Lower density objects float on higher density fluids" [bottom]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+EXAMPLES:
+┌─────────────────────┬─────────────────────┬─────────────────────────────────┐
+│ Object              │ Density (g/cm³)     │ In Water (1.0 g/cm³)            │
+├─────────────────────┼─────────────────────┼─────────────────────────────────┤
+│ Polystyrene         │ 0.05                │ Floats (much less dense)        │
+├─────────────────────┼─────────────────────┼─────────────────────────────────┤
+│ Wood                │ 0.6 - 0.9           │ Floats (partially submerged)    │
+├─────────────────────┼─────────────────────┼─────────────────────────────────┤
+│ Ice                 │ 0.92                │ Floats (about 90% submerged)    │
+├─────────────────────┼─────────────────────┼─────────────────────────────────┤
+│ Iron                │ 7.9                 │ Sinks (much more dense)         │
+├─────────────────────┼─────────────────────┼─────────────────────────────────┤
+│ Gold                │ 19.3                │ Sinks rapidly                   │
+└─────────────────────┴─────────────────────┴─────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 5: Determining Whether an Object Floats
+--------------------------------------------------------------------------------
+
+PROBLEM:
+Potassium is an alkali metal with a density of 0.862 g/cm³. A science teacher
+has four different mineral oils in which they could store their potassium.
+Which mineral oil should the teacher choose if the potassium must sink?
+
+A: White mineral oil, ρ = 0.864 g/cm³
+B: Paraffin oil, ρ = 0.890 g/cm³
+C: Liquid paraffin, ρ = 0.825 g/cm³
+D: Food grade mineral oil, ρ = 0.880 g/cm³
+
+SOLUTION:
+
+Step 1: State the condition for sinking
+    An object sinks if its density is greater than the fluid's density.
+    For potassium to sink, the oil must have a density < 0.862 g/cm³
+
+Step 2: Compare the densities
+    A: 0.864 g/cm³ > 0.862 g/cm³ → potassium would float
+    B: 0.890 g/cm³ > 0.862 g/cm³ → potassium would float
+    C: 0.825 g/cm³ < 0.862 g/cm³ → potassium would SINK ✓
+    D: 0.880 g/cm³ > 0.862 g/cm³ → potassium would float
+
+Step 3: State the answer
+    The teacher should choose C: Liquid paraffin.
+    This is the only oil with a density less than potassium, so the potassium
+    will sink.
+
+
+--------------------------------------------------------------------------------
+3.4.2  FLOATING LIQUIDS (Extended)
+--------------------------------------------------------------------------------
+
+(Extended Tier)
+
+When two liquids that do not mix are placed together:
+
+> KEY PRINCIPLE
+> A liquid with a lower density will float on top of a liquid with a higher
+> density, provided the liquids do not mix.
+
+EXAMPLE: Oil and Water
+* Oil has a density of about 0.8 - 0.9 g/cm³
+* Water has a density of 1.0 g/cm³
+* Oil floats on top of water because it is less dense
+* They do not mix because oil and water are immiscible
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 6: Floating Liquids
+--------------------------------------------------------------------------------
+
+PROBLEM:
+Liquid A has a density of 0.76 g/cm³ and liquid B has a density of 0.93 g/cm³.
+If the two liquids do not mix, which liquid will float on top of the other?
+
+SOLUTION:
+
+Step 1: List the known quantities
+    Liquid A = 0.76 g/cm³
+    Liquid B = 0.93 g/cm³
+
+Step 2: Compare the densities
+    0.76 is less than 0.93
+    Therefore, Liquid A has the lower density.
+
+Step 3: Apply the rule
+    The liquid with lower density floats on top.
+
+Step 4: State the answer
+    Liquid A will float on top of Liquid B.
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Floating and Sinking
+--------------------------------------------------------------------------------
+
+Q15. State the condition for an object to float in a liquid.
+
+Q16. A block of material has a density of 0.85 g/cm³. Will it float or sink
+     in water (density = 1.0 g/cm³)? Explain your answer.
+
+Q17. Three liquids P, Q, and R have densities of 1.2, 0.9, and 1.5 g/cm³
+     respectively. If they do not mix, in what order would they arrange
+     themselves in a container? (Top to bottom)
+
+(Answers at end of section)
+
+
+--------------------------------------------------------------------------------
+COMMON MISCONCEPTIONS: Density and Floating
+--------------------------------------------------------------------------------
+
+┌─────────────────────────────────────┬───────────────────────────────────────┐
+│ Misconception                       │ Correction                            │
+├─────────────────────────────────────┼───────────────────────────────────────┤
+│ "Heavy objects sink, light objects  │ It's not about total mass, but about  │
+│ float"                              │ density. A large ship is very heavy   │
+│                                     │ but floats because its overall        │
+│                                     │ density is less than water.           │
+├─────────────────────────────────────┼───────────────────────────────────────┤
+│ "All metals sink in water"          │ Some metals like sodium and potassium │
+│                                     │ are less dense than water and float.  │
+├─────────────────────────────────────┼───────────────────────────────────────┤
+│ "Ice sinks because it's solid       │ Ice is actually less dense than       │
+│ water"                              │ liquid water (0.92 vs 1.0 g/cm³),     │
+│                                     │ which is why it floats.               │
+└─────────────────────────────────────┴───────────────────────────────────────┘
+
+
+================================================================================
+                    MODULE SUMMARY
+================================================================================
+
+KEY DEFINITIONS:
+┌─────────────────────────┬───────────────────────────────────────────────────┐
+│ Term                    │ Definition                                        │
+├─────────────────────────┼───────────────────────────────────────────────────┤
+│ Mass                    │ A measure of the quantity of matter in an object  │
+│                         │ at rest relative to the observer                  │
+├─────────────────────────┼───────────────────────────────────────────────────┤
+│ Weight                  │ A gravitational force on an object that has mass  │
+├─────────────────────────┼───────────────────────────────────────────────────┤
+│ Gravitational field     │ The force per unit mass acting on an object in a  │
+│ strength                │ gravitational field                               │
+├─────────────────────────┼───────────────────────────────────────────────────┤
+│ Density                 │ The mass per unit volume of a material            │
+└─────────────────────────┴───────────────────────────────────────────────────┘
+
+KEY FORMULAS:
+┌─────────────────────────┬───────────────────────────────────────────────────┐
+│ Formula                 │ Meaning                                           │
+├─────────────────────────┼───────────────────────────────────────────────────┤
+│ W = m × g               │ Weight = mass × gravitational field strength      │
+├─────────────────────────┼───────────────────────────────────────────────────┤
+│ g = W / m               │ Gravitational field strength = weight / mass      │
+├─────────────────────────┼───────────────────────────────────────────────────┤
+│ ρ = m / V               │ Density = mass / volume                           │
+└─────────────────────────┴───────────────────────────────────────────────────┘
+
+KEY VALUES:
+* Gravitational field strength on Earth, g = 9.8 N/kg (or m/s²)
+* Density of water = 1.0 g/cm³ = 1000 kg/m³
+
+KEY CONCEPTS:
+* Mass is constant everywhere; weight depends on gravitational field strength
+* Objects float when their density is less than the fluid's density
+* Volume of irregular objects can be found using displacement
+
+
+================================================================================
+                    PRACTICE EXERCISES
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION A: RECALL QUESTIONS (AO1)
+--------------------------------------------------------------------------------
+
+1. Define mass.
+
+2. Define weight.
+
+3. State the SI unit for:
+   a) mass
+   b) weight
+   c) density
+
+4. Define density.
+
+5. State the value of gravitational field strength on Earth.
+
+
+--------------------------------------------------------------------------------
+SECTION B: APPLICATION QUESTIONS (AO2)
+--------------------------------------------------------------------------------
+
+6. Calculate the weight of a 65 kg astronaut on Earth. (g = 9.8 N/kg)
+
+7. An object has a weight of 392 N on Earth. Calculate its mass. (g = 9.8 N/kg)
+
+8. The same astronaut from question 6 travels to Mars (g = 3.7 N/kg).
+   a) What is their mass on Mars?
+   b) What is their weight on Mars?
+
+9. A metal block has dimensions 5 cm × 4 cm × 3 cm and a mass of 540 g.
+   Calculate its density in g/cm³.
+
+10. A cylinder has a volume of 0.002 m³ and is made of aluminium
+    (density = 2700 kg/m³). Calculate the mass of the cylinder.
+
+11. A stone has a mass of 75 g. When placed in a measuring cylinder containing
+    30 cm³ of water, the water level rises to 55 cm³. Calculate the density
+    of the stone.
+
+12. A liquid has a mass of 180 g and occupies a volume of 200 cm³.
+    a) Calculate the density of the liquid.
+    b) Will this liquid float on water? Explain your answer.
+
+
+--------------------------------------------------------------------------------
+SECTION C: ANALYSIS QUESTIONS (AO3)
+--------------------------------------------------------------------------------
+
+13. A student says "I weigh 60 kg." Explain what is wrong with this statement.
+
+14. Explain why a steel ship can float, even though steel has a density much
+    greater than water.
+
+15. A student wants to find the density of an irregularly shaped ornament
+    that is too large to fit in a measuring cylinder.
+    Describe a method they could use, including the equipment needed and
+    calculations required.
+
+16. Three objects are placed in water (density = 1.0 g/cm³):
+    - Object A: density = 0.8 g/cm³
+    - Object B: density = 1.2 g/cm³
+    - Object C: density = 0.95 g/cm³
+    
+    a) Which objects will float and which will sink?
+    b) Which floating object will have more of its body below the water surface?
+       Explain your answer.
+
+
+================================================================================
+                    SELF-ASSESSMENT CHECKLIST
+================================================================================
+
+I can...                                                           ✓ or ✗
+
+□ State that mass is a measure of the quantity of matter in an object
+
+□ State that weight is a gravitational force on an object with mass
+
+□ Explain the difference between mass and weight
+
+□ Define gravitational field strength and use the equation g = W/m
+
+□ Calculate weight using W = mg
+
+□ Know that masses can be compared using a balance
+
+□ Define density as mass per unit volume
+
+□ Use the equation ρ = m/V to calculate density, mass or volume
+
+□ Describe how to measure the density of a regular solid
+
+□ Describe how to measure the density of an irregular solid using displacement
+
+□ Describe how to measure the density of a liquid
+
+□ Determine whether an object will float or sink based on density data
+
+□ (Supplement) Determine which liquid will float on another using density data
+
+
+================================================================================
+                    ANSWERS TO CHECK YOUR UNDERSTANDING
+================================================================================
+
+SECTION 3.1: Mass and Weight
+----------------------------
+
+Q1. Mass is a measure of the quantity of matter in an object at rest relative
+    to the observer.
+
+Q2. Two differences:
+    - Mass is a scalar quantity; weight is a vector quantity
+    - Mass is measured in kg; weight is measured in N
+    (Also acceptable: mass is constant everywhere; weight depends on location)
+
+Q3. W = m × g = 50 × 9.8 = 490 N
+
+Q4. m = W / g = 784 / 9.8 = 80 kg
+
+Q5. The astronaut's mass stays the same because mass is the amount of matter,
+    which doesn't change with location. However, weight changes because the
+    Moon has a weaker gravitational field strength than Earth. Since W = mg
+    and g is smaller on the Moon, the weight is smaller.
+
+
+SECTION 3.2: Density
+----------------------------
+
+Q6. Density is the mass per unit volume of a material.
+
+Q7. ρ = m / V
+
+Q8. Volume = 0.02 × 0.02 × 0.02 = 0.000008 m³ = 8 × 10⁻⁶ m³
+    Mass = 64 g = 0.064 kg
+    Density = 0.064 / (8 × 10⁻⁶) = 8000 kg/m³
+
+Q9. m = ρ × V = 0.8 × 500 = 400 g
+
+Q10. Ice has a density of about 0.92 g/cm³, which is less than water's density
+     of 1.0 g/cm³. Objects less dense than water will float.
+
+
+SECTION 3.3: Measuring Density
+----------------------------
+
+Q11. 1. Measure the mass of the block using a digital balance
+     2. Measure the length, width and height using a ruler
+     3. Calculate volume: V = l × w × h
+     4. Calculate density: ρ = m / V
+
+Q12. The displacement method is used because irregular objects have complex
+     shapes that cannot be easily measured with a ruler. When submerged in
+     water, the volume of water displaced equals the volume of the object.
+
+Q13. V = 80 - 40 = 40 cm³
+     ρ = m / V = 120 / 40 = 3.0 g/cm³
+
+Q14. - Zero the balance before measuring
+     - Read the measuring cylinder at eye level
+     - Take repeat readings and calculate an average
+     - Handle glassware carefully
+
+
+SECTION 3.4: Floating and Sinking
+----------------------------
+
+Q15. An object floats when its density is less than the density of the liquid.
+     (Or: when the upthrust force equals its weight)
+
+Q16. It will float. 0.85 g/cm³ < 1.0 g/cm³, so the block is less dense than
+     water. Objects less dense than the surrounding fluid will float.
+
+Q17. From top to bottom: Q (0.9 g/cm³), P (1.2 g/cm³), R (1.5 g/cm³)
+     The least dense liquid floats on top, the most dense sinks to the bottom.
+
+
+================================================================================
+                    END OF MODULE 3
+================================================================================

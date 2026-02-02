@@ -811,6 +811,51 @@ KEY CALCULATIONS:
     - Total Distance = Sum of all areas.
 
 --------------------------------------------------------------------------------
+---DIAGRAM: Fig. 2.12---
+TYPE: Graph
+PURPOSE: Show how to calculate distance as area under a speed-time graph
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "TIME" [x-axis], "SPEED" [y-axis]
+
+  [Area Triangle]
+    Symbol: triangle_filled
+    Position: grid(1,9) to grid(4,3)
+    Fill: dark gray (40%)
+    Label: "½ BASE × HEIGHT" [below]
+
+  [Area Rectangle]
+    Symbol: rectangle_filled
+    Position: grid(4,3) to grid(9,9)
+    Fill: light gray (20%)
+    Label: "BASE × HEIGHT" [center]
+
+  [Formula Box]
+    Symbol: box
+    Position: grid(6,1)
+    Label: "DISTANCE = AREA"
+
+CONNECTIONS:
+  [Motion Line]: grid(1,9) → grid(4,3) → grid(9,3), solid black line
+
+ANNOTATIONS:
+  [Arrow]: pointing from "½ BASE × HEIGHT" label to triangle area
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 ---DIAGRAM: Fig. 2.7---
 TYPE: Graph
 PURPOSE: Show how to interpret speed-time graphs and calculate distance

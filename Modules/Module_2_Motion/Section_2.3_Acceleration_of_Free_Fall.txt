@@ -1,0 +1,278 @@
+================================================================================
+                    MODULE 2: MOTION
+                    SECTION 2.3: ACCELERATION OF FREE FALL
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  • State that the acceleration of free fall g for an object near to the surface 
+    of the Earth is approximately constant and is approximately 9.8 m/s².
+  • Describe the motion of objects falling in a uniform gravitational field 
+    with and without air resistance.
+
+Prerequisites: 
+  - Understanding of velocity and acceleration (Section 2.1)
+  - Interpretation of speed-time graphs (Section 2.2)
+
+Estimated Time: 45-60 minutes
+
+Key Vocabulary:
+  - Free fall          - Acceleration of free fall (g)
+  - Air resistance     - Drag
+  - Terminal velocity  - Vacuum
+
+================================================================================
+2.3.1  ACCELERATION OF FREE FALL
+================================================================================
+
+--------------------------------------------------------------------------------
+INTRODUCTION
+--------------------------------------------------------------------------------
+
+If you drop a hammer and a feather at the same time, which hits the ground first? 
+On Earth, the hammer wins every time. But why? Is it because it's heavier?
+
+In 1971, astronaut David Scott performed this experiment on the Moon. He dropped 
+a hammer and a feather, and they hit the ground at exactly the same time! 
+Use the link below to watch this famous experiment:
+[search_web: Apollo 15 Hammer and Feather Drop]
+
+This section explains why objects fall the way they do and introduces a special 
+constant in physics: g.
+
+--------------------------------------------------------------------------------
+WHAT IS FREE FALL?
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> Free fall is motion where the only force acting on an object is gravity.
+
+In true free fall, there is no air resistance (drag). This only happens perfectly 
+in a vacuum.
+
+--------------------------------------------------------------------------------
+ACCELERATION DUE TO GRAVITY (g)
+--------------------------------------------------------------------------------
+
+When an object falls freely near the Earth's surface, it accelerates downwards. 
+This acceleration is caused by the Earth's gravitational pull.
+
+KEY FACTS:
+1. The acceleration is approximately constant near the Earth's surface.
+2. The value is approximately 9.8 m/s².
+3. It is denoted by the symbol 'g'.
+
+> IMPORTANT VALUE
+> g ≈ 9.8 m/s²
+
+This means that for every second an object falls, its downward velocity increases 
+by 9.8 m/s.
+
+t = 0 s   ---> v = 0 m/s
+t = 1 s   ---> v = 9.8 m/s
+t = 2 s   ---> v = 19.6 m/s
+t = 3 s   ---> v = 29.4 m/s
+
+Does mass matter?
+NO! In the absence of air resistance, all objects fall with the SAME acceleration, 
+regardless of their mass. A heavy stone and a light pebble will accelerate at the 
+same rate (9.8 m/s²) if air resistance is ignored.
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 1: Calculates with g
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A stone is dropped from a bridge. Ignoring air resistance, calculate its 
+velocity after 3.0 seconds. (Take g = 9.8 m/s²)
+
+SOLUTION:
+
+Step 1: Identify given values
+    u = 0 m/s (dropped from rest)
+    a = g = 9.8 m/s²
+    t = 3.0 s
+    Required: v = ?
+
+Step 2: Select equation
+    v = u + at
+
+Step 3: Substitute
+    v = 0 + (9.8 × 3.0)
+
+Step 4: Calculate
+    v = 29.4 m/s
+
+Step 5: State answer
+    The stone's velocity is 29.4 m/s.
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Free Fall
+--------------------------------------------------------------------------------
+
+Q1. State the approximate value of the acceleration of free fall near the surface 
+    of the Earth.
+
+Q2. If a rock is dropped on a planet where g = 4.0 m/s², by how much does its 
+    speed increase every second?
+
+Q3. Two metal balls, one with mass 1kg and one with mass 5kg, are dropped from 
+    the same height in a vacuum. Which hits the ground first? Explain.
+
+(Answers at end of section)
+
+================================================================================
+2.3.2  MOTION WITH AIR RESISTANCE
+================================================================================
+
+--------------------------------------------------------------------------------
+FALLING IN THE REAL WORLD
+--------------------------------------------------------------------------------
+
+In everyday life, objects fall through air. The air exerts a resistive force 
+called 'air resistance' or 'drag'.
+
+Air resistance depends on:
+1. Speed: The faster the object moves, the greater the air resistance.
+2. Surface Area: The larger the surface area, the greater the air resistance.
+
+--------------------------------------------------------------------------------
+THE STAGES OF FALLING
+--------------------------------------------------------------------------------
+
+Let's look at what happens to a skydiver jumping out of a plane.
+
+STAGE 1: JUST RELEASED (t = 0)
+- Velocity is zero.
+- Air resistance is zero.
+- Only force is weight (gravity) pulling down.
+- Resultant force is downwards.
+- Acceleration = g (9.8 m/s²).
+
+STAGE 2: ACCELERATING
+- Speed increases.
+- Air resistance INCREASES as speed increases.
+- Air resistance opposes weight (acts upwards).
+- Resultant force downwards decreases (Weight - Air Resistance).
+- Acceleration decreases (but is still downward, so speed actually still increases!).
+
+STAGE 3: TERMINAL VELOCITY
+- Speed has increased enough that Air Resistance = Weight.
+- Resultant force is ZERO.
+- Acceleration is ZERO.
+- The object continues to fall at a CONSTANT speed.
+- This constant speed is called TERMINAL VELOCITY.
+
+> DEFINITION
+> Terminal velocity is the constant maximum velocity reached by a falling object 
+> when the resistive force (air resistance) equals the accelerating force (weight).
+
+--------------------------------------------------------------------------------
+GRAPHING THE MOTION
+--------------------------------------------------------------------------------
+
+We can compare motion with and without air resistance using a speed-time graph.
+
+WITHOUT AIR RESISTANCE (Vacuum):
+- Straight line graph starting from origin.
+- Gradient is constant (gradient = g).
+- Speed increases indefinitely (until impact).
+
+WITH AIR RESISTANCE:
+- Curve starting from origin.
+- Gradient is initially steep (gradient = g).
+- Gradient decreases as time goes on (acceleration decreases).
+- Graph becomes horizontal (acceleration = 0).
+- The horizontal value represents terminal velocity.
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Air Resistance
+--------------------------------------------------------------------------------
+
+Q4. Explain why a falling object eventually reaches a terminal velocity.
+
+Q5. A skydiver opens their parachute. 
+    a) What happens to the air resistance immediately after opening?
+    b) Describe the subsequent motion of the skydiver.
+
+Q6. Sketch a speed-time graph for an object falling with air resistance. 
+    Mark the terminal velocity on the graph.
+
+(Answers at end of section)
+
+================================================================================
+SECTION 2.3 SUMMARY
+================================================================================
+
+KEY POINTS:
+• Acceleration of free fall (g) is approx 9.8 m/s² near Earth's surface.
+• This value is constant for all objects near Earth, regardless of mass.
+• 'Free fall' means gravity is the only force acting (no air resistance).
+• Air resistance (drag) increases with speed and opposes motion.
+• Terminal velocity is reached when Air Resistance = Weight.
+• At terminal velocity, acceleration is zero.
+
+================================================================================
+COMMON MISCONCEPTIONS
+================================================================================
+
+┌────────────────────────────────────────┬─────────────────────────────────────┐
+│ MISCONCEPTION                          │ CORRECTION                          │
+├────────────────────────────────────────┼─────────────────────────────────────┤
+│ "Heavier objects always fall faster"   │ In a vacuum, all objects fall at    │
+│                                        │ the same rate (g). Heavier objects  │
+│                                        │ only fall faster in air if air      │
+│                                        │ resistance is significant relative  │
+│                                        │ to their weight.                    │
+├────────────────────────────────────────┼─────────────────────────────────────┤
+│ "At terminal velocity, the object      │ No! It stops ACCELERATING. It       │
+│ stops moving"                          │ continues to move at a constant     │
+│                                        │ high speed.                         │
+├────────────────────────────────────────┼─────────────────────────────────────┤
+│ "Acceleration increases as an object   │ Acceleration is constant (g) in a   │
+│ falls"                                 │ vacuum. With air resistance,        │
+│                                        │ acceleration actually DECREASES     │
+│                                        │ until it hits zero.                 │
+└────────────────────────────────────────┴─────────────────────────────────────┘
+
+================================================================================
+ANSWERS TO CHECK YOUR UNDERSTANDING
+================================================================================
+
+Q1. 9.8 m/s²
+
+Q2. Its speed increases by 4.0 m/s every second.
+
+Q3. They hit at the same time. in a vacuum, there is no air resistance, so both 
+    accelerate at g (9.8 m/s²) regardless of mass.
+
+Q4. As the object speeds up, air resistance increases. Eventually, air resistance 
+    becomes equal to the weight of the object. The resultant force becomes zero, 
+    so acceleration becomes zero, and the object travels at a constant speed.
+
+Q5. a) Air resistance drastically increases due to the large surface area of the 
+       parachute.
+    b) The air resistance is now greater than the weight, creating an upward 
+       resultant force. The skydiver decelerates (slows down) until a new, lower 
+       terminal velocity is reached.
+
+Q6. Graph should show a curve starting at origin, with gradient decreasing until 
+    the line becomes horizontal.
+
+================================================================================
+SELF-ASSESSMENT CHECKLIST
+================================================================================
+
+□ I can state that the acceleration of free fall g is approx 9.8 m/s²
+□ I understand that g is constant near Earth's surface
+□ I can describe motion in a vacuum (constant acceleration)
+□ I can describe motion with air resistance (decreasing acceleration)
+□ I can explain the concept of terminal velocity in terms of forces
+□ I can interpret speed-time graphs for falling objects
+
+================================================================================
+                    END OF SECTION 2.3
+================================================================================

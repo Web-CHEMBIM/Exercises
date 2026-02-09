@@ -1,0 +1,875 @@
+================================================================================
+                    IGCSE PHYSICS - MODULE 19
+               THE NUCLEAR MODEL OF THE ATOM
+================================================================================
+
+Topic: 5.1 The Nuclear Model of the Atom
+Estimated Study Time: 3-4 hours
+
+--------------------------------------------------------------------------------
+                           MODULE OVERVIEW
+--------------------------------------------------------------------------------
+
+This module introduces the structure of the atom, focusing on the nuclear
+model. You will learn about the nucleus, subatomic particles, isotopes, and
+the processes of nuclear fission and fusion.
+
+LEARNING OBJECTIVES:
+
+After completing this module, you will be able to:
+
+Section 19.1 - The Atom
+• Describe the structure of an atom: positively charged nucleus with
+  negatively charged electrons in orbit [Core]
+• Know how atoms form positive ions by losing electrons or negative ions
+  by gaining electrons [Core]
+• Describe how alpha scattering provides evidence for the nuclear model
+  [Supplement]
+
+Section 19.2 - The Nucleus
+• Describe the composition of the nucleus (protons and neutrons) [Core]
+• State relative charges: proton (+1), neutron (0), electron (−1) [Core]
+• Define proton number (Z) and nucleon number (A); calculate neutrons [Core]
+• Use nuclide notation ᴬzX [Core]
+• Explain isotopes and know elements may have more than one [Core]
+• Describe nuclear fission and fusion with nuclide equations [Supplement]
+• Know the relationship: proton number = relative charge of nucleus [Supplement]
+• Know the relationship: nucleon number = relative mass of nucleus [Supplement]
+
+PREREQUISITES:
+• Basic understanding of matter and energy
+
+================================================================================
+                        SECTION 19.1: THE ATOM
+================================================================================
+
+19.1.1 ATOMIC STRUCTURE
+------------------------
+
+Atoms are the building blocks of all matter.
+
+STRUCTURE OF AN ATOM:
+• A small, dense, POSITIVELY CHARGED NUCLEUS at the center
+• NEGATIVELY CHARGED ELECTRONS in orbit around the nucleus
+
+---DIAGRAM: Fig. 19.1---
+TYPE: Diagram
+PURPOSE: Basic atomic structure showing nucleus and orbiting electrons
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 1:1 square
+GRID: 9 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Nucleus at center, electron orbits around it
+
+COMPONENTS:
+  [Nucleus]
+    Shape: small solid circle at center
+    Position: grid(5, 5)
+    Label: "+" symbols inside to show positive charge
+    Size: small (representing most of the mass)
+
+  [Electron Orbits]
+    Shape: 2-3 concentric circular paths around nucleus
+    Style: dashed or dotted lines showing orbital paths
+
+  [Electrons]
+    Shape: small circles with "−" inside
+    Position: on the orbital paths
+    Number: 2-3 electrons shown
+
+LABELS:
+  "nucleus (+)" pointing to center
+  "electrons (−)" pointing to outer particles
+  "orbits" pointing to dashed circles
+---END DIAGRAM---
+
+KEY FACTS ABOUT ATOMS:
+• Atoms are incredibly small: radius ≈ 1 × 10⁻¹⁰ m
+• About 100 million atoms could fit across your thumbnail
+• The nucleus is over 10,000 times smaller than the whole atom
+• The nucleus contains almost all the mass of the atom
+• Most of the atom is EMPTY SPACE
+
+19.1.2 ATOMS AND IONS
+----------------------
+
+An ION is an electrically charged atom formed by losing or gaining electrons.
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  NEUTRAL ATOM:  Number of protons = Number of electrons                    │
+│                 Net charge = 0                                              │
+│                                                                             │
+│  POSITIVE ION:  Atom LOSES electrons                                        │
+│                 More protons than electrons                                 │
+│                 Net positive charge                                         │
+│                                                                             │
+│  NEGATIVE ION:  Atom GAINS electrons                                        │
+│                 More electrons than protons                                 │
+│                 Net negative charge                                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+WHY DO ATOMS FORM IONS?
+• Atoms lose or gain electrons to become more stable
+• The nucleus (protons and neutrons) does not change when forming ions
+• Only the number of electrons changes
+
+EXAMPLE:
+• A sodium atom has 11 protons and 11 electrons (neutral)
+• If it loses 1 electron, it has 11 protons and 10 electrons
+• Net charge = +11 + (−10) = +1 → positive ion (Na⁺)
+
+19.1.3 RUTHERFORD'S ALPHA SCATTERING EXPERIMENT [SUPPLEMENT]
+------------------------------------------------------------
+
+In 1909, Ernest Rutherford and his students Hans Geiger and Ernest Marsden
+performed an experiment that provided evidence for the nuclear model.
+
+THE EXPERIMENT:
+• A beam of alpha particles (α-particles) was fired at thin gold foil
+• Alpha particles are helium nuclei (He²⁺): 2 protons + 2 neutrons
+• Detectors measured where the alpha particles went after hitting the foil
+
+OBSERVATIONS:
+
+| Observation | Proportion | What it tells us |
+|-------------|------------|------------------|
+| Most α-particles passed straight through | Vast majority | Atom is mostly EMPTY SPACE |
+| Some α-particles were deflected at small angles | Small number | Came close to positive nucleus, repelled |
+| Very few α-particles bounced back (>90°) | Very few | Hit the tiny, dense, positive nucleus |
+
+---DIAGRAM: Fig. 19.2---
+TYPE: Diagram
+PURPOSE: Rutherford alpha scattering experiment results
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Alpha source on left, gold foil in center, paths shown
+
+COMPONENTS:
+  [Alpha Source]
+    Shape: small box
+    Position: grid(1-2, 5)
+    Label: "α source"
+
+  [Gold Foil]
+    Shape: thin vertical rectangle
+    Position: grid(6, 2-8)
+    Label: "thin gold foil"
+
+  [Nucleus in Foil]
+    Shape: tiny dot within the foil
+    Label: "nucleus"
+
+  [Path A - Straight Through]
+    Arrow: horizontal line from source, through foil, continuing straight
+    Label: "A - most pass straight through"
+
+  [Path B - Small Deflection]
+    Arrow: line from source, through foil, deflected at small angle
+    Label: "B - some deflected"
+
+  [Path C - Bounced Back]
+    Arrow: line from source, hitting nucleus, bouncing back toward source
+    Label: "C - very few bounce back"
+
+LABELS:
+  Labels for each path explaining observation
+---END DIAGRAM---
+
+CONCLUSIONS:
+1. The atom is mostly EMPTY SPACE (most α-particles pass through)
+2. The nucleus is very SMALL (very few bounce back)
+3. The nucleus is DENSE and contains most of the MASS
+4. The nucleus is POSITIVELY CHARGED (repels positive α-particles)
+
+This experiment disproved the earlier "Plum Pudding" model and established
+the nuclear model of the atom.
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 19.1
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Describe the structure of an atom.
+
+2. An atom has 8 protons and 10 electrons. Is it a positive or negative ion?
+   Explain your answer.
+
+3. [Supplement] In Rutherford's experiment, most alpha particles passed
+   straight through the gold foil. What does this tell us about atoms?
+
+4. [Supplement] Why did a few alpha particles bounce back at large angles?
+
+ANSWERS:
+1. A small, dense, positively charged nucleus at the center, with negatively
+   charged electrons orbiting around it.
+2. Negative ion. It has 2 more electrons than protons, giving a net charge of
+   8(+) + 10(−) = −2.
+3. This shows that atoms are mostly empty space.
+4. These particles hit the small, dense, positively charged nucleus directly.
+   The positive nucleus repelled the positive alpha particles.
+
+================================================================================
+                        SECTION 19.2: THE NUCLEUS
+================================================================================
+
+19.2.1 COMPOSITION OF THE NUCLEUS
+----------------------------------
+
+The nucleus is composed of:
+• PROTONS: positively charged particles
+• NEUTRONS: particles with no charge (neutral)
+
+Together, protons and neutrons are called NUCLEONS.
+
+The nucleus has an overall POSITIVE CHARGE because:
+• Protons are positive
+• Neutrons are neutral
+• There are no electrons in the nucleus
+
+---DIAGRAM: Fig. 19.3---
+TYPE: Diagram
+PURPOSE: Structure of the nucleus showing protons and neutrons
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 1:1 square
+GRID: 9 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Close-up of nucleus at center
+
+COMPONENTS:
+  [Nucleus]
+    Shape: cluster of circles (protons and neutrons packed together)
+    Position: grid(3-7, 3-7)
+
+  [Protons]
+    Shape: circles labeled "p" or "+"
+    Style: filled or different pattern from neutrons
+    Number: several shown
+
+  [Neutrons]
+    Shape: circles labeled "n" or "0"
+    Style: different from protons (e.g., empty)
+    Number: several shown
+
+LABELS:
+  "proton (+1)" with arrow to proton
+  "neutron (0)" with arrow to neutron
+  "nucleus" below the cluster
+---END DIAGRAM---
+
+19.2.2 RELATIVE CHARGES
+------------------------
+
+RELATIVE CHARGE compares the charge of particles to the fundamental charge.
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  Particle     │  Relative Charge  │  Location                              │
+├───────────────┼───────────────────┼────────────────────────────────────────┤
+│  Proton       │       +1          │  Nucleus                               │
+│  Neutron      │        0          │  Nucleus                               │
+│  Electron     │       −1          │  Orbiting the nucleus                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+KEY POINTS:
+• Protons and electrons have equal but opposite charges
+• The actual charge of a proton = +1.6 × 10⁻¹⁹ C
+• The actual charge of an electron = −1.6 × 10⁻¹⁹ C
+• Relative charge is a ratio, so it has no units
+
+19.2.3 PROTON NUMBER AND NUCLEON NUMBER
+----------------------------------------
+
+PROTON NUMBER (Z):
+• Also called ATOMIC NUMBER
+• The number of protons in an atom
+• Determines which ELEMENT the atom is
+• Also equals the number of electrons in a neutral atom
+
+NUCLEON NUMBER (A):
+• Also called MASS NUMBER
+• The total number of protons + neutrons in the nucleus
+• Determines the mass of the atom
+
+CALCULATING NEUTRONS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  Number of neutrons = Nucleon number − Proton number                       │
+│                     = A − Z                                                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLE:
+Sodium-23 has nucleon number 23 and proton number 11.
+• Number of neutrons = 23 − 11 = 12
+
+19.2.4 NUCLIDE NOTATION
+------------------------
+
+Atoms are written in NUCLIDE NOTATION:
+
+                    ᴬzX
+
+Where:
+• X = chemical symbol of the element
+• A = nucleon number (top number)
+• Z = proton number (bottom number)
+
+EXAMPLE: Lithium-7
+
+                    ⁷₃Li
+
+• A = 7 (nucleon number: 3 protons + 4 neutrons)
+• Z = 3 (proton number)
+• Number of neutrons = 7 − 3 = 4
+• Number of electrons in neutral atom = 3
+
+---DIAGRAM: Fig. 19.4---
+TYPE: Diagram
+PURPOSE: Nuclide notation explanation
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Large nuclide notation symbol with annotations
+
+COMPONENTS:
+  [Nuclide Symbol]
+    Shape: large notation showing ¹⁹⁷₇₉Au as example
+    Position: grid(4-8, 3-7)
+    Size: large and clear
+
+  [Annotation Arrows]
+    Arrow from top number (197): "Nucleon number (A) = protons + neutrons"
+    Arrow from bottom number (79): "Proton number (Z) = number of protons"
+    Arrow from Au: "Element symbol"
+
+  [Calculation Box]
+    Position: grid(9-12, 4-6)
+    Content: "Neutrons = A − Z = 197 − 79 = 118"
+
+LABELS:
+  As described in annotations
+---END DIAGRAM---
+
+WORKED EXAMPLE 19.1
+How many protons, neutrons, and electrons are in ¹⁹⁷₇₉Au (gold)?
+
+Solution:
+• Proton number (Z) = 79 → 79 protons
+• Nucleon number (A) = 197
+• Number of neutrons = A − Z = 197 − 79 = 118 neutrons
+• For a neutral atom: electrons = protons = 79 electrons
+
+19.2.5 ISOTOPES
+----------------
+
+ISOTOPES are atoms of the SAME ELEMENT that have:
+• The SAME number of PROTONS (same element)
+• A DIFFERENT number of NEUTRONS
+
+Because isotopes have different numbers of neutrons:
+• They have the same proton number (Z)
+• But different nucleon numbers (A)
+• They have slightly different masses
+
+EXAMPLE: Isotopes of Hydrogen
+
+| Isotope | Protons | Neutrons | Nucleon Number | Nuclide Notation |
+|---------|---------|----------|----------------|------------------|
+| Hydrogen (protium) | 1 | 0 | 1 | ¹₁H |
+| Deuterium | 1 | 1 | 2 | ²₁H |
+| Tritium | 1 | 2 | 3 | ³₁H |
+
+---DIAGRAM: Fig. 19.5---
+TYPE: Diagram
+PURPOSE: Three isotopes of hydrogen showing different neutron numbers
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Three hydrogen isotopes shown side by side
+
+COMPONENTS:
+  [Hydrogen-1 (Protium)]
+    Position: grid(1-4, 2-8)
+    Nucleus: 1 proton (labeled "p")
+    Electron: 1 electron in orbit
+    Label: "¹₁H - Hydrogen" below
+    Caption: "1 proton, 0 neutrons"
+
+  [Hydrogen-2 (Deuterium)]
+    Position: grid(6-10, 2-8)
+    Nucleus: 1 proton + 1 neutron (labeled "p" and "n")
+    Electron: 1 electron in orbit
+    Label: "²₁H - Deuterium" below
+    Caption: "1 proton, 1 neutron"
+
+  [Hydrogen-3 (Tritium)]
+    Position: grid(12-16, 2-8)
+    Nucleus: 1 proton + 2 neutrons
+    Electron: 1 electron in orbit
+    Label: "³₁H - Tritium" below
+    Caption: "1 proton, 2 neutrons"
+
+LABELS:
+  Title: "Isotopes of Hydrogen"
+---END DIAGRAM---
+
+WHY ISOTOPES MATTER:
+• Some isotopes are UNSTABLE and undergo radioactive decay
+• Unstable isotopes have an imbalance of protons and neutrons
+• More neutrons → often less stable → more likely to decay
+
+19.2.6 RELATIVE CHARGE AND MASS OF NUCLEUS [SUPPLEMENT]
+--------------------------------------------------------
+
+NUCLEAR CHARGE:
+The relative charge of a nucleus equals the proton number.
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  Nuclear charge = Number of protons × (+1) = +Z                            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Example: Carbon (Z = 6) has nuclear charge = +6
+
+NUCLEAR MASS:
+The relative mass of a nucleus equals the nucleon number.
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  Relative mass ≈ Number of nucleons = A                                    │
+│                                                                             │
+│  (Electron mass is negligible: about 1/2000 of a nucleon)                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+| Particle | Relative Mass |
+|----------|---------------|
+| Proton   | 1             |
+| Neutron  | 1             |
+| Electron | ≈ 1/2000 (negligible) |
+
+Example: Carbon-12 has nucleon number 12, so relative mass ≈ 12
+
+WORKED EXAMPLE 19.2
+What is the relative charge and relative mass of a chromium nucleus ⁵²₂₄Cr?
+
+Solution:
+• Proton number Z = 24
+• Nucleon number A = 52
+• Relative charge = +24 (equals number of protons)
+• Relative mass = 52 (equals nucleon number)
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 19.2A
+═══════════════════════════════════════════════════════════════════════════════
+
+1. State the relative charges of: a) proton, b) neutron, c) electron.
+
+2. An atom has 17 protons and a mass number of 35.
+   a) What is its proton number?
+   b) How many neutrons does it have?
+   c) How many electrons does a neutral atom have?
+
+3. Write the nuclide notation for an oxygen atom with 8 protons and 8 neutrons.
+
+4. What is an isotope? Give one example.
+
+5. [Supplement] What is the relative charge and relative mass of ⁵⁶₂₆Fe?
+
+ANSWERS:
+1. a) +1, b) 0, c) −1
+2. a) Proton number = 17
+   b) Neutrons = 35 − 17 = 18
+   c) Electrons = 17 (same as protons in neutral atom)
+3. ¹⁶₈O (nucleon number = 8 + 8 = 16)
+4. Atoms of the same element with the same number of protons but different
+   numbers of neutrons. Example: ¹₁H and ²₁H (hydrogen and deuterium).
+5. Relative charge = +26; Relative mass = 56.
+
+================================================================================
+                    SECTION 19.3: FISSION AND FUSION
+================================================================================
+
+19.3.1 NUCLEAR FISSION [SUPPLEMENT]
+------------------------------------
+
+NUCLEAR FISSION is defined as:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  The splitting of a large, unstable nucleus into two smaller nuclei.       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+HOW FISSION WORKS:
+1. A NEUTRON collides with an unstable heavy nucleus (e.g., uranium-235)
+2. The nucleus absorbs the neutron and becomes very unstable
+3. The nucleus SPLITS into two smaller daughter nuclei
+4. 2-3 NEUTRONS are released
+5. GAMMA RAYS are also emitted
+6. A large amount of ENERGY is released
+
+---DIAGRAM: Fig. 19.6---
+TYPE: Diagram
+PURPOSE: Nuclear fission process
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Process shown left to right: neutron + nucleus → split nuclei + neutrons
+
+COMPONENTS:
+  [Incoming Neutron]
+    Shape: small circle labeled "n"
+    Position: grid(1-2, 5)
+    Arrow: pointing right toward nucleus
+
+  [Large Nucleus]
+    Shape: large circle (representing U-235)
+    Position: grid(4-6, 3-7)
+    Label: "U-235"
+
+  [Arrow]
+    Position: grid(7, 5)
+    Symbol: →
+
+  [Daughter Nucleus 1]
+    Shape: medium circle
+    Position: grid(9-10, 2-4)
+    Label: "Kr-92"
+
+  [Daughter Nucleus 2]
+    Shape: medium circle
+    Position: grid(9-10, 6-8)
+    Label: "Ba-141"
+
+  [Released Neutrons]
+    Shape: 3 small circles labeled "n"
+    Position: scattered to the right
+    Arrows: pointing outward
+
+  [Energy]
+    Symbol: wavy lines or "ENERGY" label
+
+LABELS:
+  "neutron" near incoming neutron
+  "daughter nuclei" near products
+  "+ 3 neutrons + energy"
+---END DIAGRAM---
+
+EXAMPLE FISSION EQUATION:
+
+²³⁵₉₂U + ¹₀n → ⁹²₃₆Kr + ¹⁴¹₅₆Ba + 3¹₀n + energy
+
+CHECKING CONSERVATION:
+• Nucleon numbers: 235 + 1 = 92 + 141 + 3(1) → 236 = 236 ✓
+• Proton numbers: 92 + 0 = 36 + 56 + 3(0) → 92 = 92 ✓
+
+MASS AND ENERGY:
+• The total mass of products is slightly LESS than the mass of reactants
+• This "missing mass" has been converted to ENERGY (E = mc²)
+• This is the energy released in the fission process
+
+APPLICATIONS:
+• Nuclear power stations use fission of uranium-235 or plutonium-239
+• The released neutrons can cause MORE fission → chain reaction
+
+19.3.2 NUCLEAR FUSION [SUPPLEMENT]
+-----------------------------------
+
+NUCLEAR FUSION is defined as:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  The joining of two light nuclei to form a heavier nucleus.                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+HOW FUSION WORKS:
+1. Two light nuclei (e.g., hydrogen isotopes) are brought very close together
+2. They must overcome electrostatic repulsion (both are positive)
+3. At extremely high temperatures and pressures, they FUSE
+4. A heavier nucleus is formed
+5. A large amount of ENERGY is released
+
+---DIAGRAM: Fig. 19.7---
+TYPE: Diagram
+PURPOSE: Nuclear fusion process
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two small nuclei combining into one larger nucleus
+
+COMPONENTS:
+  [Hydrogen-2 (Deuterium)]
+    Shape: small circle with "p n" inside
+    Position: grid(2-3, 3-5)
+    Label: "²₁H"
+    Arrow: pointing toward center
+
+  [Hydrogen-1]
+    Shape: small circle with "p" inside
+    Position: grid(2-3, 5-7)
+    Label: "¹₁H"
+    Arrow: pointing toward center
+
+  [Plus Sign]
+    Position: grid(5, 5)
+
+  [Arrow]
+    Position: grid(8, 5)
+    Symbol: →
+
+  [Helium-3]
+    Shape: larger circle with "p p n" inside
+    Position: grid(11-13, 4-6)
+    Label: "³₂He"
+
+  [Energy Symbol]
+    Position: to the right
+    Style: wavy lines or rays
+    Label: "+ energy"
+
+LABELS:
+  "fusion" as title
+  Labels for each nucleus
+---END DIAGRAM---
+
+EXAMPLE FUSION EQUATION:
+
+²₁H + ¹₁H → ³₂He + energy
+
+CHECKING CONSERVATION:
+• Nucleon numbers: 2 + 1 = 3 ✓
+• Proton numbers: 1 + 1 = 2 ✓
+
+MASS AND ENERGY:
+• The mass of the helium nucleus is slightly LESS than the total mass
+  of the two hydrogen nuclei
+• This "missing mass" is converted to energy
+
+FUSION IN STARS:
+• The Sun and other stars produce energy through nuclear fusion
+• Hydrogen nuclei fuse to form helium
+• Requires extremely high temperature (~15 million °C) and pressure
+• The energy from fusion is what makes stars shine
+
+WHY FUSION IS HARD ON EARTH:
+• Requires extreme conditions (high temperature and pressure)
+• Nuclei repel each other (both positively charged)
+• Must overcome this repulsion to get close enough to fuse
+• Currently difficult to achieve controlled fusion for power generation
+
+19.3.3 COMPARING FISSION AND FUSION
+------------------------------------
+
+| Feature | Fission | Fusion |
+|---------|---------|--------|
+| Definition | Splitting a large nucleus | Joining light nuclei |
+| Starting nuclei | Heavy (e.g., U-235, Pu-239) | Light (e.g., H-2, H-3) |
+| Products | Two smaller nuclei + neutrons | One heavier nucleus |
+| Conditions | Needs a neutron to start | Needs extreme heat & pressure |
+| Where it occurs | Nuclear power stations | Stars (Sun) |
+| Energy released | Large | Very large |
+| Waste produced | Radioactive waste | Minimal radioactive waste |
+| Controlled on Earth? | Yes (power stations) | Not yet practical |
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 19.3
+═══════════════════════════════════════════════════════════════════════════════
+
+1. [Supplement] Define nuclear fission.
+
+2. [Supplement] Define nuclear fusion.
+
+3. [Supplement] In the fission equation:
+   ²³⁵₉₂U + ¹₀n → ⁹⁶₃₇Rb + ¹³⁷₅₅Cs + N¹₀n
+   Calculate the value of N (number of neutrons released).
+
+4. [Supplement] Why does nuclear fusion require such high temperatures?
+
+5. [Supplement] Where does nuclear fusion naturally occur?
+
+ANSWERS:
+1. The splitting of a large, unstable nucleus into two smaller nuclei.
+2. The joining of two light nuclei to form a heavier nucleus.
+3. Nucleon conservation: 235 + 1 = 96 + 137 + N
+   236 = 233 + N
+   N = 3 neutrons
+4. The nuclei are both positively charged and repel each other. High
+   temperatures give the nuclei enough kinetic energy to overcome this
+   electrostatic repulsion and get close enough to fuse.
+5. In stars, including our Sun.
+
+================================================================================
+                           MODULE SUMMARY
+================================================================================
+
+KEY CONCEPTS:
+
+THE ATOM (19.1):
+• Structure: positive nucleus with orbiting negative electrons
+• Most of atom is empty space
+• Ions: atoms that have lost (positive ion) or gained (negative ion) electrons
+• Rutherford's experiment: proved nuclear model via alpha scattering
+
+THE NUCLEUS (19.2):
+• Composed of protons (+1) and neutrons (0)
+• Proton number (Z) = number of protons = atomic number
+• Nucleon number (A) = protons + neutrons = mass number
+• Neutrons = A − Z
+• Nuclide notation: ᴬzX
+• Isotopes: same element, same protons, different neutrons
+• Nuclear charge = +Z; Nuclear mass ≈ A
+
+FISSION AND FUSION (19.3):
+• Fission: large nucleus splits into smaller nuclei + neutrons + energy
+• Fusion: light nuclei join to form heavier nucleus + energy
+• Both conserve nucleon number and proton number
+• Mass is converted to energy in both processes
+
+KEY TABLE: Subatomic Particles
+
+| Particle | Location | Relative Charge | Relative Mass |
+|----------|----------|-----------------|---------------|
+| Proton   | Nucleus  | +1              | 1             |
+| Neutron  | Nucleus  | 0               | 1             |
+| Electron | Orbits   | −1              | ~1/2000       |
+
+================================================================================
+                         PRACTICE EXERCISES
+================================================================================
+
+FOUNDATION LEVEL:
+
+1. Draw a labeled diagram of an atom showing the nucleus and electrons.
+
+2. An atom of calcium has 20 protons and 20 neutrons.
+   a) What is its proton number?
+   b) What is its nucleon number?
+   c) Write the nuclide notation for this atom.
+
+3. Explain the difference between an atom and an ion.
+
+INTERMEDIATE LEVEL:
+
+4. The element chlorine has two isotopes: ³⁵₁₇Cl and ³⁷₁₇Cl.
+   a) How many protons, neutrons, and electrons are in each isotope?
+   b) Explain why these are called isotopes.
+
+5. [Supplement] In Rutherford's experiment, explain what the following
+   observations tell us about atomic structure:
+   a) Most alpha particles passed straight through
+   b) A few bounced back at large angles
+
+ADVANCED LEVEL:
+
+6. [Supplement] Complete the following fission equation:
+   ²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ?₃₆Kr + 3¹₀n
+
+7. [Supplement] In nuclear fusion in the Sun, two deuterium nuclei (²₁H) can
+   fuse to form helium-3 (³₂He) and one other particle. What is this particle?
+
+8. [Supplement] Explain why:
+   a) The products of nuclear reactions have slightly less mass than reactants
+   b) Fusion requires higher temperatures than fission
+
+================================================================================
+                    PRACTICE EXERCISE ANSWERS
+================================================================================
+
+1. Diagram should show: central nucleus (labeled positive), electrons
+   (labeled negative) in orbits around the nucleus.
+
+2. a) Proton number = 20
+   b) Nucleon number = 20 + 20 = 40
+   c) ⁴⁰₂₀Ca
+
+3. An atom is electrically neutral (equal protons and electrons). An ion is
+   an atom that has lost or gained electrons, giving it a net charge.
+
+4. a) ³⁵₁₇Cl: 17 protons, 18 neutrons, 17 electrons
+      ³⁷₁₇Cl: 17 protons, 20 neutrons, 17 electrons
+   b) They are isotopes because they are the same element (same number of
+      protons) but have different numbers of neutrons.
+
+5. a) Most passing straight through shows the atom is mostly empty space.
+   b) Bouncing back shows there is a small, dense, positively charged nucleus
+      that repels the positive alpha particles.
+
+6. Nucleon conservation: 235 + 1 = 144 + A + 3 → A = 89
+   Proton conservation: 92 + 0 = 56 + Z + 0 → Z = 36
+   Answer: ⁸⁹₃₆Kr
+
+7. Nucleon conservation: 2 + 2 = 3 + A → A = 1
+   Proton conservation: 1 + 1 = 2 + Z → Z = 0
+   The particle is a neutron: ¹₀n
+
+8. a) Some mass is converted to energy according to E = mc². This energy
+      is released during the reaction.
+   b) In fusion, both nuclei are positively charged and repel each other.
+      Very high temperatures are needed to give the nuclei enough kinetic
+      energy to overcome this repulsion and get close enough to fuse.
+
+================================================================================
+                    SELF-ASSESSMENT CHECKLIST
+================================================================================
+
+After completing this module, check your understanding:
+
+[ ] I can describe atomic structure (nucleus + electrons)
+[ ] I can explain how atoms form positive and negative ions
+[ ] [Supplement] I can describe Rutherford's alpha scattering experiment
+
+[ ] I can describe the composition of the nucleus (protons + neutrons)
+[ ] I can state the relative charges of protons, neutrons, and electrons
+[ ] I can define proton number (Z) and nucleon number (A)
+[ ] I can calculate the number of neutrons (A − Z)
+[ ] I can use and interpret nuclide notation ᴬzX
+[ ] I can explain what isotopes are
+
+[ ] [Supplement] I can describe nuclear fission with a nuclide equation
+[ ] [Supplement] I can describe nuclear fusion with a nuclide equation
+[ ] [Supplement] I can explain mass and energy changes in nuclear reactions
+[ ] [Supplement] I can relate proton number to nuclear charge
+[ ] [Supplement] I can relate nucleon number to nuclear mass
+
+================================================================================
+                    COMMON MISCONCEPTIONS
+================================================================================
+
+| Misconception | Correct Understanding |
+|---------------|----------------------|
+| Electrons are in the nucleus | Electrons orbit the nucleus; only protons and neutrons are in the nucleus |
+| Atoms can be seen with a microscope | Atoms are far too small; even electron microscopes show limits |
+| The nucleus takes up most of the atom | The nucleus is tiny; most of the atom is empty space |
+| Isotopes are different elements | Isotopes are the SAME element with different neutron numbers |
+| Mass number = number of protons | Mass number = protons + neutrons |
+| Fission and fusion are the same | Fission splits heavy nuclei; fusion joins light nuclei |
+| Nuclear reactions create or destroy mass | Mass is converted to energy, not destroyed |
+
+================================================================================
+                         END OF MODULE 19
+================================================================================

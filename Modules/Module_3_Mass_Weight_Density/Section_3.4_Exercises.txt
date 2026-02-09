@@ -1,0 +1,1239 @@
+================================================================================
+                    SECTION 3.4 EXERCISES
+                    FLOATING AND SINKING
+================================================================================
+
+Learning Objectives Covered:
+  * Determine whether an object floats based on density data.
+  * (Supplement) Determine whether one liquid will float on another liquid
+    based on density data given that the liquids do not mix.
+
+Total Questions: 50
+Distribution:
+  - AO1 (Recall):      12 questions (24%)
+  - AO2 (Application): 26 questions (52%)
+  - AO3 (Analysis):    12 questions (24%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (MCQ)
+================================================================================
+                              (10 Questions)
+
+Instructions: Select the best answer from the options A, B, C, or D.
+
+--------------------------------------------------------------------------------
+1. An object floats in a liquid when:
+
+   A  the object's density is greater than the liquid's density
+   B  the object's density is less than the liquid's density
+   C  the object's mass is less than the liquid's mass
+   D  the object's volume is less than the liquid's volume
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+2. Which of the following materials will float in water (density = 1.0 g/cm³)?
+
+   A  Iron (density = 7.9 g/cm³)
+   B  Gold (density = 19.3 g/cm³)
+   C  Cork (density = 0.2 g/cm³)
+   D  Aluminium (density = 2.7 g/cm³)
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+3. A block of material has a density of 0.85 g/cm³.
+   What happens when the block is placed in water (density = 1.0 g/cm³)?
+
+   A  It sinks to the bottom
+   B  It floats with part of it above the water surface
+   C  It stays suspended in the middle of the water
+   D  It dissolves in the water
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+4. Two immiscible liquids, X and Y, are poured into a container.
+   Liquid X has a density of 0.8 g/cm³ and liquid Y has a density of 1.2 g/cm³.
+   Which liquid will be on top?
+
+   A  Liquid X, because it has lower density
+   B  Liquid Y, because it has higher density
+   C  Liquid X, because it has higher density
+   D  They will mix evenly
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+5. A solid object has a density of 1.0 g/cm³.
+   In water (density = 1.0 g/cm³), the object will:
+
+   A  float on the surface
+   B  sink to the bottom
+   C  remain at any position it is placed
+   D  slowly rise to the surface
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+6. Which statement about upthrust is correct?
+
+   A  Upthrust always equals the weight of the object
+   B  Upthrust acts in the same direction as weight
+   C  Upthrust is greater in denser fluids
+   D  Upthrust only acts on floating objects
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+7. A metal ball has a density of 0.95 g/cm³.
+   In which liquid will it sink?
+
+   A  Mercury (density = 13.6 g/cm³)
+   B  Seawater (density = 1.03 g/cm³)
+   C  Oil (density = 0.9 g/cm³)
+   D  Glycerin (density = 1.26 g/cm³)
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+8. Ice has a density of 0.92 g/cm³ and water has a density of 1.0 g/cm³.
+   Approximately what fraction of an ice cube is submerged in water?
+
+   A  8%
+   B  50%
+   C  92%
+   D  100%
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+9. Three liquids P, Q, and R have densities of 0.8 g/cm³, 1.2 g/cm³, and
+   1.0 g/cm³ respectively. If they do not mix, which liquid will be at
+   the bottom of the container?
+
+   A  P
+   B  Q
+   C  R
+   D  They will all be at the same level
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+10. A scientist needs to store a metal that must sink in a liquid.
+    The metal has a density of 0.75 g/cm³.
+    Which liquid should be chosen?
+
+    A  Water (density = 1.0 g/cm³)
+    B  Ethanol (density = 0.8 g/cm³)
+    C  Petrol (density = 0.7 g/cm³)
+    D  Olive oil (density = 0.9 g/cm³)
+
+    [AO2 - 1 mark]
+
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION
+================================================================================
+                              (4 Questions)
+
+Instructions: State whether each statement is TRUE or FALSE.
+              If FALSE, write the correct statement.
+
+--------------------------------------------------------------------------------
+11. "Heavy objects always sink in water."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+12. "Oil floats on water because it is less dense than water."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+13. "All metals sink in water because metals are denser than water."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+14. "When two liquids do not mix, the liquid with higher density will
+    always float on top."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK
+================================================================================
+                              (4 Questions)
+
+Instructions: Complete each sentence using the correct word(s) or value(s).
+
+--------------------------------------------------------------------------------
+15. An object floats when its density is _____________ than the density of
+    the fluid it is placed in.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+16. When an object is placed in a fluid, the fluid exerts an upward force
+    called _________________.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+17. An object floats when the _________________ on it equals its
+    _________________.
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+18. The density of water is __________ g/cm³ or __________ kg/m³.
+
+    [AO1 - 1 mark]
+
+
+================================================================================
+                    SECTION D: MATCHING
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+19. Match each object with what happens when placed in water (1.0 g/cm³).
+
+    Object                            Behavior in Water
+    ─────────────────────────────     ─────────────────────────────
+    A. Cork (ρ = 0.2 g/cm³)           1. Sinks
+    B. Ice (ρ = 0.92 g/cm³)           2. Floats with most above water
+    C. Iron (ρ = 7.9 g/cm³)           3. Floats with most submerged
+    D. Wood (ρ = 0.7 g/cm³)           4. Floats with about half submerged
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+20. Match each density comparison with the correct outcome.
+
+    Condition                         Outcome
+    ─────────────────────────────     ─────────────────────────────
+    A. Object density > Fluid density 1. Object floats
+    B. Object density < Fluid density 2. Object sinks
+    C. Object density = Fluid density 3. Object stays at any position
+
+    Write your answers: A = ___, B = ___, C = ___
+
+    [AO1 - 3 marks]
+
+
+================================================================================
+                    SECTION E: SHORT ANSWER QUESTIONS
+================================================================================
+                              (5 Questions)
+
+--------------------------------------------------------------------------------
+21. State the condition for an object to float in a liquid.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+22. Explain why a steel ship can float on water, even though steel has a
+    much greater density than water.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+23. State what happens when two immiscible liquids of different densities
+    are placed in the same container.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+24. Define upthrust and state in which direction it acts.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+25. Explain why ice floats on water, even though ice is solid water.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION F: CALCULATIONS (STRUCTURED)
+================================================================================
+                              (8 Questions)
+
+--------------------------------------------------------------------------------
+26. A block of plastic has a mass of 180 g and a volume of 200 cm³.
+
+    (a) Calculate the density of the plastic.                               [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) State whether the block will float or sink in water
+        (density = 1.0 g/cm³). Give a reason for your answer.              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+27. A piece of metal has a density of 2.5 g/cm³.
+
+    (a) Will the metal float or sink in water (density = 1.0 g/cm³)?       [1]
+
+    _____________________________________________________________
+
+
+    (b) Will the metal float or sink in mercury (density = 13.6 g/cm³)?    [1]
+
+    _____________________________________________________________
+
+
+    (c) Explain your answers to parts (a) and (b).                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+28. Three immiscible liquids have the following densities:
+    Liquid A: 0.85 g/cm³
+    Liquid B: 1.20 g/cm³
+    Liquid C: 0.92 g/cm³
+
+    (a) State the order of the liquids from top to bottom when they
+        are poured into the same container.                                 [2]
+
+    Top: _____________ Middle: _____________ Bottom: _____________
+
+
+    (b) A solid object with density 0.90 g/cm³ is placed in the container.
+        State between which two layers the object will settle.              [2]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+29. A wooden block has a density of 0.6 g/cm³ and a volume of 500 cm³.
+
+    (a) Calculate the mass of the wooden block.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the volume of water displaced when the block floats.
+        (Density of water = 1.0 g/cm³)                                      [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+30. A rectangular block of ice (density = 0.92 g/cm³) has dimensions
+    10 cm × 10 cm × 5 cm.
+
+    (a) Calculate the volume of the ice block.                              [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the mass of the ice block.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) When floating in water, what percentage of the ice is submerged?    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+31. A beaker contains oil (density = 0.8 g/cm³) floating on water
+    (density = 1.0 g/cm³).
+
+    (a) Explain why the oil floats on the water.                            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) A marble with a density of 2.5 g/cm³ is dropped into the beaker.
+        Describe where the marble will end up.                              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+32. A scientist has four unknown liquids with the following densities:
+    Liquid P: 0.68 g/cm³
+    Liquid Q: 0.95 g/cm³
+    Liquid R: 1.10 g/cm³
+    Liquid S: 0.77 g/cm³
+
+    (a) A ball with density 0.72 g/cm³ is placed in each liquid.
+        In which liquid(s) will the ball float?                             [2]
+
+    _____________________________________________________________
+
+
+    (b) In which liquid(s) will the ball sink?                              [2]
+
+    _____________________________________________________________
+
+
+    (c) In which liquid will the ball experience the greatest upthrust?     [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+33. An object has a mass of 120 g and floats in water with 80% of its
+    volume submerged.
+
+    (a) Calculate the volume of water displaced by the floating object.    [2]
+        (Density of water = 1.0 g/cm³)
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the total volume of the object.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the density of the object.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+34. The table shows the densities of different materials.
+
+    ┌─────────────────────┬─────────────────────┐
+    │ Material            │ Density (g/cm³)     │
+    ├─────────────────────┼─────────────────────┤
+    │ Water               │ 1.00                │
+    │ Cork                │ 0.24                │
+    │ Oak wood            │ 0.75                │
+    │ Aluminium           │ 2.70                │
+    │ Copper              │ 8.96                │
+    │ Ice                 │ 0.92                │
+    │ Polystyrene         │ 0.05                │
+    └─────────────────────┴─────────────────────┘
+
+    (a) List the materials that will float in water.                        [2]
+
+    _____________________________________________________________
+
+
+    (b) List the materials that will sink in water.                         [1]
+
+    _____________________________________________________________
+
+
+    (c) A ball made of oak wood is placed in water.
+        Describe its position relative to the water surface.                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+35. The table shows the densities of five liquids that do not mix.
+
+    ┌─────────────────────┬─────────────────────┐
+    │ Liquid              │ Density (g/cm³)     │
+    ├─────────────────────┼─────────────────────┤
+    │ Honey               │ 1.42                │
+    │ Water               │ 1.00                │
+    │ Vegetable oil       │ 0.92                │
+    │ Rubbing alcohol     │ 0.79                │
+    │ Maple syrup         │ 1.37                │
+    └─────────────────────┴─────────────────────┘
+
+    (a) State the order these liquids would arrange in a container,
+        from bottom to top.                                                 [2]
+
+    Bottom: _____________ → _____________ → _____________ →
+            _____________ → _____________ : Top
+
+
+    (b) A cherry (density = 1.05 g/cm³) is dropped into the container.
+        Between which two liquids will it settle?                           [2]
+
+    _____________________________________________________________
+
+
+    (c) A grape (density = 1.38 g/cm³) is dropped into the container.
+        Between which two liquids will it settle?                           [2]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+36. A student investigates floating and sinking using different objects
+    in water. The results are shown below.
+
+    ┌─────────────────┬────────────────┬────────────────┬─────────────────┐
+    │ Object          │ Mass (g)       │ Volume (cm³)   │ Float or Sink   │
+    ├─────────────────┼────────────────┼────────────────┼─────────────────┤
+    │ A               │ 15             │ 20             │ ?               │
+    │ B               │ 30             │ 25             │ ?               │
+    │ C               │ 100            │ 200            │ ?               │
+    │ D               │ 25             │ 10             │ ?               │
+    └─────────────────┴────────────────┴────────────────┴─────────────────┘
+
+    (a) Calculate the density of each object.                               [4]
+
+    Object A: _________________ g/cm³
+    Object B: _________________ g/cm³
+    Object C: _________________ g/cm³
+    Object D: _________________ g/cm³
+
+
+    (b) Predict whether each object will float or sink in water.            [2]
+
+    Object A: _________________
+    Object B: _________________
+    Object C: _________________
+    Object D: _________________
+
+
+    (c) Explain why object C floats even though it has more mass
+        than object D.                                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+37. The diagram shows four layers of immiscible liquids in a container.
+
+    ---DIAGRAM: Fig. E1---
+    TYPE: Conceptual
+    PURPOSE: Show layering of immiscible liquids by density
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 3:4 portrait
+    GRID: 8 × 10
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Rectangular container with four horizontal liquid layers
+
+    COMPONENTS:
+      [Container]
+        Symbol: rectangle
+        Position: grid(2,1) to grid(6,9)
+        Size: large
+        Style: solid outline
+
+      [Layer 1 - Top]
+        Position: grid(2,1) to grid(6,2.5)
+        Label: "P" [center]
+        Style: light shading
+
+      [Layer 2]
+        Position: grid(2,2.5) to grid(6,4.5)
+        Label: "Q" [center]
+        Style: medium shading
+
+      [Layer 3]
+        Position: grid(2,4.5) to grid(6,6.5)
+        Label: "R" [center]
+        Style: cross-hatching
+
+      [Layer 4 - Bottom]
+        Position: grid(2,6.5) to grid(6,9)
+        Label: "S" [center]
+        Style: dense shading
+
+    CONNECTIONS:
+      None
+
+    ANNOTATIONS:
+      [Top Label]: "Top of container" [above]
+      [Bottom Label]: "Bottom of container" [below]
+    ---END DIAGRAM---
+
+    The densities of liquids P, Q, R, and S are (not in order):
+    1.3 g/cm³, 0.7 g/cm³, 0.9 g/cm³, 1.1 g/cm³
+
+    (a) State which density corresponds to each liquid.                     [4]
+
+    Liquid P: _________________ g/cm³
+    Liquid Q: _________________ g/cm³
+    Liquid R: _________________ g/cm³
+    Liquid S: _________________ g/cm³
+
+
+    (b) An object with density 1.0 g/cm³ is dropped into the container.
+        Between which two layers will it settle?                            [2]
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+38. Complete the table comparing floating and sinking.
+
+    ┌─────────────────────────┬─────────────────────────────────────────────────┐
+    │ Characteristic          │ Floating            │ Sinking                   │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Density comparison      │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Weight vs Upthrust      │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Example material in     │                     │                           │
+    │ water                   │                     │                           │
+    └─────────────────────────┴─────────────────────┴───────────────────────────┘
+
+    [AO2 - 6 marks]
+
+--------------------------------------------------------------------------------
+39. Compare what happens to the same object in two different liquids.
+
+    Object: A ball with density 0.95 g/cm³
+    Liquid A: Water (density = 1.00 g/cm³)
+    Liquid B: Oil (density = 0.85 g/cm³)
+
+    (a) Describe what happens when the ball is placed in Liquid A.          [2]
+
+    _____________________________________________________________
+
+
+    (b) Describe what happens when the ball is placed in Liquid B.          [2]
+
+    _____________________________________________________________
+
+
+    (c) Explain why the ball behaves differently in the two liquids.        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 6 marks]
+
+--------------------------------------------------------------------------------
+40. Compare the behavior of the following objects in water (density 1.0 g/cm³):
+
+    Object X: Mass = 500 g, Volume = 1000 cm³
+    Object Y: Mass = 500 g, Volume = 250 cm³
+
+    (a) Calculate the density of each object.                               [2]
+
+    Object X: _________________ g/cm³
+    Object Y: _________________ g/cm³
+
+
+    (b) State which object floats and which sinks.                          [2]
+
+    _____________________________________________________________
+
+
+    (c) Explain why two objects with the same mass can have different
+        floating behavior.                                                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 6 marks]
+
+
+================================================================================
+                    SECTION I: STRUCTURED QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+41. A student investigates which objects float in water.
+
+    (a) State the condition for an object to float in a liquid.             [1]
+
+    _____________________________________________________________
+
+
+    (b) The student has a block of wood with mass 240 g and dimensions
+        10 cm × 8 cm × 5 cm.
+
+        (i) Calculate the volume of the block.                              [1]
+
+        _____________________________________________________________
+
+
+        (ii) Calculate the density of the block.                            [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+        (iii) State whether the block will float or sink in water.
+              Give a reason for your answer.                                [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+    (c) The student places the block in oil with density 0.85 g/cm³.
+        Predict whether the block floats or sinks. Explain your answer.     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [Total: 8 marks]
+
+--------------------------------------------------------------------------------
+42. A beaker contains three immiscible liquids as shown in the diagram.
+
+    ---DIAGRAM: Fig. S1---
+    TYPE: Conceptual
+    PURPOSE: Show three immiscible liquid layers in a beaker
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 3:4 portrait
+    GRID: 8 × 10
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Beaker with three horizontal liquid layers
+
+    COMPONENTS:
+      [Beaker]
+        Symbol: beaker_outline
+        Position: grid(2,1) to grid(6,9)
+        Size: large
+        Style: solid outline
+
+      [Liquid A - Top]
+        Position: grid(2,1) to grid(6,3)
+        Label: "Liquid A (ρ = 0.75 g/cm³)" [center]
+        Style: no shading
+
+      [Liquid B - Middle]
+        Position: grid(2,3) to grid(6,6)
+        Label: "Liquid B (ρ = 0.92 g/cm³)" [center]
+        Style: light shading
+
+      [Liquid C - Bottom]
+        Position: grid(2,6) to grid(6,9)
+        Label: "Liquid C (ρ = 1.08 g/cm³)" [center]
+        Style: medium shading
+
+    CONNECTIONS:
+      None
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) Explain why liquid A is at the top and liquid C is at the bottom.   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) A marble with mass 5.0 g and volume 2.0 cm³ is dropped into
+        the beaker.
+
+        (i) Calculate the density of the marble.                            [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+        (ii) State between which two liquids the marble will settle.
+             Give a reason for your answer.                                 [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+    (c) A second object with density 0.80 g/cm³ is placed in the beaker.
+        Describe its final position. Explain your answer.                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [Total: 8 marks]
+
+--------------------------------------------------------------------------------
+43. A scientist is investigating how different objects behave in seawater.
+    Seawater has a higher density (1.03 g/cm³) than fresh water (1.00 g/cm³).
+
+    (a) Define density.                                                     [1]
+
+    _____________________________________________________________
+
+
+    (b) A wooden toy has a density of 0.98 g/cm³.
+
+        (i) State whether the toy will float in fresh water.
+            Give a reason for your answer.                                  [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+        (ii) State whether the toy will float in seawater.
+             Give a reason for your answer.                                 [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+        (iii) Suggest why it is easier to float in the sea than
+              in a swimming pool.                                           [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+    (c) The Dead Sea has an extremely high density of about 1.24 g/cm³
+        due to dissolved salts. Explain why humans can float very easily
+        in the Dead Sea without effort.                                     [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [Total: 10 marks]
+
+
+================================================================================
+                    SECTION J: ERROR ANALYSIS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+44. A student makes the following statement:
+
+    "A large steel ship sinks because steel is denser than water."
+
+    (a) Explain why this statement is incorrect.                            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Explain why a steel ship actually floats.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+--------------------------------------------------------------------------------
+45. A student performs an experiment and reaches this conclusion:
+
+    "The wooden block floats because it is light. The metal ball sinks
+    because it is heavy."
+
+    (a) Identify the scientific error in this conclusion.                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Write a correct conclusion using the appropriate physics concept.   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+
+================================================================================
+                    SECTION K: EXTENDED RESPONSE
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+46. A student wants to separate a mixture of three plastic beads of
+    different densities using a density column made of different liquids.
+
+    The beads have the following densities:
+    - Red beads: 1.15 g/cm³
+    - Blue beads: 0.85 g/cm³
+    - Green beads: 1.02 g/cm³
+
+    Available liquids:
+    - Water (1.00 g/cm³)
+    - Glycerin (1.26 g/cm³)
+    - Vegetable oil (0.92 g/cm³)
+    - Alcohol (0.79 g/cm³)
+
+    (a) Describe how the liquids should be arranged in the column,
+        listing them from bottom to top.                                    [2]
+
+    _____________________________________________________________
+
+
+    (b) State where each color bead will end up in the column.              [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Explain the physics principle that allows this separation
+        technique to work.                                                  [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 8 marks]
+
+--------------------------------------------------------------------------------
+47. An engineer is designing a floating platform for a marina.
+    The platform must support equipment weighing 5000 N in total.
+
+    (a) Explain why a hollow platform is better than a solid platform
+        of the same material for floating purposes.                         [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) The platform is made from steel (density = 7800 kg/m³) with thick
+        walls forming a hollow box. Explain how the overall density of
+        the platform compares to water.                                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Suggest one disadvantage of making the platform too hollow
+        (with very thin walls).                                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 7 marks]
+
+--------------------------------------------------------------------------------
+48. In an oil spill at sea, crude oil (density ≈ 0.85 g/cm³) spreads over
+    the surface of seawater (density ≈ 1.03 g/cm³).
+
+    (a) Explain why the oil floats on top of the seawater.                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) During cleanup, workers place absorbent booms around the oil.
+        The booms are made from lightweight foam with density 0.3 g/cm³.
+        Explain why the booms float on both oil and seawater.               [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Some cleanup operations use skimmer boats that suck in the
+        top layer of liquid. Explain why this method is effective for
+        collecting oil from the sea surface.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 6 marks]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+--------------------------------------------------------------------------------
+1.  B
+2.  C
+3.  B
+4.  A
+5.  C
+6.  C
+7.  C
+8.  C
+9.  B
+10. C
+
+SECTION B: TRUE/FALSE
+--------------------------------------------------------------------------------
+11. FALSE - Whether an object floats depends on its density, not its mass/weight
+12. TRUE
+13. FALSE - Some metals (e.g., sodium, potassium) are less dense than water
+    and float
+14. FALSE - The liquid with LOWER density floats on top
+
+SECTION C: FILL-IN-THE-BLANK
+--------------------------------------------------------------------------------
+15. less / lower
+16. upthrust
+17. upthrust, weight
+18. 1.0 (or 1), 1000
+
+SECTION D: MATCHING
+--------------------------------------------------------------------------------
+19. A = 2, B = 3, C = 1, D = 4
+20. A = 2, B = 1, C = 3
+
+SECTION E: SHORT ANSWER (Sample Answers)
+--------------------------------------------------------------------------------
+21. An object floats when its density is less than the density of the fluid
+    it is placed in.
+
+22. Although steel is denser than water, a steel ship has a large volume
+    due to its hollow design. The overall density (total mass ÷ total volume)
+    is less than water, so the ship floats.
+
+23. The liquid with lower density floats on top of the liquid with higher
+    density. They form distinct layers.
+
+24. Upthrust is the upward force exerted by a fluid on an object placed in it.
+    It acts in the opposite direction to weight (i.e., upward).
+
+25. Ice has a density of 0.92 g/cm³ which is less than water (1.0 g/cm³).
+    When water freezes, its molecules form a crystal structure with more
+    spacing, making ice less dense than liquid water.
+
+SECTION F: CALCULATIONS (Mark Schemes)
+--------------------------------------------------------------------------------
+26. (a) ρ = m/V = 180/200 = 0.9 g/cm³ [M1 for formula, A1 for answer]
+    (b) Float [B1] - density of plastic (0.9) is less than water (1.0) [B1]
+
+27. (a) Sink [B1]
+    (b) Float [B1]
+    (c) In water: metal density (2.5) > water density (1.0) so it sinks [B1]
+        In mercury: metal density (2.5) < mercury density (13.6) so it floats [B1]
+
+28. (a) Top: A (0.85), Middle: C (0.92), Bottom: B (1.20) [B2]
+    (b) Between liquid C and liquid A (or between C and A) [B2]
+
+29. (a) m = ρV = 0.6 × 500 = 300 g [M1 for method, A1 for answer]
+    (b) When floating, weight of water displaced = weight of block [B1]
+        Mass of water = 300 g, so V = m/ρ = 300/1.0 = 300 cm³ [M1 A1]
+
+30. (a) V = 10 × 10 × 5 = 500 cm³ [B1]
+    (b) m = ρV = 0.92 × 500 = 460 g [M1 A1]
+    (c) Percentage submerged = ρ_object/ρ_water × 100 = 0.92/1.0 × 100 = 92% [M1 A1]
+
+31. (a) Oil has a lower density (0.8) than water (1.0) [B1]
+        The less dense liquid floats on the denser liquid [B1]
+    (b) The marble will sink through both layers to the bottom [B1]
+        because its density (2.5) is greater than both oil and water [B1]
+
+32. (a) Q, R, S (liquids with density > 0.72 g/cm³) [B2]
+    (b) P (density 0.68 < 0.72) [B2]
+    (c) R (highest density of liquids where ball floats = greatest upthrust) [B1]
+
+33. (a) Mass of water displaced = 120 g (equals mass of floating object) [B1]
+        Volume = m/ρ = 120/1.0 = 120 cm³ [M1 A1]
+    (b) 120 = 0.8 × V_total [M1]
+        V_total = 120/0.8 = 150 cm³ [A1]
+    (c) ρ = m/V = 120/150 = 0.8 g/cm³ [M1 A1]
+
+SECTION G: DATA INTERPRETATION
+--------------------------------------------------------------------------------
+34. (a) Cork, oak wood, ice, polystyrene [B2 - 1 mark for 3, 2 marks for all 4]
+    (b) Aluminium, copper [B1]
+    (c) The oak wood ball floats [B1] with most of its volume submerged
+        (about 75%) since its density (0.75) is close to water (1.0) [B1]
+
+35. (a) Honey → Maple syrup → Water → Vegetable oil → Rubbing alcohol [B2]
+    (b) Between water and maple syrup [B2]
+    (c) Between maple syrup and honey [B2]
+
+36. (a) A: 15/20 = 0.75 g/cm³, B: 30/25 = 1.2 g/cm³,
+        C: 100/200 = 0.5 g/cm³, D: 25/10 = 2.5 g/cm³ [B4 - 1 mark each]
+    (b) A: float, B: sink, C: float, D: sink [B2 - 2 marks for all correct]
+    (c) Object C has lower density (0.5) than D (2.5) [B1]
+        Floating depends on density, not mass [B1]
+
+37. (a) P = 0.7, Q = 0.9, R = 1.1, S = 1.3 g/cm³ [B4]
+    (b) Between layers Q and R [B2]
+
+SECTION H: COMPARE AND CONTRAST
+--------------------------------------------------------------------------------
+38. Floating: object density < fluid density; upthrust = weight; cork, wood
+    Sinking: object density > fluid density; upthrust < weight; iron, gold [B6]
+
+39. (a) The ball floats because ball density < water density [B2]
+    (b) The ball sinks because ball density > oil density [B2]
+    (c) Floating depends on comparing object density to fluid density [B1]
+        Same object can float/sink in different fluids depending on their
+        relative densities [B1]
+
+40. (a) X: 500/1000 = 0.5 g/cm³, Y: 500/250 = 2.0 g/cm³ [B2]
+    (b) X floats, Y sinks [B2]
+    (c) Floating depends on density (mass/volume), not just mass [B1]
+        X has low density due to large volume; Y has high density due to
+        small volume [B1]
+
+SECTION I: STRUCTURED QUESTIONS
+--------------------------------------------------------------------------------
+41. (a) Object density < fluid density [B1]
+    (b)(i) 10 × 8 × 5 = 400 cm³ [B1]
+    (b)(ii) ρ = 240/400 = 0.6 g/cm³ [M1 A1]
+    (b)(iii) Float [B1], density (0.6) < water density (1.0) [B1]
+    (c) Sinks [B1], density of block (0.6) < oil density (0.85), so floats [B1]
+        Note: If student says "sinks" because wood < oil - check reasoning
+
+42. (a) Lower density liquids float on higher density liquids [B1]
+        A (0.75) < B (0.92) < C (1.08), so A is on top [B1]
+    (b)(i) ρ = m/V = 5.0/2.0 = 2.5 g/cm³ [M1 A1]
+    (b)(ii) Below liquid C / at the bottom [B1]
+            Marble density (2.5) > all liquid densities [B1]
+    (c) Between liquid A and B [B1]
+        Object density (0.80) is between A (0.75) and B (0.92) [B1]
+
+43. (a) Density is mass per unit volume [B1]
+    (b)(i) Float [B1], toy density (0.98) < fresh water (1.00) [B1]
+    (b)(ii) Float [B1], toy density (0.98) < seawater (1.03) [B1]
+    (b)(iii) Seawater has higher density [B1], so provides greater upthrust [B1]
+    (c) Very high density of Dead Sea (1.24) [B1] compared to human body
+        (~1.05) [B1] means large upthrust, greater than body weight [B1]
+
+SECTION J: ERROR ANALYSIS
+--------------------------------------------------------------------------------
+44. (a) Steel ships do float, they don't sink [B1]
+        Statement confuses material density with overall object density [B1]
+    (b) Ship is hollow with large volume of air inside [B1]
+        Overall density of ship < water density, so it floats [B1]
+
+45. (a) Floating doesn't depend on weight/mass alone [B1]
+        It depends on density (mass per unit volume) [B1]
+    (b) The wooden block floats because its density is less than water [B1]
+        The metal ball sinks because its density is greater than water [B1]
+
+SECTION K: EXTENDED RESPONSE
+--------------------------------------------------------------------------------
+46. (a) Bottom to top: Glycerin, Water, Vegetable oil, Alcohol [B2]
+    (b) Red beads: between glycerin and water (1.15 is between 1.26 and 1.00) [B1]
+        Blue beads: between vegetable oil and alcohol (0.85 is between 0.92
+        and 0.79) [B1]
+        Green beads: between water and vegetable oil (1.02 is between 1.00
+        and 0.92) [B1]
+    (c) Objects settle at a level where surrounding liquid density matches [B1]
+        Objects float in denser liquids, sink in less dense liquids [B1]
+        Each bead finds equilibrium between layers [B1]
+
+47. (a) Hollow platform has larger volume than solid for same mass [B1]
+        This gives lower overall density (density = mass/volume) [B1]
+        Overall density can be less than water, allowing it to float [B1]
+    (b) The overall density accounts for steel walls plus air inside [B1]
+        This combined density is less than water (1.0 g/cm³) [B1]
+    (c) Walls may not be strong enough to withstand water pressure [B1]
+        Could collapse or leak if too thin [B1]
+
+48. (a) Oil density (0.85) is less than seawater density (1.03) [B1]
+        Less dense liquids float on denser liquids [B1]
+    (b) Boom density (0.3) is less than both oil (0.85) and seawater (1.03) [B1]
+        So booms float on both liquids [B1]
+    (c) Oil forms a thin layer on the surface [B1]
+        Skimming the top layer collects mostly oil, not seawater [B1]
+
+
+================================================================================
+                    END OF EXERCISES
+================================================================================

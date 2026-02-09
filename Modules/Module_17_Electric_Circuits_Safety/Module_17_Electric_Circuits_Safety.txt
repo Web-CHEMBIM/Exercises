@@ -1,0 +1,1558 @@
+================================================================================
+                    MODULE 17: ELECTRIC CIRCUITS & ELECTRICAL SAFETY
+================================================================================
+
+================================================================================
+MODULE OVERVIEW
+================================================================================
+
+At the end of this module, students should be able to:
+
+Section 17.1 - Circuit Diagrams & Components:
+  * Draw and interpret circuit diagrams containing cells, batteries, power
+    supplies, generators, potential dividers, switches, resistors (fixed and
+    variable), heaters, thermistors, LDRs, lamps, motors, bells, ammeters,
+    voltmeters, magnetising coils, transformers, fuses and relays.
+  * Describe how thermistors and LDRs behave in circuits.
+  * [Supplement] Draw and interpret circuit diagrams containing diodes and LEDs.
+
+Section 17.2 - Series Circuits:
+  * Know that current at every point in a series circuit is the same.
+  * Calculate the combined e.m.f. of several sources in series.
+  * [Supplement] Know that the total p.d. across components in series equals
+    the sum of individual p.d.s.
+  * Calculate the combined resistance of two or more resistors in series.
+
+Section 17.3 - Parallel Circuits:
+  * Know how to construct and use parallel circuits.
+  * State that current from the source is larger than current in each branch.
+  * [Supplement] Recall and use the junction rule for currents.
+  * [Supplement] Know that p.d. across parallel branches is the same.
+  * State that combined resistance of two resistors in parallel is less than
+    either resistor.
+  * [Supplement] Calculate combined resistance of two resistors in parallel.
+  * State the advantages of connecting lamps in parallel in a lighting circuit.
+
+Section 17.4 - Potential Dividers:
+  * Know that p.d. across a conductor increases as resistance increases for
+    constant current.
+  * [Supplement] Describe the action of a variable potential divider.
+  * [Supplement] Recall and use the equation R₁/R₂ = V₁/V₂.
+
+Section 17.5 - Electrical Safety:
+  * State the hazards of damaged insulation, overheating cables, damp
+    conditions, and excess current from overloading.
+  * Know that a mains circuit consists of a live wire, neutral wire and earth
+    wire; explain why a switch must be connected to the live wire.
+  * Explain the use and operation of trip switches and fuses.
+  * Explain why the outer casing of an electrical appliance must be either
+    non-conducting (double-insulated) or earthed.
+  * State that a fuse without an earth wire protects the circuit and cabling
+    for a double-insulated appliance.
+
+Prerequisites:
+  - Module 14: Electrical Quantities (current, p.d., resistance, R = V/I)
+  - Basic mathematical skills (division, fractions, reciprocals)
+
+Estimated Time: 3-4 hours total
+
+Key Vocabulary:
+  - Series circuit     - Parallel circuit    - Junction
+  - E.m.f.             - Potential difference - Resistance
+  - Potential divider  - Thermistor          - LDR
+  - Fuse               - Earth wire          - Double insulation
+
+
+================================================================================
+                    SECTION 17.1: CIRCUIT DIAGRAMS & COMPONENTS
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Draw and interpret circuit diagrams using standard circuit symbols.
+  * Describe the function of common circuit components.
+  * Describe how thermistors and LDRs behave in circuits.
+  * [Supplement] Explain how diodes and LEDs work in circuits.
+
+--------------------------------------------------------------------------------
+17.1.1  CIRCUIT SYMBOLS
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Circuit diagrams use standardised symbols to represent electrical components.
+Learning these symbols is essential for understanding and drawing circuits.
+
+CIRCUIT SYMBOLS TABLE:
+┌────────────────────────┬──────────────────────────────────────────────────────┐
+│ Component              │ Description                                          │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Cell                   │ Single source of e.m.f. (long line = +, short = -)   │
+│ Battery                │ Two or more cells connected in series                │
+│ Power supply           │ Mains-powered source of electrical energy            │
+│ Generator              │ Converts mechanical energy to electrical energy      │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Switch (open)          │ Gap in circuit - no current flows                    │
+│ Switch (closed)        │ Circuit complete - current flows                     │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Fixed resistor         │ Component with constant resistance                   │
+│ Variable resistor      │ Resistor whose resistance can be changed             │
+│ Thermistor (NTC)       │ Resistance decreases as temperature increases        │
+│ LDR                    │ Resistance decreases as light intensity increases    │
+│ Heater                 │ Transfers electrical energy to thermal energy        │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Lamp                   │ Emits light when current flows                       │
+│ Motor                  │ Rotates when current flows                           │
+│ Bell                   │ Emits sound when current flows                       │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Ammeter                │ Measures current (connected in SERIES)               │
+│ Voltmeter              │ Measures p.d. (connected in PARALLEL)                │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Fuse                   │ Melts if current exceeds rated value                 │
+│ Relay                  │ Uses small current to switch larger current          │
+│ Transformer            │ Changes voltage using electromagnetic induction      │
+│ Magnetising coil       │ Creates magnetic field when current flows            │
+└────────────────────────┴──────────────────────────────────────────────────────┘
+
+IMPORTANT:
+* Ammeters are ALWAYS connected in SERIES with the component.
+* Voltmeters are ALWAYS connected in PARALLEL across the component.
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.1---
+TYPE: Reference
+PURPOSE: Show standard circuit symbols for common electrical components
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Grid arrangement of circuit symbols with labels
+
+COMPONENTS:
+  [Cell]
+    Symbol: long_short_parallel_lines
+    Position: grid(2,2)
+    Label: "Cell" [below]
+
+  [Battery]
+    Symbol: multiple_cells_series
+    Position: grid(5,2)
+    Label: "Battery" [below]
+
+  [Switch Open]
+    Symbol: gap_with_lever
+    Position: grid(8,2)
+    Label: "Switch (open)" [below]
+
+  [Fixed Resistor]
+    Symbol: rectangle
+    Position: grid(11,2)
+    Label: "Resistor" [below]
+
+  [Variable Resistor]
+    Symbol: rectangle_with_arrow
+    Position: grid(2,5)
+    Label: "Variable resistor" [below]
+
+  [Lamp]
+    Symbol: circle_with_cross
+    Position: grid(5,5)
+    Label: "Lamp" [below]
+
+  [Ammeter]
+    Symbol: circle_with_A
+    Position: grid(8,5)
+    Label: "Ammeter" [below]
+
+  [Voltmeter]
+    Symbol: circle_with_V
+    Position: grid(11,5)
+    Label: "Voltmeter" [below]
+
+  [Fuse]
+    Symbol: rectangle_with_line
+    Position: grid(2,8)
+    Label: "Fuse" [below]
+
+  [Thermistor]
+    Symbol: resistor_with_temperature_symbol
+    Position: grid(5,8)
+    Label: "Thermistor" [below]
+
+  [LDR]
+    Symbol: resistor_with_arrows_pointing_in
+    Position: grid(8,8)
+    Label: "LDR" [below]
+
+  [Diode]
+    Symbol: triangle_with_bar
+    Position: grid(11,8)
+    Label: "Diode" [below]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  None
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+17.1.2  THERMISTORS
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> A thermistor is a resistor whose resistance changes with temperature.
+
+For an NTC (Negative Temperature Coefficient) thermistor:
+* As TEMPERATURE INCREASES → RESISTANCE DECREASES
+* As TEMPERATURE DECREASES → RESISTANCE INCREASES
+
+This property makes thermistors useful in temperature-sensing circuits, such as:
+* Thermostats
+* Fire alarms
+* Temperature-controlled fans
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.2---
+TYPE: Graph
+PURPOSE: Show how thermistor resistance varies with temperature
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Temperature / °C" [x-axis], "Resistance / Ω" [y-axis]
+
+CONNECTIONS:
+  [Curve]: grid(1,8) → grid(8,2), solid blue curve (exponential decay)
+
+ANNOTATIONS:
+  [Note]: "As temperature increases, resistance decreases" near curve
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+17.1.3  LIGHT-DEPENDENT RESISTORS (LDRs)
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> A light-dependent resistor (LDR) is a resistor whose resistance changes
+> depending on the light intensity falling on it.
+
+For an LDR:
+* As LIGHT INTENSITY INCREASES → RESISTANCE DECREASES
+* As LIGHT INTENSITY DECREASES → RESISTANCE INCREASES
+
+This property makes LDRs useful in light-sensing circuits, such as:
+* Automatic street lights
+* Camera light meters
+* Burglar alarms
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.3---
+TYPE: Graph
+PURPOSE: Show how LDR resistance varies with light intensity
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Light intensity" [x-axis], "Resistance / Ω" [y-axis]
+
+CONNECTIONS:
+  [Curve]: grid(1,8) → grid(8,2), solid green curve (exponential decay)
+
+ANNOTATIONS:
+  [Note]: "As light intensity increases, resistance decreases" near curve
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+17.1.4  DIODES AND LEDs [SUPPLEMENT]
+--------------------------------------------------------------------------------
+
+Extended Tier Only
+
+> DEFINITION
+> A diode is a component that allows current to flow in one direction only.
+
+Key properties of diodes:
+* Current can only flow in the direction the triangle points (forward bias)
+* If the diode is reversed, no current flows (reverse bias)
+* A light-emitting diode (LED) emits light when current flows through it
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.4---
+TYPE: Circuit
+PURPOSE: Show how diodes only allow current flow in one direction
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 6
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two circuit diagrams side by side
+
+COMPONENTS:
+  [Circuit 1 - Forward Bias]
+    Symbol: simple_circuit_with_diode
+    Position: grid(2,3)
+    Label: "Current FLOWS" [below]
+    Diode: pointing right (same direction as current)
+
+  [Circuit 2 - Reverse Bias]
+    Symbol: simple_circuit_with_diode
+    Position: grid(9,3)
+    Label: "NO current" [below]
+    Diode: pointing left (opposite to current direction)
+
+CONNECTIONS:
+  [Current arrow 1]: grid(1,3) → grid(5,3), green arrow
+  [Current blocked 2]: grid(8,3) → grid(10,3), red X
+
+ANNOTATIONS:
+  [Label 1]: "Forward bias" above circuit 1
+  [Label 2]: "Reverse bias" above circuit 2
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Circuit Components
+--------------------------------------------------------------------------------
+
+Q1. State one difference between an ammeter and a voltmeter in terms of how
+    they are connected in a circuit.
+
+Q2. Describe what happens to the resistance of a thermistor when it is heated.
+
+Q3. A street lamp is designed to switch on automatically when it gets dark.
+    Explain which component would be suitable for detecting the light level.
+
+Q4. [Supplement] Explain why a diode is sometimes called a "one-way valve"
+    for electricity.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 17.2: SERIES CIRCUITS
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Know that current at every point in a series circuit is the same.
+  * Calculate the combined e.m.f. of several sources in series.
+  * [Supplement] Know that total p.d. in series equals sum of individual p.d.s.
+  * Calculate combined resistance of resistors in series.
+
+--------------------------------------------------------------------------------
+17.2.1  WHAT IS A SERIES CIRCUIT?
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> A series circuit is a circuit with only one path for current to flow.
+
+In a series circuit:
+* All components are connected in a single loop
+* The same current flows through every component
+* If one component breaks, the whole circuit stops working
+
+--------------------------------------------------------------------------------
+17.2.2  CURRENT IN SERIES CIRCUITS
+--------------------------------------------------------------------------------
+
+> KEY RULE
+> In a series circuit, the current is the SAME at every point.
+
+Why is this true?
+* Current is the flow of electrons
+* Electrons cannot be created or destroyed in the circuit
+* The same number of electrons per second passes through each component
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    CURRENT IN A SERIES CIRCUIT                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│    I₁ = I₂ = I₃ = ... = I (everywhere in the circuit)                       │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Factors affecting current in a series circuit:
+1. VOLTAGE of power source: Higher voltage → more current
+2. RESISTANCE in circuit: More components → more resistance → less current
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.5---
+TYPE: Circuit
+PURPOSE: Show that current is the same at all points in a series circuit
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Series circuit with three ammeters showing equal readings
+
+COMPONENTS:
+  [Battery]
+    Symbol: battery
+    Position: grid(5,1)
+
+  [Resistor 1]
+    Symbol: resistor
+    Position: grid(2,4)
+
+  [Resistor 2]
+    Symbol: resistor
+    Position: grid(8,4)
+
+  [Ammeter 1]
+    Symbol: ammeter
+    Position: grid(2,2)
+    Label: "2 A"
+
+  [Ammeter 2]
+    Symbol: ammeter
+    Position: grid(5,4)
+    Label: "2 A"
+
+  [Ammeter 3]
+    Symbol: ammeter
+    Position: grid(8,6)
+    Label: "2 A"
+
+CONNECTIONS:
+  [Wire 1]: Battery + → Ammeter 1 → Resistor 1
+  [Wire 2]: Resistor 1 → Ammeter 2 → Resistor 2
+  [Wire 3]: Resistor 2 → Ammeter 3 → Battery -
+
+ANNOTATIONS:
+  [Note]: "All ammeters show the same reading"
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+17.2.3  E.M.F. IN SERIES
+--------------------------------------------------------------------------------
+
+When cells or batteries are connected in series:
+
+> KEY RULE
+> The combined e.m.f. equals the SUM of individual e.m.f.s.
+
+FORMULA:
+                    E_total = E₁ + E₂ + E₃ + ...
+
+EXAMPLE:
+If three 1.5 V cells are connected in series:
+    E_total = 1.5 + 1.5 + 1.5 = 4.5 V
+
+
+--------------------------------------------------------------------------------
+17.2.4  POTENTIAL DIFFERENCE IN SERIES [SUPPLEMENT]
+--------------------------------------------------------------------------------
+
+Extended Tier Only
+
+> KEY RULE
+> In a series circuit, the sum of p.d.s across all components equals the
+> total e.m.f. of the power source.
+
+FORMULA:
+                    E = V₁ + V₂ + V₃ + ...
+
+where:
+    E = e.m.f. of power source (in V)
+    V₁, V₂, V₃ = p.d. across each component (in V)
+
+This means the e.m.f. is "shared" between the components in series.
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 1: Finding Missing P.D.
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A power source has an e.m.f. of 12 V. In a series circuit, the p.d. across
+resistor X is 8 V. Calculate the p.d. across resistor Y.
+
+SOLUTION:
+
+Step 1: Identify given values and required quantity
+    Given:   E = 12 V
+             V_X = 8 V
+    Required: V_Y = ?
+
+Step 2: Recall the rule for p.d. in series
+    E = V_X + V_Y
+
+Step 3: Rearrange and substitute
+    V_Y = E - V_X
+    V_Y = 12 - 8
+    V_Y = 4 V
+
+Step 4: State the answer
+    The p.d. across resistor Y is 4 V.
+
+
+--------------------------------------------------------------------------------
+17.2.5  RESISTANCE IN SERIES
+--------------------------------------------------------------------------------
+
+> KEY RULE
+> The combined resistance of resistors in series equals the SUM of the
+> individual resistances.
+
+FORMULA:
+                    R_total = R₁ + R₂ + R₃ + ...
+
+where:
+    R_total = total resistance (in Ω)
+    R₁, R₂, R₃ = resistance of each resistor (in Ω)
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.6---
+TYPE: Circuit
+PURPOSE: Show resistors connected in series and equivalent single resistor
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 6
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two equivalent circuits side by side with equals sign
+
+COMPONENTS:
+  [Left Circuit]
+    Three resistors in series: R₁ = 2Ω, R₂ = 3Ω, R₃ = 5Ω
+    Position: grid(2,3)
+
+  [Equals Sign]
+    Position: grid(6,3)
+
+  [Right Circuit]
+    Single resistor: R_total = 10Ω
+    Position: grid(9,3)
+
+CONNECTIONS:
+  Series connections on left circuit
+
+ANNOTATIONS:
+  [Formula]: "R_total = 2 + 3 + 5 = 10 Ω"
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 2: Combined Resistance in Series
+--------------------------------------------------------------------------------
+
+PROBLEM:
+Three resistors of 4 Ω, 6 Ω and 10 Ω are connected in series.
+Calculate the total resistance.
+
+SOLUTION:
+
+Step 1: Identify given values
+    R₁ = 4 Ω
+    R₂ = 6 Ω
+    R₃ = 10 Ω
+
+Step 2: Apply the formula for resistors in series
+    R_total = R₁ + R₂ + R₃
+
+Step 3: Substitute and calculate
+    R_total = 4 + 6 + 10
+    R_total = 20 Ω
+
+Step 4: State the answer
+    The total resistance is 20 Ω.
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Series Circuits
+--------------------------------------------------------------------------------
+
+Q5. State what happens to the current at different points in a series circuit.
+
+Q6. Three 1.5 V cells are connected in series. Calculate the total e.m.f.
+
+Q7. [Supplement] A 9 V battery is connected to two resistors in series.
+    If the p.d. across one resistor is 3 V, what is the p.d. across the other?
+
+Q8. Calculate the total resistance when a 5 Ω and 15 Ω resistor are connected
+    in series.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 17.3: PARALLEL CIRCUITS
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Know how to construct and use parallel circuits.
+  * State that current from source is larger than current in each branch.
+  * [Supplement] Recall and use the junction rule for currents.
+  * [Supplement] Know that p.d. across parallel branches is the same.
+  * Calculate combined resistance of resistors in parallel.
+  * State advantages of connecting lamps in parallel.
+
+--------------------------------------------------------------------------------
+17.3.1  WHAT IS A PARALLEL CIRCUIT?
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> A parallel circuit is a circuit with multiple paths (branches) for
+> current to flow.
+
+In a parallel circuit:
+* Components are connected in separate branches
+* Current splits at junctions and recombines
+* If one branch breaks, current can still flow through other branches
+
+--------------------------------------------------------------------------------
+17.3.2  CURRENT IN PARALLEL CIRCUITS
+--------------------------------------------------------------------------------
+
+> KEY RULE
+> The current from the source is LARGER than the current in each branch.
+
+At a junction (where wires meet):
+* Current SPLITS into different branches
+* Current RECOMBINES when branches join
+
+JUNCTION RULE [SUPPLEMENT]:
+Extended Tier Only
+
+> The sum of currents entering a junction equals the sum of currents
+> leaving the junction.
+
+FORMULA:
+                    I_in = I_out
+                    I_total = I₁ + I₂ + I₃ + ...
+
+This is because charge is conserved - electrons cannot be created or destroyed.
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.7---
+TYPE: Circuit
+PURPOSE: Show current splitting at a junction in a parallel circuit
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Parallel circuit with labeled currents at junction
+
+COMPONENTS:
+  [Battery]
+    Symbol: battery
+    Position: grid(1,5)
+    Label: "10 A from source"
+
+  [Junction 1]
+    Symbol: junction_dot
+    Position: grid(4,5)
+
+  [Branch 1 - Lamp 1]
+    Symbol: lamp
+    Position: grid(6,3)
+    Label: "6 A"
+
+  [Branch 2 - Lamp 2]
+    Symbol: lamp
+    Position: grid(6,7)
+    Label: "4 A"
+
+  [Junction 2]
+    Symbol: junction_dot
+    Position: grid(8,5)
+
+CONNECTIONS:
+  [Main wire]: Battery → Junction 1
+  [Branch 1]: Junction 1 → Lamp 1 → Junction 2
+  [Branch 2]: Junction 1 → Lamp 2 → Junction 2
+  [Return wire]: Junction 2 → Battery
+
+ANNOTATIONS:
+  [Current labels]: "10 A" at source, "6 A" at branch 1, "4 A" at branch 2
+  [Note]: "10 A = 6 A + 4 A (current is conserved)"
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 3: Current at a Junction
+--------------------------------------------------------------------------------
+
+PROBLEM:
+In a parallel circuit, ammeter A₀ shows a reading of 10 A, and ammeter A₁
+shows 6 A. Calculate the reading on ammeter A₂.
+
+SOLUTION:
+
+Step 1: Recall the junction rule
+    The total current entering a junction equals the total current leaving.
+
+Step 2: Apply the junction rule
+    I₀ = I₁ + I₂
+
+Step 3: Rearrange and substitute
+    I₂ = I₀ - I₁
+    I₂ = 10 - 6
+    I₂ = 4 A
+
+Step 4: State the answer
+    The reading on ammeter A₂ is 4 A.
+
+
+--------------------------------------------------------------------------------
+17.3.3  POTENTIAL DIFFERENCE IN PARALLEL [SUPPLEMENT]
+--------------------------------------------------------------------------------
+
+Extended Tier Only
+
+> KEY RULE
+> The p.d. across each branch in a parallel circuit is the SAME.
+
+FORMULA:
+                    V₁ = V₂ = V₃ = ... = E
+
+where:
+    V₁, V₂, V₃ = p.d. across each branch (in V)
+    E = e.m.f. of power source (in V)
+
+This means each branch receives the full voltage of the power supply.
+
+
+--------------------------------------------------------------------------------
+17.3.4  RESISTANCE IN PARALLEL
+--------------------------------------------------------------------------------
+
+> KEY RULE
+> The combined resistance of two resistors in parallel is LESS than the
+> resistance of either resistor alone.
+
+Why is this true?
+* In parallel, there are more paths for current to flow
+* More paths means less overall resistance to current
+
+SPECIAL CASE: Two identical resistors in parallel
+    Combined resistance = half of one resistor
+
+    Example: Two 4 Ω resistors in parallel → R_total = 2 Ω
+
+CALCULATING RESISTANCE IN PARALLEL [SUPPLEMENT]:
+Extended Tier Only
+
+FORMULA:
+                         1          1       1
+                    ─────────  =  ───── + ─────
+                     R_total       R₁      R₂
+
+Steps to calculate:
+1. Calculate 1/R₁ and 1/R₂
+2. Add them together to get 1/R_total
+3. Take the reciprocal to find R_total
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.8---
+TYPE: Circuit
+PURPOSE: Show resistors connected in parallel
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 6
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Parallel circuit with two resistors
+
+COMPONENTS:
+  [Battery]
+    Symbol: battery
+    Position: grid(2,3)
+
+  [Resistor 1]
+    Symbol: resistor
+    Position: grid(7,1.5)
+    Label: "R₁ = 4 Ω" [above]
+
+  [Resistor 2]
+    Symbol: resistor
+    Position: grid(7,4.5)
+    Label: "R₂ = 4 Ω" [below]
+
+CONNECTIONS:
+  [Wire to junction]: Battery → Junction
+  [Branch 1]: Junction → Resistor 1 → Junction
+  [Branch 2]: Junction → Resistor 2 → Junction
+  [Return wire]: Junction → Battery
+
+ANNOTATIONS:
+  [Note]: "Combined resistance = 2 Ω (half of either resistor)"
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 4: Resistance in Parallel [SUPPLEMENT]
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A 6 Ω resistor and a 3 Ω resistor are connected in parallel.
+Calculate the combined resistance.
+
+SOLUTION:
+
+Step 1: Identify given values
+    R₁ = 6 Ω
+    R₂ = 3 Ω
+
+Step 2: Apply the formula for resistors in parallel
+       1          1       1
+    ─────────  =  ───── + ─────
+     R_total       R₁      R₂
+
+Step 3: Substitute values
+       1          1       1
+    ─────────  =  ───── + ─────
+     R_total       6       3
+
+Step 4: Find common denominator and add
+       1          1       2       3
+    ─────────  =  ───── + ───── = ─────
+     R_total       6       6       6
+
+Step 5: Take the reciprocal
+                    6
+    R_total  =  ───── = 2 Ω
+                    3
+
+Step 6: State the answer
+    The combined resistance is 2 Ω.
+
+Note: The combined resistance (2 Ω) is less than either individual resistor.
+
+
+--------------------------------------------------------------------------------
+17.3.5  ADVANTAGES OF PARALLEL LIGHTING CIRCUITS
+--------------------------------------------------------------------------------
+
+Lighting circuits in homes and offices use lamps connected in PARALLEL.
+
+ADVANTAGES:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Advantage                    │ Explanation                                  │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Same brightness              │ Each lamp receives the full voltage          │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Independent operation        │ If one lamp breaks, others still work        │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Individual control           │ Each lamp can be switched on/off separately  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Parallel Circuits
+--------------------------------------------------------------------------------
+
+Q9. State what happens to current at a junction in a parallel circuit.
+
+Q10. [Supplement] The total current from a battery is 8 A. If 3 A flows
+     through one branch, how much flows through the other?
+
+Q11. State one advantage of connecting lamps in parallel rather than series.
+
+Q12. Two 10 Ω resistors are connected in parallel. State whether the combined
+     resistance is greater than, equal to, or less than 10 Ω.
+
+Q13. [Supplement] Calculate the combined resistance of a 4 Ω and 12 Ω resistor
+     in parallel.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 17.4: POTENTIAL DIVIDERS
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Know that p.d. across a conductor increases as resistance increases.
+  * [Supplement] Describe the action of a variable potential divider.
+  * [Supplement] Recall and use the equation R₁/R₂ = V₁/V₂.
+
+--------------------------------------------------------------------------------
+17.4.1  RELATIONSHIP BETWEEN P.D. AND RESISTANCE
+--------------------------------------------------------------------------------
+
+When current flows through resistors in series:
+
+> KEY RULE
+> For a constant current, the p.d. across a component increases as its
+> resistance increases.
+
+This follows from Ohm's law: V = IR
+* If I is constant and R increases, V must increase
+* The component with the higher resistance has the larger p.d.
+
+
+--------------------------------------------------------------------------------
+17.4.2  VARIABLE POTENTIAL DIVIDERS [SUPPLEMENT]
+--------------------------------------------------------------------------------
+
+Extended Tier Only
+
+> DEFINITION
+> A potential divider is a circuit that uses resistors in series to split
+> the voltage from a power source.
+
+A potential divider allows you to obtain a fraction of the total voltage.
+
+HOW IT WORKS:
+* Two resistors are connected in series
+* The p.d. splits between them in the same ratio as their resistances
+* A voltmeter or component connected in parallel measures/uses part of the voltage
+
+If one resistor is variable (or is a thermistor/LDR):
+* Changing its resistance changes how the voltage is divided
+* This can be used to control other components automatically
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.9---
+TYPE: Circuit
+PURPOSE: Show a potential divider circuit with voltage output
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Potential divider circuit with labeled components
+
+COMPONENTS:
+  [Power Supply]
+    Symbol: battery
+    Position: grid(2,5)
+    Label: "V_in"
+
+  [Resistor R1]
+    Symbol: resistor
+    Position: grid(6,2)
+    Label: "R₁"
+
+  [Resistor R2]
+    Symbol: resistor
+    Position: grid(6,7)
+    Label: "R₂"
+
+  [Voltmeter]
+    Symbol: voltmeter
+    Position: grid(9,7)
+    Label: "V_out"
+    Connection: in parallel with R₂
+
+CONNECTIONS:
+  [Series connection]: Power Supply → R₁ → R₂ → Power Supply
+  [Parallel voltmeter]: Across R₂
+
+ANNOTATIONS:
+  [Note 1]: "V_out is the p.d. across R₂"
+  [Note 2]: "R₁/R₂ = V₁/V₂"
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+17.4.3  POTENTIAL DIVIDER EQUATION [SUPPLEMENT]
+--------------------------------------------------------------------------------
+
+Extended Tier Only
+
+> KEY EQUATION
+> R₁/R₂ = V₁/V₂
+
+where:
+    R₁ = resistance of resistor 1 (in Ω)
+    R₂ = resistance of resistor 2 (in Ω)
+    V₁ = p.d. across resistor 1 (in V)
+    V₂ = p.d. across resistor 2 (in V)
+
+The voltage splits in the SAME RATIO as the resistances.
+
+Remember: V₁ + V₂ = E (total e.m.f.)
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 5: Potential Divider Calculation [SUPPLEMENT]
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A potential divider has R₁ = 12 kΩ and R₂ = 20 kΩ.
+The output voltage V_out (across R₂) is 5.0 V.
+Calculate the input voltage V_in.
+
+SOLUTION:
+
+Step 1: Identify given values
+    R₁ = 12 kΩ
+    R₂ = 20 kΩ
+    V₂ = V_out = 5.0 V
+
+Step 2: Use the potential divider equation
+    R₁/R₂ = V₁/V₂
+
+Step 3: Substitute and solve for V₁
+    12/20 = V₁/5.0
+    V₁ = (12/20) × 5.0
+    V₁ = 3.0 V
+
+Step 4: Calculate total input voltage
+    V_in = V₁ + V₂
+    V_in = 3.0 + 5.0
+    V_in = 8.0 V
+
+Step 5: State the answer
+    The input voltage is 8.0 V.
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Potential Dividers
+--------------------------------------------------------------------------------
+
+Q14. In a series circuit with constant current, what happens to the p.d.
+     across a resistor if its resistance doubles?
+
+Q15. [Supplement] A potential divider has a 10 Ω and 30 Ω resistor. If the
+     total voltage is 8 V, calculate the p.d. across each resistor.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 17.5: ELECTRICAL SAFETY
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * State the hazards of damaged insulation, overheating cables, damp
+    conditions, and excess current from overloading.
+  * Know the three wires in a mains circuit and their functions.
+  * Explain why a switch must be connected to the live wire.
+  * Explain the use and operation of fuses and trip switches.
+  * Explain double insulation and earthing.
+
+--------------------------------------------------------------------------------
+17.5.1  ELECTRICAL HAZARDS
+--------------------------------------------------------------------------------
+
+Mains electricity (typically 230 V in UK/Europe, 120 V in USA) is dangerous.
+
+COMMON ELECTRICAL HAZARDS:
+
+┌──────────────────────┬───────────────────────────────────────────────────────┐
+│ Hazard               │ Risk                                                  │
+├──────────────────────┼───────────────────────────────────────────────────────┤
+│ Damaged insulation   │ Exposed wires can cause electric shock                │
+├──────────────────────┼───────────────────────────────────────────────────────┤
+│ Overheating cables   │ Excess current causes wires to heat; can cause fire   │
+├──────────────────────┼───────────────────────────────────────────────────────┤
+│ Damp conditions      │ Water conducts electricity; increases shock risk      │
+├──────────────────────┼───────────────────────────────────────────────────────┤
+│ Overloading          │ Too many appliances on one socket causes overheating  │
+└──────────────────────┴───────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+17.5.2  MAINS CIRCUITS - THE THREE WIRES
+--------------------------------------------------------------------------------
+
+A mains circuit consists of THREE wires:
+
+┌─────────────────┬─────────────┬──────────────────────────────────────────────┐
+│ Wire            │ Colour      │ Function                                     │
+├─────────────────┼─────────────┼──────────────────────────────────────────────┤
+│ LIVE            │ Brown       │ Carries current to the appliance             │
+│                 │             │ At mains voltage (230 V)                     │
+│                 │             │ MOST DANGEROUS wire                          │
+├─────────────────┼─────────────┼──────────────────────────────────────────────┤
+│ NEUTRAL         │ Blue        │ Completes the circuit                        │
+│                 │             │ At 0 V (or close to 0 V)                     │
+├─────────────────┼─────────────┼──────────────────────────────────────────────┤
+│ EARTH           │ Green/Yellow│ Safety wire                                  │
+│                 │ stripes     │ Provides low-resistance path to ground       │
+│                 │             │ Only carries current during a fault          │
+└─────────────────┴─────────────┴──────────────────────────────────────────────┘
+
+> IMPORTANT
+> The switch MUST be connected to the LIVE wire.
+
+Why?
+* When the switch is off, no voltage reaches the appliance
+* This makes it safe to touch or repair the appliance
+* If the switch was on the neutral wire, the appliance would still be "live"
+  even when switched off
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.10---
+TYPE: Diagram
+PURPOSE: Show the wiring of a UK mains plug with live, neutral, and earth wires
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Top-down view of opened 3-pin plug
+
+COMPONENTS:
+  [Plug Body]
+    Symbol: rectangular_outline
+    Position: grid(2,2) to grid(8,8)
+
+  [Live Pin]
+    Symbol: pin_terminal
+    Position: grid(7,3)
+    Label: "LIVE (Brown)" [right]
+    Color: brown
+
+  [Neutral Pin]
+    Symbol: pin_terminal
+    Position: grid(7,7)
+    Label: "NEUTRAL (Blue)" [right]
+    Color: blue
+
+  [Earth Pin]
+    Symbol: large_pin_terminal
+    Position: grid(3,5)
+    Label: "EARTH (Green/Yellow)" [left]
+    Color: green_yellow
+
+  [Fuse]
+    Symbol: fuse_component
+    Position: grid(5,3)
+    Label: "Fuse"
+
+  [Cable Grip]
+    Symbol: clamp
+    Position: grid(3,8)
+
+CONNECTIONS:
+  [Live wire]: cable → fuse → live pin
+  [Neutral wire]: cable → neutral pin
+  [Earth wire]: cable → earth pin
+
+ANNOTATIONS:
+  [Note]: "Fuse is connected to live wire"
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+17.5.3  FUSES
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> A fuse is a safety device containing a thin wire that melts if the current
+> becomes too large, breaking the circuit.
+
+How fuses work:
+1. Normal operation: Current flows through the fuse wire
+2. Fault (excess current): Wire heats up and MELTS
+3. Circuit broken: No current flows, appliance is disconnected
+
+FUSE RATINGS:
+* Common values: 3 A, 5 A, 13 A
+* Choose the rating JUST ABOVE the normal operating current
+
+EXAMPLE:
+An appliance normally uses 2.5 A
+* 3 A fuse: Correct choice (just above 2.5 A)
+* 5 A fuse: Too high (would allow dangerous current before blowing)
+* 13 A fuse: Far too high (could cause fire before blowing)
+
+> KEY POINT
+> A fuse protects the circuit and cabling, NOT the user.
+> For a double-insulated appliance, the fuse protects the circuit and cables.
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 17.11---
+TYPE: Diagram
+PURPOSE: Show how a fuse operates - normal and blown states
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 6
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two fuse diagrams side by side
+
+COMPONENTS:
+  [Fuse - Normal]
+    Symbol: glass_cylinder_with_wire
+    Position: grid(3,3)
+    Label: "Normal - wire intact" [below]
+    Wire: continuous line through fuse
+
+  [Fuse - Blown]
+    Symbol: glass_cylinder_with_broken_wire
+    Position: grid(9,3)
+    Label: "Blown - wire melted" [below]
+    Wire: gap in middle
+
+  [Current arrows]
+    Normal: arrow flowing through
+    Blown: X indicating no current
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Note 1]: "Current flows" below normal fuse
+  [Note 2]: "Circuit broken" below blown fuse
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+17.5.4  TRIP SWITCHES (CIRCUIT BREAKERS)
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> A trip switch (circuit breaker) is a safety device that automatically
+> switches off if the current becomes too large.
+
+Advantages of trip switches over fuses:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Trip Switches                    │ Fuses                                   │
+├──────────────────────────────────┼─────────────────────────────────────────┤
+│ Can be RESET after tripping      │ Must be REPLACED after blowing          │
+│ Reusable                         │ One-time use                             │
+│ React faster                     │ Slower response                          │
+└──────────────────────────────────┴─────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+17.5.5  EARTHING AND DOUBLE INSULATION
+--------------------------------------------------------------------------------
+
+EARTHING:
+For appliances with METAL cases:
+* The earth wire connects the metal case to the ground
+* If a live wire touches the case:
+    1. Current flows through earth wire (low resistance path)
+    2. Large surge of current causes fuse to blow
+    3. Circuit is disconnected, preventing electric shock
+
+DOUBLE INSULATION:
+For appliances with PLASTIC cases (non-conducting outer):
+* No earth wire is needed
+* The plastic case cannot become live
+* Two layers of insulation protect the user:
+    1. Insulation around the wires
+    2. Non-conducting outer case
+
+> KEY POINT
+> An appliance must be EITHER:
+> - Earthed (metal case connected to earth wire), OR
+> - Double-insulated (non-conducting outer case)
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Electrical Safety
+--------------------------------------------------------------------------------
+
+Q16. State two electrical hazards in the home.
+
+Q17. Name the three wires in a mains circuit and state their colours.
+
+Q18. Explain why the switch in a circuit must be connected to the live wire.
+
+Q19. An appliance normally draws 4.5 A. What fuse rating should be used?
+     (Choose from 3 A, 5 A, or 13 A)
+
+Q20. Explain how earthing protects a user from electric shock.
+
+Q21. Explain why a double-insulated appliance does not need an earth wire.
+
+(Answers at end of module)
+
+
+================================================================================
+                    MODULE SUMMARY
+================================================================================
+
+KEY CONCEPTS:
+
+CIRCUIT COMPONENTS:
+┌────────────────────────┬─────────────────────────────────────────────────────┐
+│ Thermistor             │ Resistance DECREASES as temperature INCREASES       │
+│ LDR                    │ Resistance DECREASES as light intensity INCREASES   │
+│ Diode                  │ Allows current in ONE direction only                │
+└────────────────────────┴─────────────────────────────────────────────────────┘
+
+SERIES CIRCUITS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Current:     Same at all points           I₁ = I₂ = I₃                      │
+│ E.M.F.:      Sum of individual e.m.f.s    E_total = E₁ + E₂ + E₃           │
+│ P.D.:        Sum equals total e.m.f.      E = V₁ + V₂ + V₃                  │
+│ Resistance:  Sum of individual values     R_total = R₁ + R₂ + R₃            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+PARALLEL CIRCUITS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Current:     Splits at junctions          I_total = I₁ + I₂ + I₃            │
+│ P.D.:        Same across each branch      V₁ = V₂ = V₃ = E                  │
+│ Resistance:  Less than smallest value     1/R = 1/R₁ + 1/R₂                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+POTENTIAL DIVIDERS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Voltage splits in same ratio as resistance:     R₁/R₂ = V₁/V₂               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+ELECTRICAL SAFETY:
+┌────────────────────────┬─────────────────────────────────────────────────────┐
+│ Live wire              │ Brown - carries current at mains voltage            │
+│ Neutral wire           │ Blue - completes circuit at ~0 V                    │
+│ Earth wire             │ Green/Yellow - safety wire to ground                │
+│ Fuse                   │ Melts when current too high, breaks circuit         │
+│ Trip switch            │ Automatically switches off, can be reset            │
+│ Double insulation      │ Non-conducting case, no earth needed                │
+└────────────────────────┴─────────────────────────────────────────────────────┘
+
+
+================================================================================
+                    COMMON MISCONCEPTIONS
+================================================================================
+
+┌────────────────────────────────┬────────────────────────────────────────────┐
+│ Misconception                  │ Correction                                 │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ "Current is used up in a       │ Current is the SAME throughout a series    │
+│ circuit"                       │ circuit - charge is conserved              │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ "Adding more resistors in      │ Adding resistors in parallel DECREASES     │
+│ parallel increases resistance" │ total resistance (more paths for current)  │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ "The fuse protects the user"   │ The fuse protects the circuit and wiring;  │
+│                                │ the earth wire protects the user           │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ "Voltage is split equally in   │ Voltage splits in the RATIO of resistances │
+│ a potential divider"           │ (higher resistance = higher p.d.)          │
+└────────────────────────────────┴────────────────────────────────────────────┘
+
+
+================================================================================
+                    PRACTICE EXERCISES
+================================================================================
+
+SECTION A: RECALL QUESTIONS
+
+1. Draw the circuit symbols for: (a) a cell, (b) a lamp, (c) a fuse,
+   (d) a thermistor, (e) an LDR.
+
+2. State the rule for current in a series circuit.
+
+3. State the rule for current at a junction in a parallel circuit.
+
+4. State the three wires in a mains circuit and their colours.
+
+5. State two advantages of trip switches over fuses.
+
+
+SECTION B: APPLICATION QUESTIONS
+
+6. Two cells, each with e.m.f. 1.5 V, are connected in series.
+   Calculate the total e.m.f.
+
+7. Three resistors of 2 Ω, 3 Ω and 5 Ω are connected in series.
+   Calculate the total resistance.
+
+8. [Supplement] A 6 V battery powers two resistors in series. The p.d. across
+   the first resistor is 2 V. Calculate the p.d. across the second resistor.
+
+9. [Supplement] Two resistors of 6 Ω and 12 Ω are connected in parallel.
+   Calculate the combined resistance.
+
+10. An appliance normally uses 7 A. Which fuse should be used: 3 A, 5 A, or 13 A?
+
+
+SECTION C: ANALYSIS QUESTIONS
+
+11. A circuit contains a 12 V battery and two lamps in parallel.
+    Each lamp has a resistance of 6 Ω.
+    (a) What is the p.d. across each lamp?
+    (b) What is the combined resistance of the two lamps?
+    (c) Calculate the current from the battery.
+
+12. [Supplement] A potential divider consists of a 4 kΩ resistor (R₁) and
+    a 6 kΩ resistor (R₂) connected in series to a 10 V supply.
+    (a) Calculate the p.d. across R₁.
+    (b) Calculate the p.d. across R₂.
+    (c) If R₂ is replaced by an LDR, explain what happens to V_out when
+        light intensity increases.
+
+13. Explain why lighting circuits in homes use lamps connected in parallel
+    rather than in series.
+
+
+================================================================================
+                    SELF-ASSESSMENT CHECKLIST
+================================================================================
+
+After studying this module, I can:
+
+Section 17.1 - Circuit Diagrams & Components:
+[ ] Draw and interpret circuit diagrams using standard symbols
+[ ] Describe how thermistors and LDRs behave with temperature/light changes
+[ ] [Supplement] Explain how diodes allow current in one direction only
+
+Section 17.2 - Series Circuits:
+[ ] State that current is the same at all points in a series circuit
+[ ] Calculate combined e.m.f. of cells in series
+[ ] [Supplement] Calculate missing p.d. values using E = V₁ + V₂ + ...
+[ ] Calculate combined resistance for resistors in series
+
+Section 17.3 - Parallel Circuits:
+[ ] State that current from source is larger than current in each branch
+[ ] [Supplement] Use the junction rule: I_in = I_out
+[ ] [Supplement] State that p.d. is the same across each branch
+[ ] State that combined resistance in parallel is less than either resistor
+[ ] [Supplement] Calculate combined resistance using 1/R = 1/R₁ + 1/R₂
+[ ] Explain advantages of parallel lighting circuits
+
+Section 17.4 - Potential Dividers:
+[ ] Relate p.d. to resistance for constant current
+[ ] [Supplement] Describe how a potential divider works
+[ ] [Supplement] Use the equation R₁/R₂ = V₁/V₂
+
+Section 17.5 - Electrical Safety:
+[ ] State common electrical hazards
+[ ] Name the three mains wires and their colours
+[ ] Explain why the switch connects to the live wire
+[ ] Explain how fuses and trip switches protect circuits
+[ ] Explain earthing and double insulation
+
+
+================================================================================
+                    ANSWERS TO CHECK YOUR UNDERSTANDING
+================================================================================
+
+Q1. Ammeter: connected in series. Voltmeter: connected in parallel.
+
+Q2. The resistance of the thermistor decreases.
+
+Q3. An LDR would be suitable. Its resistance decreases as light intensity
+    increases, which can be used to trigger the lamp circuit.
+
+Q4. [Supplement] A diode only allows current to flow in one direction, just
+    like a one-way valve only allows fluid to flow in one direction.
+
+Q5. The current is the same at every point in a series circuit.
+
+Q6. E_total = 1.5 + 1.5 + 1.5 = 4.5 V
+
+Q7. [Supplement] V₂ = 9 - 3 = 6 V
+
+Q8. R_total = 5 + 15 = 20 Ω
+
+Q9. Current splits into the branches; smaller currents flow in each branch.
+
+Q10. [Supplement] I₂ = 8 - 3 = 5 A
+
+Q11. If one lamp breaks, the others still work (or: each lamp has full voltage
+     so same brightness; or: lamps can be switched independently).
+
+Q12. Less than 10 Ω.
+
+Q13. [Supplement] 1/R = 1/4 + 1/12 = 3/12 + 1/12 = 4/12, so R = 3 Ω
+
+Q14. The p.d. across the resistor doubles.
+
+Q15. [Supplement] Ratio R₁:R₂ = 10:30 = 1:3, so V₁:V₂ = 1:3
+     V₁ = 8 × (1/4) = 2 V, V₂ = 8 × (3/4) = 6 V
+
+Q16. Any two from: damaged insulation, overheating cables, damp conditions,
+     overloading sockets/plugs.
+
+Q17. Live (brown), Neutral (blue), Earth (green and yellow stripes).
+
+Q18. When the switch is off on the live wire, no voltage reaches the appliance,
+     making it safe to touch or repair.
+
+Q19. 5 A fuse (just above the normal current of 4.5 A).
+
+Q20. If a live wire touches the metal case, current flows through the earth
+     wire to ground. This large current causes the fuse to blow, disconnecting
+     the appliance before the user can receive a shock.
+
+Q21. A double-insulated appliance has a non-conducting (plastic) outer case.
+     The case cannot become live, so there is no need for an earth wire.
+
+
+================================================================================

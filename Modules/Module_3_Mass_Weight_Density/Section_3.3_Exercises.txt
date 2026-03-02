@@ -1,187 +1,1356 @@
 ================================================================================
-          SECTION 3.3 MEASURING DENSITY - PRACTICE EXERCISES
+                    SECTION 3.3 EXERCISES
+                    MEASURING DENSITY
 ================================================================================
 
 Learning Objectives Covered:
   * Describe how to determine the density of a liquid.
   * Describe how to determine the density of a regularly shaped solid.
-  * Describe how to determine the density of an irregularly shaped solid
-    which sinks in a liquid (volume by displacement).
+  * Describe how to determine the density of an irregularly shaped solid which
+    sinks in a liquid (volume by displacement).
+
+Total Questions: 50
+Distribution:
+  - AO1 (Recall):      12 questions (24%)
+  - AO2 (Application): 26 questions (52%)
+  - AO3 (Analysis):    12 questions (24%)
 
 ================================================================================
-                    SECTION A: MULTIPLE CHOICE
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (MCQ)
 ================================================================================
+                              (10 Questions)
 
-1. To find the density of a regular solid, you need to measure:
-   A: Mass and time
-   B: Mass and volume
-   C: Volume and speed
-   D: Force and area
+Instructions: Select the best answer from the options A, B, C, or D.
 
-2. The volume of an irregularly shaped stone can be found using:
-   A: A ruler
-   B: A stopwatch
-   C: The displacement method
-   D: A balance
+--------------------------------------------------------------------------------
+1. To measure the density of a regularly shaped solid, which measurements
+   are required?
 
-3. A metal block has a mass of 540 g and a volume of 200 cm³.
-   What is its density?
-   A: 0.37 g/cm³
-   B: 2.7 g/cm³
-   C: 340 g/cm³
-   D: 108 000 g/cm³
+   A  Mass and temperature
+   B  Mass and volume
+   C  Volume and weight
+   D  Mass and surface area
 
-4. A measuring cylinder contains 40 cm³ of water. When a stone is
-   added, the level rises to 55 cm³. The volume of the stone is:
-   A: 15 cm³
-   B: 40 cm³
-   C: 55 cm³
-   D: 95 cm³
+   [AO1 - 1 mark]
 
-5. To measure the density of a liquid, you need:
-   A: A ruler and a balance
-   B: A measuring cylinder and a balance
-   C: A thermometer and a stopwatch
-   D: A force meter and a ruler
+--------------------------------------------------------------------------------
+2. Which instrument is used to measure the mass of an object?
 
+   A  Ruler
+   B  Thermometer
+   C  Digital balance
+   D  Measuring cylinder
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+3. A student wants to find the volume of an irregularly shaped stone.
+   Which method should be used?
+
+   A  Measure the dimensions with a ruler and calculate
+   B  Use the displacement method with water
+   C  Weigh the stone on a balance
+   D  Heat the stone and measure the temperature change
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+4. A measuring cylinder contains 50 cm³ of water. When a stone is lowered
+   into the cylinder, the water level rises to 68 cm³.
+   What is the volume of the stone?
+
+   A  18 cm³
+   B  50 cm³
+   C  68 cm³
+   D  118 cm³
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+5. Which formula is used to calculate the volume of a rectangular block?
+
+   A  V = length × width
+   B  V = length × width × height
+   C  V = πr²h
+   D  V = mass / density
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
 6. A Eureka can is used to measure:
-   A: The mass of an object
-   B: The temperature of water
-   C: The volume of an irregular object by displacement
-   D: The weight of an object
 
-7. Which instrument is best for measuring the dimensions of a small
-   metal sphere for a density calculation?
-   A: Metre ruler
-   B: Tape measure
-   C: Vernier calipers
-   D: Trundle wheel
+   A  the mass of an object
+   B  the temperature of water
+   C  the volume of an irregularly shaped object
+   D  the density of a liquid directly
 
-8. A student measures the density of a liquid as 0.8 g/cm³.
-   What is this in kg/m³?
-   A: 0.0008 kg/m³
-   B: 0.8 kg/m³
-   C: 80 kg/m³
-   D: 800 kg/m³
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+7. A metal block has dimensions 4 cm × 5 cm × 2 cm and a mass of 120 g.
+   What is the density of the metal?
+
+   A  0.33 g/cm³
+   B  3.0 g/cm³
+   C  40 g/cm³
+   D  4800 g/cm³
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+8. When measuring the density of a liquid, which of the following is the
+   correct procedure?
+
+   A  Weigh the liquid directly on a balance
+   B  Pour the liquid into a beaker and measure its height
+   C  Measure both the mass and volume of the liquid
+   D  Use a ruler to measure the liquid dimensions
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+9. A stone with mass 150 g displaces 50 cm³ of water.
+   What is the density of the stone?
+
+   A  0.33 g/cm³
+   B  3.0 g/cm³
+   C  100 g/cm³
+   D  7500 g/cm³
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+10. Which measuring instrument has the smallest resolution for measuring
+    the diameter of a small metal sphere?
+
+    A  30 cm ruler
+    B  Measuring tape
+    C  Vernier calipers
+    D  Metre stick
+
+    [AO1 - 1 mark]
+
 
 ================================================================================
-                    SECTION B: SHORT ANSWER & STRUCTURED
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION
 ================================================================================
+                              (4 Questions)
 
-9. Describe the step-by-step method for finding the density of a
-   rectangular metal block. Include the measurements needed and
-   the calculations. [4]
+Instructions: State whether each statement is TRUE or FALSE.
+              If FALSE, write the correct statement.
 
-10. A student wants to find the density of an irregularly shaped stone.
-    Describe the displacement method she should use. [4]
+--------------------------------------------------------------------------------
+11. "The volume of a cube can be found by measuring one side and cubing it."
 
-11. An aluminium cube has sides of length 3 cm and a mass of 72.9 g.
+    TRUE / FALSE
 
-    (a) Calculate the volume of the cube in cm³. [1]
+    If FALSE, write the correct statement:
+    _____________________________________________________________
 
-    (b) Calculate the density of aluminium. [2]
+    [AO1 - 2 marks]
 
-    (c) Convert your answer to kg/m³. [1]
+--------------------------------------------------------------------------------
+12. "The displacement method can only be used for objects that float."
 
-12. A student measures the density of a liquid using a measuring
-    cylinder and a balance.
+    TRUE / FALSE
 
-    Her results are:
-    - Mass of empty measuring cylinder = 85 g
-    - Mass of cylinder + liquid = 165 g
-    - Volume of liquid in cylinder = 100 cm³
+    If FALSE, write the correct statement:
+    _____________________________________________________________
 
-    (a) Calculate the mass of the liquid. [1]
+    [AO1 - 2 marks]
 
-    (b) Calculate the density of the liquid. [2]
+--------------------------------------------------------------------------------
+13. "To find the density of an irregularly shaped object, you must first
+    calculate its volume using a mathematical formula."
 
-    (c) The student suspects the liquid is cooking oil (density 0.92 g/cm³).
-        Does her result support this? Explain your answer. [2]
+    TRUE / FALSE
 
-13. A student uses a Eureka can to find the volume of a small rock.
+    If FALSE, write the correct statement:
+    _____________________________________________________________
 
-    The mass of the rock is 84 g.
-    The water displaced by the rock fills a measuring cylinder
-    to the 28 cm³ mark.
+    [AO2 - 2 marks]
 
-    (a) State the volume of the rock. [1]
+--------------------------------------------------------------------------------
+14. "A measuring cylinder can be used to find the volume of both liquids
+    and irregular solids."
 
-    (b) Calculate the density of the rock. [2]
+    TRUE / FALSE
 
-    (c) Water has a density of 1.0 g/cm³. Explain why the rock sinks
-        in water, using your calculated density. [1]
+    If FALSE, write the correct statement:
+    _____________________________________________________________
 
-14. A student is given two metal cylinders, A and B, that look identical
-    in size. She is asked to determine whether they are made of the
-    same material.
+    [AO2 - 2 marks]
 
-    Her measurements:
-    ┌──────────┬───────────────┬───────────────┬───────────────┐
-    │ Cylinder │ Mass (g)      │ Diameter (cm) │ Height (cm)   │
-    ├──────────┼───────────────┼───────────────┼───────────────┤
-    │ A        │ 169.6         │ 2.0           │ 5.0           │
-    ├──────────┼───────────────┼───────────────┼───────────────┤
-    │ B        │ 124.4         │ 2.0           │ 5.0           │
-    └──────────┴───────────────┴───────────────┴───────────────┘
 
-    (a) Calculate the volume of each cylinder.
-        (V = πr²h; use π = 3.14) [2]
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK
+================================================================================
+                              (4 Questions)
 
-    (b) Calculate the density of cylinder A. [2]
+Instructions: Complete each sentence using the correct word(s) or value(s).
 
-    (c) Calculate the density of cylinder B. [2]
+--------------------------------------------------------------------------------
+15. The equation for density is: ρ = __________ ÷ __________
 
-    (d) Are the cylinders made of the same material? Justify your
-        answer. [2]
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+16. To find the volume of an irregular solid, the _________________ method
+    is used.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+17. The volume of a cylinder is calculated using the formula V = ___________
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+18. When reading a measuring cylinder, you should read the scale at
+    __________ level to avoid _________________ error.
+
+    [AO1 - 2 marks]
+
+
+================================================================================
+                    SECTION D: MATCHING
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+19. Match each piece of apparatus with its purpose.
+
+    Apparatus                         Purpose
+    ─────────────────────────────     ─────────────────────────────
+    A. Digital balance                1. Measure liquid volume directly
+    B. Ruler                          2. Measure mass
+    C. Measuring cylinder             3. Measure dimensions of regular solids
+    D. Eureka can                     4. Find volume by displacement
+    E. Vernier calipers               5. Precise measurement of small dimensions
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___, E = ___
+
+    [AO1 - 5 marks]
+
+--------------------------------------------------------------------------------
+20. Match each type of object with the best method to find its volume.
+
+    Object Type                       Method to Find Volume
+    ─────────────────────────────     ─────────────────────────────
+    A. Rectangular block              1. Use displacement in water
+    B. Liquid                         2. V = l × w × h
+    C. Irregular stone                3. V = πr²h
+    D. Cylinder                       4. Use a measuring cylinder directly
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO1 - 4 marks]
+
+
+================================================================================
+                    SECTION E: SHORT ANSWER QUESTIONS
+================================================================================
+                              (5 Questions)
+
+--------------------------------------------------------------------------------
+21. State the equation used to calculate density and define each symbol.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 3 marks]
+
+--------------------------------------------------------------------------------
+22. State two pieces of apparatus needed to measure the density of a
+    rectangular metal block.
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+23. Explain why the displacement method is necessary for finding the volume
+    of an irregularly shaped object.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+24. State two precautions to reduce errors when measuring the density of
+    a liquid.
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+25. Explain why repeat readings should be taken when measuring the
+    dimensions of a solid object.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+
+================================================================================
+                    SECTION F: CALCULATIONS (STRUCTURED)
+================================================================================
+                              (8 Questions)
+
+--------------------------------------------------------------------------------
+26. A metal cube has sides of length 3.0 cm and a mass of 216 g.
+
+    (a) Calculate the volume of the cube.                                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the density of the metal.                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) State the units of your answer to part (b).                         [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+27. A student measures the density of an irregular stone.
+
+    The mass of the stone is 85 g.
+    Initial water level in measuring cylinder = 40 cm³
+    Final water level = 65 cm³
+
+    (a) Calculate the volume of the stone.                                  [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the density of the stone.                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Convert your answer to kg/m³.                                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+28. A rectangular block of wood has dimensions 8.0 cm × 5.0 cm × 4.0 cm.
+    The mass of the block is 96 g.
+
+    (a) Calculate the volume of the block in cm³.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the density of the wood in g/cm³.                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Convert the density to kg/m³.                                       [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+29. A student measures the density of cooking oil.
+
+    Mass of empty measuring cylinder = 45 g
+    Mass of measuring cylinder with 80 cm³ of oil = 117 g
+
+    (a) Calculate the mass of the oil.                                      [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the density of the oil.                                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) State whether this oil would float or sink in water.
+        Give a reason for your answer.                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+30. A cylindrical metal rod has a radius of 2.0 cm and a height of 10.0 cm.
+    The mass of the rod is 880 g. (Take π = 3.14)
+
+    (a) Calculate the volume of the cylinder.                               [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Calculate the density of the metal.                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Suggest what metal the rod might be made from.                      [1]
+        (Given: Iron = 7.9 g/cm³, Aluminium = 2.7 g/cm³, Copper = 8.9 g/cm³)
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+31. A Eureka can is used to find the volume of a metal key.
+
+    Mass of key = 32 g
+    Volume of water collected when key is fully submerged = 4.0 cm³
+
+    (a) State the volume of the key.                                        [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the density of the key.                                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Suggest what metal the key might be made from.                      [1]
+        (Given: Aluminium = 2.7 g/cm³, Iron = 7.9 g/cm³, Brass = 8.5 g/cm³)
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+32. A student wants to verify that a gold ring is made of pure gold.
+    The density of pure gold is 19.3 g/cm³.
+
+    Mass of ring = 15.4 g
+    Water level before ring is added = 25.0 cm³
+    Water level after ring is added = 25.8 cm³
+
+    (a) Calculate the volume of the ring.                                   [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the density of the ring.                                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Comment on whether the ring is made of pure gold.                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+33. A student determines the density of a liquid using the following method:
+
+    - Mass of empty beaker = 120 g
+    - She pours exactly 250 cm³ of liquid into the beaker
+    - Mass of beaker with liquid = 320 g
+
+    (a) Calculate the mass of the liquid.                                   [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the density of the liquid in g/cm³.                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Suggest what the liquid might be.                                   [1]
+        (Given: Water = 1.0 g/cm³, Ethanol = 0.79 g/cm³, Glycerin = 1.26 g/cm³)
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+34. A student measures the density of several metal samples.
+    The results are shown in the table.
+
+    ┌─────────────────┬────────────────┬────────────────┐
+    │ Metal           │ Mass (g)       │ Volume (cm³)   │
+    ├─────────────────┼────────────────┼────────────────┤
+    │ A               │ 27             │ 10             │
+    │ B               │ 71             │ 8              │
+    │ C               │ 54             │ 20             │
+    │ D               │ 158            │ 20             │
+    └─────────────────┴────────────────┴────────────────┘
+
+    (a) Calculate the density of each metal.                                [4]
+
+    Metal A: _________________ g/cm³
+    Metal B: _________________ g/cm³
+    Metal C: _________________ g/cm³
+    Metal D: _________________ g/cm³
+
+
+    (b) Using the table below, identify each metal.                         [4]
+
+    ┌─────────────────┬─────────────────────┐
+    │ Metal           │ Density (g/cm³)     │
+    ├─────────────────┼─────────────────────┤
+    │ Aluminium       │ 2.7                 │
+    │ Copper          │ 8.9                 │
+    │ Iron            │ 7.9                 │
+    │ Lead            │ 11.3                │
+    └─────────────────┴─────────────────────┘
+
+    Metal A is likely: _________________
+    Metal B is likely: _________________
+    Metal C is likely: _________________
+    Metal D is likely: _________________
+
+--------------------------------------------------------------------------------
+35. A student records the following data when measuring the volume of
+    an irregular stone using a measuring cylinder.
+
+    ┌─────────────────────────────┬────────────────────┐
+    │ Measurement                 │ Value              │
+    ├─────────────────────────────┼────────────────────┤
+    │ Mass of stone               │ 75 g               │
+    │ Initial water level         │ 35 cm³             │
+    │ Final water level (Trial 1) │ 60 cm³             │
+    │ Final water level (Trial 2) │ 62 cm³             │
+    │ Final water level (Trial 3) │ 61 cm³             │
+    └─────────────────────────────┴─────────────────────┘
+
+    (a) Calculate the average final water level.                            [2]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the volume of the stone using the average value.          [1]
+
+    _____________________________________________________________
+
+
+    (c) Calculate the density of the stone.                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Explain why taking multiple readings improves the reliability
+        of the result.                                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+36. A student measures the dimensions of a rectangular metal block
+    three times. The results are shown below.
+
+    ┌─────────────────┬────────────────┬────────────────┬────────────────┐
+    │ Measurement     │ Trial 1 (cm)   │ Trial 2 (cm)   │ Trial 3 (cm)   │
+    ├─────────────────┼────────────────┼────────────────┼────────────────┤
+    │ Length          │ 5.0            │ 5.1            │ 4.9            │
+    │ Width           │ 3.0            │ 3.0            │ 3.1            │
+    │ Height          │ 2.0            │ 1.9            │ 2.0            │
+    └─────────────────┴────────────────┴────────────────┴────────────────┘
+
+    Mass of block = 213 g
+
+    (a) Calculate the average value for each dimension.                     [3]
+
+    Average length: _________________ cm
+    Average width: _________________ cm
+    Average height: _________________ cm
+
+
+    (b) Calculate the average volume of the block.                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the density of the metal.                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+37. The diagram shows the apparatus used to find the density of a liquid.
+
+    ---DIAGRAM: Fig. E1---
+    TYPE: Apparatus
+    PURPOSE: Show method for measuring density of a liquid
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 12 × 10
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Sequential steps showing the procedure
+
+    COMPONENTS:
+      [Step 1]
+        Symbol: measuring_cylinder_on_balance
+        Position: grid(2,5)
+        Size: medium
+        Label: "Step 1: Empty cylinder on balance"
+        Display: "0.0" on balance display
+
+      [Step 2]
+        Symbol: measuring_cylinder_with_liquid_on_balance
+        Position: grid(6,5)
+        Size: medium
+        Label: "Step 2: Add liquid and note volume"
+        Display: "84.0" on balance display
+        Content: liquid at 100 cm³ mark
+
+      [Step 3]
+        Symbol: calculation_box
+        Position: grid(10,5)
+        Label: "Step 3: Calculate density"
+        Content: "ρ = m/V"
+
+    CONNECTIONS:
+      [Arrows]: Step 1 → Step 2 → Step 3
+
+    ANNOTATIONS:
+      [Balance Reading 1]: "0.0 g"
+      [Balance Reading 2]: "84.0 g"
+      [Volume]: "100 cm³"
+    ---END DIAGRAM---
+
+    Using the information from the diagram:
+
+    (a) State the mass of the empty measuring cylinder.                     [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the mass of the liquid.                                   [1]
+
+    _____________________________________________________________
+
+
+    (c) State the volume of the liquid.                                     [1]
+
+    _____________________________________________________________
+
+
+    (d) Calculate the density of the liquid.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (e) Identify what liquid this might be.                                 [1]
+        (Given: Water = 1.00 g/cm³, Ethanol = 0.79 g/cm³, Oil = 0.84 g/cm³)
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+38. Complete the table comparing methods for measuring volume.
+
+    ┌─────────────────────────┬─────────────────────────────────────────────────┐
+    │ Characteristic          │ Regular Solid       │ Irregular Solid           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Method used             │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Apparatus needed        │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Formula (if any)        │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Example object          │                     │                           │
+    └─────────────────────────┴─────────────────────┴───────────────────────────┘
+
+    [AO2 - 8 marks]
+
+--------------------------------------------------------------------------------
+39. Compare the use of a Eureka can and a measuring cylinder for finding
+    the volume of an irregular object.
+
+    (a) State one similarity between the two methods.                       [1]
+
+    _____________________________________________________________
+
+
+    (b) State two differences between the two methods.                      [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+
+    (c) Suggest which method is more suitable for a very small object.
+        Give a reason.                                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 5 marks]
+
+--------------------------------------------------------------------------------
+40. Compare measuring the density of a regular solid versus a liquid.
+
+    ┌─────────────────────────┬─────────────────────────────────────────────────┐
+    │ Aspect                  │ Regular Solid       │ Liquid                    │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ How mass is measured    │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ How volume is measured  │                     │                           │
+    ├─────────────────────────┼─────────────────────┼───────────────────────────┤
+    │ Apparatus for volume    │                     │                           │
+    └─────────────────────────┴─────────────────────┴───────────────────────────┘
+
+    [AO2 - 6 marks]
+
+
+================================================================================
+                    SECTION I: STRUCTURED QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+41. A student measures the density of a small metal cylinder.
+
+    ---DIAGRAM: Fig. S1---
+    TYPE: Apparatus
+    PURPOSE: Show measurement of regular solid density
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 14 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Two scenes: measuring mass and measuring dimensions
+
+    COMPONENTS:
+      [Balance Scene]
+        Symbol: digital_balance
+        Position: grid(3,5)
+        Size: medium
+        Label: "Digital balance"
+        Content: cylinder on pan, display shows "142.0"
+
+      [Cylinder]
+        Symbol: cylinder
+        Position: grid(3,4)
+        Size: small
+
+      [Ruler Scene]
+        Symbol: ruler_measuring_cylinder
+        Position: grid(10,5)
+        Size: medium
+        Label: "Measuring dimensions"
+
+      [Dimension Labels]
+        Symbol: arrows
+        Position: around cylinder
+        Labels: "d = 2.0 cm" (diameter), "h = 5.0 cm" (height)
+
+    CONNECTIONS:
+      None
+
+    ANNOTATIONS:
+      [Mass Display]: "142.0 g"
+      [Diameter]: "d = 2.0 cm"
+      [Height]: "h = 5.0 cm"
+    ---END DIAGRAM---
+
+    (a) State the mass of the cylinder.                                     [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the radius of the cylinder.                               [1]
+
+    _____________________________________________________________
+
+
+    (c) Calculate the volume of the cylinder. (Take π = 3.14)               [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Calculate the density of the metal.                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (e) Suggest what metal the cylinder might be made from.                 [1]
+        (Given: Aluminium = 2.7 g/cm³, Iron = 7.9 g/cm³, Copper = 9.0 g/cm³)
+
+    _____________________________________________________________
+
+
+    (f) State one precaution to improve accuracy when measuring
+        the dimensions of the cylinder.                                     [1]
+
+    _____________________________________________________________
+
+    [Total: 8 marks]
+
+--------------------------------------------------------------------------------
+42. A student investigates the density of an irregularly shaped stone.
+
+    (a) State two pieces of apparatus needed for this experiment.           [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+
+    (b) Describe the method for finding the volume of the stone using
+        a measuring cylinder.                                               [4]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) The student obtains the following results:
+        Mass of stone = 96 g
+        Initial water level = 30 cm³
+        Final water level = 62 cm³
+
+        (i) Calculate the volume of the stone.                              [1]
+
+        _____________________________________________________________
+
+
+        (ii) Calculate the density of the stone.                            [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+    (d) State one source of error in this experiment and how it
+        could be reduced.                                                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [Total: 11 marks]
+
+--------------------------------------------------------------------------------
+43. A scientist needs to determine the density of several liquids.
+
+    (a) Describe the method for measuring the density of a liquid
+        using a measuring cylinder and a balance.                           [4]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) The scientist obtains the following results for Liquid X:
+        - Mass of empty measuring cylinder = 52 g
+        - Mass of measuring cylinder + 60 cm³ of Liquid X = 103 g
+
+        (i) Calculate the mass of Liquid X.                                 [1]
+
+        _____________________________________________________________
+
+
+        (ii) Calculate the density of Liquid X.                             [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+    (c) The scientist wants to measure the density of a liquid that
+        is only available in very small quantities (about 5 cm³).
+
+        (i) Explain why using a standard 100 cm³ measuring cylinder
+            might not give an accurate result.                              [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+
+        (ii) Suggest how the scientist could improve the accuracy
+             of this measurement.                                           [2]
+
+        _____________________________________________________________
+
+        _____________________________________________________________
+
+    [Total: 11 marks]
+
+
+================================================================================
+                    SECTION J: ERROR ANALYSIS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+44. A student measures the density of a metal block and obtains a value
+    of 9.2 g/cm³. The accepted value for the metal is 8.9 g/cm³.
+
+    (a) Suggest two possible sources of error that could explain
+        the difference.                                                     [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+
+    (b) State one systematic error and one random error that might
+        occur in this experiment.                                           [2]
+
+    Systematic: ___________________________________________________
+
+    Random: ______________________________________________________
+
+
+    (c) Suggest how the student could improve the reliability of
+        their result.                                                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 6 marks]
+
+--------------------------------------------------------------------------------
+45. A student uses the displacement method to find the density of a stone.
+    They make the following mistakes:
+
+    - Reads the measuring cylinder from above instead of at eye level
+    - Uses a stone that has air bubbles attached to its surface
+    - Splashes water out of the cylinder when lowering the stone
+
+    (a) Explain how each mistake would affect the calculated density.       [6]
+
+    Reading from above:
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    Air bubbles:
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    Splashing water:
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Suggest one improvement for each mistake.                           [3]
+
+    Reading error: _______________________________________________
+
+    Air bubbles: _________________________________________________
+
+    Splashing: ___________________________________________________
+
+    [AO3 - 9 marks]
+
+
+================================================================================
+                    SECTION K: PRACTICAL DESIGN QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+46. Describe an experiment to determine the density of a sugar cube.
+
+    Include:
+    - Apparatus needed
+    - Method for measuring mass
+    - Method for finding volume
+    - How to calculate density
+    - One precaution to improve accuracy
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 6 marks]
+
+--------------------------------------------------------------------------------
+47. A student wants to determine if a piece of jewelry is made of
+    pure silver (density = 10.5 g/cm³).
+
+    (a) State the measurements the student needs to take.                   [2]
+
+    _____________________________________________________________
+
+
+    (b) Describe the method for finding the volume of the jewelry
+        if it is small and irregularly shaped.                              [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) The student finds that the jewelry has:
+        Mass = 26.3 g
+        Volume = 2.8 cm³
+
+        Calculate the density and comment on whether the jewelry
+        is made of pure silver.                                             [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 8 marks]
+
+--------------------------------------------------------------------------------
+48. A chemistry teacher wants to rank five unknown liquids by density
+    without mixing them.
+
+    (a) Describe a method to measure the density of each liquid.            [4]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) The teacher obtains the following results:
+
+    ┌─────────────────┬────────────────┬────────────────┐
+    │ Liquid          │ Mass (g)       │ Volume (cm³)   │
+    ├─────────────────┼────────────────┼────────────────┤
+    │ P               │ 45             │ 50             │
+    │ Q               │ 84             │ 70             │
+    │ R               │ 56             │ 80             │
+    │ S               │ 60             │ 50             │
+    │ T               │ 72             │ 60             │
+    └─────────────────┴────────────────┴────────────────┘
+
+    Calculate the density of each liquid and rank them from
+    least dense to most dense.                                              [5]
+
+    Liquid P: _________________ g/cm³
+    Liquid Q: _________________ g/cm³
+    Liquid R: _________________ g/cm³
+    Liquid S: _________________ g/cm³
+    Liquid T: _________________ g/cm³
+
+    Ranking (least to most dense): ______ < ______ < ______ < ______ < ______
+
+
+    (c) If these liquids do not mix, describe how they would arrange
+        themselves if all poured into the same container.                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 11 marks]
+
 
 ================================================================================
                     ANSWER KEY
 ================================================================================
 
-1.  B (Mass and volume) - ρ = m/V
-2.  C (The displacement method) - submerge in water
-3.  B (2.7 g/cm³) - ρ = 540/200 = 2.7 g/cm³
-4.  A (15 cm³) - V = 55 − 40 = 15 cm³
-5.  B (A measuring cylinder and a balance)
-6.  C (The volume of an irregular object by displacement)
-7.  C (Vernier calipers) - higher resolution for small objects
-8.  D (800 kg/m³) - multiply by 1000 to convert g/cm³ to kg/m³
+SECTION A: MULTIPLE CHOICE
+--------------------------------------------------------------------------------
+1.  B
+2.  C
+3.  B
+4.  A
+5.  B
+6.  C
+7.  B
+8.  C
+9.  B
+10. C
 
-9.  1) Place the block on a digital balance and record its mass [1].
-    2) Use a ruler or vernier calipers to measure the length, width
-       and height of the block [1].
-    3) Calculate the volume: V = l × w × h [1].
-    4) Calculate the density: ρ = m / V [1].
+SECTION B: TRUE/FALSE
+--------------------------------------------------------------------------------
+11. TRUE
+12. FALSE - The displacement method is used for objects that SINK in water
+13. FALSE - The volume of an irregularly shaped object is found using the
+    displacement method, not a mathematical formula
+14. TRUE
 
-10. 1) Measure the mass of the stone on a digital balance [1].
-    2) Fill a measuring cylinder with water and record the level (V₁) [1].
-    3) Carefully lower the stone into the water and record the new
-       level (V₂) [1].
-    4) Volume of stone = V₂ − V₁. Calculate density: ρ = m / V [1].
-    (Alternatively, describe using a Eureka can.)
+SECTION C: FILL-IN-THE-BLANK
+--------------------------------------------------------------------------------
+15. mass, volume (or m, V)
+16. displacement
+17. πr²h
+18. eye, parallax
 
-11. (a) V = 3 × 3 × 3 = 27 cm³ [1]
-    (b) ρ = m / V = 72.9 / 27 [1] = 2.7 g/cm³ [1]
-    (c) 2.7 × 1000 = 2700 kg/m³ [1]
+SECTION D: MATCHING
+--------------------------------------------------------------------------------
+19. A = 2, B = 3, C = 1, D = 4, E = 5
+20. A = 2, B = 4, C = 1, D = 3
 
-12. (a) Mass of liquid = 165 − 85 = 80 g [1]
-    (b) ρ = m / V = 80 / 100 [1] = 0.80 g/cm³ [1]
-    (c) The measured density (0.80 g/cm³) is close to but slightly
-        lower than cooking oil (0.92 g/cm³) [1]. The result does not
-        strongly support this — there is a difference of about 13%,
-        which is beyond normal experimental error. The liquid may be
-        a different type of oil or another substance [1].
+SECTION E: SHORT ANSWER (Sample Answers)
+--------------------------------------------------------------------------------
+21. ρ = m/V
+    ρ = density (in g/cm³ or kg/m³)
+    m = mass (in g or kg)
+    V = volume (in cm³ or m³)
 
-13. (a) Volume of rock = 28 cm³ [1]
-    (b) ρ = m / V = 84 / 28 [1] = 3.0 g/cm³ [1]
-    (c) The rock's density (3.0 g/cm³) is greater than water's density
-        (1.0 g/cm³), so the rock sinks [1].
+22. 1. Digital balance (to measure mass)
+    2. Ruler (to measure dimensions)
 
-14. (a) r = 2.0 / 2 = 1.0 cm
-        V = πr²h = 3.14 × 1.0² × 5.0 [1] = 15.7 cm³ [1]
-        (Both cylinders have the same volume.)
-    (b) ρ_A = 169.6 / 15.7 [1] = 10.8 g/cm³ [1]
-    (c) ρ_B = 124.4 / 15.7 [1] = 7.9 g/cm³ [1]
-    (d) No, they are not made of the same material [1]. They have
-        different densities (10.8 g/cm³ vs 7.9 g/cm³). Cylinder A
-        could be silver or lead; Cylinder B could be iron/steel [1].
+23. Irregularly shaped objects do not have regular geometric shapes, so their
+    volume cannot be calculated using mathematical formulas. The displacement
+    method measures the volume of water displaced, which equals the volume
+    of the object.
+
+24. 1. Zero the balance before measuring / use the same balance throughout
+    2. Read the measuring cylinder at eye level to avoid parallax error
+
+25. Repeat readings help to identify and reduce random errors. Taking an
+    average of multiple readings gives a more reliable result.
+
+SECTION F: CALCULATIONS (Mark Schemes)
+--------------------------------------------------------------------------------
+26. (a) V = l³ = 3.0³ = 27 cm³ [M1 A1]
+    (b) ρ = m/V = 216/27 = 8.0 g/cm³ [M1 A1]
+    (c) g/cm³ (or g cm⁻³) [B1]
+
+27. (a) V = 65 - 40 = 25 cm³ [B1]
+    (b) ρ = 85/25 = 3.4 g/cm³ [M1 A1]
+    (c) 3.4 g/cm³ × 1000 = 3400 kg/m³ [M1 A1]
+
+28. (a) V = 8.0 × 5.0 × 4.0 = 160 cm³ [M1 A1]
+    (b) ρ = 96/160 = 0.6 g/cm³ [M1 A1]
+    (c) 0.6 × 1000 = 600 kg/m³ [B1]
+
+29. (a) m = 117 - 45 = 72 g [B1]
+    (b) ρ = 72/80 = 0.9 g/cm³ [M1 A1]
+    (c) Float [B1]; density of oil (0.9) < density of water (1.0) [B1]
+
+30. (a) V = πr²h = 3.14 × 2.0² × 10.0 = 125.6 cm³ ≈ 126 cm³ [M1 A1]
+    (b) ρ = 880/126 = 7.0 g/cm³ (accept 6.98 - 7.02) [M1 A1]
+    (c) Iron (density 7.9 g/cm³ is closest) [B1]
+
+31. (a) V = 4.0 cm³ [B1]
+    (b) ρ = 32/4.0 = 8.0 g/cm³ [M1 A1]
+    (c) Iron or Brass (closest to calculated value) [B1]
+
+32. (a) V = 25.8 - 25.0 = 0.8 cm³ [B1]
+    (b) ρ = 15.4/0.8 = 19.25 g/cm³ ≈ 19.3 g/cm³ [M1 A1]
+    (c) The calculated density (19.3 g/cm³) matches the expected density of
+        pure gold [B1], so the ring is likely made of pure gold [B1]
+
+33. (a) m = 320 - 120 = 200 g [B1]
+    (b) ρ = 200/250 = 0.8 g/cm³ [M1 A1]
+    (c) Ethanol (0.79 g/cm³ is closest) [B1]
+
+SECTION G: DATA INTERPRETATION
+--------------------------------------------------------------------------------
+34. (a) A: 27/10 = 2.7 g/cm³, B: 71/8 = 8.9 g/cm³,
+        C: 54/20 = 2.7 g/cm³, D: 158/20 = 7.9 g/cm³ [B4]
+    (b) A = Aluminium, B = Copper, C = Aluminium, D = Iron [B4]
+
+35. (a) (60 + 62 + 61)/3 = 61 cm³ [M1 A1]
+    (b) V = 61 - 35 = 26 cm³ [B1]
+    (c) ρ = 75/26 = 2.88 ≈ 2.9 g/cm³ [M1 A1]
+    (d) Multiple readings help identify outliers/random errors [B1]
+        Taking an average reduces the effect of random errors [B1]
+
+36. (a) Length: (5.0 + 5.1 + 4.9)/3 = 5.0 cm [B1]
+        Width: (3.0 + 3.0 + 3.1)/3 = 3.03 cm ≈ 3.0 cm [B1]
+        Height: (2.0 + 1.9 + 2.0)/3 = 1.97 cm ≈ 2.0 cm [B1]
+    (b) V = 5.0 × 3.0 × 2.0 = 30 cm³ [M1 A1]
+    (c) ρ = 213/30 = 7.1 g/cm³ [M1 A1]
+
+37. (a) 0.0 g (balance was zeroed) [B1]
+    (b) m = 84.0 - 0.0 = 84.0 g [B1]
+    (c) V = 100 cm³ [B1]
+    (d) ρ = 84/100 = 0.84 g/cm³ [M1 A1]
+    (e) Oil [B1]
+
+SECTION H: COMPARE AND CONTRAST
+--------------------------------------------------------------------------------
+38. Regular Solid: Mathematical calculation from dimensions; Ruler/vernier
+    calipers; V = l×w×h or πr²h; Metal block, cylinder
+    Irregular Solid: Displacement method; Measuring cylinder or Eureka can;
+    No formula - measured directly; Stone, key, ornament [B8]
+
+39. (a) Both methods measure volume by displacement of water [B1]
+    (b) 1. Eureka can: water overflows into separate container;
+           Measuring cylinder: water level rises within same container [B1]
+        2. Eureka can: can measure larger objects;
+           Measuring cylinder: limited by cylinder size [B1]
+    (c) Measuring cylinder [B1]; can measure smaller volumes more precisely [B1]
+
+40. Regular Solid: Place directly on balance; Measure dimensions and calculate;
+    Ruler or vernier calipers
+    Liquid: Subtract mass of empty container from mass with liquid;
+    Read directly from measuring cylinder; Measuring cylinder [B6]
+
+SECTION I: STRUCTURED QUESTIONS
+--------------------------------------------------------------------------------
+41. (a) 142.0 g [B1]
+    (b) r = d/2 = 2.0/2 = 1.0 cm [B1]
+    (c) V = πr²h = 3.14 × 1.0² × 5.0 = 15.7 cm³ [M1 A1]
+    (d) ρ = 142/15.7 = 9.0 g/cm³ [M1 A1]
+    (e) Copper [B1]
+    (f) Take repeat measurements and calculate average / measure at different
+        positions along the cylinder / use vernier calipers [B1]
+
+42. (a) 1. Digital balance 2. Measuring cylinder (or Eureka can) [B2]
+    (b) Fill measuring cylinder with water and record initial level [B1]
+        Lower the stone carefully into the water [B1]
+        Record the new water level [B1]
+        Volume of stone = final level - initial level [B1]
+    (c)(i) V = 62 - 30 = 32 cm³ [B1]
+    (c)(ii) ρ = 96/32 = 3.0 g/cm³ [M1 A1]
+    (d) Error: Parallax error when reading the water level [B1]
+        Improvement: Read at eye level / take repeat readings [B1]
+
+43. (a) Place empty measuring cylinder on digital balance and zero it [B1]
+        Pour a known volume of liquid into the measuring cylinder [B1]
+        Read and record the volume of liquid [B1]
+        Read the mass shown on the balance; calculate density using ρ = m/V [B1]
+    (b)(i) m = 103 - 52 = 51 g [B1]
+    (b)(ii) ρ = 51/60 = 0.85 g/cm³ [M1 A1]
+    (c)(i) Small volume in large cylinder gives imprecise reading [B1]
+           Percentage error in volume measurement would be large [B1]
+    (c)(ii) Use a smaller measuring cylinder (e.g., 10 cm³) [B1]
+            Or use a more sensitive balance [B1]
+
+SECTION J: ERROR ANALYSIS
+--------------------------------------------------------------------------------
+44. (a) 1. Inaccurate measurement of dimensions (too small measured volume) [B1]
+        2. Not zeroing the balance properly (mass error) [B1]
+    (b) Systematic: Balance not zeroed / ruler not starting at zero [B1]
+        Random: Variations in reading the ruler at different positions [B1]
+    (c) Take repeat measurements and calculate average [B1]
+        Use more precise measuring instruments [B1]
+
+45. (a) Reading from above: The apparent water level appears higher than actual
+        (parallax error), giving too large a volume, so calculated density
+        would be too low [B2]
+        Air bubbles: Air bubbles increase apparent volume of stone, giving
+        too large a volume reading, so calculated density would be too low [B2]
+        Splashing water: Less water in cylinder after immersion, giving
+        too small a volume reading, so calculated density would be too high [B2]
+    (b) Reading: Read the meniscus at eye level [B1]
+        Air bubbles: Gently shake/tap the stone underwater to remove bubbles [B1]
+        Splashing: Lower the stone slowly and carefully into the water [B1]
+
+SECTION K: PRACTICAL DESIGN QUESTIONS
+--------------------------------------------------------------------------------
+46. Apparatus: Digital balance, ruler (or vernier calipers) [B1]
+    Mass: Place sugar cube on digital balance and record the mass [B1]
+    Volume: Measure length, width, and height of the cube with a ruler [B1]
+    Calculate V = l × w × h [B1]
+    Density: Calculate ρ = m/V [B1]
+    Precaution: Take repeat measurements of dimensions and average them [B1]
+
+47. (a) Mass of the jewelry; Volume of the jewelry [B2]
+    (b) Fill a small measuring cylinder with water and record initial level [B1]
+        Carefully lower the jewelry into the water [B1]
+        Record the new water level; Volume = final - initial level [B1]
+    (c) ρ = 26.3/2.8 = 9.4 g/cm³ [M1 A1]
+        The calculated density (9.4 g/cm³) is less than pure silver (10.5 g/cm³)
+        so the jewelry is NOT made of pure silver [B1]
+
+48. (a) Place empty measuring cylinder on zeroed balance [B1]
+        Pour known volume of liquid into cylinder and record volume [B1]
+        Record mass shown on balance [B1]
+        Calculate density using ρ = m/V; repeat for each liquid [B1]
+    (b) P: 45/50 = 0.90 g/cm³ [B1]
+        Q: 84/70 = 1.20 g/cm³ [B1]
+        R: 56/80 = 0.70 g/cm³ [B1]
+        S: 60/50 = 1.20 g/cm³ [B1]
+        T: 72/60 = 1.20 g/cm³ [B1]
+        Ranking: R < P < Q = S = T (or R < P < Q, S, T) [B1]
+    (c) R would be at the top (lowest density) [B1]
+        P would be in the middle, Q/S/T at the bottom (equal densities) [B1]
+
+
+================================================================================
+                    END OF EXERCISES
+================================================================================

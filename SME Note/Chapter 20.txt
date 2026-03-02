@@ -1,0 +1,1064 @@
+Cambridge (CIE) IGCSE
+Physics
+Electromagnetic Effects
+Contents
+Electromagnetic Induction
+Demonstrating Induction
+The A.C. Generator
+Magnetic Effect of a Current
+Investigating the Field Around a Wire
+Force on a Current-Carrying Conductor
+Electric Motors
+Transformers
+Transformer Calculations
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+1
+Electromagnetic Induction
+Induced e.m.f.
+An electromotive force (e.m.f.) is induced in a conductor whenever there is relative
+movement between the conductor and a magnetic field
+This could be when
+the conductor moves in a stationary magnetic field
+the conductor is stationary in a changing magnetic field
+Induced e.m.f. due to a moving conductor
+For an electrical conductor moving in a fixed magnetic field:
+the conductor (e.g. a wire) cuts the field lines
+an e.m.f. is induced in the wire
+When an electrical conductor moves in a magnetic field an e.m.f. is induced
+Induced e.m.f. due to a moving field
+For a fixed conductor in a changing magnetic field:
+as the magnet moves through the conductor (e.g. a coil), the field lines cut through
+the turns on the conductor (each individual wire)
+an e.m.f. is induced in the coil
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+2
+When a magnet is moved towards a wire, the changing magnetic field induces a current in
+the coil of wire
+A sensitive voltmeter can be used to measure the size of the induced e.m.f.
+If the conductor is part of a complete circuit then a current is induced in the conductor
+This can be detected by an ammeter
+Worked Example
+A coil of wire is connected to a sensitive voltmeter.
+When a magnet is pushed into the coil the needle on the voltmeter will deflect to the
+right as shown in the diagram below.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+3
+Lenz's law
+Extended tier only
+Lenz law states:
+The direction of an induced emf always opposes the change causing it
+This means that any magnetic field created by an induced emf will act so that it tries to
+stop the wire or magnet from moving
+Demonstrating Lenz's law
+Lenz's law can be demonstrated when a magnet is pushed into, or out of, a coil of wire
+If the magnet is pushed north end first into the coil, the end of the coil closest to the
+magnet will become a north pole
+What will happen to the pointer on the voltmeter when the magnet is stationary in the
+centre of the coil?
+A      The needle will deflect to the left
+B      The needle will deflect to the right
+C      There will be no deflection of the needle
+D      The needle will deflect to the left and then to the right
+ANSWER:  C
+There is no relative movement between the coil and the magnetic field when both
+the magnet and coil are stationary
+Since no magnetic field lines are being cut, no e.m.f. will be induced
+Therefore, the needle will not deflect
+A, B & D are incorrect because a deflection on the voltmeter would indicate that
+an e.m.f. has been induced
+This would only happen if there was relative movement between the coil and the
+magnetic field
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+4
+This happens because:
+the changing magnetic field induces an emf in the coil
+the induced emf causes a current to flow and generates a magnetic field in the coil
+the magnetic field due to the current opposes the magnet being pushed into the
+coil
+therefore, the end of the coil closest to the magnet acts as a north pole
+this means it repels the north pole of the magnet
+When a magnet is pushed into a coil of wire, the end of the coil closest to the magnet will
+become a north pole and oppose its motion
+If a magnet is now pulled away from the coil of wire, the end of the coil closest to the
+magnet will become a south pole
+This happens because:
+the changing magnetic field induces an emf in the coil
+the induced emf causes a current to flow and generates a magnetic field in the coil
+the magnetic field due to the current opposes the magnet being pulled away from
+the coil
+therefore, the end of the coil closest to the magnet becomes a south pole
+this means it attracts the north pole of the magnet
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+5
+When a magnet is pulled away from a coil of wire, the end of the coil closest to the magnet
+will become a south pole and oppose its motion
+Right-hand dynamo rule
+Extended tier only
+When moving a wire through a magnetic field, the direction of the induced emf can be
+determined using the right-hand dynamo rule
+First Finger = Field:
+Start by pointing the first finger (on the right hand) in the direction of the field
+ThuMb = Motion:
+Next, point the thumb in the direction that the wire is moving in
+SeCond = Current:
+The Second finger will now be pointing in the direction of the current (or, strictly
+speaking, the emf)
+The right-hand dynamo rule can be used to deduce the direction of the induced emf
+Examiner Tips and Tricks
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+6
+Remember that current is always in the direction of positive charge carriers.
+Therefore, current flows from the positive to the negative terminal of the battery.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+7
+Demonstrating Induction
+Demonstrating induction
+Electromagnetic induction is used in:
+electrical generators which convert mechanical energy to electrical energy
+transformers which are used in electrical power transmission
+The phenomenon of electromagnetic induction can be demonstrated using
+a magnet and a coil
+a wire and a U-shaped magnet
+Experiment 1: moving a magnet through a coil
+When a coil is connected to a sensitive voltmeter, a bar magnet can be moved in and out
+of the coil to induce an e.m.f.
+An e.m.f. is induced in a coil when a bar magnet is moved through it. This can be seen by
+connecting the coil to a voltmeter
+The expected results are...
+1. When the bar magnet is stationary, the voltmeter shows a zero reading
+When the bar magnet is held still inside, or outside, the coil, there is no cutting of
+magnetic field lines
+As a result, no e.m.f. is induced in the coil
+2. When the bar magnet is moved inside the coil, there is a reading on the voltmeter
+As the bar magnet moves, its magnetic field lines are cut by the coil
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+8
+This induces an e.m.f. within the coil, shown momentarily by the reading on the
+voltmeter
+3. When the bar magnet is moved back out of the coil, there is a reading on the voltmeter
+with the opposite sign 
+As the magnet changes direction, the direction of the current changes
+An e.m.f. is induced in the opposite direction, shown momentarily by the reading on the
+voltmeter with the opposite sign
+An e.m.f. is induced only when the bar magnet is moving through the coil
+Factors that will increase the induced e.m.f. are:
+moving the magnet faster through the coil
+adding more turns to the coil
+increasing the strength of the bar magnet
+Experiment 2: moving a wire through a magnet
+When a long wire is connected to a voltmeter and moved between two magnets, an
+e.m.f. is induced
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+9
+The pattern of a magnetic field in a wire can be investigated using this setup
+Note: there is no current flowing through the wire to start with
+An e.m.f. is induced in a wire when it is moved between magnetic poles. This can be seen
+by connecting the wire to a voltmeter
+The expected results are...
+1. When the wire is stationary, the voltmeter shows a zero reading
+When there is no relative motion between the wire and the magnetic field, no field lines
+are cut
+As a result, no e.m.f. is induced in the wire
+2. As the wire is moved between the magnetic poles, there is a reading on the voltmeter
+As the wire moves, it cuts the magnetic field lines of the magnet
+This induces an e.m.f. in the wire, shown momentarily by the reading on the voltmeter
+3. When the wire is moved back out of the magnet, there is a reading on the voltmeter
+with the opposite sign
+As the wire changes direction, the direction of the current changes
+An e.m.f. is induced in the opposite direction, shown momentarily by the reading on the
+voltmeter with the opposite sign
+Factors that will increase the induced e.m.f. are:
+increasing the length of the wire
+moving the wire between the magnets faster
+increasing the strength of the magnets
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+10
+Factors affecting electromagnetic
+induction
+Factors affecting the magnitude of the induced
+e.m.f.
+1. The speed at which the wire, coil or magnet is moved:
+Increasing the speed will increase the rate at which the magnetic field lines are cut
+This will increase the size of the induced e.m.f.
+2. The number of turns on the coils in the wire:
+Increasing the number of turns on the coils in the same length of wire will increase the
+size of the induced emf
+Reducing the length of the wire but maintaining the same number of coils will also
+increase the size of the induced emf
+This is because each turn (loop) of wire in the coil cuts the magnetic field lines 
+Therefore, the total induced e.m.f. increases with each additional turn (loop)
+3. The size of the coils:
+Increasing the area of the coils will increase the size of the induced e.m.f.
+This is because there will be more wire to cut through the magnetic field lines
+4. The strength of the magnetic field:
+Increasing the strength of the magnetic field will increase the size of the induced e.m.f.
+This is because there will be more magnetic field lines in a given area
+Factors affecting the direction of the induced e.m.f.
+1. The orientation of the poles of the magnet:
+Switching the poles of the magnet induces an e.m.f. in the opposite direction
+2. The direction in which the wire, coil or magnet is moved:
+Reversing the direction in which the wire, coil or magnet is moved induces an e.m.f. in the
+opposite direction
+Examiner Tips and Tricks
+When discussing factors affecting the size of an induced e.m.f., make sure to use the
+correct terminology:
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+11
+say "add more turns to the coil" instead of “add more coils”. This is because these
+statements do not mean the same thing
+say "a stronger magnet" instead of "a bigger magnet". This is because larger
+magnets are not necessarily stronger
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+12
+The A.C. Generator
+Simple a.c. generators
+Extended tier only
+An a.c. generator is a device which converts energy from motion into an electrical
+output
+An alternating e.m.f. is generated which causes an alternating current to flow
+A simple a.c. generator consists of 
+a rotating coil of wire between the poles of a permanent magnet
+slip rings and brushes connected to an external circuit
+Structure of a simple a.c. generator
+A simple a.c. generator consists of a rotating coil in a magnetic field connected to an
+external circuit via slip rings and carbon brushes
+The functions of each component are shown in the table:
+Table of components of a simple a.c. generator
+Component
+Function
+permanent
+magnet
+ to provide a uniform magnetic field
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+13
+rotating coil
+ to cut the magnetic field as it rotates and allow an induced current to
+flow
+slip rings
+ to allow the alternating current to flow between the coil and the
+external circuit
+carbon brushes
+ to provide a good electrical connection between the coil and the
+external circuit
+Operation of an a.c. generator
+A rectangular coil rotates in a uniform magnetic field
+The coil is connected to an external circuit via slip rings and brushes
+The induced emf in the coil can be measured by adding a galvanometer (centre-
+zero meter) to the external circuit
+An e.m.f. is induced in the coil as it cuts the magnetic field
+The pointer defects first one way, then the opposite way, and then back again
+This indicates the size and direction of the emf is constantly changing
+As a result of the alternating e.m.f., an alternating current is also produced as the coil
+rotates
+This continues as long as the coil keeps turning in the same direction
+Motion of an a.c. generator
+The size and direction of the induced e.m.f. (and current) depend on the orientation of the
+coil with the field
+A maximum e.m.f. is induced when
+the position of the coil is parallel to the field
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+14
+the motion of the coil is perpendicular to the field
+This is because the greatest number of lines are cut when the coil is moving
+perpendicular to the field
+No e.m.f. is induced when
+the position of the coil is perpendicular to the field
+the motion of the coil is parallel to the field
+This is because no lines are cut when the coil is moving parallel to the field
+Graphs for a.c. generators
+Extended tier only
+The output of an a.c. generator can be seen on a graph of e.m.f. against time, or angle of
+rotation
+The shape of the graph is a sine or cosine curve, depending on the starting position of
+the coil
+When it starts from a horizontal position (e.m.f. is at a maximum), the graph is a
+cosine curve
+When it starts from a vertical position (e.m.f. is zero), the graph is a sine curve
+Graph of induced e.m.f. with angle for an a.c. generator
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+15
+Alternating e.m.f. with corresponding positions of the coil relative to the field
+When the coil is vertical at 0°
+it is moving parallel to the direction of the magnetic field
+the size of the induced e.m.f. is zero
+When the coil has rotated by 90°
+it is now horizontal and moving perpendicular to the direction of the magnetic field
+the size of the induced e.m.f. is at a maximum
+When the coil has rotated by 180°
+it is vertical again and moving parallel to the direction of the magnetic field
+the size of the induced e.m.f. is zero
+When the coil has rotated by 270°
+it is horizontal again and moving perpendicular to the direction of the magnetic
+field
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+16
+the size of the induced e.m.f. is at a maximum and in the opposite direction to its
+position at 90°
+When the coil has completed a full 360° rotation
+it is back at its starting point where it is moving parallel to the direction of the
+magnetic field
+the size of the induced e.m.f. is zero
+Factor affecting a.c. generators
+The magnitude of the induced e.m.f. can be increased by:
+increasing the frequency of rotation of the coil
+increasing the number of turns on the coil
+increasing the strength of the magnet
+inserting a soft iron core into the coil
+Examiner Tips and Tricks
+For your exam, you need to be aware that an alternating current can be produced by:
+a coil rotating in a magnetic field
+a magnet rotating within a coil
+Both will induce an e.m.f. in the coil as they both ensure the coil will experience a
+changing magnetic field.
+Take a look at these notes on trigonometric graphs if you need to brush up on your
+knowledge of sine and cosine graphs.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+17
+Magnetic Effect of a Current
+Magnetic fields around wires & solenoids
+Magnetic fields are formed wherever a current flows, such as in:
+straight wires
+solenoids
+circular coils
+Magnetic field due to a straight wire
+The magnetic field lines around a straight wire are
+made up of concentric circles
+centred on the wire
+A circular field pattern indicates that the magnetic field around a current-carrying wire
+has no poles
+The right-hand grip rule can be used to work out the direction of the magnetic field
+The direction of the field around a current-carrying wire can be determined using the
+right-hand grip rule
+The field lines are clockwise or anticlockwise around the wire, depending on the
+direction of the current
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+18
+Reversing the current reverses the direction of the field
+The direction of the magnetic field can be determined using the right-hand grip rule
+This is determined by pointing the right-hand thumb in the direction of the current in
+the wire and curling the fingers onto the palm
+The direction of the curled fingers represents the direction of the magnetic field
+lines around the wire
+For example, if the current is travelling vertically upwards, the magnetic field lines will
+be directed anticlockwise, as seen from directly above the wire
+Note: the direction of the current is taken to be the conventional current i.e. from
+positive to negative, not the direction of electron flow
+Magnetic field due to a solenoid
+As seen from a current-carrying wire, an electric current produces a magnetic field
+An electromagnet utilises this by using a coil of wire called a solenoid
+This increases the strength of the magnetic field by adding more turns of wire into a
+smaller region of space
+One end of the solenoid becomes a north pole, and the other becomes the south pole
+The magnetic field lines around a solenoid are similar to a bar magnet
+As a result, the field lines around a solenoid are similar to those around a bar magnet
+The field lines emerge from the north pole
+The field lines return to the south pole
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+19
+The poles of the solenoid can be determined using the right-hand grip rule
+The curled fingers represent the direction of the current flow around the coil
+The thumb points in the direction of the field inside the coil, towards the north pole
+In a solenoid, the north pole forms at the end where the current flows anti-clockwise, and
+the south pole at the end where the current flows clockwise
+Magnetic field due to a circular coil
+A circular coil is equivalent to one of the coils of a solenoid
+The field lines emerge through one side of the circle (north pole) and enter through the
+other (south pole)
+As with a solenoid, the direction of the magnetic field lines depends on the direction of
+the current
+This can also be determined using the right-hand grip rule
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+20
+Magnetic field lines of many individual circular coils can be combined to make a solenoid
+Worked Example
+The current in a long, straight vertical wire is in the direction XY, as shown in the
+diagram.
+Sketch the magnetic field lines in the horizontal plane ABCD due to the current-
+carrying wire. Draw at least four field lines.
+Answer:
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+21
+Magnetic effects of changing current
+Extended tier only
+Magnetic field strength around a straight wire
+The strength of the magnetic field around a wire depends on:
+the size of the current
+the distance from the wire
+The strength of a magnetic field increases as the amount of current flowing through the
+wire increases
+This means the field lines will become closer together
+The strength of a magnetic field decreases with distance from the wire
+The magnetic field is strongest near the wire and becomes weaker further away
+from the wire
+This is shown by the magnetic field lines becoming further apart
+When the direction of the current changes, the magnetic field acts in the opposite
+direction
+Concentric circles
+Increasing separation between each circle
+Arrows drawn in an anticlockwise direction
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+22
+The greater the current, the stronger the magnetic field. This is shown by more
+concentrated field lines
+Magnetic field strength around a solenoid
+The strength of the magnetic field produced around a solenoid can be increased by:
+increasing the amount of current flowing through the coil
+increasing the number of turns on the coil
+inserting an iron core into the coil
+When a soft iron core is inserted into a solenoid, it can be used as an electromagnet
+The iron core becomes an induced magnet when a current flows through the coils 
+The magnetic field produced by the solenoid and the iron core will create a much
+stronger magnet overall
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+23
+An electromagnet consists of a solenoid wrapped around a soft iron core
+Changing the direction of the current also changes the direction of the magnetic field
+produced by the iron core
+Applications of the magnetic effect of a
+current
+Electromagnets are used in a wide variety of applications, including:
+relay circuits (utilised in electric bells, electronic locks, scrapyard cranes etc)
+loudspeakers
+Relay circuits
+Electromagnets are commonly used in relay circuits
+Relays are switches that open and close via the action of an electromagnet
+A relay circuit consists of:
+an electrical circuit containing an electromagnet
+a second circuit with a switch which is near to the electromagnet in the first circuit
+Operation of a relay circuit
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+24
+When a current passes through the coil in Circuit 1, it attracts the switch in Circuit 2, and
+closing it enables a current to flow in Circuit 2
+When a current flows through Circuit 1:
+a magnetic field is induced around the coil
+the magnetic field attracts the switch, causing it to pivot and close the contacts in
+Circuit 2
+this allows a current to flow in Circuit 2
+When no current flows through Circuit 1:
+the magnetic force stops
+the electromagnet stops attracting the switch
+the current in Circuit 2 stops flowing
+Scrapyard cranes utilise relay circuits to function:
+When the electromagnet is switched on, it will attract magnetic materials
+When the electromagnet is switched off, it will drop the magnetic materials
+Electric bells also utilise relay circuits to function:
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+25
+Animation: Electric bells utilise relay circuits. As the current alternates, the metal arm
+strikes the bell and drops repeatedly to produce the ringing effect
+When the button K is pressed:
+a current passes through the electromagnet E creating a magnetic field
+this attracted the iron armature A, causing the hammer to strike the bell B
+the movement of the armature breaks the circuit at T
+this stops the current, destroying the magnetic field and so the armature returns to
+its previous position
+this re-establishes the circuit, and the whole process starts again
+Loudspeakers
+Loudspeakers convert electrical signals into sound waves
+They work due to the motor effect
+A loudspeaker consists of a coil of wire which is wrapped around one pole of a
+permanent magnet
+Structure of a loudspeaker
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+26
+A loudspeaker converts the a.c. of an electrical signal into sound waves
+An alternating current passes through the coil of the loudspeaker
+This creates a changing magnetic field around the coil
+As the current is constantly changing direction, the direction of the magnetic field will be
+constantly changing
+The magnetic field produced around the coil interacts with the field from the permanent
+magnet
+The interacting magnetic fields will exert a force on the coil
+As the magnetic field is constantly changing direction, the force exerted on the coil will
+constantly change direction
+This makes the coil oscillate
+The oscillating coil causes the speaker cone to oscillate
+This makes the air oscillate, creating sound waves
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+27
+Investigating the Field Around a Wire
+Investigating the magnetic field around a
+wire
+The magnetic field patterns due to currents in straight wires and in solenoids can be
+investigated using:
+a thick wire
+a solenoid (a wire wrapped into a coil) - for example, a metal slinky
+cell, ammeter, variable resistor and connecting wires
+cardboard with holes (the holes must be large enough for the wire to fit through)
+clamp stand
+iron filings or a compass
+Spread the iron filings uniformly on the cardboard and place the magnetic needle on the
+board
+Tap the cardboard slightly and observe the orientation of iron filings
+When the current direction is reversed, the compasses point in the opposite direction
+showing that the direction of the ﬁeld reverses when the current reverses
+Experiment 1: plotting the magnetic field around a
+wire
+1. Attach the thick wire through a hole in the middle of the cardboard and secure it to the
+clamp stand
+Secure the wire vertically so it sits perpendicularly to the cardboard
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+28
+2. Attach the ends of the wire to a series circuit containing the variable resistor and
+ammeter on either side of the cell
+Using plotting compasses:
+1. Place plotting compasses on the card and draw dots at each end of the needle once it
+settles 
+Make sure to draw an arrow to show the direction of the ﬁeld at different points 
+2. Move the compass so that it points away from the new dot, and repeat the process
+above
+3. Keep repeating the previous process until there is a chain of dots on the card
+4. Then remove the compass, or compasses, and link the dots using a smooth curve – this
+will be the magnetic field line
+5. Repeat the whole process several times to create several other magnetic field lines
+Using iron filings:
+1. If using iron filings, simply pour the filings onto the cards and gently shake the card until
+the filings settle in the pattern of the magnetic field around the wire
+Experiment 2: plotting the magnetic field around a
+solenoid
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+29
+1. Attach the thick wire through a hole on one side of the cardboard and loop it through a
+hole on the other side of the cardboard and secure it to the clamp stand
+Secure the wire so it forms a circular loop around the cardboard
+2. Attach the ends of the wire to a series circuit containing the variable resistor and
+ammeter on either side of the cell
+Using plotting compasses:
+1. Follow the procedure outlined in Experiment 1
+Note: this can be carried out using a solenoid, but since a solenoid is essentially
+many circular loops, the pattern around a circular loop can be extended to give the
+pattern around a solenoid
+Using iron filings:
+1. Take a solenoid (a metal slinky works well for this) and thread it through pre-made holes
+in a piece of card
+2. Pour the filings onto the card and gently shake the card until the filings settle in the
+pattern of the magnetic field around the solenoid
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+30
+Force on a Current-Carrying Conductor
+Force on a current-carrying conductor
+A current-carrying conductor produces its own magnetic field
+When interacting with an external magnetic field, it therefore will experience a force
+A current-carrying conductor will only experience a force if the current through it is
+perpendicular to the direction of the magnetic field lines
+A simple situation would be a copper rod placed within a uniform magnetic field
+When current is passed through the copper rod, it experiences a force which makes
+it move
+A copper rod moves within a magnetic field when current is passed through it
+Two ways to reverse the direction of the force (and therefore, the copper rod) are by:
+reversing the direction of the current
+reversing the direction of the magnetic field
+Examiner Tips and Tricks
+This phenomenon is sometimes referred to as 'the motor effect'. The direction of the
+force is determined by Fleming's left-hand rule.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+31
+Flemings left-hand rule
+The direction of the force (aka the thrust) on a current-carrying wire depends on the
+direction of
+the current
+the magnetic field
+The direction of the force (or thrust) can be worked out by using Fleming's left-hand
+rule:
+the thumb points in the direction of the force, or thrust, on the conductor
+the first finger points in the direction of the magnetic field
+the second finger points in the direction of current flow (from positive to negative)
+Fleming’s left-hand rule can be used to determine the directions of the force, magnetic
+field and current
+All three will be perpendicular to each other in Fleming's left-hand rule questions
+This means that sometimes the force could be into and out of the page (in 3D)
+Worked Example
+A current-carrying wire is placed into the magnetic field between the poles of the
+magnet, as shown in the diagram.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+32
+Use Fleming’s left-hand rule to show that there will be a downward force acting on the
+wire.
+Answer:
+Step 1: Determine the direction of the magnetic field
+Start by pointing your First Finger in the direction of the (magnetic) Field
+Step 2: Determine the direction of the current
+Now rotate your hand around the first finger so that the seCond finger points in
+the direction of the Current
+Step 3: Determine the direction of the force
+The THumb will now be pointing in the direction of the THrust (the force)
+Therefore, this will be the direction in which the wire will move
+Examiner Tips and Tricks
+Remember that the magnetic field is always in the direction from North to South and
+current is always in the direction of a positive terminal to a negative terminal.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+33
+Charged particles in a magnetic field
+Extended tier only
+When a current-carrying wire is placed in a magnetic field, it will experience a force if the
+wire is perpendicular
+This is because the magnetic field exerts a force on each individual electron flowing
+through the wire
+Therefore, when a charged particle passes through a magnetic field, the field can exert a
+force on the particle, causing it to deflect
+The force is always at 90 degrees to both the direction of travel and the magnetic
+field lines
+The direction can be worked out by using Fleming's left-hand rule
+In the case of an electron in a magnetic field
+the second finger (current) points in the opposite direction to the direction of
+motion
+this is because conventional current flows in the opposite direction to electron flow
+When a charged particle (such as an electron) enters a magnetic field, it is deflected by
+the field
+If the particle is travelling perpendicular to the field lines:
+it will experience the maximum force
+Feel free to use Fleming's left hand rule in your exam, just don't make it too distracting
+for other students!
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+34
+If the particle is travelling parallel to the field lines:
+it will experience no force
+If the particle is travelling at an angle to the field lines:
+it will experience a small force
+Examiner Tips and Tricks
+Remember that the direction of current is the direction of positive charged.
+Therefore, if a particle has a negative charge (such as an electron), then the second
+finger (current) must point in the opposite direction to its direction of travel.
+The left-hand rule can be applied to any charged particles, but in the IGCSE exam
+questions are likely to stick to electrons.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+35
+Electric Motors
+The d.c. motor
+The motor effect can be used to create a simple d.c. electric motor
+The force on a current-carrying coil causes it to rotate in a single direction
+A simple d.c. motor consists of
+a coil of wire (which is free to rotate) between the poles of a permanent magnet
+a split-ring commutator and brushes connected to a source of d.c.
+The brushes and commutator are designed to reverse current every half turn:
+the brushes ensure current is maintained without tangling wires
+the coil rotates continuously in the same direction
+Structure of a simple d.c. motor
+In a simple d.c. motor, a coil placed in a magnetic field may experience a turning effect
+As current flows through the coil, it produces a magnetic field which interacts with the
+external magnetic field
+Forces act in opposite directions on each side of the coil, causing a turning effect
+The greater the force on the coil, the greater the turning effect and the faster it will
+turn
+The turning effect is increased by increasing:
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+36
+the number of turns on the coil
+the current in the coil
+the strength of the magnetic field
+Operation of a d.c. motor
+Extended tier only
+In a d.c. motor, when the coil of wire is horizontal, it forms a complete circuit with a cell
+The coil is attached to a split ring (a circular tube of metal split in two)
+This split ring is connected in a circuit with the cell via contact with conducting
+carbon brushes
+Forces on the horizontal coil in a d.c. motor
+Examiner Tips and Tricks
+Motors and generators look very similar, but they do very different things.
+When tackling a question on either of them, make sure you are writing about the right
+one! A motor takes in electricity and turns it into motion. A generator takes in motion
+and generates electricity.
+You might be expected to give explanations of how these two things happen - make
+sure that you understand their subtle differences!
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+37
+Forces acting in opposite directions on each side of the coil, causing it to rotate. The split
+ring connects the coil to the flow of current
+Current flowing through the coil produces a magnetic field
+This magnetic field interacts with the uniform external field, so a force is exerted on
+the wire
+Forces act in opposite directions on each side of the coil, causing it to rotate:
+On the blue side of the coil, current travels towards the cell so the force acts
+upwards (using Fleming's left-hand rule)
+On the black side, current flows away from the cell so the force acts downwards
+Once the coil has rotated 90°, the split ring is no longer in contact with the brushes
+No current flows through the coil so no forces act
+Coil in the vertical position in a d.c. motor
+No force acts on the coil when vertical, as the split ring is not in contact with the brushes
+Even though no force acts, the momentum of the coil causes the coil to continue to
+rotate slightly
+The split ring reconnects with the carbon brushes and current flows through the coil
+again
+Now the blue side is on the right and the black side is on the left
+Current still flows toward the cell on the left and away from the cell on the right, even
+though the coil has flipped
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+38
+The black side of the coil experiences an upward force on the left and the blue side
+experiences a downward force on the right
+The coil continues to rotate in the same direction, forming a continuously spinning
+motor
+Forces on the coil when rotated 180°
+Even though the coil has flipped, the current still flows anticlockwise and the forces still
+cause rotation in the same direction
+Factors affecting the d.c. motor
+The speed at which the coil rotates can be increased by:
+increasing the current
+using a stronger magnet
+The direction of rotation of the coil in the d.c. motor can be changed by:
+reversing the direction of the current supply
+reversing the direction of the magnetic field by reversing the poles of the magnet
+The force supplied by the motor can be increased by:
+increasing the current in the coil
+increasing the strength of the magnetic field
+adding more turns to the coil
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+39
+Worked Example
+A d.c. motor is set up as shown below.
+Determine whether the coil will be rotating clockwise or anticlockwise.
+Answer:
+Step 1: Draw arrows to show the direction of the magnetic field lines
+These will go from the north pole of the magnet to the south pole of the magnet
+Step 2: Draw arrows to show the direction the current is flowing in the coils
+Current will flow from the positive terminal of the battery to the negative terminal
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+40
+Step 3: Use Fleming’s left hand rule to determine the direction of the force on each
+side of the coil
+Start by pointing your First Finger in the direction of the (magnetic) Field
+Now rotate your hand around the first finger so that the seCond finger points in
+the direction of the Current
+The THumb will now be pointing in the direction of the THrust (the force)
+Step 4: Use the force arrows to determine the direction of rotation
+The coil will be turning clockwise
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+41
+Examiner Tips and Tricks
+It is important to remember all the steps that cause the rotation of the coil in a d.c.
+motor. Use Fleming's Left Hand rule to convince yourself of the direction of the force
+on each side of the coil, these should be in opposite directions because the
+directions of the current through each side are opposite.
+Additionally, don't be confused if you see the phrase 'split-ring commutator'. This is
+another way of referring to the split ring in the circuit and they mean the same thing.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+42
+Transformers
+Structure of a transformer
+A transformer is a device used to change the size of an alternating voltage or current
+This is achieved using the generator effect
+A basic transformer consists of:
+a primary coil
+a secondary coil
+a soft iron core
+Iron is used because it is easily magnetised
+Construction of a simple transformer
+A simple transformer is made up of a primary coil and a secondary coil wound on a soft
+iron core
+Step-up & step-down transformers
+A transformer consists of a primary and secondary coil
+The primary coil is the first coil
+The secondary coil is the second coil
+Step-up transformer
+A step-up transformer: 
+increases the voltage of a power source (
+)
+Vs > Vp
+has more turns on the secondary coil than on the primary coil (
+)
+Ns > Np
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+43
+A step-up transformer has more turns on the secondary coil, which increases the size of
+the voltage
+Step-down transformer
+A step-down transformer: 
+decreases the voltage of a power source (
+)
+Vs < Vp
+has fewer turns on the secondary coil than on the primary coil (
+)
+Ns < Np
+A step-down transformer has fewer turns on the secondary coil, which decreases the size
+of the voltage
+Operation of a transformer
+Extended tier only
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+44
+An alternating current is supplied to the primary coil
+The current is continually changing direction
+This means it will produce a changing magnetic field around the primary coil
+The iron core is easily magnetised, so the changing magnetic field passes through it
+As a result, there is now a changing magnetic field inside the secondary coil
+This changing field cuts through the secondary coil and induces an emf (voltage)
+As the magnetic field is continually changing, the induced emf will be alternating
+The alternating emf will have the same frequency as the alternating current supplied
+to the primary coil
+If the secondary coil is part of a complete circuit it will cause an alternating current to
+flow
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+45
+Transformer Calculations
+Transformer calculations
+The voltages across the primary and secondary coils of a transformer can be calculated
+using the transformer equation, which states
+The ratio of the voltages across the primary and secondary coils of a transformer is equal
+to the ratio of the number of turns on each coil
+It can be expressed by the equation:
+primary voltage
+secondary voltage =
+number of turns on primary
+number of turns on secondary
+It can be expressed in symbols as follows:
+Vp
+Vs
+=
+Np
+Ns
+Where
+Vp  = voltage across the primary coil, in volts (V)
+Vs  = voltage across the secondary coil, in volts (V)
+Np  = number of turns on the primary coil
+Ns  = number of turns on the secondary coil
+The transformer equation can be flipped upside down to give:
+Vs
+Vp
+=
+Ns
+Np
+Rearranging for the secondary voltage:
+Vs = Vp ×
+Ns
+Np
+This equation shows that the output (secondary) voltage of a transformer depends on:
+the number of turns on the primary and secondary coils
+the input (primary) voltage
+In a step-up transformer, Vs > Vp  and Ns > Np
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+46
+In a step-down transformer, Vs < Vp  and Ns < Np
+Worked Example
+A transformer has 20 turns on the primary coil and 800 turns on the secondary coil.
+The voltage across the primary coil is 500 V.
+a) Calculate the output voltage of the secondary coil.
+b) State whether this is a step-up or step-down transformer.
+Answer
+Part (a)
+Step 1: List the known quantities
+Number of turns on the primary coil, Np  = 20
+Number of turns on the secondary coil, Ns  = 800
+Voltage across the primary coil, VP = 500 V
+Step 2: Write down the transformer equation
+There will be less rearranging to do if VS is on the top of the fraction
+Vs
+Vp
+=
+Ns
+Np
+Step 3: Rearrange the equation to make VS the subject
+Vs = Vp ×
+Ns
+Np
+Step 4: Substitute the known values into the equation
+VS = 500× 800
+20
+= 20 000 V
+Part (b)
+The secondary voltage is larger than the primary, Vs > Vp
+There are more turns on the secondary coil than on the primary, Ns > Np
+Therefore, this is a step-up transformer
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+47
+Ideal transformer equation
+Extended tier only
+A transformer which is 100% efficient is called an ideal transformer
+Although transformers can increase the voltage of a power source, due to the law of
+conservation of energy, they cannot increase the power output
+If a transformer is 100% efficient, then the input power in the primary coil is equal to the
+output power of the secondary coil:
+power in primary = power in secondary
+The equation to calculate electrical power is:
+P = V × I
+Where:
+P = power, in watts (W)
+V = voltage, in volts (V)
+I = current, in amps (A)
+Therefore, the equation for an ideal transformer is:
+IpVp = IsVs
+Where:
+Ip  = primary current, in amps (A)
+Vp  = primary voltage, in volts (V)
+Is  = secondary current, in amps (A)
+Vs  = secondary voltage, in volts (V)
+The equation above could also be written as a ratio:
+Examiner Tips and Tricks
+When carrying out transformer calculations, make sure you have used the same letter
+(p or s) in the numerators (top line) of the fraction and the same letter (p or s) in the
+denominators (bottom line) of the fraction. 
+There will be less rearranging to do in a calculation if the variable which you are trying
+to find is on the numerator (top line) of the fraction.
+The individual loops of wire going around each side of the transformer should be
+referred to as turns and not coils.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+48
+Is
+Ip
+=
+Vp
+Vs
+High-voltage transmission
+Electricity is transmitted through power cables at a low current to prevent dissipation of
+energy
+When current flows in a wire, there is heating in the wire due to resistance
+Therefore, energy is dissipated to the surroundings, this energy is wasted
+The lower the current, the more efficient the energy transfer
+Electrical power is equal to voltage × current, or P = VI
+This means that a low current can be achieved by increasing the voltage, so electricity
+must be transmitted at a high voltage
+Worked Example
+A transformer in a travel adapter steps up a 115 V a.c. mains electricity supply to the
+230 V needed for a hair dryer. A current of 5 A flows through the hairdryer.
+Assuming that the transformer is 100% efficient, calculate the current drawn from the
+mains supply. 
+Answer:
+Step 1: List the known quantities
+Voltage in primary coil, Vp  = 115 V
+Voltage in secondary coil, Vs  = 230 V
+Current in secondary coil, Is = 5 A
+Step 2: Write down the equation for an ideal transformer
+Vp × Ip = Vs × Is
+Step 3: Substitute in the known values
+115 × Ip = 230 × 5
+Step 4: Rearrange the equation to find the primary current
+Ip = 230 × 5
+115
+Ip = 10 A
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+49
+A smaller current flowing through the power lines results in less heat being
+produced in the wire
+This reduces the energy loss in the power lines
+The key advantages of high-voltage transmission of electricity are:
+the reduced power loss in transmission cables increases the efficiency of energy
+transfer
+lower currents in cables mean thinner, and therefore, cheaper cables can be used
+Electricity is transmitted at high voltage, reducing the current and hence power loss in the
+cables using transformers
+Calculating power losses
+Extended tier only
+The power dissipated in the wire due to resistance is given by:
+P = I2R
+Where:
+P = power, in watts (W)
+I = current, in amps (A)
+R = resistance, in ohms (Ω)
+A step-up transformer is used to increase the voltage and decrease the current of
+electricity before transmission
+A high-voltage transmission ensures the same power transfer with a smaller current
+A smaller current means less thermal energy will be lost due to the resistance in the
+wire
+A step-down transformer is used to decrease the voltage and increase the current of
+electricity after transmission
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+50
+High-voltage electricity is dangerous for use in homes, so it must be lowered before
+the current reaches consumers
+Examiner Tips and Tricks
+If you forget the equation P = I R just remember 'Twinkle twinkle little star, power
+equals I squared R''.
+2
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+51

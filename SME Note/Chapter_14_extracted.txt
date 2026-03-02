@@ -1,0 +1,875 @@
+Cambridge (CIE) IGCSE
+Physics
+Light
+Contents
+Reflection of Light
+Investigating Reflection
+Refraction of Light
+Refractive Index
+Total Internal Reflection
+Ray Diagrams
+Real & Virtual Images
+Real Images
+Virtual Images
+Correcting Sight
+Dispersion of LightYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Reflection of Light
+Ray diagrams
+In optics, a normal line is drawn at right angles to the boundary between two media
+In reflection, angles are measured between the ray (showing the wave direction) and the
+normal line 
+The angle of the wave approaching the boundary is called the angle of incidence (i)
+The angle of the wave leaving the boundary is called the angle of reflection (r)
+When drawing a ray diagram an arrow is used to show the direction the wave is travelling
+An incident ray has an arrow pointing towards the boundary
+A reflected ray has an arrow pointing away from the boundary
+Ray diagram of reflection
+A ray diagram for light reflecting at a boundary, showing the normal, angle of incidence
+and angle of reflection
+The law of reflection
+The law of reflection states that the angles of incidence and reflection are equal:
+Angle of incidence (i) = Angle of reflection (r)
+This law of reflection is used in many devices such as:
+mirrors
+cameras
+optical fibresYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+periscopes
+Reflection in a plane mirror
+When an object is placed in front of a plane mirror, an image of that object can be seen in
+the mirror
+The image will be:
+The same size as the object
+The same distance behind the mirror as the object is in front of it
+Virtual
+A plane mirror defines a flat, smooth and polished surface
+The formation of this image can be understood by drawing a ray diagram
+Ray diagram showing reflection in a plane mirror
+Diagram showing the formation of an image in a mirror by the reflection of light
+Each incident ray on the diagram above can be drawn following these steps:
+Light from the object hits the mirror, reflecting from it (i=r)
+To an observer, the reflected ray appears to have come from behind the mirror
+The reflected ray can be traced back in this same direction behind the mirror,
+forming a virtual rayYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+This process is repeated for another ray travelling in a slightly different direction
+An image of the object will appear where these two virtual rays cross
+The type of image formed in the mirror is called a virtual image because ofthe
+divergence of the rays from the image
+It cannot be projected onto a piece of paper (because the rays don’t go through the
+image)
+Examiner Tips and Tricks
+When drawing light waves being reflected take care to get the angle about right.
+If they are slightly out it won’t be a problem, but if there is an obvious difference
+between the angle of incidence and the angle of reflection then you will probably lose
+a mark.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+Investigating Reflection
+Investigating reflection
+Extended tier only
+Aims of the experiment
+To investigate reflection by a Plane mirror
+Variables
+Independent variable = angle of incidence, i
+Dependent variable = angle of reflection, r
+Control variables:
+Distance of ray box from mirror
+Width of the light beam
+Same frequency / wavelength of the light
+Equipment list
+Equipment Purpose
+Ray Box To provide a narrow beam of light that can be easily reflected
+Protractor To measure the angles of incidence and reflection
+Sheet of Paper To mark the lines indicating the incident and reflected rays
+Pencil To draw the incident and reflected ray lines onto the paper
+Ruler To draw the incident and reflected ray lines onto the paper
+Plane mirror To reflect the light beam
+MethodYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Apparatus to investigate reflection
+1. Set up the apparatus as shown in the diagram
+2. In the middle of the paper use a ruler to mark a straight line about 10 cm long
+3. Use a protractor to draw a 90° line that bisects (cuts in half) the 10 cm line
+4. Place the mirror on the first line as shown in the diagram above
+5. Switch on the ray box and aim a beam of light at the point where the two drawn lines
+cross at an angle
+6. Use the pencil to mark two positions of the light beam:
+A point just after leaving the ray box
+The point on the reflected beam about 10 cm away from the mirror
+7. Remove the ray box and mirror
+8. Use a ruler to join the two marked positions to the point where the originally drawn lines
+crossed
+9. Use the protractor to measure the two angles from the 90° line. The angle for the ray
+towards the mirror is the angle of incidence, and the other is the angle of reflection
+10. Repeat the experiment three times with the beam of light aimed at different angles
+Results
+Example results table
+Angle of incidence, i (°) Angle of reflection, r (°)Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+10
+30
+45
+80
+Analysis of results
+The law of reflection states:
+i = r
+Where:
+i = angle of incidence in degrees (°)
+r = angle of reflection in degrees (°)
+If the experiment was carried out correctly, the angles of incidence and reflection
+should be the same
+Evaluating the experiment
+Systematic errors
+An error could occur if the 90° lines are drawn incorrectly
+Use a set square to draw perpendicular lines
+If the mirror is distorted, this could affect the reflection angle, so make sure there are
+little to no blemishes on it
+Random errors
+The points for the incoming and reflected beam may be inaccurately marked
+Use a sharpened pencil and mark in the middle of the beam
+The protractor resolution may make it difficult to read the angles accurately
+Use a protractor with a higher resolution
+Safety considerations
+The ray box light could cause burns if touched
+Run burns under cold running water for at least five minutes
+Looking directly into the light may damage the eyes
+Avoid looking directly at the light
+Stand behind the ray box during the experimentYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Keep all liquids away from the electrical equipment and paper
+Take care using the mirror
+Damages on the mirror can affect the outcome of the reflection experimentYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Refraction of Light
+Ray diagrams for refraction
+In refraction, angles are measured between the ray (showing the direction of the wave)
+and the normal line
+The angle of the wave approaching the boundary is called the angle of incidence (i)
+The angle of the wave leaving the boundary is called the angle of refraction (r)
+When drawing a ray diagram an arrow is used to show the direction the wave is travelling
+An incident ray has an arrow pointing towards the boundary
+A refracted ray has an arrow pointing away from the boundary
+The angles of incidence and refraction are usually labelled i and r respectively
+Refraction ray diagram
+A ray diagram for light refracting at a boundary, showing the normal, angle of incidence
+and angle of refraction
+Refraction of light
+Refraction occurs when light passes a boundary between two different transparent
+materials
+At the boundary, the rays of light change direction
+This change in direction depends on the difference in optical density between the two
+media:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+From less dense to more dense (e.g air to glass), light bends towards the normal
+From more dense to less dense (e.g. glass to air), light bends away from the normal
+When passing along the normal (perpendicular) the light does not bend at all
+Note that when a light wave enters and leaves the glass block there are two boundaries
+The refracted ray at the first boundary becomes the incident ray at the second
+boundary
+Refraction diagram of light from air through a glass block
+How to construct a ray diagram showing the refraction of light as it passes through a
+rectangular block
+The change in direction occurs due to the change in speed when travelling in different
+substances
+When light passes into a more optically dense substance, the waves will slow down;
+hence, they bend towards the normal
+When light passes into a less optically dense substance, the waves will speed up;
+hence, they bend away from the normal
+The only properties that change during refraction are speed and wavelength – the
+frequency of waves does not change
+Different frequencies account for different colours of light (red has a low frequency,
+whilst blue has a high frequency)
+When light refracts, it does not change colour (think of a pencil in a glass of water),
+therefore, the frequency does not change
+Examiner Tips and Tricks
+Practice drawing refraction diagrams as much as you can! It's very important to
+remember which way the light bends when it crosses a boundary:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Investigating Refraction
+Aims of the experiment
+To investigate the refraction of light using rectangular blocks, semi-circular blocks and
+triangular prisms
+Variables
+Independent variable = shape of the block
+Dependent variable = angle of refraction
+Control variables:
+Width of the light beam
+Same frequency / wavelength of the light
+Equipment list
+Equipment Purpose
+Ray box To provide a narrow beam of light that can be
+easily refracted
+Protractor To measure the angles of incidence and
+refraction
+Sheet of paper To mark the lines indicating the incident and
+refracted rays
+Pencil To draw the incident and refracted ray lines
+onto the paper
+Ruler To draw the incident and refracted ray lines
+onto the paperAs the light enters the block it bends towards the normal line
+Remember: Enters Towards
+When it leaves the block it bends away from the normal line
+Remember: Leaves Away
+You only need to know about light passing through the boundaries between two
+media.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Perspex blocks (rectangular, semi-
+circular & prism)To refract the light beam
+Resolution of measuring equipment:
+Protractor = 1°
+Ruler = 1 mm
+Refraction diagram for equipment
+Diagram showing a ray box alongside three different-shaped glass blocks
+Method
+Refraction diagram set upYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+Apparatus to investigate refraction
+1. Place the glass block on a sheet of paper, and carefully draw around the rectangular
+perspex block using a pencil
+2. Switch on the ray box and direct a beam of light at the side face of the block
+3. Mark on the paper:
+A point on the ray close to the ray box
+The point where the ray enters the block
+The point where the ray exits the block
+A point on the exit light ray which is a distance of about 5 cm away from the block
+4. Draw a dashed line normal (at right angles) to the outline of the block where the points
+are
+5. Remove the block and join the points marked with three straight lines
+6. Replace the block within its outline and repeat the above process for a ray striking the
+block at a different angle
+7. Repeat the procedure for each shape of perspex block (prism and semi-circular)
+Analysis of results
+Consider the light paths through the different-shaped blocks
+Refraction experiment results with different mediaYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+Refraction of light through different shapes of perspex blocks
+The final diagram for each shape will include multiple light ray paths for the different
+angles of incidences (i) at which the light strikes the blocks
+This will help demonstrate how the angle of refraction (r) changes with the angle of
+incidence 
+Label these paths clearly with (1) (2) (3) or A, B, C to make these clearer 
+Use the laws of refraction to analyse these results
+Evaluating the experiment
+Systematic errors
+An error could occur if the 90° lines are drawn incorrectly
+Use a set square to draw perpendicular lines
+Random errors
+The points for the incoming and reflected beam may be inaccurately marked
+Use a sharpened pencil and mark in the middle of the beam
+The protractor resolution may make it difficult to read the angles accurately
+Use a protractor with a higher resolution
+Safety considerations
+The ray box light could cause burns if touched
+Run burns under cold running water for at least five minuteYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Looking directly into the light may damage the eyes
+Avoid looking directly at the light
+Stand behind the ray box during the experiment
+Keep all liquids away from the electrical equipment and paper
+Examiner Tips and Tricks
+In your examination, you might be asked to write a method explaining how you might
+investigate the refraction of light through different shaped blocks
+As part of this method you should describe:
+What equipment you need
+How you will use the equipment
+How you will trace the rays of light before, while and after they pass through the
+blockYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Refractive Index
+Refractive index as a ratio of speed
+Extended tier only
+The refractive index can be calculated in two different ways:
+1. Using the ratio of speeds
+2. Using the ratio of angles
+The refractive index is a number that is always larger than 1 and is different for different
+materials
+Objects which are more optically dense have a higher refractive index, e.g. n is
+about 2.4 for diamond
+Objects which are less optically dense have a lower refractive index, e.g. n is about
+1.5 for glass
+Since the refractive index is a ratio, it has no units
+The refractive index, n, for the ratio of speeds, is defined as:
+The ratio of the speeds of a wave in two different regions
+The refractive index, n, for the ratio of speeds, is given by the equation:
+n =speed oflight inavacuum
+speed oflight inamaterial
+Refractive index as a ratio of angles
+Extended tier only
+The refractive index, n, for the ratio of angles, is defined as:
+The ratio of the sine of the angle of incidence and the sine of the angle of refraction of a
+wave in two different regions
+The refractive index, n, for the ratio of angles, is given by the equation:
+n =sini
+sinr
+Where:
+n = the refractive index of the material
+i = angle of incidence of the light (°)
+r = angle of refraction of the light (°)
+This equation can be rearranged with the help of the formula triangle:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+A refractive index formula triangle
+Formula triangle for the refractive index in terms of angles
+See the example of Speed & velocity which explains how to use the formula triangle to
+rearrange equations
+Worked Example
+A ray of light enters a glass block of refractive index 1.53 making an angle of 15° with
+the normal before entering the block.
+Calculate the angle it makes with the normal after it enters the glass block.
+Answer:
+Step 1: List the known quantities
+Refractive index of glass, n = 1.53
+Angle of incidence, i = 15°
+Step 2: Write the equation for refractive index in terms of the ratio of angles
+n =sini
+sinrYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+Step 3: Rearrange the equation and calculate sin (r)
+sinr =sini
+n
+sinr =sin15
+1 .53
+sinr =0 .1692
+Step 4: Find the angle of refraction (r) by using the inverse sin function
+r =sin−1 (0 .1692 )
+r=9.7=10°
+Examiner Tips and Tricks
+n =sini
+sinris also known as Snell's law but you do not need to know this for your
+exam.
+Important: (sini
+sinr) is not the same as (i
+r). Incorrectly cancelling the sin terms is a
+very common mistake!
+When calculating the value of i or r start by calculating the value of sin i or sin r.
+You can then use the inverse sin function (sin  on most calculators by pressing 'shift'
+then 'sine') to find the angle.
+One way to remember which way around i and r are in the fraction is remembering that
+'i' comes before 'r' in the alphabet, and therefore is on the top of the fraction (whilst r
+is on the bottom).–1Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Total Internal Reflection
+Total internal reflection
+Total internal reflection (TIR) occurs at the boundary between two media when:
+All the incident ray in medium 1 is reflected back into medium 1
+When light passes between the boundary of an optically dense to a less dense medium
+and the angles of incidence are small
+The refracted ray is strong
+The reflected ray is weak
+The weak ray is reflected back into the denser medium
+This means some internal reflection occurs
+It is not TIR because not all of the ray is reflected, only some of it
+Comparing refraction and total internal reflection
+Refraction happens when the angle of incidence is smaller and total internal reflection
+happens when the angle of incidence equals the angle of reflection
+Comparing internal reflection and total internal
+reflection
+Normal reflection produces a less intense light compared to TIR
+In TIR the light ray is brighter and more intense
+Normal reflection occurs independent of the refractive indices of both mediaYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+For TIR to occur, the incident material must be denser than the second material
+Conditions for internal reflection
+Total internal reflection happens with the angle of incidence is bigger than the critical
+angle
+Internal reflection examples
+Thin film interference is an example of internal reflection
+An example of this is the shiny side of a CD
+Example of internal reflection
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+The colourful pattern observed on a CD is a result of thin film interference
+Other examples of thin film interference include:
+Soap bubbles
+Thin layers of oil on water
+In these examples, internal reflection occurs at the boundaries between:
+Air and water
+Water and oil
+A spectrum of colours will be seen by the observer due to the rays partially reflected at
+the boundary
+A ray diagram of an example of internal reflection
+Light is reflected and transmitted at the boundary from a less dense to a more dense
+material. Light is transmitted only at the boundary from a more dense to a less dense
+material. Hence, in this diagram P and Q exist but the third unlabelled ray does not.
+Total internal reflection examples
+Total internal reflection is used to reflect light along optical fibres, meaning they can be
+used for
+communications
+endoscopes
+decorative lampsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Light travelling down an optical fibre is totally internally reflected each time it hits the
+edge of the fibre
+Total internal reflection example: optical fibre
+Optical fibres utilise total internal reflection for communications
+Prisms are used in a variety of optical instruments, including:
+Periscopes
+Binoculars
+Telescopes
+Cameras
+Safety reflectors
+A periscope is a device that can be used to see over tall objects
+It consists of two right-angled prisms
+Total internal reflection example: a periscope
+Reflection of light through a periscope
+The light totally internally reflects in both prismsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+
+Critical angle
+At the boundary between a more dense and a less dense medium, as the angle of
+incidence is increased, the angle of refraction also increases until it gets closer to 90°
+When the angle of refraction is exactly 90° the light is refracted along the boundary
+At this point, the angle of incidence is known as the critical anglec
+Obtaining total internal reflection examples
+As the angle of incidence increases it will eventually surplus the critical angle and lead to
+total internal reflection of the light
+When the angle of incidence is larger than the critical angle, the refracted ray is now
+reflected
+This is total internal reflectionExaminer Tips and Tricks
+If asked to name the phenomena make sure you give the whole name – total internal
+reflection
+Remember: total internal reflection occurs when light travels from a denser material
+to less dense material and ALL of the light is reflected.
+If asked to give an example of a use of total internal reflection, first state the name of
+the object that causes the reflection (e.g. a right-angled prism) and then name the
+device in which it is used (e.g. a periscope)
+Worked ExampleYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
+
+A glass cube is held in contact with a liquid and a light ray is directed at a vertical face
+of the cube. The angle of incidence at the vertical face is 39° and the angle of
+refraction is 25° as shown in the diagram. The light ray is totally internally reflected for
+the first time at X.
+Complete the diagram to show the path of the ray beyond X to the air and calculate
+the critical angle for the glass-liquid boundary.
+Answer:
+Step 1: Draw the reflected angle at the glass-liquid boundary
+When a light ray is reflected, the angle of incidence = angle of reflection
+Therefore, the angle of incidence (or reflection) is 90° – 25° = 65°
+Step 2: Draw the refracted angle at the glass-air boundary
+At the glass-air boundary, the light ray refracts away from the normal
+Due to the reflection, the light rays are symmetrical to the other side
+Step 3: Calculate the critical angleYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
+
+Refractive index & critical angle equation
+Extended tier only
+The critical angle, c, of a material, is related to its refractive index, n
+The relationship between the two quantities is given by the equation:
+sinc =1
+n
+This can also be rearranged to calculate the refractive index, n:
+n =1
+sinc
+This equation shows that:
+The larger the refractive index of a material, the smaller the critical angle
+Light rays inside a material with a high refractive index are more likely to be totally
+internally reflectedThe question states the ray is “totally internally reflected for the first time”
+meaning that this is the lowest angle at which TIR occurs
+Therefore, 65° is the critical angle
+Examiner Tips and Tricks
+If you are asked to explain what is meant by the critical angle in an exam, you can be
+sure to gain full marks by drawing and labelling the same diagram above (showing the
+three semi-circular blocks)
+Worked Example
+Opals and diamonds are transparent stones used in jewellery. Jewellers shape the
+stones so that light is reflected inside. Compare the critical angles of opal and
+diamond and explain which stone would appear to sparkle more.
+The refractive index of opal is about 1.5
+The refractive index of diamond is about 2.4
+Answer:
+Step 1: List the known quantitiesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
+
+Optical fibres
+Extended tier only
+Optical fibres have many uses, particularly in telecommunications
+Endoscopes are used to look within the human bodyRefractive index of opal, n = 1.5
+Refractive index of diamond, n = 2.4
+Step 2: Write out the equation relating critical angle and refractive index
+sinc =1
+n
+Step 3: Calculate the critical angle of opal (c)
+sin (co) =1
+1 .5=0 .6667
+co=sin−1 (0.6667 )=41.8=42°
+Step 4: Calculate the critical angle of diamond (c)
+sin (cd) =1
+2 .4=0 .4167
+cd=sin–1 (0.4167 )=24.6=25°
+Step 5: Compare the two values and write a conclusion
+Total internal reflection occurs when the angle of incidence of light is larger than
+the critical angle (i > c)
+In opal, total internal reflection will occur for angles of incidence between 42° and
+90°
+The critical angle of diamond is lower than the critical angle of opal (c> c)
+This means light rays will be totally internally reflected in diamond over a larger
+range of angles (25° to 90°)
+Therefore, more total internal reflection will occur in diamond hence it will appear
+to sparkle more than the opalo
+d
+o
+d
+o d
+Examiner Tips and Tricks
+When calculating the value of the critical angle using the above equation:
+First use the refractive index, n, to find sin(c)
+Then use the inverse sin function (sin ) to find the value of c–1Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
+
+A camera on the end of an optical fibre is placed down the throat and moved into the
+stomach
+Light from inside the stomach is captured by the camera, is totally internally
+reflected along the optical fibre and viewed by doctors through the eyepiece
+Total internal reflection example: endoscope
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+
+Endoscopesutilise total internal reflection to see inside a patient's body
+Total internal reflection using telecommunication
+Optical fibres can be used to transmit:
+Home (landline) telephone signals
+Internet signals
+Cable television signals
+In phone calls from landline phones:
+Electrical signals are converted to light pulses
+That travel close to the speed of light along optical fibres
+At the receiving end, the digital signal is converted into sound
+Total internal reflection example: landline telephone signal
+path
+Sound from a landline telephone travels through optical fibres to the landline of the
+person listening
+Optical fibres are installed:
+In cables attached to telephone (or telegraph) poles in the street
+Underground from the service box to the telegraph pole or under the sea
+Total internal reflection example: telegraph polesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 28
+
+Fibre optic cables can be found in the phone cables attached between the telephone
+poles and the streetYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 29
+
+Ray Diagrams
+Features of ray diagrams
+Ray diagrams can be described using the following terms:
+Principal axis
+Principal focus, or focal point
+Focal length
+The principal axis is defined as:
+A line which passes through the centre of a lens
+The principal focus, or focal point, is defined as:
+The point at which rays of light travelling parallel to the principal axis intersect the
+principal axis and converge or the point at which diverging rays appear to proceed
+Focal length is defined as:
+The distance between the centre of the lens and the principal focus
+Converging & Diverging Lenses
+A lens is a piece of equipment that forms an image by refracting light
+There are two types of lens:
+Converging
+Diverging
+Converging lenses
+In a converging lens, parallel rays of light are brought to a focus
+This point is called the principal focus
+This lens is sometimes referred to as a convex lens
+The distance from the lens to the principal focus is called the focal length
+This depends on how curved the lens is
+The more curved the lens, the shorter the focal length
+Converging lens diagramYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 30
+
+The focal length is the distance from the lens to the principal focus
+Diverging lenses
+In a diverging lens, parallel rays of light are made to diverge (spread out) from a point
+This lens is sometimes referred to as a concave lens
+The principal focus is now the point from which the rays appear to diverge from
+Diverging lens diagram
+Parallel rays from a diverging lens appear to come from the principal focus
+Representing lenses
+In diagrams, the following symbols are often used to represent each type of lens:
+Converging and diverging lens symbolsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 31
+
+Concave and convex lens symbols
+Examiner Tips and Tricks
+To remember which lens is converging or diverging, think of the following: Convex
+lens = Converging. You need to be able to describe how the lenses affect the light
+rays. Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 32
+
+Real & Virtual Images
+Real images & virtual images
+Images produced by lenses can be one of two types:
+A real image
+A virtual image
+Images can be described compared to their object as:
+Enlarged/same size/diminished
+Upright/inverted
+Real/virtual
+Real images
+A real image is defined as:
+An image that is formed when the light rays from an object converge and meet each other
+and can be projected onto a screen
+A real image is one produced by the convergence of light towards a focus
+Real images are always inverted
+Real images can be projected onto pieces of paper or screens
+An example of a real image is the image formed on a cinema screen
+A real image
+A real image can be projected onto a screenYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 33
+
+Virtual images
+A virtual image is defined as:
+An image that is formed when the light rays from an object do not meet but appear to
+meet behind the lens and cannot be projected onto a screen
+A virtual image is formed by the divergence of light away from a point
+Virtual images are always upright
+Virtual images cannot be projected onto a piece of paper or a screen
+An example of a virtual image is a person's reflection in a mirror
+A virtual image
+A reflection in a mirror is an example of a virtual imageYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 34
+
+Real Images
+Converging lens - real image
+Constructing converging ray diagrams
+The three main rules for constructing ray diagrams are as follows:
+1. Rays passing through the principal axis will pass through the optical centre of the lens
+undeviated
+2. Rays that are parallel to the principal axis will be refracted and pass through the focal
+point f
+3. Rays passing through the focal point f will emerge parallel to the principal axisYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 35
+
+Drawing converging ray diagrams of real images 
+Object placed beyond 2f
+When an object is placed beyond 2f (to the left of the lens), the image that forms (to the
+right of the lens) will have the following properties:
+The image forms... between f and 2f
+The nature of the image is... real
+The orientation of the image is... inverted
+The size of the image is... diminished
+Object placed at 2fYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 36
+
+When an object is placed at 2f (to the left of the lens), the image that forms (to the right
+of the lens) will have the following properties:
+The image forms... at 2f
+The nature of the image is... real
+The orientation of the image is... inverted
+The size of the image is... the same
+Object placed between f and 2f
+When an object is placed between f and 2f (to the left of the lens), the image that forms
+(to the right of the lens) will have the following properties:
+The image forms... beyond 2f
+The nature of the image is... realYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 37
+
+The orientation of the image is... inverted
+The size of the image is... magnified
+Worked Example
+Draw a ray diagram to show how a converging lens can be used to form a diminished
+image of a real object.
+Label the object, image and principal foci of the lens on your diagram.
+Answer:
+Step 1: Start by drawing and labelling a principal axis and the lens as a line or a very
+thin ellipse
+Step 2: Mark and label the focal points on each side of the lens
+Step 3: Draw and label the object at a distance greater than the focal length on the
+left side of the lensYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 38
+
+Tip: For a diminished image the object should be placed a distance of at least 2F
+away from the lens
+Step 4: Draw a ray through the optical centre of the lens 
+Step 5: Draw a second ray from the object to the lens which is parallel to the
+principal axis
+Step 6: Draw the continuation of the ray passing through the focal point on the right
+side of the lens
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 39
+
+Step 7: Draw and label the image at the point where the rays meet
+Step 8: Check your final image and make sure everything is included to gain the
+marks
+For a three-mark question, examiners will be looking for:
+One ray drawn through the optical centre of the lens
+A second ray drawn which produces a diminished (smaller) image (which
+must pass through a labelled focal point)
+Both the object and the image must be drawn and labelled correctlyYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 40
+
+Virtual Images
+Converging lens - virtual image
+Extended tier only
+Constructing converging ray diagrams of virtual
+images
+A single lens placed at a distance less than the focal length of an object can be used as a
+magnifying glass
+A converging lens ray diagram for an object placed less than f
+Ray diagram showing light converging through a magnifying glass to form a magnified
+virtual image
+The image that forms will have the following properties:
+The image forms... at 2f (on the same side as the object)
+The nature of the image is... virtual
+The orientation of the image is... upright
+The size of the image is... magnified
+Diverging lens - virtual image
+Image formation by a diverging lens
+No matter the position of the object all images formed by diverging lenses are:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 41
+
+Virtual (and not real)
+Upright (the same as the object)
+Diminished (smaller than the object)
+On the same side of the lens as the object
+For an object placed at any distance away from the lens (further than the focal point or
+closer than):
+The ray of light incident on the centre of the lens does not change direction
+The rays of light parallel to the principal axis are refracted
+These rays can be extrapolated backwards 
+It appears that they come from a virtual focus
+A visible projection cannot be formed on a screen
+Virtual image produced by a diverging lens with object
+beyond f
+A diverging lens always produces a virtual image no matter the position of the object in
+relation to the focal point or the lens. Here the object is further away from the lens than
+the focal point.
+Virtual image produced by a diverging lens with object closer
+than fYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 42
+
+A diverging lens always produces a virtual image no matter the position of the object in
+relation to the focal point or the lens. Here the object is closer to the lens than the focal
+point.
+Comparing converging & diverging lenses
+The image produced by a converging lens can be either real or virtual
+This means the image can be inverted (real) or upright (virtual)
+The image produced by a diverging lens is always virtual
+This means the image will always be upright
+Worked Example
+An object is placed outside the focal point of a diverging lens.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 43
+
+Complete the ray diagram by drawing where the image of this object will be seen.
+Answer:
+Step 1: Draw a line from the top of the object through the middle of the lens
+The top of the image lies somewhere along this line
+Step 2: Draw a line from the focal point through the top of the lens
+The dashed line shows the continuation of the upward arrow
+The top of the image is where the two lines crossYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 44
+
+Examiner Tips and Tricks
+You are not expected to draw ray diagrams for a diverging lens but you must be able
+to explain how the virtual images are formed.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 45
+
+Correcting Sight
+Correcting sight
+Extended tier only
+Converging and diverging lenses are commonly used in glasses and contact lenses to
+correct defects of sight
+Converging lenses can be used to correct long-sighted vision
+Diverging lenses can be used to correct short-sighted vision
+Use of lenses to correct long-sightedness
+Long-sighted people have eyes that are less curved than normal or the eyeball is too
+short 
+This means they cannot see things that are close and can only clearly see things that
+are far away
+Ray diagram to show long-sightedness
+An eye that is long-sighted has a narrower lens with a smaller focussing power so the light
+rays meet and form an image behind the retina and not on it
+The eye refracts the light rays and they are brought to a focus beyond the retina
+In other words, the focus point is behind the retina at the back of the eye
+This can be corrected by using a convex or converging lens
+The effect of a converging lens on a long-sighted eyeYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 46
+
+The converging lens causes the rays to converge before they reach the eye, so the image
+is formed on the retina and not behind it
+Use of lenses to correct short-sightedness
+People who are short-sighted have eyes that are more curved than normal or have an
+eyeball that is too long
+This means they cannot see things that are far away, and only see things that are
+close to them
+Ray diagram of short-sightedness
+An eye that is short-sighted has a wider lens with a larger focussing power so the light
+rays meet and form an image in front of the retina and not on itYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 47
+
+This is because the eye refracts the light and brings it to a focus before it reaches the
+retina
+In other words, the focus point is in front of the retina at the back of the eye
+This can be corrected by using a concave or a diverging lens
+The effect of a diverging lens on a short-sighted eye
+The diverging lens causes the rays to diverge before they reach the eye, so the image is
+formed on the retina and not in front of itYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 48
+
+Dispersion of Light
+Dispersion of light
+The dispersion of light is illustrated by the refraction of white light by a glass prism
+White light contains the wavelengths of all the colours of the spectrum
+Each colour has a different wavelength (and frequency), making up a very narrow
+part of the electromagnetic spectrum
+White light may be separated into all its colours by passing it through a glassprism
+This is done by refraction
+Violet light is refracted the most, whilst red light is refracted the least
+This splits up the colours to form a spectrum
+This process is similar to how a rainbow is created
+Dispersion of light through a prism
+White light may be separated into all its colours by passing it through a prism
+The visible spectrum of light
+Visible light is the only part of the spectrum detectable by the human eye
+In the natural world, many animals, such as birds, bees and certain fish, can perceive
+beyond visible light and can see infra-red and UV wavelengths of light
+The seven different colours of visible light waves correspond to different wavelengthsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 49
+
+In order of longest wavelength and lowest frequency to shortest wavelength and
+highest frequency :
+Red 
+Orange
+Yellow
+Green 
+Blue
+Indigo
+Violet
+The dispersion of light creates the seven colours of the visible
+spectrum
+The colours of the visible spectrum: red has the longest wavelength; violet has the
+shortest
+Monochromatic light
+Extended tier only
+A visible light source of a single frequency (a single colour) is monochromatic
+A laser beam is monochromatic because it emits a single colour of lightExaminer Tips and Tricks
+To remember the colours of the visible spectrum you could remember either:
+The name “Roy G. Biv”
+Or the saying “Richard Of York Gave Battle In Vain”Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 50
+
+A laser beam
+The laser emits monochromatic green lightYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 51
+

@@ -1,0 +1,614 @@
+================================================================================
+          SECTION 4.5 HOOKE'S LAW - PRACTICE EXERCISES (50 Questions)
+                              [EXTENDED TIER ONLY]
+================================================================================
+
+Learning Objectives Covered:
+  * State Hooke's law.
+  * Recall and use the equation: F = kx
+  * Calculate spring constant from experimental data.
+  * Describe the limit of proportionality.
+
+Total Questions: 50
+Assessment Objectives: AO1 (25%), AO2 (50%), AO3 (25%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (10)
+================================================================================
+
+1. Hooke's law states that extension is proportional to:
+   A: Mass
+   B: Force
+   C: Spring constant
+   D: Length
+
+2. Which equation represents Hooke's law?
+   A: F = kx
+   B: F = k/x
+   C: F = x/k
+   D: F = k + x
+
+3. In the equation F = kx, what does 'k' represent?
+   A: Extension
+   B: Force
+   C: Spring constant
+   D: Mass
+
+4. The SI unit of spring constant is:
+   A: N
+   B: N/m
+   C: m/N
+   D: N·m
+
+5. A spring has spring constant 50 N/m. What force is needed to extend it by 
+   0.2 m?
+   A: 10 N
+   B: 250 N
+   C: 0.004 N
+   D: 100 N
+
+6. A force of 20 N extends a spring by 0.1 m. What is the spring constant?
+   A: 2 N/m
+   B: 200 N/m
+   C: 0.005 N/m
+   D: 20 N/m
+
+7. The limit of proportionality is the point where:
+   A: The spring breaks
+   B: Hooke's law stops being obeyed
+   C: Extension becomes zero
+   D: Force becomes zero
+
+8. A stiffer spring has:
+   A: A larger spring constant
+   B: A smaller spring constant
+   C: No spring constant
+   D: The same spring constant as all springs
+
+9. If the spring constant is doubled, the force needed for the same extension:
+   A: Doubles
+   B: Halves
+   C: Stays the same
+   D: Quadruples
+
+10. Which graph shows a spring obeying Hooke's law?
+    A: Curved line
+    B: Straight line through origin
+    C: Horizontal line
+    D: Vertical line
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION (8)
+================================================================================
+
+11. "Hooke's law applies to all springs regardless of the force applied."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+12. "A larger spring constant means a stiffer spring."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+13. "The spring constant has units of N/m."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+14. "If extension doubles, force must also double (within the elastic limit)."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+15. "The spring constant can be found from the gradient of a force-extension 
+     graph."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+16. "Beyond the limit of proportionality, F = kx still applies."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+17. "Extension must be measured in metres when using F = kx."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+18. "A spring with k = 100 N/m is stiffer than one with k = 50 N/m."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK (8)
+================================================================================
+
+WORD BANK: proportional, spring constant, force, extension, N/m, gradient,
+           limit of proportionality, stiffer, F = kx, directly
+
+19. Hooke's law states that extension is __________ proportional to force.
+
+20. The equation for Hooke's law is __________.
+
+21. In F = kx, the symbol k represents the __________.
+
+22. The spring constant is measured in units of __________.
+
+23. The __________ of a force-extension graph gives the spring constant.
+
+24. A larger spring constant indicates a __________ spring.
+
+25. Hooke's law only applies up to the __________.
+
+26. If force is __________ proportional to extension, the spring obeys Hooke's law.
+
+================================================================================
+                    SECTION D: SHORT ANSWER QUESTIONS (10)
+================================================================================
+
+27. State Hooke's law. [2]
+
+28. Write the equation for Hooke's law and define each symbol. [3]
+
+29. State the SI unit of spring constant. [1]
+
+30. Explain what is meant by the "limit of proportionality". [2]
+
+31. A spring extends by 5 cm when a force of 10 N is applied. Calculate the 
+    spring constant. [3]
+
+32. Explain why extension must be in metres when using F = kx. [2]
+
+33. Describe how to find the spring constant from a force-extension graph. [2]
+
+34. Compare two springs: Spring A has k = 200 N/m, Spring B has k = 50 N/m.
+    Which is stiffer? Explain. [2]
+
+35. Explain what happens to a spring beyond its limit of proportionality. [2]
+
+36. A student says "doubling the force will double the extension". State when 
+    this is true. [2]
+
+================================================================================
+                    SECTION E: CALCULATION QUESTIONS (20)
+================================================================================
+
+Show all working for calculations.
+
+37. A spring has spring constant 40 N/m. Calculate the force needed to extend 
+    it by 0.15 m. [2]
+
+38. A force of 12 N extends a spring by 0.08 m. Calculate the spring constant. [2]
+
+39. A spring with spring constant 80 N/m is extended by a force of 24 N.
+    Calculate the extension. [2]
+
+40. A spring extends by 6 cm when a force of 18 N is applied. Calculate the 
+    spring constant in N/m. [3]
+
+41. Calculate the force needed to extend a spring (k = 120 N/m) by 12 cm. [3]
+
+42. A spring has spring constant 25 N/m. Calculate the extension when a force 
+    of 5 N is applied. [2]
+
+43. A force of 30 N extends a spring by 0.2 m. Calculate the spring constant. [2]
+
+44. A spring with k = 60 N/m is extended by 0.25 m. Calculate the force applied. [2]
+
+45. A spring extends by 8 cm when a force of 32 N is applied.
+    (a) Calculate the spring constant in N/m. [3]
+    (b) Calculate the force needed to extend it by 15 cm. [2]
+
+46. Two springs have spring constants 50 N/m and 100 N/m. The same force of 
+    20 N is applied to each.
+    (a) Calculate the extension of the first spring. [2]
+    (b) Calculate the extension of the second spring. [2]
+    (c) Which spring is stiffer? [1]
+
+47. A spring has spring constant 150 N/m. Calculate the extension when a mass 
+    of 2 kg is hung from it. (g = 9.8 N/kg) [3]
+
+48. A spring extends from 10 cm to 18 cm when a force of 24 N is applied.
+    Calculate the spring constant. [3]
+
+49. A force-extension graph for a spring shows that when F = 15 N, x = 0.3 m.
+    Calculate the spring constant. [2]
+
+50. A spring with k = 200 N/m is compressed by 5 cm. Calculate the force 
+    applied. [3]
+
+51. Calculate the extension of a spring (k = 75 N/m) when a force of 22.5 N 
+    is applied. [2]
+
+52. A spring extends by 0.12 m when a mass of 600 g is hung from it.
+    (a) Calculate the force applied. (g = 9.8 N/kg) [2]
+    (b) Calculate the spring constant. [2]
+
+53. Two springs are tested:
+    - Spring A: Force 10 N, Extension 0.05 m
+    - Spring B: Force 10 N, Extension 0.02 m
+    
+    (a) Calculate the spring constant for each spring. [4]
+    (b) Which spring is stiffer? [1]
+
+54. A spring has spring constant 90 N/m. What mass must be hung from it to 
+    extend it by 0.15 m? (g = 9.8 N/kg) [3]
+
+55. A spring extends by 4 cm when a force of 16 N is applied. Calculate the 
+    force needed to extend it by 10 cm. [3]
+
+56. Calculate the spring constant if a force of 45 N produces an extension of 
+    0.18 m. [2]
+
+================================================================================
+                    SECTION F: STRUCTURED QUESTIONS (3)
+================================================================================
+
+57. A student investigates Hooke's law and obtains the following results:
+
+    ┌──────────┬───────────┐
+    │ Force (N)│ Extension │
+    │          │ (m)       │
+    ├──────────┼───────────┤
+    │ 0        │ 0         │
+    │ 2        │ 0.04      │
+    │ 4        │ 0.08      │
+    │ 6        │ 0.12      │
+    │ 8        │ 0.16      │
+    │ 10       │ 0.20      │
+    └──────────┴───────────┘
+
+    (a) Plot a graph of force (y-axis) against extension (x-axis). [4]
+    
+    (b) Describe the relationship shown by the graph. [2]
+    
+    (c) Calculate the gradient of the graph. [2]
+    
+    (d) State what the gradient represents. [1]
+    
+    (e) Write the equation for this spring in the form F = kx. [1]
+    
+    (f) Use your equation to predict the force needed for an extension of 
+        0.25 m. [2]
+
+58. Fig. 1 shows a force-extension graph for a spring.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Graph
+    PURPOSE: Force-extension graph for Hooke's law
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Axes]
+        X-axis: "Extension (m)" from 0 to 0.3
+        Y-axis: "Force (N)" from 0 to 30
+      [Graph Line]
+        Linear: (0,0) to (0.2,20)
+        Curved: (0.2,20) to (0.3,24)
+      [Point P]
+        Position: (0.2,20)
+        Label: "P"
+    ---END DIAGRAM---
+
+    (a) State the region where the spring obeys Hooke's law. [1]
+    
+    (b) Calculate the spring constant using data from the linear region. [2]
+    
+    (c) Use F = kx to calculate the force when extension is 0.15 m. [2]
+    
+    (d) State what point P represents. [1]
+    
+    (e) Explain why the equation F = kx cannot be used beyond point P. [2]
+
+59. Two springs are connected in series (one after the other) and a force is 
+    applied.
+
+    Spring A: k = 100 N/m
+    Spring B: k = 50 N/m
+    Applied force: 20 N
+
+    (a) Calculate the extension of Spring A. [2]
+    
+    (b) Calculate the extension of Spring B. [2]
+    
+    (c) Calculate the total extension of the system. [1]
+    
+    (d) Explain why Spring B extends more than Spring A. [2]
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION (4)
+================================================================================
+
+60. The table shows data for three different springs:
+
+    ┌──────────┬──────────┬──────────┬──────────┐
+    │ Force (N)│ Spring A │ Spring B │ Spring C │
+    │          │ Ext (m)  │ Ext (m)  │ Ext (m)  │
+    ├──────────┼──────────┼──────────┼──────────┤
+    │ 5        │ 0.05     │ 0.10     │ 0.025    │
+    │ 10       │ 0.10     │ 0.20     │ 0.050    │
+    │ 15       │ 0.15     │ 0.30     │ 0.075    │
+    │ 20       │ 0.20     │ 0.40     │ 0.100    │
+    └──────────┴──────────┴──────────┴──────────┘
+
+    (a) Calculate the spring constant for each spring. [3]
+    (b) Which spring is the stiffest? [1]
+    (c) Rank the springs from stiffest to least stiff. [1]
+    (d) Predict the extension of Spring C when F = 25 N. [2]
+
+61. A student plots a force-extension graph and calculates the gradient:
+
+    ---DIAGRAM: Fig. 2---
+    TYPE: Graph
+    PURPOSE: Force-extension with gradient calculation
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Axes]
+        X-axis: "Extension (m)" from 0 to 0.5
+        Y-axis: "Force (N)" from 0 to 40
+      [Graph Line]
+        Linear: (0,0) to (0.5,40)
+      [Gradient Triangle]
+        Rise: 40 N
+        Run: 0.5 m
+    ---END DIAGRAM---
+
+    (a) Calculate the gradient of the graph. [2]
+    (b) State what this gradient represents. [1]
+    (c) Write the equation for this spring. [1]
+    (d) Use the equation to calculate the extension when F = 30 N. [2]
+
+62. The table shows experimental results with some errors:
+
+    ┌──────────┬───────────┬───────────┬───────────┐
+    │ Force (N)│ Extension │ Extension │ Extension │
+    │          │ Trial 1(m)│ Trial 2(m)│ Trial 3(m)│
+    ├──────────┼───────────┼───────────┼───────────┤
+    │ 5        │ 0.048     │ 0.051     │ 0.049     │
+    │ 10       │ 0.098     │ 0.102     │ 0.100     │
+    │ 15       │ 0.149     │ 0.151     │ 0.150     │
+    └──────────┴───────────┴───────────┴───────────┘
+
+    (a) Calculate the average extension for each force. [3]
+    (b) Calculate the spring constant using the data for F = 10 N. [2]
+    (c) Explain why the three trials give slightly different results. [2]
+
+63. Two students investigate different springs and plot their results:
+
+    ---DIAGRAM: Fig. 3---
+    TYPE: Graph
+    PURPOSE: Compare two springs
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Axes]
+        X-axis: "Extension (m)" from 0 to 0.4
+        Y-axis: "Force (N)" from 0 to 40
+      [Line 1 - Steeper]
+        Points: (0,0) to (0.2,40)
+        Label: "Spring 1"
+      [Line 2 - Shallower]
+        Points: (0,0) to (0.4,40)
+        Label: "Spring 2"
+    ---END DIAGRAM---
+
+    (a) Calculate the spring constant for each spring. [4]
+    (b) Which spring is stiffer? Explain. [2]
+    (c) Calculate the force needed to extend Spring 2 by 0.3 m. [2]
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST (2)
+================================================================================
+
+64. Compare two springs:
+    - Spring A: k = 150 N/m
+    - Spring B: k = 75 N/m
+    
+    A force of 30 N is applied to each spring.
+    
+    (a) Calculate the extension of each spring. [4]
+    (b) Explain why the extensions are different. [2]
+    (c) Which spring would be better for a car suspension system? Explain. [2]
+
+65. Two materials are tested for spring-like behavior:
+    - Material X: Obeys Hooke's law up to 50 N
+    - Material Y: Obeys Hooke's law up to 20 N
+    
+    Both have the same spring constant of 100 N/m.
+    
+    (a) Calculate the maximum extension for each material while still obeying 
+        Hooke's law. [4]
+    (b) Explain which material is more suitable for applications requiring 
+        large extensions. [2]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+---------------------------
+1.  B - Hooke's law: extension ∝ force
+2.  A - F = kx is Hooke's law
+3.  C - k is the spring constant
+4.  B - Spring constant has units N/m
+5.  A - F = kx = 50 × 0.2 = 10 N
+6.  B - k = F/x = 20/0.1 = 200 N/m
+7.  B - Beyond this point, Hooke's law no longer applies
+8.  A - Stiffer spring = larger k
+9.  A - F = kx, so if k doubles, F doubles for same x
+10. B - Straight line through origin shows F ∝ x
+
+SECTION B: TRUE/FALSE
+---------------------
+11. FALSE - Only applies up to the limit of proportionality
+12. TRUE - k represents stiffness; larger k = stiffer spring
+13. TRUE - From F = kx, k = F/x, units are N/m
+14. TRUE - F ∝ x, so doubling x doubles F (within elastic limit)
+15. TRUE - Gradient of F-x graph = k
+16. FALSE - Hooke's law only applies up to limit of proportionality
+17. TRUE - For consistency of units in F = kx
+18. TRUE - Larger k means stiffer spring
+
+SECTION C: FILL-IN-THE-BLANK
+-----------------------------
+19. directly
+20. F = kx
+21. spring constant
+22. N/m
+23. gradient
+24. stiffer
+25. limit of proportionality
+26. directly
+
+SECTION D: SHORT ANSWER
+-----------------------
+27. Extension is directly proportional to force [1] (up to the limit of 
+    proportionality) [1]
+
+28. F = kx [1]
+    F = force in newtons (N) [1]
+    k = spring constant in N/m [1]
+    x = extension in metres (m) [1]
+    [Award 3 marks maximum]
+
+29. N/m (newtons per metre) [1]
+
+30. The point beyond which Hooke's law no longer applies [1] and force is no 
+    longer proportional to extension [1]
+
+31. x = 5 cm = 0.05 m [1]
+    k = F/x = 10/0.05 = 200 N/m [2]
+
+32. To ensure consistency of units [1] as spring constant is in N/m [1]
+
+33. Calculate the gradient of the force-extension graph [1]. The gradient equals 
+    the spring constant [1].
+
+34. Spring A is stiffer [1] because it has a larger spring constant [1]
+
+35. Force and extension are no longer proportional [1]. The spring may become 
+    permanently deformed [1].
+
+36. When the spring obeys Hooke's law [1] (up to the limit of proportionality) [1]
+
+SECTION E: CALCULATIONS
+-----------------------
+37. F = kx = 40 × 0.15 = 6 N [2]
+
+38. k = F/x = 12/0.08 = 150 N/m [2]
+
+39. x = F/k = 24/80 = 0.3 m [2]
+
+40. x = 6 cm = 0.06 m [1]
+    k = F/x = 18/0.06 = 300 N/m [2]
+
+41. x = 12 cm = 0.12 m [1]
+    F = kx = 120 × 0.12 = 14.4 N [2]
+
+42. x = F/k = 5/25 = 0.2 m [2]
+
+43. k = F/x = 30/0.2 = 150 N/m [2]
+
+44. F = kx = 60 × 0.25 = 15 N [2]
+
+45. (a) x = 8 cm = 0.08 m [1]
+        k = F/x = 32/0.08 = 400 N/m [2]
+    (b) x = 15 cm = 0.15 m [1]
+        F = kx = 400 × 0.15 = 60 N [1]
+
+46. (a) x = F/k = 20/50 = 0.4 m [2]
+    (b) x = F/k = 20/100 = 0.2 m [2]
+    (c) Second spring (k = 100 N/m) [1]
+
+47. F = mg = 2 × 9.8 = 19.6 N [1]
+    x = F/k = 19.6/150 = 0.131 m (or 13.1 cm) [2]
+
+48. Extension = 18 - 10 = 8 cm = 0.08 m [1]
+    k = F/x = 24/0.08 = 300 N/m [2]
+
+49. k = F/x = 15/0.3 = 50 N/m [2]
+
+50. x = 5 cm = 0.05 m [1]
+    F = kx = 200 × 0.05 = 10 N [2]
+
+51. x = F/k = 22.5/75 = 0.3 m [2]
+
+52. (a) F = mg = 0.6 × 9.8 = 5.88 N [2]
+    (b) k = F/x = 5.88/0.12 = 49 N/m [2]
+
+53. (a) Spring A: k = 10/0.05 = 200 N/m [2]
+        Spring B: k = 10/0.02 = 500 N/m [2]
+    (b) Spring B [1]
+
+54. F = kx = 90 × 0.15 = 13.5 N [1]
+    m = F/g = 13.5/9.8 = 1.38 kg [2]
+
+55. k = F/x = 16/0.04 = 400 N/m [1]
+    x = 10 cm = 0.1 m [1]
+    F = kx = 400 × 0.1 = 40 N [1]
+
+56. k = F/x = 45/0.18 = 250 N/m [2]
+
+SECTION F: STRUCTURED QUESTIONS
+--------------------------------
+57. (a) Graph with correct axes, scale, points, straight line [4]
+    (b) Force is directly proportional to extension [2]
+    (c) Gradient = rise/run = 10/0.2 = 50 N/m [2]
+    (d) Spring constant [1]
+    (e) F = 50x [1]
+    (f) F = 50 × 0.25 = 12.5 N [2]
+
+58. (a) From 0 to point P (0 to 0.2 m extension) [1]
+    (b) k = F/x = 20/0.2 = 100 N/m [2]
+    (c) F = kx = 100 × 0.15 = 15 N [2]
+    (d) Limit of proportionality [1]
+    (e) Beyond P, force is no longer proportional to extension [1], so Hooke's 
+        law doesn't apply [1]
+
+59. (a) x = F/k = 20/100 = 0.2 m [2]
+    (b) x = F/k = 20/50 = 0.4 m [2]
+    (c) Total = 0.2 + 0.4 = 0.6 m [1]
+    (d) Spring B has smaller spring constant [1], so extends more for the same 
+        force [1]
+
+SECTION G: DATA INTERPRETATION
+-------------------------------
+60. (a) A: k = 5/0.05 = 100 N/m [1]
+        B: k = 5/0.10 = 50 N/m [1]
+        C: k = 5/0.025 = 200 N/m [1]
+    (b) Spring C [1]
+    (c) C (200), A (100), B (50) [1]
+    (d) x = F/k = 25/200 = 0.125 m [2]
+
+61. (a) Gradient = 40/0.5 = 80 N/m [2]
+    (b) Spring constant [1]
+    (c) F = 80x [1]
+    (d) x = F/k = 30/80 = 0.375 m [2]
+
+62. (a) 5 N: 0.049 m [1]
+        10 N: 0.100 m [1]
+        15 N: 0.150 m [1]
+    (b) k = F/x = 10/0.100 = 100 N/m [2]
+    (c) Random errors in measurement [1] such as parallax error or reading 
+        uncertainty [1]
+
+63. (a) Spring 1: k = 40/0.2 = 200 N/m [2]
+        Spring 2: k = 40/0.4 = 100 N/m [2]
+    (b) Spring 1 [1] - larger spring constant means stiffer [1]
+    (c) F = kx = 100 × 0.3 = 30 N [2]
+
+SECTION H: COMPARE AND CONTRAST
+--------------------------------
+64. (a) Spring A: x = F/k = 30/150 = 0.2 m [2]
+        Spring B: x = F/k = 30/75 = 0.4 m [2]
+    (b) Spring A is stiffer (larger k) [1], so extends less for the same 
+        force [1]
+    (c) Spring A [1] - stiffer spring provides better support and less 
+        compression [1]
+
+65. (a) Material X: x = F/k = 50/100 = 0.5 m [2]
+        Material Y: x = F/k = 20/100 = 0.2 m [2]
+    (b) Material X [1] - can extend further while still obeying Hooke's law [1]
+
+================================================================================
+                    END OF SECTION 4.5 EXERCISES
+================================================================================

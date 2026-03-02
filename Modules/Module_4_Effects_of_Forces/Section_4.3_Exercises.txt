@@ -1,0 +1,654 @@
+================================================================================
+     SECTION 4.3 NEWTON'S SECOND LAW - PRACTICE EXERCISES (50 Questions)
+                              [EXTENDED TIER ONLY]
+================================================================================
+
+Learning Objectives Covered:
+  * State Newton's second law of motion.
+  * Recall and use the equation: F = ma
+  * Describe the relationship between resultant force, mass and acceleration.
+
+Total Questions: 50
+Assessment Objectives: AO1 (25%), AO2 (50%), AO3 (25%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (10)
+================================================================================
+
+1. Newton's second law states that acceleration is:
+   A: Proportional to mass
+   B: Inversely proportional to force
+   C: Proportional to force and inversely proportional to mass
+   D: Independent of force and mass
+
+2. A force of 20 N acts on a mass of 5 kg. What is the acceleration?
+   A: 4 m/s²
+   B: 25 m/s²
+   C: 100 m/s²
+   D: 0.25 m/s²
+
+3. Which equation represents Newton's second law?
+   A: F = m/a
+   B: F = ma
+   C: F = a/m
+   D: F = m + a
+
+4. If the force on an object is doubled while mass stays constant, the 
+   acceleration will:
+   A: Double
+   B: Halve
+   C: Quadruple
+   D: Remain the same
+
+5. If the mass of an object is doubled while force stays constant, the 
+   acceleration will:
+   A: Double
+   B: Halve
+   C: Quadruple
+   D: Remain the same
+
+6. A car of mass 1000 kg accelerates at 2 m/s². What is the resultant force?
+   A: 500 N
+   B: 2000 N
+   C: 1002 N
+   D: 998 N
+
+7. The SI unit of acceleration is:
+   A: m/s
+   B: m/s²
+   C: N/kg
+   D: kg·m/s
+
+8. A resultant force of 600 N acts on an object of mass 150 kg. Calculate the 
+   acceleration.
+   A: 0.25 m/s²
+   B: 4 m/s²
+   C: 450 m/s²
+   D: 90,000 m/s²
+
+9. Which of the following will produce the greatest acceleration?
+   A: 10 N force on 5 kg mass
+   B: 20 N force on 5 kg mass
+   C: 10 N force on 2 kg mass
+   D: 20 N force on 10 kg mass
+
+10. An object accelerates at 3 m/s² when a force of 15 N acts on it. What is 
+    its mass?
+    A: 5 kg
+    B: 45 kg
+    C: 0.2 kg
+    D: 18 kg
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION (8)
+================================================================================
+
+11. "Force and acceleration are directly proportional when mass is constant."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+12. "A larger mass requires a larger force to produce the same acceleration."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+13. "If no resultant force acts on an object, it cannot accelerate."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+14. "Doubling both force and mass will double the acceleration."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+15. "Mass and acceleration are directly proportional when force is constant."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+16. "A force of 1 N will always produce an acceleration of 1 m/s²."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+17. "The direction of acceleration is always the same as the direction of the 
+     resultant force."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+18. "Newton's second law only applies to objects that are already moving."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK (8)
+================================================================================
+
+WORD BANK: mass, acceleration, force, inversely, directly, newtons, kilograms,
+           resultant, proportional, F = ma
+
+19. Newton's second law can be written as the equation __________.
+
+20. In the equation F = ma, F represents the __________ force in __________.
+
+21. The symbol 'm' in F = ma represents __________ measured in __________.
+
+22. Acceleration is __________ proportional to force when mass is constant.
+
+23. Acceleration is __________ proportional to mass when force is constant.
+
+24. A __________ force is needed to cause acceleration.
+
+25. If force doubles and mass stays constant, acceleration __________.
+
+26. The unit m/s² is used to measure __________.
+
+================================================================================
+                    SECTION D: SHORT ANSWER QUESTIONS (10)
+================================================================================
+
+27. State Newton's second law of motion. [2]
+
+28. Write the equation that represents Newton's second law and define each 
+    symbol. [3]
+
+29. Explain what happens to acceleration if the force is doubled while mass 
+    remains constant. [2]
+
+30. Explain what happens to acceleration if the mass is doubled while force 
+    remains constant. [2]
+
+31. State the SI units for:
+    (a) force [1]
+    (b) mass [1]
+    (c) acceleration [1]
+
+32. A shopping trolley has mass 15 kg. Explain why it is easier to accelerate 
+    when empty than when full of groceries. [2]
+
+33. Describe the relationship between force and acceleration when mass is 
+    constant. [2]
+
+34. Two objects have the same force applied to them. Object A has mass 10 kg 
+    and Object B has mass 20 kg. Which will have the greater acceleration? 
+    Explain. [2]
+
+35. Explain why a resultant force is necessary for acceleration to occur. [2]
+
+36. A car accelerates from rest. Describe what must be true about the forces 
+    acting on it. [2]
+
+================================================================================
+                    SECTION E: CALCULATION QUESTIONS (20)
+================================================================================
+
+Show all working for calculations.
+
+37. Calculate the force needed to accelerate a 5 kg mass at 3 m/s². [2]
+
+38. A force of 100 N acts on a mass of 25 kg. Calculate the acceleration. [2]
+
+39. An object accelerates at 4 m/s² when a force of 60 N acts on it. Calculate 
+    the mass of the object. [2]
+
+40. A car of mass 800 kg accelerates at 2.5 m/s². Calculate the resultant 
+    force. [2]
+
+41. A resultant force of 450 N acts on a bicycle and rider with total mass 
+    90 kg. Calculate the acceleration. [2]
+
+42. A rocket has mass 5000 kg and accelerates upward at 12 m/s². Calculate the 
+    thrust force from the engines. (Ignore weight for this calculation) [2]
+
+43. A force of 2400 N acts on a car, causing it to accelerate at 1.5 m/s². 
+    Calculate the mass of the car. [2]
+
+44. A shopping trolley of mass 12 kg is pushed with a force of 36 N. Friction 
+    is negligible. Calculate the acceleration. [2]
+
+45. An object of mass 250 g accelerates at 8 m/s². Calculate the force in 
+    newtons. [3]
+
+46. A lorry of mass 8000 kg accelerates from 0 to 20 m/s in 10 seconds.
+    (a) Calculate the acceleration. [2]
+    (b) Calculate the resultant force. [2]
+
+47. A force of 1500 N acts on a car. The car has mass 1200 kg.
+    (a) Calculate the acceleration. [2]
+    (b) If the force is increased to 2400 N, calculate the new acceleration. [2]
+
+48. Three shopping trolleys have masses 10 kg, 15 kg, and 20 kg. The same force 
+    of 30 N is applied to each.
+    (a) Calculate the acceleration of each trolley. [3]
+    (b) Which trolley has the greatest acceleration? [1]
+
+49. A car of mass 900 kg accelerates from 0 to 27 m/s in 3 seconds.
+    (a) Calculate the acceleration. [2]
+    (b) Calculate the resultant force. [2]
+
+50. A force of 750 N acts on an object, producing an acceleration of 2.5 m/s². 
+    Calculate the mass. [2]
+
+51. A bicycle and rider have a combined mass of 85 kg. They accelerate at 
+    0.8 m/s². Calculate the resultant force. [2]
+
+52. A toy car of mass 500 g is pushed with a force of 2 N. Calculate the 
+    acceleration in m/s². [3]
+
+53. A train of mass 50,000 kg accelerates at 0.6 m/s². Calculate the resultant 
+    force in kN. [3]
+
+54. An object has mass 40 kg. What force is needed to accelerate it at 5 m/s²? [2]
+
+55. A force of 180 N acts on a mass of 45 kg. Calculate the acceleration. [2]
+
+56. A car accelerates at 3 m/s² when the resultant force is 3600 N. Calculate 
+    the mass of the car. [2]
+
+================================================================================
+                    SECTION F: STRUCTURED QUESTIONS (3)
+================================================================================
+
+57. A student investigates Newton's second law using a dynamics trolley.
+
+    Fig. 1 shows the apparatus.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Apparatus
+    PURPOSE: Newton's second law experiment setup
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 8
+    COMPONENTS:
+      [Trolley]
+        Symbol: trolley_on_track
+        Position: grid(3,4)
+        Label: "Trolley (mass m)"
+      [String]
+        Symbol: line
+        Position: from trolley to pulley
+        Label: "String"
+      [Pulley]
+        Symbol: pulley
+        Position: grid(10,4)
+      [Hanging Mass]
+        Symbol: mass_hanger
+        Position: grid(10,6)
+        Label: "Mass M"
+      [Track]
+        Symbol: horizontal_line
+        Position: below trolley
+    ---END DIAGRAM---
+
+    The student adds masses to the trolley and measures the acceleration.
+
+    ┌──────────────┬──────────────┐
+    │ Mass (kg)    │ Acceleration │
+    │              │ (m/s²)       │
+    ├──────────────┼──────────────┤
+    │ 0.5          │ 4.0          │
+    │ 1.0          │ 2.0          │
+    │ 1.5          │ 1.3          │
+    │ 2.0          │ 1.0          │
+    └──────────────┴──────────────┘
+
+    (a) The pulling force is constant at 2.0 N. Verify this using the data 
+        for mass = 1.0 kg. [2]
+    
+    (b) Calculate the force using the data for mass = 2.0 kg. [2]
+    
+    (c) Describe the relationship between mass and acceleration shown in the 
+        table. [2]
+    
+    (d) Explain this relationship using Newton's second law. [2]
+    
+    (e) Predict the acceleration if the mass was 4.0 kg. [2]
+
+58. Fig. 2 shows a car accelerating along a straight road.
+
+    ---DIAGRAM: Fig. 2---
+    TYPE: Force
+    PURPOSE: Car with forces for Newton's second law
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 10 × 6
+    COMPONENTS:
+      [Car]
+        Symbol: car_side_view
+        Position: grid(5,3)
+        Size: medium
+        Label: "Mass = 1200 kg"
+      [Engine Force Arrow]
+        Symbol: arrow_right
+        Position: front of car
+        Label: "Engine = 4000 N"
+      [Resistance Arrow]
+        Symbol: arrow_left
+        Position: rear of car
+        Label: "Resistance = 1600 N"
+    ---END DIAGRAM---
+
+    (a) Calculate the resultant force on the car. [2]
+    
+    (b) Calculate the acceleration of the car. [2]
+    
+    (c) The driver increases the engine force to 5200 N. Calculate the new 
+        acceleration. [3]
+    
+    (d) Explain why the car's acceleration would be less if it was carrying 
+        heavy cargo. [2]
+
+59. A rocket launches from Earth.
+
+    The rocket has mass 80,000 kg. The thrust from the engines is 1,200,000 N.
+    The weight of the rocket is 784,000 N.
+
+    (a) Calculate the resultant force on the rocket. [2]
+    
+    (b) Calculate the acceleration of the rocket. [2]
+    
+    (c) As the rocket burns fuel, its mass decreases to 60,000 kg. The thrust 
+        remains 1,200,000 N and weight is now 588,000 N. Calculate the new 
+        acceleration. [3]
+    
+    (d) Explain why the acceleration increases as fuel is burned. [2]
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION (4)
+================================================================================
+
+60. The table shows data for different objects with forces applied.
+
+    ┌──────────┬──────────┬──────────────┬──────────────┐
+    │ Object   │ Mass     │ Force (N)    │ Acceleration │
+    │          │ (kg)     │              │ (m/s²)       │
+    ├──────────┼──────────┼──────────────┼──────────────┤
+    │ A        │ 10       │ 50           │ ?            │
+    │ B        │ 25       │ 100          │ ?            │
+    │ C        │ 40       │ 120          │ ?            │
+    │ D        │ 15       │ 90           │ ?            │
+    └──────────┴──────────┴──────────────┴──────────────┘
+
+    (a) Complete the table by calculating the acceleration for each object. [2]
+    (b) Which object has the greatest acceleration? [1]
+    (c) Objects A and B have the same force per unit mass. Verify this. [2]
+    (d) Which object would be easiest to push? Explain. [2]
+
+61. A student investigates how force affects acceleration. The mass is kept 
+    constant at 2 kg.
+
+    ┌──────────────┬──────────────┐
+    │ Force (N)    │ Acceleration │
+    │              │ (m/s²)       │
+    ├──────────────┼──────────────┤
+    │ 4            │ 2            │
+    │ 8            │ 4            │
+    │ 12           │ 6            │
+    │ 16           │ 8            │
+    └──────────────┴──────────────┘
+
+    (a) Describe the relationship between force and acceleration. [2]
+    (b) Calculate the mass using any row of data. [2]
+    (c) Predict the acceleration if the force was 20 N. [2]
+    (d) State what type of relationship this demonstrates. [1]
+
+62. The graph shows how acceleration varies with force for three different masses.
+
+    ---DIAGRAM: Fig. 3---
+    TYPE: Graph
+    PURPOSE: Force vs acceleration for different masses
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Axes]
+        X-axis: "Force (N)" from 0 to 20
+        Y-axis: "Acceleration (m/s²)" from 0 to 10
+      [Line A - Steepest]
+        Points: (0,0), (10,10), (20,20)
+        Label: "Mass A"
+      [Line B - Medium]
+        Points: (0,0), (10,5), (20,10)
+        Label: "Mass B"
+      [Line C - Shallowest]
+        Points: (0,0), (10,2), (20,4)
+        Label: "Mass C"
+    ---END DIAGRAM---
+
+    (a) Which mass is the smallest? Explain. [2]
+    (b) Calculate the mass of object B. [2]
+    (c) What is the acceleration of object C when F = 15 N? [1]
+    (d) Describe the relationship shown by all three lines. [2]
+
+63. Three cars accelerate from rest.
+
+    ┌──────────┬──────────┬──────────────┬──────────────┐
+    │ Car      │ Mass     │ Resultant    │ Time to      │
+    │          │ (kg)     │ Force (N)    │ reach 20 m/s │
+    ├──────────┼──────────┼──────────────┼──────────────┤
+    │ A        │ 1000     │ 2000         │ ?            │
+    │ B        │ 1500     │ 3000         │ ?            │
+    │ C        │ 1200     │ 3600         │ ?            │
+    └──────────┴──────────┴──────────────┴──────────────┘
+
+    (a) Calculate the acceleration of each car. [3]
+    (b) Which car reaches 20 m/s first? Show your working. [3]
+    (c) Explain why Car C accelerates faster than Car B despite having less 
+        mass. [2]
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST (2)
+================================================================================
+
+64. Compare the acceleration of two objects:
+    - Object A: Mass 5 kg, Force 20 N
+    - Object B: Mass 10 kg, Force 20 N
+    
+    Calculate the acceleration of each and explain why they are different. 
+    Use Newton's second law in your answer. [6]
+
+65. Two cars accelerate:
+    - Car A: Mass 1000 kg, accelerates at 3 m/s²
+    - Car B: Mass 1500 kg, accelerates at 2 m/s²
+    
+    (a) Calculate the resultant force on each car. [4]
+    (b) Compare the forces and explain which car's engine must be working 
+        harder. [2]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+---------------------------
+1.  C - F = ma shows a ∝ F and a ∝ 1/m
+2.  A - a = F/m = 20/5 = 4 m/s²
+3.  B - Newton's second law: F = ma
+4.  A - a ∝ F, so doubling F doubles a
+5.  B - a ∝ 1/m, so doubling m halves a
+6.  B - F = ma = 1000 × 2 = 2000 N
+7.  B - Acceleration is measured in m/s²
+8.  B - a = F/m = 600/150 = 4 m/s²
+9.  C - a = F/m: A=2, B=4, C=5, D=2. C is greatest
+10. A - m = F/a = 15/3 = 5 kg
+
+SECTION B: TRUE/FALSE
+---------------------
+11. TRUE - F = ma, so when m is constant, F ∝ a
+12. TRUE - F = ma, so larger m needs larger F for same a
+13. TRUE - F = ma, so if F = 0, then a = 0
+14. FALSE - F = ma, so if both F and m double, a stays the same
+15. FALSE - a ∝ 1/m when F is constant (inversely proportional)
+16. FALSE - Depends on mass: a = F/m = 1/m
+17. TRUE - F = ma, acceleration is in same direction as resultant force
+18. FALSE - Applies to all objects whether moving or stationary
+
+SECTION C: FILL-IN-THE-BLANK
+-----------------------------
+19. F = ma
+20. resultant, newtons
+21. mass, kilograms
+22. directly
+23. inversely
+24. resultant
+25. doubles
+26. acceleration
+
+SECTION D: SHORT ANSWER
+-----------------------
+27. The acceleration of an object is proportional to the resultant force [1] and 
+    inversely proportional to the object's mass [1].
+
+28. F = ma [1]
+    F = resultant force in newtons (N) [1]
+    m = mass in kilograms (kg) [1]
+    a = acceleration in metres per second squared (m/s²) [1]
+    [Award 3 marks maximum]
+
+29. Acceleration will double [1]. From F = ma, acceleration is directly 
+    proportional to force [1].
+
+30. Acceleration will halve [1]. From F = ma, acceleration is inversely 
+    proportional to mass [1].
+
+31. (a) Newton (N) [1]
+    (b) Kilogram (kg) [1]
+    (c) Metres per second squared (m/s²) [1]
+
+32. When full, the mass is greater [1]. From F = ma, greater mass means smaller 
+    acceleration for the same force [1].
+
+33. Force and acceleration are directly proportional [1]. If force doubles, 
+    acceleration doubles [1].
+
+34. Object A will have greater acceleration [1]. Same force but smaller mass 
+    means greater acceleration (a = F/m) [1].
+
+35. From Newton's second law, F = ma [1]. If F = 0, then a = 0, so force is 
+    needed for acceleration [1].
+
+36. The engine force must be greater than the resistance forces [1], producing 
+    a resultant force in the forward direction [1].
+
+SECTION E: CALCULATIONS
+-----------------------
+37. F = ma = 5 × 3 = 15 N [2]
+
+38. a = F/m = 100/25 = 4 m/s² [2]
+
+39. m = F/a = 60/4 = 15 kg [2]
+
+40. F = ma = 800 × 2.5 = 2000 N [2]
+
+41. a = F/m = 450/90 = 5 m/s² [2]
+
+42. F = ma = 5000 × 12 = 60,000 N [2]
+
+43. m = F/a = 2400/1.5 = 1600 kg [2]
+
+44. a = F/m = 36/12 = 3 m/s² [2]
+
+45. m = 250 g = 0.25 kg [1]
+    F = ma = 0.25 × 8 = 2 N [2]
+
+46. (a) a = (v-u)/t = (20-0)/10 = 2 m/s² [2]
+    (b) F = ma = 8000 × 2 = 16,000 N [2]
+
+47. (a) a = F/m = 1500/1200 = 1.25 m/s² [2]
+    (b) a = F/m = 2400/1200 = 2 m/s² [2]
+
+48. (a) 10 kg: a = 30/10 = 3 m/s² [1]
+        15 kg: a = 30/15 = 2 m/s² [1]
+        20 kg: a = 30/20 = 1.5 m/s² [1]
+    (b) 10 kg trolley [1]
+
+49. (a) a = (v-u)/t = (27-0)/3 = 9 m/s² [2]
+    (b) F = ma = 900 × 9 = 8100 N [2]
+
+50. m = F/a = 750/2.5 = 300 kg [2]
+
+51. F = ma = 85 × 0.8 = 68 N [2]
+
+52. m = 500 g = 0.5 kg [1]
+    a = F/m = 2/0.5 = 4 m/s² [2]
+
+53. F = ma = 50,000 × 0.6 = 30,000 N [1]
+    = 30 kN [2]
+
+54. F = ma = 40 × 5 = 200 N [2]
+
+55. a = F/m = 180/45 = 4 m/s² [2]
+
+56. m = F/a = 3600/3 = 1200 kg [2]
+
+SECTION F: STRUCTURED QUESTIONS
+--------------------------------
+57. (a) F = ma = 1.0 × 2.0 = 2.0 N ✓ [2]
+    (b) F = ma = 2.0 × 1.0 = 2.0 N [2]
+    (c) As mass increases, acceleration decreases [2]
+    (d) From F = ma, when F is constant, a ∝ 1/m [1], so increasing mass 
+        decreases acceleration [1]
+    (e) a = F/m = 2.0/4.0 = 0.5 m/s² [2]
+
+58. (a) Resultant = 4000 - 1600 = 2400 N [2]
+    (b) a = F/m = 2400/1200 = 2 m/s² [2]
+    (c) New resultant = 5200 - 1600 = 3600 N [1]
+        a = F/m = 3600/1200 = 3 m/s² [2]
+    (d) Cargo increases the mass [1]. From F = ma, larger mass means smaller 
+        acceleration for the same force [1]
+
+59. (a) Resultant = 1,200,000 - 784,000 = 416,000 N [2]
+    (b) a = F/m = 416,000/80,000 = 5.2 m/s² [2]
+    (c) New resultant = 1,200,000 - 588,000 = 612,000 N [1]
+        a = F/m = 612,000/60,000 = 10.2 m/s² [2]
+    (d) As fuel burns, mass decreases [1]. From F = ma, smaller mass means 
+        greater acceleration for the same force [1]
+
+SECTION G: DATA INTERPRETATION
+-------------------------------
+60. (a) A: 50/10 = 5 m/s²
+        B: 100/25 = 4 m/s²
+        C: 120/40 = 3 m/s²
+        D: 90/15 = 6 m/s²
+        [2 marks for all correct]
+    (b) Object D [1]
+    (c) A: 50/10 = 5 N/kg [1]
+        B: 100/25 = 4 N/kg [1]
+        NOT the same (accept if student shows calculation)
+    (d) Object A [1] - smallest mass requires least force to accelerate [1]
+
+61. (a) Force and acceleration are directly proportional [1] - when force 
+        doubles, acceleration doubles [1]
+    (b) m = F/a = 4/2 = 2 kg (or any other row) [2]
+    (c) a = F/m = 20/2 = 10 m/s² [2]
+    (d) Direct proportionality / Linear relationship [1]
+
+62. (a) Mass A [1] - steepest gradient means smallest mass (a = F/m) [1]
+    (b) Gradient = 10/20 = 0.5 = 1/m [1]
+        m = 2 kg [1]
+    (c) 3 m/s² [1]
+    (d) All show direct proportionality between force and acceleration [2]
+
+63. (a) A: a = 2000/1000 = 2 m/s² [1]
+        B: a = 3000/1500 = 2 m/s² [1]
+        C: a = 3600/1200 = 3 m/s² [1]
+    (b) t = v/a
+        A: t = 20/2 = 10 s [1]
+        B: t = 20/2 = 10 s [1]
+        C: t = 20/3 = 6.7 s → Car C is first [1]
+    (c) Car C has greater force per unit mass [1] (3600/1200 = 3 vs 3000/1500 = 2), 
+        producing greater acceleration [1]
+
+SECTION H: COMPARE AND CONTRAST
+--------------------------------
+64. Object A: a = F/m = 20/5 = 4 m/s² [2]
+    Object B: a = F/m = 20/10 = 2 m/s² [2]
+    Object A accelerates faster [1]. Newton's second law shows acceleration is 
+    inversely proportional to mass, so smaller mass produces greater 
+    acceleration for the same force [1].
+    [Award up to 6 marks]
+
+65. (a) Car A: F = ma = 1000 × 3 = 3000 N [2]
+        Car B: F = ma = 1500 × 2 = 3000 N [2]
+    (b) Both engines produce the same force (3000 N) [1]. However, Car B's 
+        engine must work harder because it has greater mass to accelerate [1].
+
+================================================================================
+                    END OF SECTION 4.3 EXERCISES
+================================================================================

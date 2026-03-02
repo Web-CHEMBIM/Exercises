@@ -1,0 +1,463 @@
+Cambridge (CIE) IGCSE
+Physics
+Thermal Properties & Temperature
+Contents
+Thermal Expansion
+Specific Heat Capacity
+Investigating Specific Heat Capacity
+Melting & Boiling
+EvaporationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Thermal Expansion
+Thermal expansion
+ When a material is heated at constant pressure:
+Its temperature increases
+Its overall volume increases (it expands)
+Its density decreases
+This expansion happens because:
+The molecules start to move around (or vibrate) faster as they gain kinetic energy
+This causes them to collide with each other more often and push each other apart
+Thermal expansion diagram
+When a solid is heated, the molecules vibrate more, pushing each other apart
+Thermal expansion in terms of particles
+Extended tier only
+Thermal expansion occurs in solids, liquids and gases
+When temperature is increased (at constant pressure):
+Solids will tend to expand the least
+Gases expand the most
+Liquids fall in between the twoYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+This behaviour is influenced by the distances and strength of the forces between
+particles in each state
+Table comparing thermal expansion of solids, liquids and
+gases
+State Magnitude of
+ExpansionExplanation
+Solid Expands slightly The low energy molecules cannot overcome the
+intermolecular forces of attraction holding them together
+Liquid Expands more
+than solidsThe molecules have enough energy to partially overcome the
+intermolecular forces of attraction holding them together
+Gas Expand
+significantlyThe high energy molecules have enough energy to
+completely overcome the intermolecular forces of attraction
+holding them together
+Uses & consequences of thermal
+expansion
+The thermal expansion of materials can have some useful applications as well as some
+undesirable consequences
+Applications of thermal expansion
+Useful applications of thermal expansion include:
+Liquid-in-glass thermometers
+Temperature-activated switches
+Liquid-in-glass thermometer
+A liquid-in-glass thermometer relies on the expansion of liquids to measure temperature
+It consists of a thin glass capillary tube containing a liquid that expands with temperature
+At one end of the tube is a glass bulb, containing a large volume of the liquid which
+expands into the narrow tube when heated
+A scale along the side of the tube allows the temperature to be measured based on
+the length of liquid within the tube
+Liquid-in-glass thermometerYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+As the bulb is heated, the liquid expands and moves along the capillary tube
+Temperature-activated switches
+Temperature-activated switches utilise a bimetallic (made from two types of metal)
+strip
+It consists of two metals that expand at different rates and bends by a predictable
+amount at a given temperature
+The bimetallic strip will bend upwards when heated, closing the circuit
+Consequences of thermal expansion
+The expansion of solid materials can cause them to buckle if they get too hotYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+This could include:
+Metal railway tracks
+Road surfaces
+Bridges
+Objects that are prone to buckling in this way have gaps built in to creates space for the
+expansion to happen without causing damage
+Examiner Tips and Tricks
+Remember that it is the material that expands, not the molecules. This trips up many
+students, losing marks.
+As heat is added;
+1. The increase in temperature...
+2. Leads to an increase in kinetic energy, so that...
+3. Molecules and atoms move more quickly...
+4. And move apart
+This separation of the the molecules makes the substance bigger!Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Specific Heat Capacity
+Internal energy
+A rise in the temperature of an object increases its internal energy
+This can be thought of as due to an increase in the average speed of the particles
+Increasing speed increases kinetic energy
+Internal energy is defined as:
+The total energy stored inside a system by the particles that make up the system due to
+their motion and positions
+Motion of the particles affects their kinetic energy
+Positions of the particles relative to each other affects their potential energy
+Together, these two make up the internal energy of the system
+Substances have internal energy due to the motion of the particles and their
+positions relative to each other
+Average kinetic energy
+Extended tier only
+Heating a system changes a substance's internal energy by increasing thekinetic energy
+of its particles
+The temperature of the material, therefore, is related to the average kinetic energy
+of the moleculesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+An increase in temperature leads to an increase of the average kinetic energy of the
+particles in the substance
+This also means that internal energy increases, as internal energy is the sum of all
+kinetic and potential energies
+As the container heats up, the gas molecules move faster. Faster motion causes higher
+kinetic energy and therefore higher internal energy
+Specific heat capacity
+Extended tier only
+What is specific heat capacity?
+When heated, a substance's temperature can increase Worked Example
+What property of an object is a measure of the energy in the kinetic stores of its
+particles?
+Answer:
+As temperature increases, so does the average kinetic energy of the particles
+This means temperature is a measure of the energy in the kinetic stores of the
+particlesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+The amount by which the temperature increases depends on:
+The mass of the substance heated
+The type of material
+The amount of thermal energy transferred in to the system
+The specific heat capacity, c, of a substance is defined as:
+ The energy required per unit mass per unit temperature increase
+In other words, this is the amount of energy required to raise the temperature of 1 kg of a
+substance by 1 °C
+Different substances have different specific heat capacities
+If a substance has a low specific heat capacity, it heats up and cools down quickly
+(i.e. it takes less energy to change its temperature)
+If a substance has a high specific heat capacity, it heats up and cools down slowly
+(i.e. it takes more energy to change its temperature)
+Low vs high specific heat capacity
+Calculating specific heat capacity
+The amount of energy needed to raise the temperature of a given mass by a given
+amount can be calculated using the equation:
+c =ΔE
+mΔθYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Where:
+ΔE = change in thermal energy, in joules (J)
+m = mass, in kilograms (kg)
+c = specific heat capacity, in joules per kilogram per degree Celsius (J/kg °C)
+Δ θ = change in temperature, in degrees Celsius (°C)
+Worked Example
+What unit is used to measure energy when calculating specific heat capacity?
+A. kilograms
+B. joules
+C. joules per kilogram per degree Celsius
+D. kelvin
+Answer: B
+The question asks what unit is used to measure energy when calculating specific
+heat capacity
+The units of energy are joules
+A common mistake is for students to see 'specific heat capacity' and state
+the units of that, not energy
+Reading the question thoroughly and underlining key information avoids
+these mistakes
+Worked Example
+Water of mass 0.48 kg is increased in temperature by 0.7 °C. The specific heat
+capacity of water is 4200 J / kg °C.
+Calculate the amount of thermal energy transferred to the water.
+Answer:
+Step 1: Write down the known quantities
+Mass, m = 0.48 kg
+Change in temperature, ΔT= 0.7 °C
+Specific heat capacity, c = 4200 J/kg °C
+Step 2: Write down the relevant equation 
+ΔE =mcΔθYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Step 3: Calculate the thermal energy transferred by substituting in the values
+ΔE = (0 .48 ) × (4200 ) × (0 .7 ) =1411 .2
+Step 4: Round the answer to 2 significant figures and include the units
+ΔE = 1400 J   
+Examiner Tips and Tricks
+While you must remember the equation for specific heat capacity, you will always be
+given the specific heat capacity of a substance so you do not need to memorise any
+values.
+However, it's useful to have the general idea that, the larger the number, the less the
+substance will increase in temperature for a given amount of heat.
+You can see this for yourself in your own kitchen at home. Metal pans, which have a
+relatively low specific heat capacity get very hot, very quickly when put on the hob.
+Add water to the pan, which has a relatively high specific heat capacity and the water
+will take much longer to heat up.
+Notice the units of specific heat capacity:
+ joules per kilogram per degree Celsius  : J / kg °C
+'per' means 'divided by'. We say 'per' in front of every value that is being divided by,
+hence 'per kilogram per degree Celsius'Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Investigating Specific Heat Capacity
+Investigating specific heat capacity
+Extended tier only
+Aim of the experiment
+The aim of the experiment is to determine the specific heat capacity of a substance, by
+linking the decrease of one energy store (or work done) to the increase in temperature
+and subsequent increase in thermal energy stored
+Variables
+Independent variable = Time, t
+Dependent variable = Temperature, θ
+Control variables:
+Material of the block
+Current supplied, I
+Potential difference supplied, V
+Equipment
+Equipment list
+Equipment Purpose
+Thermometer To measure the temperature change of the solid / the water
+Solid block of aluminium To investigate temperature changes
+Beaker of water (400 ml) To investigate temperature changes
+Immersion heater To heat the solid / the water
+Voltmeter To measure the voltage across the immersion heater
+Ammeter To measure the current through the immersion heater
+Power supply To supply power to the immersion heater
+Digital balance To measure the mass of the solid / the waterYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Stopwatch To time the heating of the solid / the water
+Resolution of measuring equipment:
+Thermometer = 0.1 °C
+Voltmeter = 0.1 V
+Ammeter = 0.1 A
+Stopwatch = 0.01 s
+Digital balance = 0.1 g
+Method
+The experiment set up for the specific heat capacity practical
+Apparatus for heating water and measuring energy supplied
+1. Place the beaker on the digital balance and press 'zero'
+2. Add approximately 250 ml of water and record the mass of the water using the digital
+balance
+3. Place the immersion heater and thermometer in the water
+4. Connect up the circuit as shown in the diagram, with the ammeter in series with the
+power supply and immersion heater, and the voltmeter in parallel with the immersionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+heater
+5. Record the initial temperature of the water at time 0 s
+6. Turn on the power supply, set it at approximately 10 V, and start the stopwatch
+7. Record the voltage from the voltmeter and the current from the ammeter
+8. Continue to record the temperature, voltage and current every 60 seconds for 10
+minutes
+9. Repeat steps 2−8, replacing the beaker of water for the solid block of aluminium and
+starting with recording its mass using the digital balance
+Results
+An example of a results table for the specific heat capacity
+practical
+An example of a suitable results table for the specific heat capacity experiment looks like
+this. Energy supplies = voltage x current x time.
+Analysis of results
+The thermal energy supplied to the block can be calculated using the equation:
+E = IVt
+Where:
+E = thermal energy, in joules (J)
+I = current, in amperes (A)
+V = potential difference, in volts (V)
+t = time, in seconds (s)
+The change in thermal energy is defined by the equation:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+ΔE = mc Δθ
+Where:
+ΔE = change in thermal energy, in joules (J)
+m = mass, in kilograms (kg)
+c = specific heat capacity, in joules per kilogram per degree Celsius (J/kg °C)
+Δ θ = change in temperature, in degrees Celsius (°C)
+Rearranging for the specific heat capacity, c:
+c =ΔE
+mΔθ
+To calculate Δθ :
+Δθ = final temperature – initial temperature
+To calculate  ΔE:
+ΔE = IVΔ t
+Where:
+I = average current, in amperes (A)
+V = average potential difference (V)
+Δt = time spent heating, in seconds (s)
+These values are then substituted into the specific heat capacity equation to calculate
+the specific heat capacity of the aluminium block
+Evaluating the specific heat capacity practical
+Systematic Errors:
+Ensure the digital balance is set to zero before taking measurements of mass
+Some water may be lost to the surroundings by evaporation. Calculate an average mass
+of water (using the mass before the experiment and the mass after) to account for this
+Remember to only take gradients on the straight-line region
+Before this point the energy supplied is being used to heat the immersion heater
+itself
+Random Errors:
+Stir the water constantly whilst heating it to ensure the temperature measured is the
+temperature throughout the fluid
+When the current or voltage values appear to be changing between two values next to
+one another then be consistent in choosing the higher value
+Safety considerations for the specific heat capacity practicalYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+The immersion heater will get very hot
+Make sure not to touch it, and have a heatproof mat ready to place it on
+Make sure that the immersion heater is connected to a Direct Current supply
+The beaker may become unstable with an immersion heater and thermometer resting in
+it
+If you feel this is the case then use a clamp stand to hold both
+Wear goggles while heating water
+Make sure to stand up during the whole experiment, to react quickly to any spillsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Melting & Boiling
+Fixed points of water
+The melting and boiling points of pure water are known as fixed points
+Ice melts at 0 °C
+Pure water boils at 100 °C
+These are the accepted values for pure water at atmospheric pressure
+Ice melts at 0 °C and water boils at 100 °C 
+Melting & boiling
+While a substance is changing state (e.g. melting or boiling) the substance does not
+change temperature, even though energy is being transferred to or away from the
+thermal energy store of the substance
+One major difference between melting and boiling is that boiling occurs at higher
+energy
+While melting results in particles being able to flow and move more freely, during
+boiling enough energy is transferred such that the intermolecular forces can be
+completely overcomeYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+When the substance is changing state, the temperature remains constant as shown by the
+horizontal regions of this graph
+Boiling
+When liquid water is heated by adding thermal energy (say from a gas flame or kettle
+element), the temperature of the water rises until the water boils
+At the boiling point, even if more thermal energy is added, the temperature of the
+liquid water does not increase
+This means that the internal energy is not rising
+The additional thermal energy goes into overcoming the intermolecular forces between
+the molecules of water
+As the forces are overcome, the liquid water becomes water vapour (steam)
+This is evaporation or vaporisation; the water is now a gas
+Melting
+When solid water (ice) is heated by adding thermal energy, the temperature of the ice
+increases up until the melting point
+At the melting point, even if more thermal energy is added, the ice does not get
+warmer
+This means that the internal energy is not risingYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+The additional thermal energy goes into overcoming the intermolecular forces between
+the molecules of the ice
+As the forces are overcome, the solid water becomes liquid
+This is melting; the ice is now a liquid
+Condensation & solidification
+Changes of state depend on whether energy is being transferred to or away from the
+system
+Heating is when energy is transferred to the system and the kinetic energy of the
+molecules increases (red arrows to the right)
+Cooling is when energy is transferred away from the system (or dissipated to the
+surroundings) and the kinetic energy of the molecules decreases (blue arrows to the
+left)
+Condensation
+When a gas cools, energy is transferred away from the system and kinetic energy
+decreases until the temperature reaches boiling point
+At boiling point, energy transferred away from the system reduces its potential
+energy
+The particles no longer have enough energy to overcome the intermolecular forces
+of attraction
+They only have enough energy to flow over one another
+The gas has condensed; it is now a liquid
+As the energy has been transferred away from the potential store of the particles,
+the energy in the kinetic store is unchanged, so temperature remains constant
+through this process
+Solidification
+When a liquid cools, energy is transferred away from the system and kinetic energy
+decreases until the temperature reaches melting point
+At melting point, energy transferred away from the system reduces its potential
+energy
+The particles no longer have enough energy to overcome the intermolecular forces
+of attraction
+They are now low enough in energy to be bound to each other and can only vibrate
+around a fixed point
+The liquid has solidified; it is now a solid
+As the energy has been transferred away from the potential store of the particles,
+the energy in the kinetic store is unchanged, so temperature remains constantYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+through this process
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+Evaporation
+Evaporation
+Evaporation is a change in state of a liquid to a gas
+It happens: 
+At any temperature
+Only from the surface of a liquid
+The molecules in a liquid have a range of energies
+Some have lots of energy, others have very little
+Their average energy relates to the temperature of the liquid
+Evaporation occurs when more energetic molecules moving near the surface of the
+liquid have enough energy to escape
+The average energy of the liquid is reduced when the particles with most energy
+leave
+Therefore liquids are cooled down by evaporation
+Evaporation occurs when more energetic molecules near the surface of a liquid escape
+Factors affecting evaporation &
+explaining cooling
+Extended tier only
+Factors affecting evaporation
+These factors all affect the rate of evaporationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+Temperature of the liquid 
+Increased temperature increases the kinetic energy of the molecules in the liquid
+Molecules with more energy are more likely to overcome the intermolecular forces
+holding them in the liquid state and escape the surface
+Therefore higher temperature leads to a higher rate of evaporation
+Surface area of the liquid
+Molecules only escape the intermolecular forces of attraction at the surface of the liquid
+Therefore a larger surface area leads to a higher rate of evaporation
+Air movement
+Air movement carries away the water vapour which has just evaporated
+This replaces the air above the liquid with drier air, which accept water vapour more
+easily
+Therefore increasing air movement (e.g. wind or a fan) increases the rate of
+evaporation
+Evaporation & cooling
+The process of evaporation can be used to cool things down
+As evaporation occurs, the liquid cools
+This is because the most energetic particles leave, reducing average kinetic energy
+Placing an object next to this liquid cools the object
+This is because the cooler liquid absorbs thermal energy from the object
+This process is used in some refrigerators and air conditioning units
+Boiling vs evaporation
+Extended tier only
+Difference between evaporation and
+boiling
+Boiling is also a change in state from liquid to gas
+Boiling happens only at the boiling point of the liquid
+The change of state happens throughout the liquid (seen as bubbles at the bottom
+of a pan of boiling water, for example)
+Table showing the difference between evaporation and
+boilingYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Evaporation Boiling
+Change of
+state?Liquid to gas Liquid to gas
+Temperature? Any temperature between melting and
+boiling pointBoiling point
+Location in
+liquid?From the surface Throughout the whole
+liquidYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+

@@ -1,0 +1,318 @@
+Cambridge (CIE) IGCSE
+Physics
+Sound
+Contents
+Sound Waves
+Measuring the Speed of Sound
+Effects of Sound Waves
+UltrasoundYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Sound Waves
+Describing sound
+Sound waves are produced by vibrating sources
+Sound waves are Longitudinal
+So a medium is needed to transmit sound waves
+This means if there are no molecules, such as in a vacuum, then the sound can’t
+travel through it
+When a sound wave comes into contact with a solid, the longitudinal wave vibrations
+are transferred to the solid
+For example, sound waves can cause a drinking glass to vibrate
+If the glass vibrates too much the movement causes the glass to shatter
+Representing longitudinal waves
+Longitudinal waves are usually drawn as several lines to show that the wave is moving
+parallel to the direction of energy transfer
+Drawing the lines closer together represents the compressions
+Drawing the lines further apart represents the rarefactions
+Representing a longitudinal wave with compression and
+rarefaction
+Longitudinal waves are represented as sets of lines with rarefactions and compressionsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Compression & rarefaction
+Extended tier only
+Longitudinal waves consist of compressions and rarefactions:
+A compression is a region of higher density i.e. a place where the molecules are
+bunched together
+A rarefaction is a region of lower density i.e. a place where the molecules are spread
+out
+Compression and rarefaction
+Sound is a longitudinal wave consisting of compressions and rarefactions - these are
+areas where the pressure of the air in the pipe varies with the wave
+These compressions and rarefactions cause changes in pressure, which vary in time with
+the wave
+Therefore, sound is a type of pressure wave
+When the waves hit a solid, the variations in pressure cause the surface of the solid to
+vibrate in sync with the sound wave
+Compression and rarefaction in contact with a solidYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+When sound waves hit a solid, the fluctuating pressure causes the solid to vibrate
+Examiner Tips and Tricks
+When describing compressions and rarefactions, make sure to use the correct terms.
+It is best to refer to them as regions of high and low densities of particles instead of
+the particles are more 'bunched up' or 'far apart', as this is too vague and not very
+scientific!Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+Measuring the Speed of Sound
+Speed of sound in air
+The speed of sound in air varies from 330 – 350 m/s
+The higher the air temperature, the greater the speed of sound
+Speed of sound in materials
+Extended tier only
+Sound travels at different speeds in different media:
+Sound travels fastest in solids
+Sound travels slowest in gases
+Sound travels at:
+Around 1500 m/s in liquids
+Around 5000 m/s in solids
+Measuring the speed of sound
+Equipment
+Equipment list
+Equipment Purpose
+Trundle Wheel To measure the distance travelled by the sound waves
+Wooden Blocks To create a sound when banged together
+Stopwatch To time how long it takes the sound waves to travel
+Oscilloscope To display the sound wave electronically
+Microphones x2 To detect sound waves and turn them into an electrical signal
+Tape Measure To measure the distance between microphones
+Resolution of measuring equipment:
+Trundle wheel = 0.01 m
+Tape measure = 0.1 cmYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Stopwatch = 0.01 s
+Experiment 1: measuring the speed of sound
+between two points
+This experiment aims to measure the speed of sound in air between two points
+Variables
+Independent variable = Distance
+Dependent variable = Time
+Control variables:
+Same location to carry out the experiment
+Method
+Measuring the speed of sound in air
+Measuring the speed of sound directly between two points
+1. Use the trundle wheel to measure a distance of 100 m between two people
+2. One of the people should have two wooden blocks, which they will bang together above
+their head to generate sound waves
+3. The second person should have a stopwatch which they start when they see the first
+person banging the blocks together and stop when they hear the sound
+4. This should be repeated several times and an average taken for the time travelled by the
+sound waves
+5. Repeat this experiment for various distances, e.g. 120 m, 140 m, 160 m, 180 mYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Results
+An example results table for the speed of sound in air
+Distance / m Time 1 / s Time 2 / s Time 3 / s Average time / s
+100
+120
+140
+160
+180
+Analysis of results
+The speed of sound can be calculated using the equation:
+average speed =distance moved
+time taken
+The speed of sound in the air should work out to be about 340 m/s
+Experiment 2: measuring the speed of sound with
+oscilloscopes
+This experiment aims to measure the speed of sound in air between two points using an
+oscilloscope
+Variables
+Independent variable = Distance
+Dependent variable = Time
+Control variables:
+Same location to carry out the experiment
+Same set of microphones for each trial
+Method
+Measuring the speed of sound with an oscilloscopeYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Measuring the speed of sound using an oscilloscope
+1. Connect two microphones to an oscilloscope
+2. Place them about 2 m apart using a tape measure to measure the distance between
+them
+3. Set up the oscilloscope so that it triggers when the first microphone detects a sound,
+and adjust the time base so that the sound arriving at both microphones can be seen on
+the screen
+4. Make a large clap using the two wooden blocks next to the first microphone
+5. Use the oscilloscope to determine the time at which the clap reaches each microphone
+and the time difference between them
+6. Repeat this experiment for several distances, e.g. 2 m, 2.5 m, 3 m, 3.5 m
+Results
+An example results table for obtaining the speed of sound
+using an oscilloscope
+Distance / m Time 1 / s Time 2 / s Time 3 / s Average time / s
+2.0
+2.5
+3.0
+3.5Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+4.0
+Analysis of results
+The speed of sound can be calculated using the equation:
+average speed =distance moved
+time taken
+The speed of sound in the air should work out to be about 340 m/s
+Evaluating the experiments
+Systematic Errors:
+In experiment 2, ensure the scale of the time base is accounted for correctly
+The scale is likely to be small (e.g. milliseconds) so ensure this is taken into account
+when calculating speed
+Random errors:
+The main cause of error in experiment 1 is the measurement of time
+Ensure to take repeat readings when timing intervals and calculate an average to
+keep this error to a minimum
+Maximise the distance between the two people where possible. This will reduce the
+error in measurements of time because the time taken by the sound waves to travel
+will be greater
+Examiner Tips and Tricks
+When answering questions about methods to measure waves, the question could ask
+you to comment on the accuracy of the measurements.
+In the case of measuring the speed of sound:
+Experiment 2 is the most accurate because the timing is done automatically
+Experiment 1 is the least accurate because the time interval is very short
+Whilst this may not be too important when giving a method, you should be able to
+explain why each method is accurate or inaccurate and suggest ways of making them
+better (use bigger distances)
+For example, if a manual stopwatch is being used there could be variation in the
+time measured which can be up to 0.2 seconds due to a person's reaction time
+The time interval could be as little as 0.3 seconds for sound travelling in the air
+This means that the variation due to the stopwatch readings has a big influence on
+the results and they may not be reliableYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Effects of Sound Waves
+Pitch & loudness
+Changes in amplitude and frequency affect the loudness and pitch of sound waves
+The frequency of a sound wave is related to its pitch
+Sounds with a high pitch have a high frequency (or short wavelength)
+Sounds with a low pitch have a low frequency (or long wavelength)
+The amplitude of a sound wave is related to its volume
+Sounds with a large amplitude have a high volume
+Sounds with a small amplitude have a low volume
+Pitch and amplitude of sound
+Echoes
+Sound waves reflect off hard surfaces
+The reflection of a sound wave is called an echo
+An example of an echoYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+A clap sound is reflected off a wall. When the reflected sound is heard, this is the echo
+The distance to the surface where the echo reflects can be calculated using the
+equation:
+distance =1
+2×speed ×time
+Where:
+distance = half the total distance travelled by the sound wave, measured in metres
+(m)
+speed = speed of sound in air, measured in metres per second (330 - 350 m/s)
+time = total time for sound wave to travel to the surface and back, measured in
+seconds (s)Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Ultrasound
+Ultrasound
+The approximate range of frequencies audible to humans is 20 Hz to 20 000 Hz in
+frequency
+The human hearing range decreases with age
+ Frequencies of ultrasound
+Humans can hear sounds between 20 and 20 000 Hz
+Ultrasound is defined as
+sound with a frequency higher than 20 kHz
+Uses of ultrasound
+Extended tier only
+Ultrasound is used in:
+non-destructive testing of materials
+medical scanning of soft tissue
+sonar to calculate the depth or distance from time and wave speed
+Measuring the speed of ultrasound
+When ultrasound signals reach a boundary between two media, some of the waves are
+partially reflected
+The remainder of the waves are transmitted through the material
+Ultrasound transducers:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+emit and receive ultrasound
+display the received signal on an oscilloscope screen
+The depth of the boundary can be determined using:
+Time taken between the ultrasound being emitted and received
+Knowing the speed of the ultrasound through the material
+Measuring the depth of a boundary
+The depth of a boundary is measured using the difference between emitted and received
+ultrasound pulses
+The depth of the boundary is calculated using the equation:
+depth =1
+2×speed ×time
+Where:
+depth = half the total distance travelled by the ultrasound, measured in metres (m)
+speed = speed of the ultrasound in the medium, measured in metres per second
+(m/s)
+time = total time from ultrasound emission to receipt, measured in seconds (s)
+Ultrasound in material testing
+In industry, ultrasound can be used to:
+Check for cracks inside metal objects
+Generate images from beneath surfaces
+Ultrasound waves that reach a crack in an object, such as a metal bar, are reflected back
+from the crack earlier than the waves that continue to be absorbed through the objectYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+The reflected waves are displayed as pulses on an oscilloscope trace
+This allows engineers to assess the structure of an object
+Oscilloscope display for material imperfection testing
+Ultrasound is partially reflected at boundaries, so in a bolt with no internal cracks, there
+should only be two pulses (at the start and end of the bolt)
+Ultrasound in medicine
+In medicine, ultrasound can be used:
+To construct images of a foetus in the womb
+To generate 2D images of organs and other internal structures (as long as they are
+not surrounded by bone)
+As a medical treatment such as removing kidney stones
+The ultrasound waves are reflected back to the transducer by boundaries between
+tissues in the path of the beam
+Examples of boundaries are between fluid and soft tissue or tissue and bone
+By taking a series of ultrasound measurements, sweeping across an area, the time
+measurements may be used to build up an image
+Unlike many other medical imaging techniques, ultrasound is non-invasive and is
+believed to be harmless
+Ultrasound image of a baby in the wombYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Ultrasound can be used to construct an image of a foetus in the womb
+Sonar
+Echo sounding can be used to measure depth or to detect objects underwater
+A sound wave can be transmitted from the surface of the water
+The sound wave is reflected off the bottom of the ocean
+The time it takes for the sound wave to return is used to calculate the depth of the water
+The distance the wave travels is twice the depth of the ocean
+This is the distance to the ocean floor plus the distance for the wave to return
+Echo soundingYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Echo sounding is used to determine water depth
+Worked Example
+In the diagram above, a very high-frequency sound wave is used to check for internal
+cracks in a large steel bolt. The oscilloscope trace shows that the bolt does have an
+internal crack. Each division on the oscilloscope represents a time of 0.000002 s.
+The speed of sound through steel is 6000 m/s.
+Calculate the distance, in cm, from the head of the bolt to the internal crack.
+Answer:
+Step 1: List the known quantities
+Speed of ultrasound, v = 6000 m/sYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+Time taken between emission and detection, t = 5 × 0.000002 = 0.00001 s
+Step 2: Write down the equation relating speed, distance and time
+distance = speed x time
+Step 3: Calculate the total distance travelled by the sound wave
+total distance = 6000 × 0.00001 = 0.06 m
+Step 4: Calculate the distance travelled by the sound wave to the crack
+distance to the crack = 0.06 /2 = 0.03 m
+Step 5: Convert the distance to cm
+distance to the crack = 3 cmYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+

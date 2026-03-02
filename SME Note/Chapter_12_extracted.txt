@@ -1,0 +1,486 @@
+Cambridge (CIE) IGCSE
+Physics
+Transfer of Thermal Energy
+Contents
+Demonstrating Conduction
+Thermal Conduction
+Convection
+Radiation
+The Greenhouse Effect
+Investigating IR Radiation
+Consequences of Thermal Energy TransferYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Demonstrating Conduction
+Experiments demonstrating thermal
+conductors
+Good and bad thermal conductors
+Good thermal conductors are solids which easily transfer heat
+For example; an aluminium pan or copper wire
+Bad thermal conductors (also called insulators) are solids which do not transfer heat well
+For example; a wool blanket or layers of cardboard or paper
+Comparing conduction in tiles and textiles
+This conduction experiment shows why homes use rugs and carpets
+Find a tiled or stone area of floor 
+In the same room leave a rug or bath towel (not a thin cloth, it must be thick)
+The textile must stay in place on the floor for several hours to ensure they are at
+thermal equilibrium (the same temperature)
+Stand with bare feet (hands can be used)
+Place one foot on the tiles or stone area, and the other on the textile (towel or rug)
+Observe the apparent temperature of the two materials as felt through the feet
+It will feel as though the tiles are cold while the rug is warm, however, they are at
+exactly the same temperature
+Energy is transferred by heating from the hotter foot to the cooler tiles by conductionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Explanation
+Tiles and stone are good conductors of heat
+Where the foot touches the tiles, heat is transferred away from the foot, making it
+feel cold
+The foot has become colder since it lost heat to the tiles
+Textiles such as rugs are good insulators, meaning they are poor conductors of heat
+Where the foot touches the rug, heat is not transferred away from the foot
+This foot feels relatively warmer than the one which has lost heat to the tiles
+The foot has stayed at its starting temperature
+Comparing conduction in wood and paper
+A cylindrical rod made of half wood and half metal is wrapped tightly in paper
+Method for showing different thermal conduction of wood and metalYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+Using a gentle flame, and holding the rod clear of the top of the flame, gently heat the
+paper at the join of the wood and metal
+Turn the rod so that the paper is well-heated all around the circumference of the rod
+Stop when the paper is clearly discoloured
+Remove the rod from the flame, gently unwrap the paper and observe the burn pattern
+A distinct pattern is seen;
+Where the paper touched the metal surface it is undamaged
+Where the paper touched the wood surface it is charred
+Explanation
+Metal is a good conductor of heat
+Where the paper touched the metal in this conduction experiment, heat was
+transferred from the paper into the metal and along the length of the metal
+This prevented the paper getting hot
+Wood is a good insulator, meaning it is a poor conductor of heat
+Where the paper touched the wood, heat was not transferred from the paper
+This meant that the paper did get hot enough to start to burn
+Demonstrating different rates of thermal conduction
+in metals
+A simple conduction experiment to demonstrate the relative conducting properties of
+different materials can be carried out using apparatus similar to that shown in theYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+diagram below
+The above apparatus consists of 4 different metal strips of equal width and length arrange
+around an insulated circle, holding ball bearings with wax
+Ball bearings can be stuck to each of the strips and equal distance from the centre, using
+a small amount of wax
+The strips should then be turned upside down and the centre heated gently using a
+candle, so that each of the strips is heated at the point where they meet
+When the heat is conducted along to the ball bearing, the wax will melt and the ball
+bearing will drop
+By timing how long this takes for each of the strips, their relative thermal conductivities
+can be determined
+Examiner Tips and Tricks
+With two of the demonstrations above (the rug & tiles and the rod made of wood and
+metal) students often get confused, as the result may 'feel' as though it is the wrong
+way round. Think about the movement or transfer of the heat.
+The more heat is taken away, the cooler something will be. That is why the paper
+doesn't burn when it is next to the metal (although usually everyone guesses that it
+will!)Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+The more heat is held in by a layer of insulation, the more heat remains, which is why
+rugs and carpets help your feet to feel warm.
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Thermal Conduction
+Thermal conduction in solids
+Extended tier only
+Conduction is the transfer of heat from one region to another through particle vibrations
+and the movement of free electrons
+Conduction is the main method of thermal energy transfer in solids
+Metals are the best thermal conductors
+This is because they have a high number of free electrons
+Conduction: the atoms in a solid vibrate and collide, transferring energy
+Conduction can occur through two mechanisms:
+Atomic vibrations
+Free electron collisions
+When a substance is heated, the atoms, or ions, start to move around (vibrate) more
+The atoms at the hotter end of the solid will vibrate more than the atoms at the
+cooler end
+As they do so they bump into each other, transferring energy from atom to atom
+These collisions transfer internal energy until thermal equilibrium is achieved
+throughout the substance
+This occurs in all solids, metals and non-metals alike
+Additionally, if a solid contains free electrons, these can travel through the material
+freely and transfer thermal energy through collisionsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Thermal conduction in liquids & gases
+Extended tier only
+For thermal conduction to occur the particles need to be close together so that when
+they vibrate the vibrations are passed along
+This does not happen easily in fluids 
+In liquids particles are close, but slide past each other
+In gases particles are widely spread apart and will not 'nudge' each other when they
+vibrate
+Both types of fluid, liquids and gases, are poor conductors of heat
+Relative thermal conductivity
+Extended tier only
+Conductors tend to be metals
+Better thermal conductors are those with delocalised electrons which can easily
+transfer energy
+This means that there is a wide range of thermal conductivity 
+Different materials have different levels of conductivityYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Convection
+Convection
+Convection is the main way that heat travels through liquids and gases
+Convection only occurs in fluids
+Convection cannot happen in solids
+Density & convection
+Descriptions of convection currents always need to refer to changes in temperature
+causing changes in density
+The temperature may fall or rise, both can create a convection current 
+When a liquid (or gas) is heated (for example by a radiator near the floor):
+The heated molecules vibrate and push each other apart, making the liquid/gas expand
+This makes the hot liquid/gas less dense than the surroundings
+The hot liquid/gas rises, and the cooler (surrounding) liquid/gas moves in to take its
+place
+Eventually the hot liquid/gas cools and contracts, increasing in density, and sinks back
+down again
+The resulting motion is called a convection current
+Simple convection current diagram
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+When a liquid or gas is heated, it becomes less dense and rises
+When a liquid (or gas) is cooled (for example by an A.C. unit high up on a wall):
+The molecules lose energy and collide less, making the liquid/gas contract
+This makes the cold liquid/gas more dense than the surroundings
+The cold liquid/gas falls, so that warmer, less dense, liquid or gas can move into the
+space created
+The warmer liquid/gas gets cooled and also contracts and falls down
+The resulting motion is called a convection current
+Demonstrating convection currents
+A simple demonstration of convection in liquids involves taking a beaker of water and
+placing a few crystals of potassium permanganate in it as shown in the simple
+convection current diagram below – this compound is purple in water
+When the water is heated around the crystals, the potassium permanganate will dissolve
+in the heated water and rise along with the warmed water, revealing the convection
+current
+As the warmed water cools and becomes more dense, it will fall and carry the potassium
+permanganate with it
+Diagram showing an experiment with potassium permanganate to demonstrate
+convection
+Examiner Tips and TricksYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+If a question on heat mentions liquids or gases the answer will probably be about
+convection.
+Heat does not rise - it is the hot gases or liquids which rise due to the change in
+density when they were heated.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Radiation
+Thermal radiation
+What is thermal radiation?
+All objects give off thermal radiation
+The hotter an object is, the more thermal radiation it emits
+Thermal radiation is infraredradiation (part of the electromagnetic spectrum)
+Thermal radiation is the only way in which heat can travel through a vacuum
+It is the way in which heat reaches us from the Sun through the vacuum of space
+Thermal radiation does not need a medium to travel, unlike convection and
+conduction
+Effects of different surfaces
+What two factors affect the rate of thermal energy
+transfer?
+The amount of thermal radiation emitted by an object depends on a number of factors:
+The surface colour of the object (black = more radiation emitted and absorbed)
+The texture of the surface (shiny surfaces = less radiation emitted and absorbed)
+Table of the effect of coloured surfaces on absorbing and
+emitting ability
+Colour/texture Absorbing Emitting
+Black Good absorber Good emitter
+Dull/dark Reasonable absorber Reasonable emitter
+White Poor absorber Poor emitter
+Shiny Very poor absorber (it reflects) Very poor emitter
+Black objects are very good at absorbing thermal radiation, for example black clothes
+make you feel hotter in sunny weather
+Black objects are also very good at emitting thermal radiation, which is the reason
+that some chargers for laptops, and radiators in cars are coloured black - it helps
+them to cool downYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+Shiny objects reflect thermal radiation and so absorb very little
+They also emit very little, though, and so take longer to cool down
+The infrared radiation emitted from a hot object can be detected using a special camera.
+The dull black side of the cube (left) is seen to glow brighter with infrared radiation than
+the shiny light side of the cube (right)
+Thermal equilibrium
+Extended tier only
+As an object absorbs thermal radiation it will become hotter
+As it gets hotter it will also emit more thermal radiation
+Eventually, an object will reach a point where it is absorbing radiation at the same rate as
+it is emitting radiation
+At this point, the object will be in thermal equilibrium
+At thermal equilibrium, an object has constant temperature
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+An object will remain at a constant temperature if it absorbs heat at the same rate as it
+loses heat
+Heating & cooling by energy transfer
+Extended tier only
+If the rate at which an object receives energy is greater than the rate at which it
+transfers energy away:
+then the object's temperature will increase
+If the rate at which an object transfers energy away is greater than the rate at which it
+receives energy:
+then the object's temperature will decrease
+The process will always move towards thermal equilibrium
+As temperature increases, the object emits more radiation until the rates are equal
+As temperature decreases, the object transfers less energy until the rates are equal
+Examiner Tips and Tricks
+When a question on heat transfer mentions the surface properties of an object, such
+as describing it as shiny, black or white, then you are being clued-in to write
+about thermal radiation.
+Shiny things are both poor emitters and poor absorbers of thermal radiation, while
+black surfaces are both good emitters and good absorbers.
+The surface makes the object either good or bad at both, so you don't need to
+remember too many facts!Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+The Greenhouse Effect
+The greenhouse effect
+Temperature of Earth
+If the Earth had no atmosphere, the average temperature on the surface would drop to
+about −18 °C
+This would happen because the surface would be emitting all the radiation from the
+Sun into space
+The temperature of the Earth is affected by factors controlling the balance between
+incoming radiation and radiation emitted
+The Earth receives the majority of its heat in the form of thermal radiation from the Sun
+At the same time, the Earth emits its own thermal radiation, with a slightly longer
+wavelength than the thermal radiation it receives (this is caused by difference in
+surface temperature of the Earth and the Sun)
+The greenhouse effect
+Some gases in the atmosphere, such as water vapour, methane, and carbon dioxide
+(greenhouse gases) absorb and reflect back longer-wavelength infrared radiation from
+the Earth and prevent it from escaping into space
+These gases absorb the radiation and then emit it back to the surface
+These gases keep the Earth's temperature at a reasonable level, and the process is
+called the greenhouse effect
+This process makes the Earth warmer than it would be if these gases were not in its
+atmosphere
+Radiation and the greenhouse effectYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+The Earth receives thermal radiation from the Sun but emits its own thermal radiation at
+the same time. The greenhouse effect is where this radiation is trapped by gases
+The temperature of the Earth, therefore, depends on several factors, such as the rate
+that infrared radiation is:
+Reflected back into space
+Absorbed by the Earth’s atmosphere or by the Earth’s surface
+Emitted from the Earth’s surface and from the Earth’s atmosphere into space
+Worked Example
+Explain why adding an excess of carbon dioxide to the Earth's atmosphere would lead
+to an increase in the surface temperature of Earth.
+Answer:
+Step 1: Describe the greenhouse effect
+Radiation from the Sun is absorbed by the Earth
+Some is re-emitted by the Earth
+Greenhouse gases, such as carbon dioxide, reflect a fraction of this emitted
+radiation and heat the Earth's surface
+Step 2: Describe the effect of increasing the amount of carbon dioxide
+If there is more carbon dioxide, more of the Earth's emitted radiation is reflected
+back to the Earth
+The rate of radiation absorbed by the Earth's surface increases, so its
+temperature increasesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+Examiner Tips and Tricks
+Global warming is an important current topic in the world. Generally it is important to
+understand how this process works, but this also means it appears in exams
+frequently. Learning more about this topic not only means that you are prepared for
+application questions on radiation, but it also means you are well-informed about the
+environmental issues we are facing as a society.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+Investigating IR Radiation
+Investigating thermal radiation
+Aims of the experiment
+The aim of the experiment is to investigate how the amount of infrared radiation
+absorbed or radiated by a surface depends on the nature of that surface
+Variables
+Independent variable = Colour
+Dependent variable = Temperature
+Control variables:
+Identical flasks (except for their colour)
+Same amounts of hot water
+Same starting temperature of the water
+Same time interval
+Equipment
+Equipment List
+Equipment Purpose
+Heatproof mat To protect surfaces and reduce heat
+loss
+Stop watch To measure time taken for cooling
+Kettle To boil water
+4 thermometers To measure the water temperature in
+each flask
+Flasks painted different colours (black, dull grey,
+white, silver)To investigate the heat loss of
+different colours
+Resolution of measuring equipment:
+Thermometer = 1°C
+Stopwatch = 0.01 sYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Method
+Different coloured beakers for investigating infrared radiation apparatus
+1. Set up the four identical flasks painted in different colours: black, grey, white and silver
+2. Fill the flasks with hot water, ensuring the measurements start from the same initial
+temperature
+3. Note the starting temperature, then measure the temperatures at regular intervals, e.g.
+every 30 seconds for 10 minutes
+Results
+Example results tableYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+Analysis of results
+All objects emit infrared radiation, but the hotter an object is, the more infrared waves
+are emitted 
+The intensity (and wavelength) of the emitted radiation depends on:
+The temperature of the body (hotter objects emit more thermal radiation)
+The surface area of the body (a larger surface area allows more radiation to be
+emitted)
+The colour of the surface
+Most of the energy lost from the beakers will be by heating due to conduction and
+convection
+This will be equal for each beaker, as colour does not affect energy transferred by
+conduction and convection 
+Any difference in energy transferred away from each beaker must, therefore, be due to
+infrared radiation
+To compare the rate of energy transfer away from each flask, plot a graph of
+temperature on the y-axis against time on the x-axis and draw curves of best fit
+The expected results are shown on the graph below:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+Example graph of the expected results for the different coloured beakers
+Evaluating the experiments
+Systematic errors
+Make sure the starting temperature of the water is the same for each material since this
+will cool very quickly
+It is best to do this experiment in pairs to coordinate starting the stopwatch and
+immersing the thermometer
+Use a data logger connected to a digital thermometer to get more accurate readings
+Random errors
+Make sure the hole for the thermometer isn’t too big, otherwise thermal energy will
+escape through the hole
+Take repeated readings for each coloured flask
+Read the values on the thermometer at eye level, to avoid parallax error
+Safety considerations
+Safety goggles should be worn when filling the flasks with boiling water
+Keep water away from all electrical equipment
+Make sure not to touch the hot water directly
+Run any burns immediately under cold running water for at least 5 minutesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Do not overfill the kettle
+Make sure all the equipment is in the middle of the desk, and not at the end to avoid
+knocking over the beakers
+Carry out the experiments only whilst standing, in order to react quickly to any spills or
+burnsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+
+Consequences of Thermal Energy Transfer
+Simple consequences of energy transfer
+Conduction, convection and radiation have many everyday applications and
+consequences
+Examples of conduction
+Good conductors help transfer thermal energy quickly
+Examples include:
+Metal pans to heat food quickly
+Metal radiators to transfer heat from water inside to the surrounding air quickly
+Bad conductors (insulators) help retain thermal energy as they transfer heat slowly
+Examples include:
+Plastic handles of saucepans to slow thermal energy transferred to hands
+Air spaces in the walls or windows of some houses help to retain heat, as air is a poor
+conductor
+Double-glazed windowsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
+
+Double-glazed windows use a layer of air to act as an insulator and slow the transfer of
+thermal energy out of the house
+Examples of convection
+Common applications of convection are:
+heating a room with a radiator
+steam rising which cools a hot liquid
+Radiators use convection to raise the temperature of a room in a building:
+1. The metal radiator is hot and transfers thermal energy to air nearby
+2. The particles of this hot air spread out, making it less dense
+3. The spread-out air is less dense than the air above it, so this hot air rises
+4. The radiator heats the cold air which replaces the hot air
+5. The newly heated air also rises, cools and sinks (as it contracts and increases in
+density)
+Convection in steam from coffeeYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
+
+Thermal energy is transferred from the hot coffee to the air by convection currents rising
+from the surface
+Complex consequences of energy
+transfer
+Extended tier only
+Multiple paths of energy transfer
+In real situations there is very rarely only one form of energy transfer
+Usually two or three happen at once
+These are sometimes called 'complex' applications of energy transfer
+Tea cup example
+In the diagram below a more complex - and more 'real' - version of the situation above is
+shown
+Thermal energy is transferred from hotter areas (the tea) to cooler areas (the cup,
+hands and air) by the processes of:
+Conduction; by direct contact between the tea and the solid sides of the cup and
+also by direct contact from the cup to the surface it is sitting on Examiner Tips and Tricks
+Don't let the name 'radiator' confuse you, these should really be called 'convection
+heaters'. Their heating ability comes almost exclusively through convection, radiation
+plays a very small part.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
+
+Convection; from the surface of the coffee to the air directly above it
+Radiation; from the sides of the hot cup in all directions to the surrounding air
+In this example, heat is lost via conduction, convection and radiation
+Wood fire example
+A wood (or coal) fire in a room heats it through radiation and convection
+As the fuel is so hot in a wood fire, it transfers a lot of thermal energy to the room through
+radiation
+The fire transfers a much greater amount of thermal energy to nearby objects via
+radiation
+Air surrounding the fire is heated and rises, forming a convection current
+This transfers thermal energy throughout the whole roomYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
+
+Convection currents are set up in a room with a wood or coal fire
+Car radiator example
+A car radiator transfers heat away from the engine, which reaches high temperatures
+A liquid travels between the radiator and the engine
+When the liquid passes over the engine, it absorbs energy from the engine through
+conduction
+This liquid then travels back to the radiator and transfers heat to the radiator, again
+by conduction
+The radiator then transfers thermal energy to the surrounding air through radiation
+A car radiator is a dark colour, which allows it to emit more radiation
+A large surface area also helps
+Once the radiator has absorbed thermal energy from the liquid, the liquid is cooler and
+the cycle begins again
+Examiner Tips and Tricks
+The specification requires you to have knowledge of energy transfers in:
+A wood or coal fire
+A car radiator
+Familiarise yourself with how these systems work and their main forms of energy
+transfer.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+

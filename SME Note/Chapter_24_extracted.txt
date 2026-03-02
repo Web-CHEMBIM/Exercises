@@ -1,0 +1,452 @@
+Cambridge (CIE) IGCSE
+Physics
+Stars & The Universe
+Contents
+The Sun as a Star
+The Scale of the Universe
+Star Formation
+Life Cycle of a Star
+Galactic Redshift
+The Big Bang Theory
+Age of the UniverseYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+The Sun as a Star
+The Sun as a star
+The Sun is a medium-sized star which lies at the centre of the Solar System
+It consists mostly of the two elements hydrogen and helium
+It radiates most of its energy in the infrared, visible and ultraviolet regions of the
+electromagnetic spectrum
+Our Sun
+The Sun is a medium-sized star consisting of mostly hydrogen and helium
+Nuclear fusion in stars
+Extended tier only
+Stars are huge balls of (mostly) hydrogen gas
+In the centre of a star, hydrogen nuclei undergo nuclear fusion to form helium nuclei
+An equation for a possible fusion reaction is:
+12H+13H→24He+01n
+Where 12H (deuterium) and 13H (tritium) are both isotopes of hydrogen
+These are formed through other fusion reactions in the star
+A huge amount of energy is released in the reaction
+All stable stars are powered by nuclear fusion reactionsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Examiner Tips and Tricks
+It is useful to remember that hydrogen is the fuel within stars, but the details of the
+reaction between deuterium and tritium is not required at this level.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+The Scale of the Universe
+The Milky Way
+The Universe
+The Universe is defined as
+A large collection of billions of galaxies
+It is also the name given to the entirety of space
+Galaxies
+A galaxy is defined as
+A large collection of billions of stars
+Stars are large astronomical objects, such as the Sun
+The Milky Way
+The Milky Way is one of many billions of galaxies making up the Universe
+The Sun is one of many billions of stars making up theMilky Way
+Other stars in the Milky Way galaxy are much further away from Earth than the Sun is
+Some of these stars also have planets which orbit them
+Hierarchy of the UniverseYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+The Universe is a large collection of galaxies and a galaxy is a large collection of stars. The
+Sun is a star at the centre of our Solar System in the Milky Way galaxy
+Astronomical distances
+Astronomical distances, such as the distances between stars and galaxies, are
+extremely large
+To describe these distances, astronomers use a special unit called the light year
+One light-year is defined as:
+The distance travelled by light in one year
+The diameter of the Milky Way is approximately 100 000 light-years
+This means that light would take 100 000 years to travel from one side of the Milky Way
+to the other
+Extended tier only
+One light year is equal to 9.5 × 10  km, or 9.5 × 10  m12 15
+Worked Example
+The centre of our galaxy is 30 000 light years away.
+(a) How long does it take light to reach the Earth?
+Extended tier only
+(b) Calculate this distance in km.
+Answer:
+(a)
+The centre of our galaxy is 30 000 light years away
+It takes light 30 000 years to reach the Earth from the centre of our galaxy
+(b)
+Extended tier only
+Step 1: Write down the known quantities:
+The centre of our galaxy is 30 000 light years away
+1 light year = 9.5 × 10  km
+Step 2: Calculate the distance in km:
+distance = 30 000 × (9.5 × 10 )12
+12Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+distance = 2.85 × 10  km17
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Star Formation
+Star formation
+Extended tier only
+Stars go through a sequence of evolutionary stages, known as the life cycle of a star
+All stars follow the same initial stages:
+nebula →  protostar →  stable star
+Nebula
+Stars form from a giant interstellar cloud of gas and dust called a nebula
+Protostar
+The gravitational attraction within a nebula pulls the particles closer together until a hot
+ball of gas forms, known as a protostar
+As the particles are pulled closer together, the density of the protostar increases
+This results in more frequent collisions between the particles, which causes the
+temperature to increase
+Stable star
+Once the protostar becomes hot enough, nuclear fusion reactions occur within its core
+The hydrogen in the core of the star is converted into helium
+Every fusion reaction releases heat and light, which keeps the core of the star hot
+Once a star initiates fusion, it is known as a stablestar
+During this stage, the star is in equilibrium as the forces acting on it are balanced
+Gravitational forces act inwards
+This is an attractive force which pulls the outer layers inwards
+Thermal pressure acts outwards
+This is exerted by the expanding hot gases inside the star as energy is released
+during fusion
+Balanced forces in a stable starYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+The outward and inward forces within a star are in equilibrium. The centre red circle
+represents the star's core and the orange circle represents the star's outer layers
+Once a stable star is formed, the final stages of its life cycle depend on its mass
+The different life cycles are shown below
+Summary of the life cycles of stars
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Flow diagram showing the life cycle of a star which is the same size as the Sun (solar mass)
+and the lifecycle of a star which is much more massive than the SunYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Life Cycle of a Star
+Life cycle of low mass stars
+Extended tier only
+A low-mass star is one with a mass of up to about eight times that of the Sun
+After the main sequence, a low-mass star finishes its life cycle in the following
+evolutionary stages:
+red giant →  planetary nebula →  white dwarf
+Red giant
+After several billion years, the hydrogen fuel used for nuclear reactions begins to run out
+Once this happens, the rate of fusion decreases, which causes the core to shrink and
+heat up
+As the energy produced by fusion decreases, the inward force due to gravity
+becomes greater than the outward force due to the thermal pressure
+Eventually, the star becomes a red giant when the core becomes hot enough for helium
+to fuse into carbon
+The energy released by re-ignited fusion reactions causes the outer layers of the star to
+expand and cool 
+Planetary nebula
+Once the helium in the core runs out, fusion reactions cannot continue
+The star becomes unstable and the core collapses under its own gravity
+The outer layers are ejected into space as a planetary nebula
+White dwarf
+The collapsed core of the red giant is called a white dwarf
+The white dwarf cools down over time and as a result, the amount of energy it emits
+decreases
+The life cycle of a low-mass starYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+The life cycle of a star that is similar to our Sun
+Life cycle of high mass stars
+Extended tier only
+A high-mass star is one with a mass of more than about eight times that of the Sun
+After the main sequence, a high-mass star finishes its life cycle in the following
+evolutionary stages:
+red supergiant →  supernova →  neutron star (or black hole)
+Red supergiant
+After several million years, the hydrogen in the core begins to run out
+Similar to a low-mass star, the rate of fusion decreases and the core shrinks and heats upExaminer Tips and Tricks
+A low mass star is any star that will eventually become a white dwarf. You may see
+different sources giving different ranges of masses for stars within this category, or
+terms such as low mass stars (up to 2 solar masses) or intermediate mass stars
+(between 2 and 8 solar masses). Note that you do not need to know these numbers or
+categories, only that all these stars will follow the same evolutionary stages.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+The star becomes a red supergiant when the core becomes hot enough for helium
+fusion to start
+This causes the outer layers of the star to expand and cool
+In the core of the star, helium fuses into carbon
+This is followed by further fusion reactions in which successively heavier elements,
+such as nitrogen and oxygen, are formed
+During this stage, the core collapses and expands repeatedlyas fusion reactions start
+and stop
+Supernova
+Eventually, fusion reactions inside the red supergiant cannot continue once iron is
+formed
+The core of the star will collapse rapidly and initiate a gigantic explosion called a
+supernova
+At the centre of this explosion, a dense body called a neutron star will form
+The outer layers of the star are ejected into space forming new clouds of dust and gas
+(nebula)
+The nebula from a supernova may form new stars with orbiting planets
+The heaviest elements (elements heavier than iron) are formed during a supernova
+and are ejected into space
+These nebulae may form new planetary systems
+Neutron star (or black hole)
+In the case of the most massive stars, the neutron star that forms at the centre will
+continue to collapse under the force of gravity until it forms a black hole
+A black hole is an extremely dense point in space that not even light can escape from
+The life cycle of a high-mass starYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+The life cycle of a star much larger than our Sun
+Examiner Tips and Tricks
+A high mass star is a one that will not eventually become a white dwarf. Make sure you
+understand that most high mass stars become neutron stars and only the highest
+mass stars become black holes.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Galactic Redshift
+Galactic redshift
+When a stationary object emits waves, they spread out symmetrically
+If the source of the waves moves, the waves can become squashed together or spread
+out
+This change in wavelength is known as the Doppler effect
+This effect applies to both sound waves and electromagnetic radiation (i.e. light waves)
+Doppler effect of light
+If a source of light moves towards an observer, the observed wavelength decreases
+The wavelength of light shifts towards the blue end of the spectrum
+This is called blueshift
+If a source of light moves away from an observer, the observed wavelength increases
+The wavelength of light shifts towards the red end of the spectrum
+This is called redshift
+Redshift and blueshift of lightYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+When a light source moves away from an observer, redshift is observed, and when a light
+source moves towards an observer, blueshift is observed
+Observing redshift in distant galaxies
+When astronomers compare light  from glowing hydrogen in distant galaxies with light
+from glowing hydrogen on Earth, the light appears to be redshifted
+This means the observed wavelength has increased as the light travelled from the galaxy
+to the Earth
+This shows thatdistant stars and galaxies are moving away (receding) from the Earth
+Redshift of light from a distant galaxyYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+Light emitted from glowing hydrogen in distant objects appears to be shifted towards the
+red end of the spectrum, showing they are moving away from Earth
+The greater the observed redshift: 
+the greater the distance to a galaxy
+the faster the galaxy is moving away from Earth
+Examiner Tips and Tricks
+You need to know that in the visible light spectrum, red light has the longest
+wavelength and the smallest frequency.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+The Big Bang Theory
+Evidence for the Big Bang Theory
+Around 14 billion years ago,the Universe began from a single point that was extremely
+hot and dense
+A giant explosion, known as the Big Bang, caused the Universe to expand outwards
+As each point moved away from the others, the Universe began to cool
+As a result of the initial explosion, the Universe continues to expand
+The Big Bang Theory
+Tracing the expansion of the Universe back to the beginning of time leads to the idea it
+must have begun with a “Big Bang”
+Evidence from galactic redshift
+Galactic redshift indicates that distant galaxies are moving away from us
+If galaxies are moving away from us, this means the Universe must be expanding
+Expansion of the UniverseYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Observations of light from galaxies show they are moving away from us which means the
+Universe is expanding
+Redshift provides evidence for the Big Bang because:
+1. Observations show that distant galaxies are all moving away from us
+We see that light from glowing hydrogen in stars from distant galaxies is redshifted in
+comparison with light from glowing hydrogen on Earth
+2. Observations show that the further away a galaxy is, the faster it is moving away from
+us
+The spectra of light from more distant galaxies are more redshifted than closer galaxies
+due to the expansion of space itself
+Galactic redshift spectraYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+The dark lines (representing glowing hydrogen) have shifted towards red wavelengths
+due to the stretching of light as it travelled through space that was expanding
+Examiner Tips and Tricks
+Make sure that you understand that the stretching of the wavelength of light is due to
+the expansion of the Universe, not the motion of stars and galaxies themselves.
+This can be visualised by imagining a balloon with equally spaced points on it. The
+balloon represents space and the points represent galaxies.
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+Cosmic microwave background radiation
+Extended tier only
+Cosmic microwave background radiation (CMBR) is a form of electromagnetic radiation
+that was emitted shortly after the beginning of the Universe
+It is detected everywhere throughout the Universe
+The CMBR map is the closest image that exists to a map of the Universe
+It shows that the temperature of the Universe, and therefore the objects in it, are more or
+less uniformly spread out
+CMBR map of the Universe
+The CMBR map shows areas of higher and lower temperature in the Universe. Regions with
+higher temperatures have a higher concentration of galaxies, Suns and planets
+Evidence from cosmic microwave background
+radiation
+ Cosmic microwave background radiation provides evidence for the Big Bang because:When the balloon is deflated (i.e. the Universe was smaller), the points (galaxies) are
+closer together and are at an equal distance apart.
+As the balloon (Universe) expands, all the points (galaxies) become further apart by
+the same amount.
+This is because the space between the galaxies itself has expanded.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+1. Theory predicts the early Universe was extremely hot and dense
+Therefore, CMBR would have initially existed as short-wavelength gamma radiation
+The shorter wavelength in the past indicates the Universe must have been very hot in the
+beginning
+2. CMBR is consistent with radiation that has been stretched over time
+The Big Bang would have released a lot of energy in the form of extremely high-energy
+gamma radiation
+As the Universe expanded, the wavelength of the radiation increased
+Over time, it has been redshifted so much that it is now in the microwave region of the
+spectrum
+3. CMBR can be interpreted as the radiation left over from the Big Bang
+The CMBR is extremely uniform which indicates the Universe was initially much smaller
+than it is now
+Redshift of CMBR
+CMBR is a result of high-energy radiation being redshifted over billions of years
+Worked Example
+Describe and explain what can be deduced about the history of the Universe from the
+CMBR.
+Answer:
+Step 1: Recall the features of the CMBR
+Microwave radiation is detected from all directions at a similar intensity
+Step 2: State the source of this radiationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+
+This is the radiation produced just after the formation of the Universe
+Step 3: Describe how the wavelength has changed and explain why
+When the Universe was formed, the radiation was high in energy and short in
+wavelength
+Now it has less energy and a longer wavelength
+This is because the Universe has expanded and cooled, causing the wavelength
+to increase
+Step 4: Suggest what this tells us about the Universe in the beginning
+This suggests the Universe was initially very small and very energetic and has been
+expanding sinceYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
+
+Age of the Universe
+The Hubble constant
+Extended tier only
+When Edwin Hubble looked at the absorption spectra of distant galaxies, he determined
+a relationship between the speed of a galaxy and its distance from Earth
+Comparing redshifts of galaxies
+Hubble discovered that all galaxies show redshift, but the galaxies that are further away
+show a greater increase in redshift
+This is Hubble's law, which states
+The speed of recession is proportional to the distance of the galaxy away from Earth
+'Recession' speed means the speed at which something is moving away
+This means that the further away a galaxy is from Earth:
+the faster it is moving away
+the greater the increase in redshift
+Relationship between redshift and galaxy distance
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
+
+Hubble's law tells us the greater the distance to a galaxy, the greater the redshift, or the
+speed it moves away from Earth
+Hubble’s law can be expressed as an equation:
+H0=v
+d
+Where:
+H  = Hubble constant (per second)
+v = recessional velocity of an object, the velocity of an object moving away from an
+observer (km/s)
+d = distance between the object and the Earth (km)
+From this equation, the Hubble Constant H0 can be defined as:
+The ratio of the speed at which the galaxy is moving away from the Earth, to its distance
+from the Earth
+The accepted value of the Hubble constant is H0 = 2.2 × 10  per second
+Measuring recession speed & distance
+Extended tier only
+The Hubble constant H0 can be determined from measurements of:
+redshift of the light emitted by a galaxy
+the brightness of supernovae in the galaxy
+Measuring recession speeds of galaxies
+The speed of recession v of a galaxy (i.e. how fast it is moving away from the Earth) can
+be found from the change in wavelength of the galaxy’s starlight due to redshift
+Measuring distance using supernovae
+The distance d to a galaxy can be determined using the brightness of a supernova in that
+galaxy
+Supernovaeare exploding stars0
+–18
+Examiner Tips and Tricks
+Make sure to learn the currently accepted value of the Hubble constant. 
+You will be expected to know that the current estimate for H  is 2.2 × 10  per second 0–18Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
+
+Certain types of supernovae have the same peak level of brightness (absolute
+magnitude), meaning they can be used as standard candles
+These supernovae are so bright that they can be used for measuring distances to
+the most distant galaxies
+Age of the Universe
+Extended tier only
+Hubble's law can be rearranged to give the expression:
+1
+H0=d
+v
+Since time is equal to distance divided by speed, the term 1
+H0 represents an estimate
+of the age of the Universe
+Hubble's law provides further evidence for the Big Bang
+It shows that the Universe has been expanding since the beginning of time
+If we looked at time in reverse, we would see galaxies were closer together in the
+past
+This suggests that the Universe must have originated from a single point and has
+been expanding outwards ever since
+Hubble's law graph
+Using measurements from galactic redshift and brightness of supernovae, a graph of
+recession velocity against distance can be plotted
+Graph of galaxy recession velocity against distance
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
+
+A key aspect of Hubble’s law is that the furthest galaxies appear to move away the fastest
+The gradient of the graph represents the age of the Universe
+When the distance equals zero, this represents all the matter in the Universe being at
+a single point
+This is the singularity that occurred at the moment of the Big Bang
+Astronomers have used this formula to estimate the age of the Universe is about 13.7
+billion years
+Worked Example
+A distant galaxy is 20 light-years away from Earth.
+Use Hubble’s law to determine the velocity at which the galaxy moves away from
+Earth.
+Answer:
+Step 1: List the known quantities
+Distance to the galaxy, d = 20 light-years
+1 light year = 9.5 × 10 m
+Hubble constant, H0 = 2.2 × 10  per second
+Step 2: Convert 20 light-years to m
+d = 20 ly = 20 × (9.5 × 10 ) = 1.9 × 10  m
+Step 3: Substitute values into Hubble's Law
+v =H0d
+v = ( ) 2 .2 ×10−18× ( ) 1 .9 ×1017=0 .418m /s
+The galaxy moves away from Earth at a velocity of 0.42 m/s15 
+−18
+15 17
+Examiner Tips and Tricks
+If you are taking the Extended paper, remember that you have to learn the values for a
+light year and the Hubble constant!Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+

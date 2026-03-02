@@ -1,0 +1,438 @@
+Cambridge (CIE) IGCSE
+Physics
+Energy Sources
+Contents
+Energy from the Sun
+Energy from Fuels
+Energy from Water
+Geothermal Energy
+Nuclear FusionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Energy from the Sun
+The Sun
+Extended tier only
+The Sun transfers energy to Earth by electromagnetic radiation
+Most of our energy resources on Earth come indirectly from the Sun:
+The Sun heats up the atmosphere, creating wind and producing waves
+Water evaporated by the Sun falls as rain, filling up reservoirs
+Plants grown using sunlight form the basis for fuels – both biofuels and fossil fuels
+Some energy resources, however, do not come from the Sun
+These include:
+Geothermal – this comes from heat produced in the Earth’s core
+Nuclear – this comes from elements which make up a small proportion of the Earth’s
+crust
+Tidal – this comes (mainly) from the gravitational attraction of the Moon
+The Sun
+Energy from the Sun is the source of the energy stored in many of Earth's energy
+resources
+Solar cells
+The energy from the Sun that falls on the Earth is transferred by radiation 
+Mostly visible light and infrared radiationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+The amount of energy transferred from the Sun to the Earth each hour is equal to the
+energy use of the world for one year!
+Therefore, scientists are working hard to find methods of harnessing this energy
+Solar energy has a low energy density, which means large collecting devices are
+required 
+Collecting solar energy has been expensive (due to the equipment required) and
+inefficient
+Although improved technology has improved efficiency, greater demand has
+lowered costs
+Solar cells transfer energy from sunlight and produce a current, therefore generating
+electricity 
+Solar cells, sometimes called photovoltaic cells, are made of semiconducting
+materials
+A number of cells connected together can supply electricity to homes, small-scale
+businesses, communication devices and satellites
+Energy generated from solar cells can be stored in batteries for later use
+Solar cells
+Solar cells use energy from sunlight to produce electricity
+Advantages of solar cells
+Solar energy is a renewable resource
+A renewable resource is one which can be replenished at the same rate as it is usedYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+In many places on Earth sunlight is a reliable energy resource (this means that the sun
+shines most of the time)
+Solar farms produce no greenhouse gases or pollution
+Solar energy can be generated in remote places where they don't have electricity
+For example to power solar street signs in rural areas
+Solar cells are readily available
+Solar farms are relatively quick and cheap to build, and inexpensive to run compared to
+power stations 
+Solar cells can be placed on top of buildings
+Disadvantages of solar cells
+Solar farms need to be large scale to produce large amounts of electricity
+In many places on Earth, sunlight is not a reliable energy resource (there are not enough
+sunshine-hours to justify the set-up costs)
+Solar cells remain fairly expensive for households to install and maintain (they must be
+kept clean to work at full capacity)
+Each solar cell only produces a small amount of electricity so solar farms are needed to
+produce large amounts of electricity 
+Solar cells are relatively inefficient (around 20% - 40%)
+Solar panels
+Useful energy may be obtained from infrared and other electromagnetic waves from the
+Sun using solar panels
+Solar panels transfer energy from sunlight to the thermal store of the solar panels which
+is used to heat water in the pipes 
+Solar panels can be used to warm domestic water supplies 
+This can reduce the cost of producing hot water since it is heated partially by
+the solar panels
+Solar furnaces consist of large curved mirrors that focus the sun's rays on to a small
+area
+These can be used to boil water, generating enough steam to turn turbines and
+generate electricity in a power station
+Solar panelYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+Solar panels use energy from sunlight to heat water 
+Water is stored in a water tank and pumped through small pipes running through the
+solar panel
+Infrared radiation from the Sun heats the water in the pipes as it flows through them
+The water returns to the tank at a higher temperature
+Water may still need to be heated further to reach the desired temperature (eg. for a
+shower)
+Advantages of solar panels
+Solar energy is a renewable resource
+In many places on Earth, sunlight is a reliable energy resource (this means that the sun
+shines most of the time)
+Solar panels produce no greenhouse gases or pollution once they are operating
+Solar panels can cut the cost of energy bills for households
+Solar panels can be placed on the roofs of buildingsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Disadvantages of solar panels
+Solar furnaces need to be large scale to produce high temperatures
+Energy is still needed to heat water to a higher temperature in domestic households
+In many places on Earth, sunlight is not a reliable energy resource (the sun doesn't shine
+regularly enough to justify the set-up costs)
+Wind energy
+Energy from the wind can be used to generate electricity
+The wind turns a turbine, which turns a generator, which generates electricity
+Energy from the kinetic store of the wind is transferred
+mechanically to the kinetic store of the turbine
+which is transferred mechanically to the kinetic store of the generator
+which is transferred electrically to the National Grid
+Wind turbines
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Wind turbines use energy from the wind to generate electricity
+Advantages of wind power
+Wind is a renewable resource
+Wind turbines produce no greenhouse gases or pollution
+Wind farms are relatively inexpensive to build and cheap to run
+Wind turbines have a relatively high efficiency of 50%
+The land used for wind farms can still be used for farming
+Off-shore wind farms can be built in coastal areas
+Wind turbines do not use fuel, so there are no fuel costs
+Disadvantages of wind power
+Wind power is not reliable because the wind does not blow constantly
+Turbines are built facing a specific direction so they only work when the wind is blowing
+in that specific direction
+Some people consider wind farms to be visual pollution , so there can be local
+opposition to the construction of wind farms in some towns and cities
+Each turbine only produces a small amount of electricity, so wind farms are needed for
+large scale electricity generation
+High-voltage power lines are required to transmit the electricity to the National Grid
+Examiner Tips and Tricks
+In your IGCSE exam, you may be required to discuss the advantages and
+disadvantages of energy resources. You may also need to apply your understanding
+of energy resources to unfamiliar scenarios, for example, by suggesting which type of
+energy resource would be best for a particular community. Make sure you can justify
+your choices.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Energy from Fuels
+Fossil fuels
+Fossil fuels are:
+Coal
+Natural gas (mostly methane)
+Crude oil which is refined into petrol, diesel, and other fuels
+ Fossil fuels
+Fossil fuels: coal, oil and natural gas
+Fossil fuels are formed from the remains of plants and animals 
+Chemical energy stored in fossil fuels originally came from sunlight
+Energy from the sun was transferred to the chemical energy store of plants by
+photosynthesis (plants use energy from sunlight to make food)
+Animals ate the plants and the energy was transferred to their chemical store
+Advantages of fossil fuels
+Fossil fuel power stations are extremely reliable and the infrastructure is well
+established in most countries
+Fossil fuel power stations are extremely responsive (they can be turned on and off
+easily), which means they can meet the changing demands of a nation
+Fossil fuels are relatively safe to store and use
+Disadvantages of fossil fuels
+It takes millions of years for fossil fuels to form
+This is why they are considered to be a non-renewable energy resourceYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+The increasing demand for a decreasing supply causes prices to increase
+Fossil fuels are predicted to completely run out within the next 200 years 
+Burning fossil fuels pollutes the atmosphere with harmful gases such as:
+Carbon dioxide which contributes to the greenhouse effect
+Sulphur dioxide which produces acid rain
+Both carbon and sulphur can be captured upon burning, preventing it from being
+released into the atmosphere but this is expensive to do
+Extraction of fossil fuels causes damage to the environment
+Fossil fuel power stations are expensive to build and decommission (close down)
+The price of fossil fuels is volatile, which means the price of the electricity produced can
+fluctuate based on global factors of supply and demand
+Uses of fossil fuels
+Fossil fuels are used for:
+Transport
+Generating electricity
+Heating
+Transport
+The majority of vehicles in the world are powered by petroleum products such as petrol,
+diesel and kerosene
+These resources all originate from crude oil, which is a fossil fuel
+A growing number of vehicles are now being powered by electricity
+The advantage of this is that while the vehicle is being driven, it produces zero
+carbon emissions
+The disadvantage is that when the vehicle is being charged, it is connected to the
+National Grid, which currently uses a combination of renewable and non-renewable
+energy sources
+Electricity generation
+Fossil fuels, such as gas and coal, are used to produce energy on-demand when energy
+is needed
+The fossil fuel is burned (combusted) and used to heat water to produce steam
+The steam turns a turbine
+The turbine turns a generator, which generates electricity
+The current produced is transmitted via the National GridYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+The steam is condensed into water to be used again
+Electricity generation in a coal-fired power station
+Fossil fuels are burned to heat water to produce steam. The steam turns the turbine,
+which turns the generator, which produces electricity.
+Electricity plays a bigger role in people's lives than ever before
+With almost 8 billion people in the world, this means the demand for electricity is
+extremely high
+To keep up with this demand, a combination of all the energy resources available is
+needed
+Global energy consumptionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Currently, more than three quarters of the global electricity production uses fossil fuels;
+this is increasing the levels of atmospheric carbon dioxide, which leads to global warming
+Heating
+The majority of heating systems run on fossil fuels
+Gas central heating systems are the most common, with a gas boiler that heats
+water through a system of pipes and radiators throughout the building
+Boilers can also be powered by oil or biofuels
+Open fireplaces burn wood or coal
+Electric heaters run on electricity
+Bottled gas can also be used in portable heaters
+Bottled gas is either propane or butane which are also produced from fossil fuels
+Biofuels
+Biofuels are made from plant matter
+Energy from sunlight is transferred to the chemical store of plants
+Ethanol or methane can be produced and used in place of fossil fuels
+However, they have only half the energy density of fossil fuels
+Advantages of biofuelYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Biofuel is a renewable resource
+Some vehicles can be powered by biofuel rather than using fossil fuels
+Biofuel is considered to be carbon neutral
+No sulphur dioxide is produced 
+Biofuel is added to petrol and diesel products in many country to reduce the volume of
+pollutants released in combustion 
+Disadvantages of biofuel
+Crops of biofuel producing plants must be grown, which takes time
+Growing the crops takes a lot of land, and takes resources needed for food
+production
+Burning biofuels releases carbon dioxide into the atmosphere
+Biofuels are considered carbon neutral because plantstake in carbon dioxide when
+they photosynthesise, however, this view is controversial
+If the land had been used to grow crops for food, the same amount of carbon would
+have been taken out of the atmosphere, and much less carbon would have been
+returned
+Biofuels have only half the energy density of fossil fuels, which means twice as much fuel
+needs to be used to release the same amount of energy
+Not many vehicles can run on biofuel alone
+Cycle of biofuel production and useYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+Plants take in carbon dioxide during photosynthesis, but carbon dioxide is released back
+into the atmosphere when biofuels are burned
+Nuclear fuel
+Energy stored in the nucleus of atoms can be released when the nucleus is broken in two
+This is known as nuclear fission
+ Nuclear fissionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+Nuclear Fission: when a large nucleus is broken into two smaller nuclei, energy is released
+Nuclear power stations use fission reactions to heat water to produce steam, to turn
+turbines that turn generators which generate electricity
+Advantages of nuclear power
+No pollution released into atmosphere
+Nuclear power stations are extremely reliable and well established in some countries
+Nuclear power stations are responsive as the output is easily controlled
+Nuclear power stations produce massive amounts of power
+Twice the power output of a fossil fuel power station
+Nuclear fuel has a high energy density
+A small amount of fuel releases massive amounts of energy
+Disadvantages of nuclear power
+Nuclear power is a non-renewable resource
+Uranium ore mined from rocks so there is a finite supply
+Nuclear fuels produce radioactive waste
+Radioactive waste is packaged and buried underground to be stored for thousands
+of years
+Burial sites must remain undisturbed and uninhabited
+Nuclear power stations are extremely expensive to build and to decommission (close
+down)Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Nuclear power stations are expensive to run and maintain because rigorous safety
+protocols must be in place
+Nuclear power stations are potentially dangerous in the event of an accident
+Examiner Tips and Tricks
+In your IGCSE exam, you may be required to discuss the advantages and
+disadvantages of various energy resources. You may also need to apply your
+understanding of energy resources to unfamiliar scenarios, for example, by
+suggesting which type of energy resource would be best for a particular community.
+Make sure you can justify your choices.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Energy from Water
+Wave & tide power
+Energy can be obtained from the kinetic store of the waves and tides
+The motion of the water is used to turn a turbine, which turns a generator, which
+generates electricity
+Wave power
+Wave power uses underwater turbines 
+The waves move the water which causes the turbines to turn
+Turbines using wave power
+Underwater turbines generate electricity
+Tidal power
+Tidal power uses tidal barrages to store water at a height as the tide comes in and goes
+out
+When the barrage is opened, water flows through a channel over a turbine
+Tidal barrageYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+A tidal barrage stores water at a height and then opens a gate allowing water to flow over
+a turbine
+Advantages of wave and tidal power
+Wave and tide power produce no pollution or greenhouse gases as no fuel is needed
+No fuel costs
+Tides are regular, so tide power is reliable and predictable
+Large amounts of electricity can be produced at regular intervals
+Wave and tidal power stations are responsive; they can be turned off and on quickly to
+meet demand
+Wave and tidal power are renewable energy resources
+Smaller power stations are are useful for small islands
+Wave and tidal power stations are inexpensive to build and cheap to run
+Wave and tidal power stations are very efficient (around 80%)
+Disadvantages of wave and tidal power
+Tidal barrages are built in estuaries so there are not many suitable locationsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+The underwater turbines and tidal barrages can interfere with shipping routes and cause
+damage to habitats
+The technology for wave and tidal power is not currently advanced enough for large-
+scale electricity generation
+Wave and tidal power stations have a long construction time compared to some other
+power station types
+Waves power is unreliable as the waves are not always large enough to turn the turbines
+Hydroelectric dams
+When water is stored above ground level, it has energy in its gravitational potential store
+This energy can be transferred to kinetic energy if the water is allowed to flow down the
+slope
+Flowing water turns the turbine to generate electricity
+A hydroelectric dam
+A hydroelectric dam transfers energy mechanically from the gravitational potential
+energy store of the water to its kinetic energy store. The moving water turns the turbine
+Advantages of hydroelectric power
+Hydroelectric dams are reliable and well established in most countries
+Hydroelectric power stations are responsive because they can be turned on and off
+easily to meet changing demand
+Hydroelectric power stations are cheap to run
+Hydroelectric power stations can produce large amounts of electricity
+Water is a renewable energy resourceYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Disadvantages of hydroelectric power
+Valleys are flooded to create the reservoir used to store the water, which destroys
+habitats, towns and villages
+Pumping systems are sometimes used to return the water to the reservoir
+Pumping systems use fossil fuels, which release greenhouse gases and pollution
+into the atmosphere
+Hydroelectric power stations are expensive to build because the land and properties
+need to be acquired in order to build the reservoir 
+High-voltage power lines are required to transmit electricity to the National Grid
+Drought can affect the supply of water
+Examiner Tips and Tricks
+In your IGCSE exam, you may be required to discuss the advantages and
+disadvantages of various energy resources. You may also need to apply your
+understanding of energy resources to unfamiliar scenarios, for example, by
+suggesting which type of energy resource would be best for a particular community.
+Make sure you can justify your choices.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+Geothermal Energy
+Geothermal energy
+Tectonic activity causes areas where the rocks below ground become heated
+Energy in the thermal store of the rocks can be obtained by:
+Drilling shafts into the Earth's surface to expose the heated rocks
+Injecting water into the shaft which is heated by the rocks
+The water is returned via another shaft as steam or hot water
+The steam can be used to turn a turbine and generate electricity
+The hot water can be used to heat homes and provide a hot water supply to
+households
+Geothermal power station
+Cold water is heated by the rocks and returned as hot water or steam, which can be used
+to generate electricity
+Advantages of geothermal energy
+Geothermal energy is renewable
+Geothermal power stations are reliable because the rocks remain hot for thousands of
+years so they can consistently produce electricity
+Disadvantages of geothermal energyYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+Geothermal energy depends on tectonic activity, so there are few suitable locations on
+Earth
+Methane (natural gas) is found in spaces between rocks and can be forced out when
+water is injected into the rocks (fracking)
+Methane is a greenhouse gas which contributes to global warming (even without
+combustion)
+Geothermal power stations are expensive to build
+Geothermal power stations are small so they are not suitable for large-scale electricity
+production
+Geothermal power stations are not very efficient (around 12%)
+Examiner Tips and Tricks
+In your IGCSE exam, you may be required to discuss the advantages and
+disadvantages of various energy resources. You may also need to apply your
+understanding of energy resources to unfamiliar scenarios, for example, by
+suggesting which type of energy resource would be best for a particular community.
+Make sure you can justify your choices.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Nuclear Fusion
+Nuclear fusion
+Extended tier only
+The Sun releases energy by the process of nuclear fusion in its core
+Nuclear fusion involves the fusing of hydrogen nuclei to form helium nuclei,
+releasing massive amounts energy in the process
+Nuclear fusion
+Fusion is the process in which small nuclei, such as hydrogen, are fused together to form
+larger nuclei, releasing energy in the process
+It is theoretically possible to produce a fusion reactor that could be used to generate
+electricity
+This technology could potentially solve the world's energy crisis
+Fusion requires extremely high temperatures and high pressures, like in the centre of a
+star
+Scientists are currently researching how to sustain a fusion reaction at lower
+temperatures
+International research projects funded by some of the world's largest businesses
+are making progress with some promising results
+Currently, the fusion reactions require nearly as much energy as they release, but
+progress is being made toward net energy production
+If they succeed, virtually limitless amounts of energy could be produced, with large-
+scale, carbon-free electricity generationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+

@@ -1,0 +1,187 @@
+================================================================================
+          SECTION 3.3 MEASURING DENSITY - PRACTICE EXERCISES
+================================================================================
+
+Learning Objectives Covered:
+  * Describe how to determine the density of a liquid.
+  * Describe how to determine the density of a regularly shaped solid.
+  * Describe how to determine the density of an irregularly shaped solid
+    which sinks in a liquid (volume by displacement).
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE
+================================================================================
+
+1. To find the density of a regular solid, you need to measure:
+   A: Mass and time
+   B: Mass and volume
+   C: Volume and speed
+   D: Force and area
+
+2. The volume of an irregularly shaped stone can be found using:
+   A: A ruler
+   B: A stopwatch
+   C: The displacement method
+   D: A balance
+
+3. A metal block has a mass of 540 g and a volume of 200 cm³.
+   What is its density?
+   A: 0.37 g/cm³
+   B: 2.7 g/cm³
+   C: 340 g/cm³
+   D: 108 000 g/cm³
+
+4. A measuring cylinder contains 40 cm³ of water. When a stone is
+   added, the level rises to 55 cm³. The volume of the stone is:
+   A: 15 cm³
+   B: 40 cm³
+   C: 55 cm³
+   D: 95 cm³
+
+5. To measure the density of a liquid, you need:
+   A: A ruler and a balance
+   B: A measuring cylinder and a balance
+   C: A thermometer and a stopwatch
+   D: A force meter and a ruler
+
+6. A Eureka can is used to measure:
+   A: The mass of an object
+   B: The temperature of water
+   C: The volume of an irregular object by displacement
+   D: The weight of an object
+
+7. Which instrument is best for measuring the dimensions of a small
+   metal sphere for a density calculation?
+   A: Metre ruler
+   B: Tape measure
+   C: Vernier calipers
+   D: Trundle wheel
+
+8. A student measures the density of a liquid as 0.8 g/cm³.
+   What is this in kg/m³?
+   A: 0.0008 kg/m³
+   B: 0.8 kg/m³
+   C: 80 kg/m³
+   D: 800 kg/m³
+
+================================================================================
+                    SECTION B: SHORT ANSWER & STRUCTURED
+================================================================================
+
+9. Describe the step-by-step method for finding the density of a
+   rectangular metal block. Include the measurements needed and
+   the calculations. [4]
+
+10. A student wants to find the density of an irregularly shaped stone.
+    Describe the displacement method she should use. [4]
+
+11. An aluminium cube has sides of length 3 cm and a mass of 72.9 g.
+
+    (a) Calculate the volume of the cube in cm³. [1]
+
+    (b) Calculate the density of aluminium. [2]
+
+    (c) Convert your answer to kg/m³. [1]
+
+12. A student measures the density of a liquid using a measuring
+    cylinder and a balance.
+
+    Her results are:
+    - Mass of empty measuring cylinder = 85 g
+    - Mass of cylinder + liquid = 165 g
+    - Volume of liquid in cylinder = 100 cm³
+
+    (a) Calculate the mass of the liquid. [1]
+
+    (b) Calculate the density of the liquid. [2]
+
+    (c) The student suspects the liquid is cooking oil (density 0.92 g/cm³).
+        Does her result support this? Explain your answer. [2]
+
+13. A student uses a Eureka can to find the volume of a small rock.
+
+    The mass of the rock is 84 g.
+    The water displaced by the rock fills a measuring cylinder
+    to the 28 cm³ mark.
+
+    (a) State the volume of the rock. [1]
+
+    (b) Calculate the density of the rock. [2]
+
+    (c) Water has a density of 1.0 g/cm³. Explain why the rock sinks
+        in water, using your calculated density. [1]
+
+14. A student is given two metal cylinders, A and B, that look identical
+    in size. She is asked to determine whether they are made of the
+    same material.
+
+    Her measurements:
+    ┌──────────┬───────────────┬───────────────┬───────────────┐
+    │ Cylinder │ Mass (g)      │ Diameter (cm) │ Height (cm)   │
+    ├──────────┼───────────────┼───────────────┼───────────────┤
+    │ A        │ 169.6         │ 2.0           │ 5.0           │
+    ├──────────┼───────────────┼───────────────┼───────────────┤
+    │ B        │ 124.4         │ 2.0           │ 5.0           │
+    └──────────┴───────────────┴───────────────┴───────────────┘
+
+    (a) Calculate the volume of each cylinder.
+        (V = πr²h; use π = 3.14) [2]
+
+    (b) Calculate the density of cylinder A. [2]
+
+    (c) Calculate the density of cylinder B. [2]
+
+    (d) Are the cylinders made of the same material? Justify your
+        answer. [2]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+1.  B (Mass and volume) - ρ = m/V
+2.  C (The displacement method) - submerge in water
+3.  B (2.7 g/cm³) - ρ = 540/200 = 2.7 g/cm³
+4.  A (15 cm³) - V = 55 − 40 = 15 cm³
+5.  B (A measuring cylinder and a balance)
+6.  C (The volume of an irregular object by displacement)
+7.  C (Vernier calipers) - higher resolution for small objects
+8.  D (800 kg/m³) - multiply by 1000 to convert g/cm³ to kg/m³
+
+9.  1) Place the block on a digital balance and record its mass [1].
+    2) Use a ruler or vernier calipers to measure the length, width
+       and height of the block [1].
+    3) Calculate the volume: V = l × w × h [1].
+    4) Calculate the density: ρ = m / V [1].
+
+10. 1) Measure the mass of the stone on a digital balance [1].
+    2) Fill a measuring cylinder with water and record the level (V₁) [1].
+    3) Carefully lower the stone into the water and record the new
+       level (V₂) [1].
+    4) Volume of stone = V₂ − V₁. Calculate density: ρ = m / V [1].
+    (Alternatively, describe using a Eureka can.)
+
+11. (a) V = 3 × 3 × 3 = 27 cm³ [1]
+    (b) ρ = m / V = 72.9 / 27 [1] = 2.7 g/cm³ [1]
+    (c) 2.7 × 1000 = 2700 kg/m³ [1]
+
+12. (a) Mass of liquid = 165 − 85 = 80 g [1]
+    (b) ρ = m / V = 80 / 100 [1] = 0.80 g/cm³ [1]
+    (c) The measured density (0.80 g/cm³) is close to but slightly
+        lower than cooking oil (0.92 g/cm³) [1]. The result does not
+        strongly support this — there is a difference of about 13%,
+        which is beyond normal experimental error. The liquid may be
+        a different type of oil or another substance [1].
+
+13. (a) Volume of rock = 28 cm³ [1]
+    (b) ρ = m / V = 84 / 28 [1] = 3.0 g/cm³ [1]
+    (c) The rock's density (3.0 g/cm³) is greater than water's density
+        (1.0 g/cm³), so the rock sinks [1].
+
+14. (a) r = 2.0 / 2 = 1.0 cm
+        V = πr²h = 3.14 × 1.0² × 5.0 [1] = 15.7 cm³ [1]
+        (Both cylinders have the same volume.)
+    (b) ρ_A = 169.6 / 15.7 [1] = 10.8 g/cm³ [1]
+    (c) ρ_B = 124.4 / 15.7 [1] = 7.9 g/cm³ [1]
+    (d) No, they are not made of the same material [1]. They have
+        different densities (10.8 g/cm³ vs 7.9 g/cm³). Cylinder A
+        could be silver or lead; Cylinder B could be iron/steel [1].

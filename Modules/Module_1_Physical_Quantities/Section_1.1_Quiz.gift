@@ -1,0 +1,409 @@
+// Module 1 Section 1.1 Exercises
+// Added feedback to all questions
+$CATEGORY: Module 1/Section 1.1
+
+// ================================================================================
+// SECTION A: MULTIPLE CHOICE
+// ================================================================================
+
+::Q1:: Which instrument is most suitable for measuring the length of a laboratory bench? {
+    ~30 cm ruler#Too short for a bench.
+    =Tape measure#Correct! A tape measure is suitable for lengths of several metres.
+    ~Trundle wheel#Best for very long distances like a field.
+    ~Measuring cylinder#Measures volume, not length.
+}
+
+::Q2:: What is the resolution of a standard metre ruler? {
+    ~0.01 mm#Micrometer resolution.
+    ~0.1 mm#Vernier calliper resolution.
+    =1 mm#Correct! A standard ruler has markings every 1 mm.
+    ~1 cm#Too large.
+}
+
+::Q3:: The volume of an irregular solid can be found by: {
+    ~Measuring its length, width and height#Only works for regular shapes.
+    =Using the displacement method with a measuring cylinder#Correct! This measures the volume of water displaced by the object.
+    ~Placing it on a digital balance#Measures mass, not volume.
+    ~Using a stopwatch#Measures time.
+}
+
+::Q4:: A measuring cylinder contains 45 cm³ of water. A stone is lowered in and the reading rises to 62 cm³. What is the volume of the stone? {
+    =17 cm³#Correct! 62 - 45 = 17 cm³.
+    ~45 cm³#This is the initial volume.
+    ~62 cm³#This is the final volume.
+    ~107 cm³#You added the volumes instead of subtracting.
+}
+
+::Q5:: The typical human reaction time is approximately: {
+    ~0.025 s#Too fast.
+    =0.25 s#Correct! Typical reaction time is between 0.2 and 0.3 s.
+    ~2.5 s#Too slow.
+    ~25 s#Way too slow.
+}
+
+::Q6:: A student measures the time for 20 complete swings of a pendulum as 26.0 s. What is the period of one swing? {
+    ~0.77 s#Incorrect calculation.
+    =1.30 s#Correct! 26.0 / 20 = 1.30 s.
+    ~5.20 s#Incorrect calculation.
+    ~520 s#You multiplied instead of dividing.
+}
+
+::Q7:: Which of the following is a vector quantity? {
+    ~Distance#Scalar (magnitude only).
+    ~Speed#Scalar (magnitude only).
+    ~Mass#Scalar (magnitude only).
+    =Force#Correct! Force has both magnitude and direction.
+}
+
+::Q8:: Which of the following is a scalar quantity? {
+    ~Weight#Vector (force due to gravity).
+    ~Velocity#Vector (speed with direction).
+    =Energy#Correct! Energy has magnitude but no direction.
+    ~Acceleration#Vector (rate of change of velocity).
+}
+
+::Q9:: Two perpendicular forces of 3 N and 4 N act on an object. What is the magnitude of the resultant force? {
+    ~1 N#Incorrect.
+    =5 N#Correct! √(3² + 4²) = √(9 + 16) = √25 = 5 N.
+    ~7 N#You added them as scalars (3+4).
+    ~12 N#Incorrect.
+}
+
+::Q10:: A student wants to measure the length of a football pitch. The best instrument to use is: {
+    ~30 cm ruler#Too short.
+    ~Tape measure#Possible, but a trundle wheel is easier for long ground distances.
+    =Trundle wheel#Correct! Designed for measuring long distances on the ground.
+    ~Measuring cylinder#Measures volume.
+}
+
+::Q11:: To avoid parallax error when reading a measuring cylinder, the eye must be: {
+    ~Above the water level#Causes reading to be too high.
+    ~Below the water level#Causes reading to be too low.
+    =Level with the bottom of the meniscus#Correct!
+    ~Looking through the side of the cylinder#Vague.
+}
+
+::Q12:: A force of 8 N acts east and a force of 6 N acts north on the same object. What is the magnitude of the resultant force? {
+    ~2 N#Incorrect.
+    =10 N#Correct! √(8² + 6²) = √(64 + 36) = √100 = 10 N.
+    ~14 N#You added them as scalars.
+    ~48 N#You multiplied them.
+}
+
+::Q13:: A fiducial marker is used in timing experiments to: {
+    ~Increase the time period of a pendulum#Incorrect.
+    ~Replace the stopwatch#Incorrect.
+    =Mark the reference point for starting and stopping the timer#Correct! It helps reduce timing errors.
+    ~Measure the length of the pendulum#Incorrect.
+}
+
+::Q14:: Which pair correctly shows a scalar and a vector quantity? {
+    ~Speed and mass#Both are scalars.
+    ~Energy and temperature#Both are scalars.
+    ~Displacement and weight#Both are vectors.
+    =Speed and velocity#Correct! Speed is scalar, velocity is vector.
+}
+
+::Q15:: A student measures the thickness of 50 sheets of paper as 4.5 cm. What is the thickness of one sheet? {
+    ~0.009 cm#Incorrect calculation.
+    =0.09 cm#Correct! 4.5 cm / 50 = 0.09 cm.
+    ~0.9 cm#Incorrect calculation.
+    ~225 cm#You multiplied instead of dividing.
+}
+
+// ================================================================================
+// SECTION B: TRUE/FALSE WITH JUSTIFICATION
+// ================================================================================
+
+::Q16:: Statement: A measuring cylinder can be used to measure both the volume of a liquid and the volume of an irregular solid. {T#Correct! For solids, use the displacement method.}
+
+::Q17:: Statement: If two students time the same event using stopwatches, they should always get exactly the same reading. {F#Incorrect. Human reaction time varies, leading to slightly different readings.}
+
+::Q18:: Statement: Velocity is a scalar quantity because it only describes how fast an object moves. {F#Incorrect. Velocity is a vector; it describes speed AND direction.}
+
+::Q19:: Statement: A trundle wheel is more suitable than a ruler for measuring the perimeter of a running track. {T#Correct! Rulers are too short for such large distances.}
+
+::Q20:: Statement: The resultant of two forces acting at right angles is always larger than either of the individual forces. {T#Correct! The hypotenuse is always the longest side of a right-angled triangle.}
+
+::Q21:: Statement: Timing 20 swings of a pendulum and dividing by 20 gives a less accurate result than timing a single swing. {F#Incorrect. Timing multiple swings reduces the percentage error from reaction time, making it MORE accurate.}
+
+// ================================================================================
+// SECTION C: FILL-IN-THE-BLANK
+// ================================================================================
+
+::Q22:: A scalar quantity has {=magnitude} only, while a vector quantity has both {=magnitude} and {=direction}.
+
+::Q23:: The volume of a liquid is typically measured using a {=measuring cylinder}.
+
+::Q24:: To reduce the percentage error when measuring the period of a pendulum, you should time {=many =20 =multiple} complete swings and then {=divide} the total time by the number of swings.
+
+::Q25:: When reading a measuring cylinder, you should read the level at the bottom of the {=meniscus} to avoid {=parallax} error.
+
+::Q26:: Distance, speed, time, mass, energy and {=temperature} are all examples of {=scalar} quantities.
+
+::Q27:: Force, weight, velocity, acceleration, {=momentum} and gravitational field strength are all examples of {=vector} quantities.
+
+// ================================================================================
+// SECTION D: MATCHING (No specific feedback supported in standard GIFT matching)
+// ================================================================================
+
+::Q28:: Match each measuring instrument to its most appropriate use. {
+    =Ruler -> Width of a pencil
+    =Tape measure -> Length of a desk
+    =Trundle wheel -> Length of a sports field
+    =Measuring cylinder -> Volume of water in a beaker
+    =Stopwatch -> Time for one lap of a track
+}
+
+::Q29:: Match each quantity to whether it is a scalar or vector. {
+    =Momentum -> Vector
+    =Temperature -> Scalar
+    =Displacement -> Vector
+    =Speed -> Scalar
+    =Electric field strength -> Vector
+}
+
+// ================================================================================
+// SECTION E: SHORT ANSWER (CONVERTED TO MCQ)
+// ================================================================================
+
+::Q30:: State the most appropriate measuring instrument for the diameter of a coin. {=Ruler =30 cm ruler#Correct!}
+
+::Q31:: State the most appropriate measuring instrument for the distance around a running track. {=Trundle wheel#Correct! Suitable for long distances.}
+
+::Q32:: State the most appropriate measuring instrument for the volume of juice in a glass. {=Measuring cylinder#Correct!}
+
+::Q33:: Which definition correctly describes scalar and vector quantities? {
+    =A scalar has magnitude only, while a vector has magnitude and direction.#Correct!
+    ~A scalar has magnitude and direction, while a vector has magnitude only.#Reversed.
+    ~Both scalars and vectors have magnitude and direction.#Scalars do not have direction.
+    ~Both scalars and vectors have magnitude only.#Vectors have direction.
+}
+
+::Q34:: Which of the following lists contains only scalar quantities? {
+    =Distance, speed, time, mass, energy#Correct! All represent magnitude only.
+    ~Distance, velocity, time, weight, energy#Velocity and weight are vectors.
+    ~Displacement, speed, acceleration, mass, temperature#Displacement and acceleration are vectors.
+    ~Force, weight, velocity, acceleration, momentum#All are vectors.
+}
+
+::Q35:: What is the difference between distance and displacement? {
+    =Distance is the total path length (scalar); displacement is the straight-line distance with direction (vector).#Correct!
+    ~Distance is the straight-line distance (vector); displacement is the total path length (scalar).#Reversed definitions.
+    ~Distance implies a long way; displacement implies a short way.#Incorrect.
+    ~There is no difference; they are synonyms.#Incorrect in physics.
+}
+
+::Q36:: Which precaution helps avoid parallax error when using a ruler? {
+    =Reading the scale at eye level perpendicular to the mark.#Correct!
+    ~Holding the ruler at arm's length.#Does not prevent angle errors.
+    ~Using a ruler with finer divisions.#Improves precision but not parallax.
+    ~Reading the scale from an angle.#This CAUSES parallax error.
+}
+
+// ================================================================================
+// SECTION F: CALCULATIONS
+// ================================================================================
+
+::Q37:: A student wants to measure the thickness of a single sheet of paper. She measures the thickness of 80 sheets stacked together and obtains a reading of 9.6 mm. Calculate the thickness of a single sheet of paper (in mm). {#0.12#Correct! 9.6 / 80 = 0.12 mm}
+
+::Q38:: A student times 25 complete swings of a pendulum using a stopwatch. The total time recorded is 32.5 s. Calculate the period of one complete swing (in s). {#1.3#Correct! 32.5 / 25 = 1.3 s}
+
+::Q39:: What is the main advantage of timing 25 swings of a pendulum rather than just one swing? {
+    =It reduces the percentage error caused by human reaction time.#Correct!
+    ~It allows the pendulum to slow down and stop.#Irrelevant.
+    ~It increases the random error in the measurement.#It reduces the effect of random error.
+    ~It makes the calculation easier.#Incorrect.
+}
+
+::Q40:: A horizontal force of 9 N and a vertical force of 12 N act on an object at the same time. Calculate the magnitude of the resultant force (in N). {#15#Correct! √(9² + 12²) = 15 N}
+
+::Q41:: Calculate the angle between the resultant and the horizontal force (in degrees). {#53.1:0.5#Correct! tan⁻¹(12/9) = 53.1°}
+
+::Q42:: A ship sails 24 km due east and then 10 km due north. State the total distance travelled by the ship (in km). {#34#Correct! 24 + 10 = 34 km}
+
+::Q43:: Calculate the magnitude of the ship's displacement from its starting point (in km). {#26#Correct! √(24² + 10²) = 26 km}
+
+::Q44:: Calculate the angle of the displacement measured from due east (in degrees). {#22.6:0.5#Correct! tan⁻¹(10/24) = 22.6°}
+
+::Q45:: A force of 50 N acts horizontally and a force of 120 N acts vertically on a box. Calculate the magnitude of the resultant force on the box (in N). {#130#Correct! √(50² + 120²) = 130 N}
+
+::Q46:: Calculate the angle between the resultant force and the horizontal (in degrees). {#67.4:0.5#Correct! tan⁻¹(120/50) = 67.4°}
+
+::Q47:: If the horizontal force doubled to 100 N while the vertical force stayed the same, calculate the new resultant force (in N). {#156:1#Correct! √(100² + 120²) = 156 N}
+
+::Q48:: A stopwatch reads 1:12.35 at the start of a race and 1:37.85 at the finish. Calculate the time taken for the race (in s). {#25.5#Correct! 97.85s - 72.35s = 25.50s}
+
+::Q49:: A displacement of 5 m east is followed by a displacement of 12 m north. Calculate the magnitude of the resultant displacement (in m). {#13#Correct! √(5² + 12²) = 13 m}
+
+::Q50:: Calculate the angle of the resultant measured from east (in degrees). {#67.4:0.5#Correct! tan⁻¹(12/5) = 67.4°}
+
+::Q51:: A force F has a horizontal component of 15 N and acts at 60° to the horizontal. Calculate the vertical component of F (in N). {#26.0:0.1#Correct! 15 × tan(60°) = 26.0 N}
+
+::Q52:: Calculate the magnitude of the force F (in N). {#30#Correct! 15 / cos(60°) = 30 N}
+
+// ================================================================================
+// SECTION G: DATA INTERPRETATION (CONVERTED TO MCQ/NUMERIC)
+// ================================================================================
+
+::Q53:: A student measures the time period of a pendulum by timing different numbers of swings. 5 swings = 6.7 s; 10 swings = 13.0 s; 20 swings = 26.4 s; 50 swings = 65.0 s. Calculate the period for 50 swings (in s). {#1.3#Correct! 65.0 / 50 = 1.3 s}
+
+::Q54:: Which measurement of the pendulum period is likely to be the most accurate? {
+    =The one using 50 swings, because the total time is longest.#Correct! This minimizes percentage error from reaction time.
+    ~The one using 5 swings, because it's quickest.#Least accurate due to high percentage error.
+    ~The one using 10 swings, because it's an easy number to divide.#Not the most accurate.
+    ~All measurements are equally accurate.#Incorrect.
+}
+
+::Q55:: Calculate the average period from all four measurements (in s). {#1.32:0.02#Correct! Average of 1.34, 1.30, 1.32, 1.30 is 1.315}
+
+::Q56:: Why does the period calculated from 5 swings (1.34 s) differ most from the others (1.30 s, 1.32 s)? {
+    =A small number of swings means reaction time is a larger percentage of the total time.#Correct!
+    ~The pendulum slowed down too much during 5 swings.#Amplitude affects period negligibly for small angles.
+    ~The student was tired during the first measurement.#Unlikely physics explanation.
+    ~The pendulum length changed during the experiment.#Unlikely.
+}
+
+::Q57:: Diagram Interpretation: Before: 35 cm³. After: 42 cm³ with a key inside.
+(a) Volume of water before key: {=35} cm³
+(b) Volume of water after key: {=42} cm³
+(c) Volume of key: {=7#Correct! 42 - 35 = 7} cm³
+(d) Precaution: {=Read at eye level#Correct! =Read bottom of meniscus}
+
+::Q58:: A student records the following data for the time taken for a ball to roll down a ramp: 2.35 s, 2.42 s, 2.28 s, 2.39 s, 2.31 s. Calculate the average (mean) time (in s). {#2.35#Correct! Sum=11.75, divided by 5 = 2.35}
+
+::Q59:: Why is taking five readings better than taking one? {
+    =It helps to identify anomalous results and reduces random error.#Correct!
+    ~It reduces systematic error.#Systematic error shifts all readings; averaging doesn't remove it.
+    ~It proves the hypothesis is correct.#Data can disprove hypotheses too.
+    ~It makes the graph look better.#Irrelevant.
+}
+
+::Q60:: The accepted value is 2.36 s. Calculate the percentage error in the student's average (to 2 d.p.). {#0.42:0.02#Correct! (0.01 / 2.36) * 100 = 0.42%}
+
+// ================================================================================
+// SECTION H: COMPARE & CONTRAST (CONVERTED TO MCQ)
+// ================================================================================
+
+::Q61:: Which statement best compares distance and displacement? {
+    =Distance is the scalar path length; displacement is the vector change in position.#Correct!
+    ~Distance is the vector change in position; displacement is the scalar path length.#Reversed.
+    ~Distance is always smaller than displacement.#Distance is always >= displacement magnitude.
+    ~Displacement is always measured in Newtons.#Displacement is measured in metres.
+}
+
+::Q62:: Comparing a ruler and a trundle wheel, which statement is true? {
+    =A ruler has higher resolution but limited range; a trundle wheel measures long distances quickly but with lower resolution.#Correct!
+    ~A trundle wheel is more precise than a ruler for measuring small objects.#Trundle wheels are coarse.
+    ~A ruler is suitable for measuring the length of a football field.#Impractical.
+    ~Both instruments have the same resolution.#Ruler is mm, trundle wheel usually cm or m.
+}
+
+::Q63:: What is the key difference between scalar and vector quantities? {
+    =Vectors have direction, scalars do not.#Correct!
+    ~Scalars have direction, vectors do not.#Reversed.
+    ~Vectors are always larger than scalars.#Incorrect.
+    ~Scalars are measured in kg, vectors in N.#Examples, not the definition.
+}
+
+// ================================================================================
+// SECTION I: STRUCTURED QUESTIONS (CONVERTED TO MCQ/NUMERIC)
+// ================================================================================
+
+::Q64:: What is meant by the "period" of a pendulum? {
+    =The time taken for one complete swing (oscillation).#Correct!
+    ~The time taken for the pendulum to stop swinging.#Incorrect.
+    ~The number of swings per second.#This is frequency.
+    ~The length of the string.#This is length.
+}
+
+::Q65:: She measures the time for 20 complete swings as 24.6 s. Calculate the period of one swing (in s). {#1.23#Correct! 24.6 / 20 = 1.23 s}
+
+::Q66:: Why did the student time 20 swings instead of just one? {
+    =To reduce the relative error due to reaction time.#Correct!
+    ~To enable the pendulum to swing faster.#Incorrect.
+    ~Because 20 is an even number.#Irrelevant.
+    ~To test her patience.#Unlikely.
+}
+
+::Q67:: How does a fiducial marker improve the accuracy of a pendulum experiment? {
+    =It provides a clear reference point to start and stop timing.#Correct!
+    ~It measures the length of the string automatically.#Incorrect.
+    ~It increases the air resistance.#Incorrect.
+    ~It stops the pendulum from swinging too wide.#Incorrect.
+}
+
+::Q68:: The student repeats the experiment with a longer pendulum and finds the time for 20 swings is 31.2 s. Calculate the new period. {#1.56#Correct! 31.2 / 20 = 1.56 s}
+
+::Q69:: Which method is best for finding the volume of an irregular object like a stone? {
+    =Displacement method using a measuring cylinder.#Correct!
+    ~Measuring length × width × height.#Only for regular shapes.
+    ~Weighing it on a balance.#Measures mass.
+    ~Timing how long it takes to fall.#Irrelevant.
+}
+
+::Q70:: When using the displacement method, what is the correct procedure? {
+    =Measure initial water volume, submerge stone, measure final volume, subtract initial from final.#Correct!
+    ~Measure initial water volume, add stone, empty cylinder, measure stone volume.#Impractical.
+    ~Weigh the stone, measure water volume, divide mass by volume.#Calculates density, not volume.
+    ~Fill cylinder to the brim, add stone, measure overflow with a ruler.#Overflow should be measured with a cylinder.
+}
+
+::Q71:: The initial water level is 58 cm³ and the final level is 73 cm³. Calculate the volume of the stone (in cm³). {#15#Correct! 73 - 58 = 15 cm³}
+
+::Q72:: Which condition must be met for the displacement method? {
+    =The object must sink and not absorb the liquid.#Correct!
+    ~The object must float.#If it floats, it won't displace its full volume.
+    ~The object must dissolve in the liquid.#If it dissolves, volume is lost.
+    ~The water must be hot.#Irrelevant.
+}
+
+::Q73:: The student finds the stone has a mass of 37.5 g. Calculate the density of the stone using the volume found in part (c) (in g/cm³). {#2.5#Correct! 37.5 / 15 = 2.5 g/cm³}
+
+// ================================================================================
+// SECTION J: ERROR ANALYSIS (CONVERTED TO MCQ/NUMERIC)
+// ================================================================================
+
+::Q74:: A student measures time as 12.45 s. Electronic timing records 12.10 s. Calculate the difference (in s). {#0.35#Correct! 12.45 - 12.10 = 0.35 s}
+
+::Q75:: What is the most likely reason for the difference between the hand-timed (12.45 s) and electronic (12.10 s) results? {
+    =Human reaction time delayed stopping the watch.#Correct!
+    ~The electronic timer was broken.#Unlikely.
+    ~The runner ran faster for the manual timer.#It was the same race.
+    ~The stopwatch runs faster than real time.#Unlikely.
+}
+
+::Q76:: How could this timing error be reduced? {
+    =Use electronic light gates / sensors.#Correct! Eliminates reaction time.
+    ~Use a louder starting gun.#Irrelevant.
+    ~Run the race slower.#Irrelevant.
+    ~Use a different brand of stopwatch.#Still relies on human time.
+}
+
+::Q77:: Would the human reaction delay in this case be systematic or random? {
+    =Systematic, if the student consistently clicks late at the finish.#Correct! Consistent error is systematic.
+    ~Random, because the student is guessing.#Reaction time is usually a consistent delay.
+    ~Systematic, because electronic timers are always wrong.#Incorrect.
+    ~Neither, it is a calculation error.#It is a measurement error.
+}
+
+::Q78:: A student reads 47 cm³ but the correct reading is 44 cm³. What caused this error? {
+    =Parallax error (reading from above the meniscus).#Correct!
+    ~Using a dirty measuring cylinder.#Unlikely to cause this specific error.
+    ~Evaporation of water.#Would lower the reading.
+    ~Expansion of the glass.#Negligible.
+}
+
+::Q79:: How should the student position themselves to avoid this error? {
+    =Eye level with the bottom of the meniscus.#Correct!
+    ~Looking down from above the cylinder.#Causes reading to be too high.
+    ~Looking up from below the cylinder.#Causes reading to be too low.
+    ~Closing one eye and squinting.#Irrelevant.
+}
+
+::Q80:: If the volume reading is too high (47 instead of 44), how will this affect the density calculation (Density = Mass / Volume)? {
+    =The calculated density will be lower than the true value.#Correct! Larger denominator = smaller result.
+    ~The calculated density will be higher than the true value.#Incorrect.
+    ~The density calculation will be unaffected.#Incorrect.
+    ~The density will become negative.#Impossible.
+}

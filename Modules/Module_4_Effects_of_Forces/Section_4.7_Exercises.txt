@@ -1,0 +1,629 @@
+================================================================================
+            SECTION 4.7 FRICTION - PRACTICE EXERCISES (50 Questions)
+================================================================================
+
+Learning Objectives Covered:
+  * Describe the effects of friction on motion.
+  * Identify situations where friction is useful and where it is a problem.
+  * Describe methods to reduce unwanted friction.
+  * Describe methods to increase friction where needed.
+
+Total Questions: 50
+Assessment Objectives: AO1 (25%), AO2 (50%), AO3 (25%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (10)
+================================================================================
+
+1. Friction is a force that:
+   A: Always helps motion
+   B: Opposes motion
+   C: Acts in the direction of motion
+   D: Only acts on stationary objects
+
+2. Which surface pair would produce the most friction?
+   A: Ice on ice
+   B: Rubber on concrete
+   C: Oil on metal
+   D: Teflon on Teflon
+
+3. Friction is useful when:
+   A: Cycling on a road
+   B: A car engine is running
+   C: A door hinge is moving
+   D: An airplane is flying
+
+4. Which method reduces friction?
+   A: Increasing surface roughness
+   B: Adding lubricant
+   C: Increasing the force pressing surfaces together
+   D: Using rubber instead of plastic
+
+5. Streamlining reduces:
+   A: Weight
+   B: Air resistance
+   C: Mass
+   D: Gravity
+
+6. Ball bearings reduce friction by:
+   A: Increasing surface area
+   B: Replacing sliding friction with rolling friction
+   C: Making surfaces rougher
+   D: Increasing weight
+
+7. Which situation requires high friction?
+   A: Skating on ice
+   B: Car brakes
+   C: Sliding down a slide
+   D: Moving parts in an engine
+
+8. Friction causes:
+   A: Objects to cool down
+   B: Energy to be transferred to heat
+   C: Objects to gain mass
+   D: Gravity to increase
+
+9. Which is NOT a way to reduce friction?
+   A: Lubrication
+   B: Polishing surfaces
+   C: Using ball bearings
+   D: Increasing surface roughness
+
+10. Tire treads are designed to:
+    A: Reduce friction with the road
+    B: Increase friction with the road
+    C: Make the tire lighter
+    D: Reduce air resistance
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION (8)
+================================================================================
+
+11. "Friction always opposes motion."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+12. "Friction is always unwanted and should be eliminated."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+13. "Lubricants reduce friction by separating surfaces."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+14. "Friction converts kinetic energy into heat energy."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+15. "Smooth surfaces always produce less friction than rough surfaces."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+16. "Air resistance is a type of friction."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+17. "Rolling friction is greater than sliding friction."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+18. "Friction only acts when objects are moving."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK (8)
+================================================================================
+
+WORD BANK: opposes, heat, lubricant, streamlining, rolling, air resistance,
+           useful, rough, smooth, ball bearings
+
+19. Friction is a force that __________ motion.
+
+20. Friction converts kinetic energy into __________ energy.
+
+21. A __________ such as oil or grease reduces friction between surfaces.
+
+22. __________ reduces air resistance by giving objects a smooth, aerodynamic 
+    shape.
+
+23. __________ replace sliding friction with rolling friction.
+
+24. __________ friction is less than sliding friction.
+
+25. Friction can be __________ in situations like walking or gripping objects.
+
+26. __________ surfaces generally produce more friction than __________ surfaces.
+
+================================================================================
+                    SECTION D: SHORT ANSWER QUESTIONS (10)
+================================================================================
+
+27. Define friction. [2]
+
+28. State the direction in which friction acts. [1]
+
+29. Explain why friction causes heating. [2]
+
+30. Give TWO examples where friction is useful. [2]
+
+31. Give TWO examples where friction is a problem. [2]
+
+32. Describe how lubricants reduce friction. [2]
+
+33. Explain how ball bearings reduce friction. [2]
+
+34. State what is meant by "streamlining". [2]
+
+35. Explain why car tires have treads. [2]
+
+36. Describe what happens to the kinetic energy of a moving object when 
+    friction acts on it. [2]
+
+================================================================================
+                    SECTION E: APPLICATIONS (15)
+================================================================================
+
+37. A cyclist is riding along a road.
+    (a) Identify TWO places where friction is useful. [2]
+    (b) Identify TWO places where friction is a problem. [2]
+    (c) Suggest how friction can be reduced in the problem areas. [2]
+
+38. Explain why:
+    (a) Ice skaters can glide easily on ice. [2]
+    (b) Rock climbers use chalk on their hands. [2]
+    (c) Car brakes get hot when used. [2]
+
+39. A student investigates friction by pulling a wooden block across different 
+    surfaces.
+    (a) Predict which surface will produce the most friction: glass, sandpaper, 
+        or carpet. [1]
+    (b) Explain your prediction. [2]
+    (c) Describe how the student could measure the friction force. [2]
+
+40. Explain how each of the following reduces friction:
+    (a) Oil in a car engine [2]
+    (b) Wax on skis [2]
+    (c) Air cushion under a hovercraft [2]
+
+41. A car travels at constant speed along a motorway.
+    (a) State the relationship between the engine force and the total friction 
+        force. [1]
+    (b) Explain why the car uses less fuel at 50 mph than at 70 mph. [2]
+
+42. Describe THREE design features of a racing car that reduce friction. [3]
+
+43. Explain why:
+    (a) Door hinges are oiled [2]
+    (b) Gymnasts use chalk on their hands [2]
+    (c) Bicycle chains are lubricated [2]
+
+44. A parachutist jumps from an airplane.
+    (a) Identify the friction force acting on the parachutist. [1]
+    (b) Explain how the parachute increases this friction force. [2]
+    (c) Describe what happens to the parachutist's kinetic energy. [2]
+
+45. Compare the friction between:
+    (a) A wheel rolling on a road vs. a block sliding on a road [2]
+    (b) A smooth metal surface vs. a rough metal surface [2]
+
+46. Explain how streamlining helps:
+    (a) Airplanes fly more efficiently [2]
+    (b) Swimmers move faster through water [2]
+
+47. A manufacturer designs running shoes.
+    (a) Explain why the soles are made from rubber with a tread pattern. [2]
+    (b) Suggest why the upper part is made from smooth, lightweight material. [2]
+
+48. Describe how friction affects:
+    (a) A car trying to stop on a wet road [2]
+    (b) A person walking on an icy pavement [2]
+
+49. Explain why:
+    (a) Sandpaper is rough [2]
+    (b) Bearings in a bicycle wheel are greased [2]
+
+50. A student rubs their hands together quickly.
+    (a) Describe what they feel. [1]
+    (b) Explain this observation in terms of energy transfer. [2]
+
+51. Compare friction in:
+    (a) A new car engine vs. an old car engine [2]
+    (b) Walking on dry ground vs. walking on wet ground [2]
+
+================================================================================
+                    SECTION F: STRUCTURED QUESTIONS (3)
+================================================================================
+
+52. Fig. 1 shows a block being pulled across a surface.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Force
+    PURPOSE: Show friction opposing motion
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 6
+    COMPONENTS:
+      [Surface]
+        Symbol: horizontal_line
+        Position: grid(0,4) to grid(12,4)
+      [Block]
+        Symbol: rectangle
+        Position: grid(5,3) to grid(7,4)
+        Label: "Block"
+      [Applied Force Arrow]
+        Symbol: arrow_right
+        Position: from block to right
+        Label: "Applied force = 20 N"
+      [Friction Arrow]
+        Symbol: arrow_left
+        Position: from block to left
+        Label: "Friction = ?"
+      [Motion Arrow]
+        Symbol: arrow_right
+        Position: above block
+        Label: "Motion →"
+    ---END DIAGRAM---
+
+    The block moves at constant velocity.
+
+    (a) State the magnitude of the friction force. [1]
+    
+    (b) Explain how you determined your answer. [2]
+    
+    (c) The surface is replaced with a rougher surface. The same force is 
+        applied. Describe what happens to the motion of the block. [2]
+    
+    (d) Suggest TWO ways to reduce the friction force. [2]
+
+53. A student investigates how friction depends on the type of surface.
+
+    They pull a wooden block across different surfaces and measure the force 
+    needed to keep it moving at constant speed.
+
+    ┌──────────────┬────────────────┐
+    │ Surface      │ Force needed   │
+    │              │ (N)            │
+    ├──────────────┼────────────────┤
+    │ Glass        │ 3              │
+    │ Wood         │ 5              │
+    │ Carpet       │ 8              │
+    │ Sandpaper    │ 12             │
+    └──────────────┴────────────────┘
+
+    (a) Which surface produces the most friction? [1]
+    
+    (b) Explain why different surfaces produce different amounts of friction. [2]
+    
+    (c) State what the force measured represents. [1]
+    
+    (d) The student adds oil to the glass surface. Predict what will happen to 
+        the force needed. Explain your answer. [3]
+    
+    (e) Suggest why the block must move at constant speed for this 
+        investigation. [2]
+
+54. Fig. 2 shows two vehicles: a sports car and a box van.
+
+    ---DIAGRAM: Fig. 2---
+    TYPE: Comparison
+    PURPOSE: Compare streamlined and non-streamlined vehicles
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 8
+    COMPONENTS:
+      [Sports Car - Streamlined]
+        Position: grid(2,5) to grid(5,7)
+        Shape: smooth, aerodynamic
+        Label: "Sports car"
+      [Box Van - Not streamlined]
+        Position: grid(8,4) to grid(11,7)
+        Shape: boxy, flat front
+        Label: "Box van"
+    ---END DIAGRAM---
+
+    Both vehicles travel at 70 mph on a motorway.
+
+    (a) Which vehicle experiences more air resistance? Explain. [3]
+    
+    (b) Explain why the sports car uses less fuel at high speeds. [2]
+    
+    (c) Suggest TWO other design features that reduce air resistance on the 
+        sports car. [2]
+    
+    (d) Explain why air resistance increases with speed. [2]
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION (4)
+================================================================================
+
+55. The table shows the friction force for different surface combinations.
+
+    ┌──────────────────┬────────────────┐
+    │ Surface Pair     │ Friction Force │
+    │                  │ (N)            │
+    ├──────────────────┼────────────────┤
+    │ Wood on wood     │ 8              │
+    │ Wood on glass    │ 4              │
+    │ Wood on ice      │ 1              │
+    │ Wood on sandpaper│ 15             │
+    └──────────────────┴────────────────┘
+
+    (a) Which surface pair has the least friction? [1]
+    (b) Explain why wood on ice has low friction. [2]
+    (c) Rank the surfaces from smoothest to roughest. [2]
+    (d) Predict the friction force for wood on oiled glass. [1]
+
+56. A student investigates how speed affects air resistance.
+
+    ┌──────────────┬────────────────┐
+    │ Speed (m/s)  │ Air Resistance │
+    │              │ (N)            │
+    ├──────────────┼────────────────┤
+    │ 5            │ 2              │
+    │ 10           │ 8              │
+    │ 15           │ 18             │
+    │ 20           │ 32             │
+    └──────────────┴────────────────┘
+
+    (a) Describe the relationship between speed and air resistance. [2]
+    (b) Explain why air resistance increases with speed. [2]
+    (c) Use the data to predict the air resistance at 25 m/s. [2]
+
+57. The graph shows how friction force varies with applied force for a 
+    stationary block.
+
+    ---DIAGRAM: Fig. 3---
+    TYPE: Graph
+    PURPOSE: Static vs kinetic friction
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Axes]
+        X-axis: "Applied Force (N)" from 0 to 20
+        Y-axis: "Friction Force (N)" from 0 to 15
+      [Graph Line]
+        Diagonal: (0,0) to (12,12)
+        Horizontal: (12,12) to (20,10)
+      [Point A]
+        Position: (12,12)
+        Label: "A"
+    ---END DIAGRAM---
+
+    (a) Describe what happens at point A. [2]
+    (b) Explain why the friction force equals the applied force before point A. [2]
+    (c) State what the friction force is when the applied force is 15 N. [1]
+
+58. Two students investigate friction using different masses on the block.
+
+    ┌──────────────┬────────────────┐
+    │ Mass (kg)    │ Friction Force │
+    │              │ (N)            │
+    ├──────────────┼────────────────┤
+    │ 0.5          │ 2              │
+    │ 1.0          │ 4              │
+    │ 1.5          │ 6              │
+    │ 2.0          │ 8              │
+    └──────────────┴────────────────┘
+
+    (a) Describe the relationship between mass and friction force. [2]
+    (b) Explain why increasing mass increases friction. [2]
+    (c) Calculate the friction force per kilogram. [2]
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST (2)
+================================================================================
+
+59. Compare friction in the following situations:
+    - Situation A: A car with worn tires on a wet road
+    - Situation B: A car with new tires on a dry road
+    
+    In your answer, discuss:
+    - The amount of friction
+    - The safety implications
+    - The stopping distance
+    - Why the friction is different
+    [6]
+
+60. Compare the role of friction in:
+    - Activity A: Ice skating
+    - Activity B: Rock climbing
+    
+    For each activity, explain:
+    - Whether high or low friction is needed
+    - How friction is controlled (increased or decreased)
+    - What would happen if friction was not at the desired level
+    [6]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+---------------------------
+1.  B - Friction opposes motion
+2.  B - Rubber on concrete has high friction
+3.  A - Friction between tires and road allows cycling
+4.  B - Lubricants reduce friction
+5.  B - Streamlining reduces air resistance (air friction)
+6.  B - Ball bearings convert sliding to rolling friction
+7.  B - Brakes need high friction to stop
+8.  B - Friction converts kinetic energy to heat
+9.  D - Rougher surfaces increase friction
+10. B - Treads increase friction with road for grip
+
+SECTION B: TRUE/FALSE
+---------------------
+11. TRUE - Friction always acts opposite to the direction of motion
+12. FALSE - Friction is useful in many situations (walking, braking, gripping)
+13. TRUE - Lubricants create a layer between surfaces, reducing contact
+14. TRUE - Friction converts kinetic energy to thermal energy (heat)
+15. TRUE - Generally, smoother surfaces have less friction
+16. TRUE - Air resistance is friction between object and air
+17. FALSE - Rolling friction is less than sliding friction
+18. FALSE - Static friction acts on stationary objects too
+
+SECTION C: FILL-IN-THE-BLANK
+-----------------------------
+19. opposes
+20. heat
+21. lubricant
+22. Streamlining
+23. Ball bearings
+24. Rolling
+25. useful
+26. Rough, smooth
+
+SECTION D: SHORT ANSWER
+-----------------------
+27. Friction is a force [1] that opposes motion between surfaces in contact [1]
+
+28. Opposite to the direction of motion [1]
+
+29. Friction does work against motion [1], converting kinetic energy to heat 
+    energy [1]
+
+30. Any two from: walking, gripping objects, car brakes, writing with pen, 
+    climbing, car tires on road [2]
+
+31. Any two from: car engines, door hinges, air resistance on vehicles, bicycle 
+    chains, machinery [2]
+
+32. Lubricants create a thin layer between surfaces [1], reducing direct 
+    contact and friction [1]
+
+33. Ball bearings replace sliding friction with rolling friction [1], which is 
+    much smaller [1]
+
+34. Streamlining means giving an object a smooth, aerodynamic shape [1] to 
+    reduce air resistance [1]
+
+35. Treads increase friction between tire and road [1], providing better grip 
+    and preventing skidding [1]
+
+36. Kinetic energy is converted to heat energy [1] due to friction [1]
+
+SECTION E: APPLICATIONS
+-----------------------
+37. (a) Useful: tire-road contact, brake pads, hand-handlebar grip [2]
+    (b) Problem: chain-gear contact, wheel bearings, air resistance [2]
+    (c) Oil chain, use ball bearings, streamline body position [2]
+
+38. (a) Ice is very smooth [1], producing very low friction [1]
+    (b) Chalk increases friction [1] between hands and rock for better grip [1]
+    (c) Friction converts kinetic energy to heat [1], heating the brakes [1]
+
+39. (a) Sandpaper [1]
+    (b) Sandpaper is roughest [1], producing most friction [1]
+    (c) Use a force meter/newton meter [1] to measure the pulling force at 
+        constant speed [1]
+
+40. (a) Oil separates metal surfaces [1], reducing friction and wear [1]
+    (b) Wax makes surface smoother [1], reducing friction with snow [1]
+    (c) Air cushion separates craft from surface [1], eliminating contact 
+        friction [1]
+
+41. (a) Engine force equals total friction force [1]
+    (b) Air resistance increases with speed [1], requiring more engine force 
+        and fuel [1]
+
+42. Any three: streamlined body shape, smooth surfaces, covered wheels, low 
+    profile, rear spoiler [3]
+
+43. (a) Oil reduces friction [1], making hinges move smoothly [1]
+    (b) Chalk increases friction [1] for better grip on apparatus [1]
+    (c) Lubrication reduces friction [1], preventing wear and improving 
+        efficiency [1]
+
+44. (a) Air resistance [1]
+    (b) Parachute has large surface area [1], increasing air resistance [1]
+    (c) Kinetic energy is converted to heat energy [1] by air resistance [1]
+
+45. (a) Rolling friction is much less than sliding friction [2]
+    (b) Rough surface has more friction than smooth surface [2]
+
+46. (a) Reduces air resistance [1], requiring less engine power and fuel [1]
+    (b) Reduces water resistance [1], allowing faster movement [1]
+
+47. (a) Rubber provides high friction [1], treads increase grip on ground [1]
+    (b) Reduces air resistance [1] and weight for better performance [1]
+
+48. (a) Wet road reduces friction [1], increasing stopping distance [1]
+    (b) Ice reduces friction [1], making walking difficult and slippery [1]
+
+49. (a) Rough surface increases friction [1] for better abrasive action [1]
+    (b) Grease reduces friction [1], allowing smooth rotation [1]
+
+50. (a) Hands get warm/hot [1]
+    (b) Friction converts kinetic energy to heat energy [2]
+
+51. (a) Old engine has more friction [1] due to wear and degraded oil [1]
+    (b) Wet ground has less friction [1], making walking more slippery [1]
+
+SECTION F: STRUCTURED QUESTIONS
+--------------------------------
+52. (a) 20 N [1]
+    (b) At constant velocity, forces are balanced [1], so friction equals 
+        applied force [1]
+    (c) Block will slow down [1] because friction force is now greater than 
+        applied force [1]
+    (d) Any two: add lubricant, polish surfaces, use ball bearings, reduce 
+        weight [2]
+
+53. (a) Sandpaper [1]
+    (b) Rougher surfaces have more contact points [1], producing more 
+        friction [1]
+    (c) The friction force [1]
+    (d) Force will decrease [1]. Oil acts as lubricant [1], reducing friction 
+        between block and glass [1]
+    (e) At constant speed, forces are balanced [1], so measured force equals 
+        friction force [1]
+
+54. (a) Box van [1] - flat front creates more air resistance [1] compared to 
+        streamlined sports car [1]
+    (b) Less air resistance means less force needed [1], so less fuel consumed [1]
+    (c) Any two: smooth surfaces, covered wheels, low profile, rear spoiler [2]
+    (d) Faster speed means more air molecules hit the vehicle per second [1], 
+        creating greater resistance [1]
+
+SECTION G: DATA INTERPRETATION
+-------------------------------
+55. (a) Wood on ice [1]
+    (b) Ice is very smooth [1], producing very low friction [1]
+    (c) Ice (smoothest), glass, wood, sandpaper (roughest) [2]
+    (d) Less than 4 N (accept 2-3 N) [1]
+
+56. (a) Air resistance increases as speed increases [1], relationship is 
+        non-linear (increases faster at higher speeds) [1]
+    (b) More air molecules are hit per second [1], creating greater 
+        resistance [1]
+    (c) Approximately 50 N (accept 45-55 N based on pattern) [2]
+
+57. (a) The block starts to move [2]
+    (b) Block is stationary, so friction balances applied force [1] to prevent 
+        movement [1]
+    (c) 10 N [1]
+
+58. (a) Direct proportionality [1] - friction increases linearly with mass [1]
+    (b) Greater mass means greater force pressing surfaces together [1], 
+        increasing friction [1]
+    (c) 2/0.5 = 4 N/kg (or use any row) [2]
+
+SECTION H: COMPARE AND CONTRAST
+--------------------------------
+59. Situation A: Low friction [1] - worn tires and wet road reduce grip [1], 
+    longer stopping distance [1], dangerous/unsafe [1]
+    Situation B: High friction [1] - new tires and dry road provide good 
+    grip [1], shorter stopping distance [1], safer [1]
+    [Award up to 6 marks]
+
+60. Ice skating: Low friction needed [1], achieved by smooth ice and metal 
+    blades [1], allows gliding; high friction would prevent movement [1]
+    Rock climbing: High friction needed [1], achieved using chalk and rubber 
+    shoes [1], provides grip; low friction would cause falling [1]
+    [Award up to 6 marks]
+
+================================================================================
+                    END OF SECTION 4.7 EXERCISES
+================================================================================

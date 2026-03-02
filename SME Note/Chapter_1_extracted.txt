@@ -1,0 +1,316 @@
+Cambridge (CIE) IGCSE
+Physics
+Physical Quantities & Measurement
+Techniques
+Contents
+Measurement
+Scalars & Vectors
+Calculating with VectorsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Measurement
+Measuring length & volume
+When making measurements in physics, different instruments are used for different
+measurements
+Measuring length
+Rulers can be used to measure small distances of a few centimetres (cm).
+They are able to measure to the nearest millimetre (mm)
+A ruler can measure lengths in cm or mm
+A tape measure is used to measure lengths of tens of centimetres
+A trundle wheel is used to measure lengths of tens of metres
+Trundle wheels can be used to measure larger distancesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Measuring volume
+Measuring cylinder are used to measure the volume of liquids
+By measuring the change in volume, a measuring cylinder can also be used to
+determine the volume of an irregular shape
+Measuring cylinders can be used to determine the volume of a liquid or an irregular shaped
+solid
+Worked Example
+The diagram shows four identical ball-bearings placed between two blocks on a steel
+ruler. Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+Measuring time
+In physics, stop-clocks and stopwatches are usually used to measure time intervals
+An important factor when measuring time intervals is human reaction time
+The standard human reaction time for an alert person is 0.25 s 
+Calculate the diameter of one ball-bearing.
+Answer:
+Step 1: Measure the length of all four ball-bearings
+The blocks mark the edges of the first and last ball bearings
+The blocks make it easier to measure the length of all four ball-bearings
+total length =12 −4
+total length =8cm
+Step 2: Find the diameter by dividing the total length by the number of ball-
+bearings
+diameter =total length
+number ofballbearings
+diameter =8
+4
+diameter =2cm
+Examiner Tips and Tricks
+Two measurements can be considered equal within the limits of experimental
+accuracy if their values are within 10% of each otherYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+This can have a significant impact upon measurements when the measurements
+involved are very short 
+Worked Example
+A stopwatch is used to measure the time taken for a runner to complete a lap of a 400
+m track. 
+The images below give the readings on the stopwatch at the start and the end of the
+lap.
+Calculate how long it took the runner to complete the lap. Give your answer in
+seconds. 
+Answer:
+Step 1: Identify the start time for the lap
+The stopwatch was already at 0:55:10 when the runner started the lap
+Start time =  55.10 seconds (s)
+Step 2: Identify the finish time for the lap
+The stopwatch reads 1:45:10 at the end of the lap
+Finish time = 1 minute and 45.10 s
+Step 3: Convert the finish time into seconds
+1minute =60seconds
+finish time =60s +45 .10s
+finish time =105 .10s
+Step 4: Calculate the total time taken to complete the lap
+total time =finish time −start time
+total time =105 .10s −55 .10sYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Multiple readings
+In physics, multiple readings of measurements are often taken to reduce the impact of
+measurement errors
+Taking multiple measurements in physics
+The measurement of the thickness of a single sheet of paper is so small that it would be
+very difficult to get an accurate answer
+However, measuring the thickness of 100 sheets of paper can be done much more
+accurately
+Dividing the answer by 100 then gives an accurate figure for the average thickness
+of one sheet
+Measuring the time period of a simple pendulum would incur a human reaction time error
+at the start of the measurement and at the end of the measurement
+If the measurement is small, the uncertainty in the measurement is hugetotal time =50s
+Examiner Tips and Tricks
+You will sometimes find that information is given in the question that is not actually
+needed in the calculation. 
+In this worked example, you were told that the track the runner is running on is 400 m.
+This had nothing to do with the calculation the question asked you to perform. 
+This is a common method for making a question seem more difficult. Don't let it catch
+you out.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Therefore, multiple readings can be taken to reduce the uncertainty of the
+measurement
+The time taken for 10 swings of the pendulum can be measured
+Dividing the answer by 10 gives a more accurate figure for the average time taken
+for one swing
+A fiducial marker can be used when measuring oscillations
+A fiducial marker is a visual reference point such as a line or a dot
+The marker is added to the point at which the measurement is taken, such as the
+equilibrium position of an oscillating pendulum
+This makes it easier to see when the pendulum passes this point, reducing the error
+in starting and stopping the timerYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Scalars & Vectors
+Scalar & vector quantities
+Extended tier only
+All quantities can be one of two types:
+A scalar
+A vector
+Scalars
+Scalar quantities have only a magnitude
+Mass is an example of a scalar quantity because it has magnitude without direction
+Energy and volume are also examples of scalar quantities
+Vectors
+Vector quantities have both magnitude and direction
+Weight is an example of a vector quantity because it is a force and therefore has
+both magnitude and direction
+Acceleration and momentum are also examples of vector quantities
+Distance and displacement
+Distance is a measure of how far an object has travelled, regardless of direction
+Distance is the total length of the path taken
+Distance, therefore, has a magnitude but no direction
+So, distance is a scalar quantity
+Displacement is a measure of how far it is between two points in space, including the
+direction
+Displacement is the length and direction of a straight line drawn from the starting
+point to the finishing point
+Displacement, therefore, has a magnitude and a direction
+So, displacement is a vector quantity
+What is the difference between distance and displacement?Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Displacement is a vector quantity, while distance is a scalar quantity
+When a student travels to school, there will probably be a difference between the
+distance they travel and their displacement
+The overall distance they travel includes the total lengths of all the roads, including
+any twists and turns
+The overall displacement of the student would be a straight line between their
+home and school, regardless of any obstacles, such as buildings, lakes or
+motorways, along the way
+Speed and velocity
+Speed is a measure of the distance travelled by an object per unit time, regardless of
+the direction
+The speed of an object describes how fast it is moving, but not the direction it is
+travelling in
+Speed, therefore, has magnitude but no direction
+So, speed is a scalar quantity
+Velocity is a measure of the displacement of an object per unit time, including the
+direction
+The velocity of an object describes how fast it is moving and which direction it is
+travelling in
+An object can have a constant speed but a changing velocity if the object is
+changing direction
+Velocity, therefore, has magnitude and directionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+So, velocity is a vector quantity
+Examples of scalars & vectors
+Extended tier only
+The table below lists some common examples of scalar and vector quantities
+Corresponding scalars and their vector counterparts are aligned in the table where
+applicable
+Table of scalars and vectors
+Scalar Vector
+distance displacement
+speed velocity
+mass weight
+force
+acceleration
+momentum
+electric field strength
+energy
+volume
+density
+temperature
+power
+Worked Example
+An instructor is in charge of training junior astronauts. For one of their sessions, they
+would like to explain the difference between mass and weight.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Suggest how the instructor should explain the difference between mass and weight,
+using definitions of scalars and vectors in your answer.
+Answer:
+Step 1: Recall the definitions of a scalar and vector quantity
+Scalars are quantities that have only a magnitude
+Vectors are quantities that have both magnitude and direction
+Step 2: Identify which quantity has magnitude only
+Mass is a quantity with magnitude only
+So mass is a scalar quantity
+The instructor might explain to their junior astronauts that their mass will not
+change as their location in the Universe changes
+Step 3: Identify which quantity has magnitude and direction
+Weight is a quantity with magnitude and direction (it is a force)
+So weight is a vector quantity
+The instructor might explain that their weight, the force on them due to
+gravitational field strength, will vary depending on their location. For example, the
+force of weight acting on them would be less on the Moon than it is on Earth
+Examiner Tips and Tricks
+Make sure you are comfortable with the differences between similar scalars and
+vectors.
+The most commonly confused pairings tend to be:
+distance and displacement
+speed and velocity
+weight and massYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Calculating with Vectors
+Calculations with vectors
+Extended tier only
+Vectors can be drawn using vector diagrams
+Vector diagrams
+Vectors are represented by an arrow
+The length of the arrow represents the magnitude
+The direction of the arrow indicates the direction 
+the scale of the arrows should be proportional to the relative magnitudes of the
+forces
+an arrow for a 4 N force should be twice as long as an arrow for a 2 N force
+Vector diagram of two forces acting on an object
+The length of the arrows are proportional to the magnitude of the forces, and show the
+direction that forces act in
+Calculating vectors graphically
+Vector diagrams can be used to combine vectors
+Vectors at right angles to one another can be combined into one resultant vector
+The resultant vector will have the combined effect of the two original vectors
+For example, a resultant force vector will have the combined effect of two
+component forces
+Component vectors are sometimes drawn with a dotted line and a subscript indicating
+horizontal or vertical
+A force F, for example, may have two components:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+FV is the vertical component of the force F
+FH is the horizontal component of force F
+To calculate vectors graphically means carefully producing a scale drawing with all
+lengths and angles correct
+This should be done using a sharp pencil, ruler and protractor
+Follow these steps to carry out calculations with vectors on graphs
+1. Choose a scale which fits the page
+For example, use 1 cm = 10 m or 1 cm = 1 N, so that the diagram is around 10 cm high
+2. Draw the vectors at right angles to one another
+3. Complete the rectangle
+4. Draw the resultant vector diagonally from the origin
+5. Carefully measure the length of the resultant vector
+6. Use the scale factor to calculate the magnitude
+7. Use the protractor to measure the angle
+Vectors can be measured or calculated graphically using scaled vector diagrams
+Combining vectors by calculation
+In this method, a vector diagram is still essential but it does not need to be exactly to
+scale
+The vector diagram can take the form of a sketch, as long as the resultant side,
+component sides are clearly labelledYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+Using a vector diagram to resolve two force vectors F and F into a resultant force vector
+F
+When the magnitude of only one vector is known, and the angle is known, then
+trigonometry can be used to find the magnitude of the missing vector
+The mnemonic 'soh-cah-toa' can used to remember the trigonometric functions
+Trigonometry can be used when the magnitude of one vector and the angle is known1 2
+RYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+When the magnitudes of two of the vectors are known, then Pythagoras' theorem can
+be used to find the magnitude of the missing vector
+Pythagoras's theorem can be used when the magnitudes of two of the three vectors are
+known
+Worked Example
+A force acts on an object with 60 N to the right. A second force of 100 N acts on the
+same object in the upward direction.
+Calculate the resultant force acting on the object.
+Answer:
+Step 1: Draw a vector diagramYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Step 2: Calculate the magnitude of the resultant force using Pythagoras' theorem
+F = 602+1002
+F = 13600
+F =117N
+Step 3: Calculate the direction of the resultant vector using trigonometry
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+tanθ =opposite
+adjacent
+tanθ =100
+60
+θ=tan−1⎛⎜⎜
+⎝⎞⎟⎟
+⎠100
+60=59°
+Step 4: State the final answer, complete with magnitude and direction
+F=117Nat59°from thehorizontal
+Examiner Tips and Tricks
+If the question specifically asks you to use the calculation or graphical method, you
+must solve the problem as asked. However, if the choice is left up to you then any
+correct method will lead to the correct answer.
+The graphical method sometimes feels easier than calculating, but once you are
+confident with trigonometry and Pythagoras you will find calculating quicker and
+more accurate.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+

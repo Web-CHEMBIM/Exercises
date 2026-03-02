@@ -1,0 +1,648 @@
+================================================================================
+   SECTION 4.4 INVESTIGATING FORCE & EXTENSION - PRACTICE EXERCISES (50 Questions)
+================================================================================
+
+Learning Objectives Covered:
+  * Describe an experiment to investigate the relationship between force and extension.
+  * Plot, interpret and explain the shape of a force-extension graph.
+  * Identify sources of error and safety precautions.
+
+Total Questions: 50
+Assessment Objectives: AO1 (25%), AO2 (50%), AO3 (25%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (10)
+================================================================================
+
+1. In a force-extension experiment, what is the independent variable?
+   A: Extension of the spring
+   B: Force applied to the spring
+   C: Mass of the spring
+   D: Length of the spring
+
+2. What is the dependent variable in a force-extension investigation?
+   A: The mass added
+   B: The force applied
+   C: The extension of the spring
+   D: The spring constant
+
+3. A spring has original length 10 cm. When a force is applied, its length 
+   becomes 15 cm. What is the extension?
+   A: 5 cm
+   B: 10 cm
+   C: 15 cm
+   D: 25 cm
+
+4. Which apparatus is used to measure the extension of a spring?
+   A: Ammeter
+   B: Ruler
+   C: Thermometer
+   D: Stopwatch
+
+5. What should be done to reduce random errors in a force-extension experiment?
+   A: Use a larger spring
+   B: Take repeat readings and calculate an average
+   C: Use heavier masses
+   D: Measure the spring when it is moving
+
+6. Parallax error can be avoided by:
+   A: Using a longer ruler
+   B: Taking readings at eye level
+   C: Using more masses
+   D: Repeating the experiment
+
+7. In a force-extension graph, if the graph is a straight line through the 
+   origin, this shows:
+   A: Force and extension are inversely proportional
+   B: Force and extension are directly proportional
+   C: No relationship exists
+   D: The spring has broken
+
+8. Which safety precaution is important in a force-extension experiment?
+   A: Wear goggles in case the spring snaps
+   B: Use the heaviest masses possible
+   C: Stand with feet under the masses
+   D: Pull the spring as hard as possible
+
+9. Why should you wait a few seconds before taking a reading?
+   A: To allow the spring to warm up
+   B: To allow the mass to become stationary
+   C: To allow the ruler to adjust
+   D: To allow the clamp to tighten
+
+10. A force-extension graph curves at high forces. This indicates:
+    A: The spring is obeying Hooke's law
+    B: The spring has passed its limit of proportionality
+    C: The measurements are incorrect
+    D: The spring constant is increasing
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION (8)
+================================================================================
+
+11. "Extension is calculated by subtracting the original length from the 
+     final length."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+12. "The force applied to a spring is calculated using F = mg."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+13. "Taking repeat readings helps to reduce systematic errors."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+14. "A pointer attached to the spring improves the precision of measurements."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+15. "If the graph is a straight line through the origin, force and extension 
+     are directly proportional."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+16. "The ruler should be held by hand to make it easier to read."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+17. "Parallax error occurs when readings are taken at an angle to the scale."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+18. "It is safe to stand with feet directly under the hanging masses."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK (8)
+================================================================================
+
+WORD BANK: extension, force, original, final, proportional, ruler, pointer,
+           eye level, repeat, average, parallax, safety goggles
+
+19. The __________ variable in a force-extension experiment is the force 
+    applied to the spring.
+
+20. Extension is calculated as: Extension = __________ length - __________ length
+
+21. A __________ is used to measure the length of the spring.
+
+22. To improve precision, attach a __________ to the bottom of the spring.
+
+23. Take readings at __________ to avoid parallax error.
+
+24. Take __________ readings and calculate an __________ to reduce random errors.
+
+25. If force and extension are directly __________, the graph will be a straight 
+    line through the origin.
+
+26. Wear __________ in case the spring snaps.
+
+================================================================================
+                    SECTION D: SHORT ANSWER QUESTIONS (10)
+================================================================================
+
+27. State the aim of a force-extension investigation. [1]
+
+28. State the independent variable in a force-extension experiment. [1]
+
+29. State the dependent variable in a force-extension experiment. [1]
+
+30. A spring has an original length of 12 cm. When a mass is added, its length 
+    becomes 18 cm. Calculate the extension. [2]
+
+31. Explain why repeat readings should be taken in this experiment. [2]
+
+32. Describe how to avoid parallax error when reading the ruler. [2]
+
+33. State TWO safety precautions for a force-extension experiment. [2]
+
+34. Explain why a pointer is attached to the bottom of the spring. [2]
+
+35. A student plots a force-extension graph and obtains a straight line through 
+    the origin. What does this tell us about the relationship between force 
+    and extension? [2]
+
+36. Describe what happens to the graph after the spring passes its limit of 
+    proportionality. [2]
+
+================================================================================
+                    SECTION E: CALCULATION QUESTIONS (15)
+================================================================================
+
+37. A spring has original length 15 cm. When a force is applied, its length 
+    becomes 22 cm. Calculate the extension. [2]
+
+38. A mass of 200 g is added to a spring. Calculate the force applied to the 
+    spring. (g = 9.8 N/kg) [2]
+
+39. A spring extends from 10 cm to 16 cm. Calculate the extension in:
+    (a) centimetres [1]
+    (b) metres [1]
+
+40. A student adds masses to a spring and records the following:
+    - Original length: 20 cm
+    - Length with 100 g mass: 24 cm
+    - Length with 200 g mass: 28 cm
+    
+    (a) Calculate the extension for the 100 g mass. [1]
+    (b) Calculate the extension for the 200 g mass. [1]
+
+41. A force of 2.5 N causes a spring to extend from 8 cm to 13 cm. Calculate 
+    the extension in metres. [2]
+
+42. Three readings are taken for the length of a spring with a 300 g mass:
+    18.2 cm, 18.0 cm, 18.3 cm
+    (a) Calculate the average length. [1]
+    (b) The original length is 12.0 cm. Calculate the average extension. [1]
+
+43. A mass of 0.5 kg is added to a spring. Calculate the weight (force) of 
+    this mass. (g = 9.8 N/kg) [2]
+
+44. A spring has original length 25 cm. Calculate the final length if the 
+    extension is 8 cm. [2]
+
+45. A student records the following data:
+    
+    ┌──────────┬──────────┬──────────┬──────────┬──────────┐
+    │ Mass (g) │ Trial 1  │ Trial 2  │ Trial 3  │ Average  │
+    │          │ (cm)     │ (cm)     │ (cm)     │ (cm)     │
+    ├──────────┼──────────┼──────────┼──────────┼──────────┤
+    │ 0        │ 10.0     │ 10.0     │ 10.0     │ 10.0     │
+    │ 100      │ 12.1     │ 12.0     │ 12.2     │ ?        │
+    │ 200      │ 14.2     │ 14.0     │ 14.1     │ ?        │
+    └──────────┴──────────┴──────────┴──────────┴──────────┘
+    
+    (a) Calculate the average length for 100 g. [1]
+    (b) Calculate the average length for 200 g. [1]
+    (c) Calculate the extension for 100 g. [1]
+    (d) Calculate the extension for 200 g. [1]
+
+46. A spring extends by 6 cm when a mass of 150 g is added. Calculate the 
+    force applied. (g = 9.8 N/kg) [2]
+
+47. Calculate the mass needed to produce a force of 4.9 N. (g = 9.8 N/kg) [2]
+
+48. A spring has original length 18 cm. When extended, its length is 26 cm.
+    (a) Calculate the extension in cm. [1]
+    (b) Express this extension in metres. [1]
+
+49. A student measures the spring length as 15.6 cm, 15.8 cm, and 15.5 cm.
+    Calculate the average length. [2]
+
+50. A force of 3.92 N is applied to a spring. What mass was added? (g = 9.8 N/kg) [2]
+
+51. A spring extends from 12.5 cm to 19.3 cm. Calculate the extension. [2]
+
+================================================================================
+                    SECTION F: STRUCTURED QUESTIONS (3)
+================================================================================
+
+52. A student investigates the relationship between force and extension for 
+    a spring.
+
+    Fig. 1 shows the apparatus used.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Apparatus
+    PURPOSE: Force-extension experiment setup
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 3:4 portrait
+    GRID: 10 × 12
+    COMPONENTS:
+      [Clamp Stand Base]
+        Symbol: horizontal_rectangle
+        Position: grid(3,11)
+      [Clamp Stand Rod]
+        Symbol: vertical_line
+        Position: grid(5,2) to grid(5,11)
+      [Boss and Clamp]
+        Symbol: clamp
+        Position: grid(5,3)
+        Label: "Clamp"
+      [Spring]
+        Symbol: coiled_spring
+        Position: grid(6,3) to grid(6,6)
+        Label: "Spring"
+      [Pointer]
+        Symbol: triangle
+        Position: grid(6,6)
+        Label: "Pointer"
+      [Mass Hanger]
+        Symbol: rectangle
+        Position: grid(6,7)
+        Label: "100g"
+      [Masses]
+        Symbol: stacked_rectangles
+        Position: grid(6,8)
+        Label: "Masses"
+      [Ruler]
+        Symbol: vertical_ruler
+        Position: grid(7,3) to grid(7,10)
+        Label: "Ruler"
+    ---END DIAGRAM---
+
+    (a) State the independent variable in this investigation. [1]
+    
+    (b) State the dependent variable. [1]
+    
+    (c) Describe how the student should use this apparatus to investigate the 
+        relationship between force and extension. [6]
+    
+    (d) State TWO safety precautions the student should take. [2]
+    
+    (e) Explain how the student can reduce random errors. [2]
+
+53. A student obtains the following results:
+
+    ┌──────────┬──────────┬───────────┐
+    │ Mass (g) │ Force (N)│ Extension │
+    │          │          │ (cm)      │
+    ├──────────┼──────────┼───────────┤
+    │ 0        │ 0        │ 0         │
+    │ 100      │ 0.98     │ 2.0       │
+    │ 200      │ 1.96     │ 4.0       │
+    │ 300      │ 2.94     │ 6.0       │
+    │ 400      │ 3.92     │ 8.0       │
+    │ 500      │ 4.90     │ 10.0      │
+    └──────────┴──────────┴───────────┘
+
+    (a) Plot a graph of force (y-axis) against extension (x-axis). [4]
+    
+    (b) Describe the relationship shown by the graph. [2]
+    
+    (c) Use the graph to predict the extension when the force is 3.5 N. [1]
+    
+    (d) State what the gradient of the graph represents. [1]
+
+54. Fig. 2 shows a force-extension graph for a spring.
+
+    ---DIAGRAM: Fig. 2---
+    TYPE: Graph
+    PURPOSE: Force-extension graph with linear and non-linear regions
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Axes]
+        X-axis: "Extension (cm)" from 0 to 12
+        Y-axis: "Force (N)" from 0 to 8
+      [Graph Line]
+        Linear region: (0,0) to (8,6)
+        Curved region: (8,6) to (12,7)
+      [Point L]
+        Position: (8,6)
+        Label: "L"
+    ---END DIAGRAM---
+
+    (a) Describe the relationship between force and extension in the linear 
+        region. [2]
+    
+    (b) State what point L represents. [1]
+    
+    (c) Describe what happens to the spring beyond point L. [2]
+    
+    (d) Use the graph to find the extension when the force is 3 N. [1]
+    
+    (e) Explain why the graph curves after point L. [2]
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION (4)
+================================================================================
+
+55. A student investigates three different springs and records the data:
+
+    ┌──────────┬──────────┬──────────┬──────────┐
+    │ Force (N)│ Spring A │ Spring B │ Spring C │
+    │          │ Ext (cm) │ Ext (cm) │ Ext (cm) │
+    ├──────────┼──────────┼──────────┼──────────┤
+    │ 0        │ 0        │ 0        │ 0        │
+    │ 1        │ 2        │ 4        │ 1        │
+    │ 2        │ 4        │ 8        │ 2        │
+    │ 3        │ 6        │ 12       │ 3        │
+    │ 4        │ 8        │ 16       │ 4        │
+    └──────────┴──────────┴──────────┴──────────┘
+
+    (a) Which spring is the stiffest? Explain. [2]
+    (b) Which spring extends the most for the same force? [1]
+    (c) Describe the relationship shown by all three springs. [2]
+    (d) Predict the extension of Spring B when the force is 5 N. [1]
+
+56. The table shows data from a force-extension experiment with errors:
+
+    ┌──────────┬──────────┬──────────┬──────────┬──────────┐
+    │ Mass (g) │ Trial 1  │ Trial 2  │ Trial 3  │ Average  │
+    │          │ (cm)     │ (cm)     │ (cm)     │ (cm)     │
+    ├──────────┼──────────┼──────────┼──────────┼──────────┤
+    │ 0        │ 10.0     │ 10.0     │ 10.0     │ 10.0     │
+    │ 100      │ 12.5     │ 12.3     │ 12.4     │ ?        │
+    │ 200      │ 14.8     │ 15.0     │ 14.9     │ ?        │
+    │ 300      │ 17.2     │ 17.4     │ 17.3     │ ?        │
+    └──────────┴──────────┴──────────┴──────────┴──────────┘
+
+    (a) Complete the average column. [2]
+    (b) Calculate the extension for each mass. [3]
+    (c) Explain why taking three trials improves the results. [2]
+    (d) State one possible source of random error in this experiment. [1]
+
+57. A student plots a force-extension graph and identifies different regions:
+
+    ---DIAGRAM: Fig. 3---
+    TYPE: Graph
+    PURPOSE: Annotated force-extension graph
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Axes]
+        X-axis: "Extension (cm)" from 0 to 15
+        Y-axis: "Force (N)" from 0 to 10
+      [Region A]
+        Linear: (0,0) to (10,8)
+        Label: "Region A"
+      [Region B]
+        Curved: (10,8) to (15,9)
+        Label: "Region B"
+    ---END DIAGRAM---
+
+    (a) In which region does the spring obey Hooke's law? [1]
+    (b) Describe the relationship in Region A. [2]
+    (c) What has happened to the spring in Region B? [2]
+    (d) Use the graph to find the force when extension is 5 cm. [1]
+
+58. Two students perform the same experiment and get different results:
+
+    ┌──────────┬──────────┬──────────┐
+    │ Force (N)│ Student 1│ Student 2│
+    │          │ Ext (cm) │ Ext (cm) │
+    ├──────────┼──────────┼──────────┤
+    │ 1        │ 2.0      │ 2.5      │
+    │ 2        │ 4.0      │ 5.0      │
+    │ 3        │ 6.0      │ 7.5      │
+    │ 4        │ 8.0      │ 10.0     │
+    └──────────┴──────────┴──────────┘
+
+    (a) Suggest why the results are different. [2]
+    (b) Both students' results show the same relationship. Describe it. [2]
+    (c) Which student used a stiffer spring? Explain. [2]
+
+================================================================================
+                    SECTION H: EXPERIMENTAL DESIGN (3)
+================================================================================
+
+59. Design an experiment to investigate how the extension of a spring depends 
+    on the force applied. Your answer should include:
+    - Apparatus needed
+    - Variables (independent, dependent, control)
+    - Method (step-by-step)
+    - Safety precautions
+    - How to reduce errors
+    [10]
+
+60. A student wants to investigate whether different types of springs (steel, 
+    copper, aluminum) extend by different amounts for the same force.
+    
+    (a) State the independent variable. [1]
+    (b) State the dependent variable. [1]
+    (c) State TWO control variables. [2]
+    (d) Describe how the student should conduct this investigation. [4]
+
+61. Explain how each of the following improves the quality of results in a 
+    force-extension experiment:
+    (a) Using a pointer attached to the spring [2]
+    (b) Taking readings at eye level [2]
+    (c) Taking repeat readings and calculating an average [2]
+    (d) Fixing the ruler to the clamp stand [2]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+---------------------------
+1.  B - Force is changed by the experimenter
+2.  C - Extension is measured as a result of changing force
+3.  A - Extension = 15 - 10 = 5 cm
+4.  B - Ruler measures length/extension
+5.  B - Averaging reduces random errors
+6.  B - Eye level prevents parallax error
+7.  B - Straight line through origin shows direct proportionality
+8.  A - Goggles protect eyes if spring snaps
+9.  B - Mass must be still for accurate reading
+10. B - Curve indicates limit of proportionality passed
+
+SECTION B: TRUE/FALSE
+---------------------
+11. TRUE - Extension = final length - original length
+12. TRUE - Weight (force) = mass × gravitational field strength
+13. FALSE - Repeat readings reduce random errors, not systematic errors
+14. TRUE - Pointer makes it easier to read exact position on ruler
+15. TRUE - Straight line through origin indicates direct proportionality
+16. FALSE - Ruler should be fixed to prevent movement and parallax
+17. TRUE - Parallax error occurs when viewing at an angle
+18. FALSE - Unsafe - masses could fall on feet
+
+SECTION C: FILL-IN-THE-BLANK
+-----------------------------
+19. independent
+20. final, original
+21. ruler
+22. pointer
+23. eye level
+24. repeat, average
+25. proportional
+26. safety goggles
+
+SECTION D: SHORT ANSWER
+-----------------------
+27. To investigate the relationship between force and extension for a spring [1]
+
+28. Force (applied to the spring) [1]
+
+29. Extension (of the spring) [1]
+
+30. Extension = final - original [1]
+    Extension = 18 - 12 = 6 cm [1]
+
+31. To reduce the effect of random errors [1] and improve reliability of 
+    results [1]
+
+32. Position your eye level with the scale [1] and perpendicular to the ruler [1]
+
+33. Any two from: wear goggles, stand up with no feet under masses, place mat 
+    below masses, secure clamp stand with G-clamp, add masses carefully [2]
+
+34. To make it easier to read the exact position on the ruler [1] and improve 
+    precision of measurements [1]
+
+35. Force and extension are directly proportional [2]
+
+36. The graph curves [1] and force and extension are no longer proportional [1]
+
+SECTION E: CALCULATIONS
+-----------------------
+37. Extension = 22 - 15 = 7 cm [2]
+
+38. m = 200 g = 0.2 kg [1]
+    F = mg = 0.2 × 9.8 = 1.96 N [1]
+
+39. (a) Extension = 16 - 10 = 6 cm [1]
+    (b) 6 cm = 0.06 m [1]
+
+40. (a) Extension = 24 - 20 = 4 cm [1]
+    (b) Extension = 28 - 20 = 8 cm [1]
+
+41. Extension = 13 - 8 = 5 cm [1]
+    = 0.05 m [1]
+
+42. (a) Average = (18.2 + 18.0 + 18.3) ÷ 3 = 18.17 cm (or 18.2 cm) [1]
+    (b) Extension = 18.17 - 12.0 = 6.17 cm (or 6.2 cm) [1]
+
+43. F = mg = 0.5 × 9.8 = 4.9 N [2]
+
+44. Final length = original + extension [1]
+    = 25 + 8 = 33 cm [1]
+
+45. (a) Average = (12.1 + 12.0 + 12.2) ÷ 3 = 12.1 cm [1]
+    (b) Average = (14.2 + 14.0 + 14.1) ÷ 3 = 14.1 cm [1]
+    (c) Extension = 12.1 - 10.0 = 2.1 cm [1]
+    (d) Extension = 14.1 - 10.0 = 4.1 cm [1]
+
+46. m = 150 g = 0.15 kg [1]
+    F = mg = 0.15 × 9.8 = 1.47 N [1]
+
+47. m = F/g = 4.9/9.8 = 0.5 kg (or 500 g) [2]
+
+48. (a) Extension = 26 - 18 = 8 cm [1]
+    (b) 8 cm = 0.08 m [1]
+
+49. Average = (15.6 + 15.8 + 15.5) ÷ 3 = 15.63 cm (or 15.6 cm) [2]
+
+50. m = F/g = 3.92/9.8 = 0.4 kg (or 400 g) [2]
+
+51. Extension = 19.3 - 12.5 = 6.8 cm [2]
+
+SECTION F: STRUCTURED QUESTIONS
+--------------------------------
+52. (a) Force applied to the spring [1]
+    (b) Extension of the spring [1]
+    (c) Method (award up to 6 marks):
+        - Set up apparatus with spring hanging from clamp stand [1]
+        - Measure and record original length of spring [1]
+        - Add 100g mass to spring [1]
+        - Wait for spring to become stationary [1]
+        - Measure new length at eye level [1]
+        - Repeat adding 100g masses and recording length [1]
+        - Take repeat readings for each mass [1]
+        - Calculate extension = final - original length [1]
+        [Award maximum 6 marks]
+    (d) Any two: wear goggles, stand up, place mat below, secure clamp stand, 
+        add masses carefully [2]
+    (e) Take repeat readings [1] and calculate an average [1]
+
+53. (a) Graph should show: axes labeled, appropriate scale, all points plotted 
+        correctly, straight line through origin [4]
+    (b) Force and extension are directly proportional [2]
+    (c) 7 cm (from graph) [1]
+    (d) Spring constant [1]
+
+54. (a) Force and extension are directly proportional [2]
+    (b) Limit of proportionality [1]
+    (c) Force and extension are no longer proportional [1], spring may be 
+        permanently deformed [1]
+    (d) 4 cm (from graph) [1]
+    (e) The spring has been stretched beyond its elastic limit [1], the 
+        structure of the spring material has changed [1]
+
+SECTION G: DATA INTERPRETATION
+-------------------------------
+55. (a) Spring C [1] - smallest extension for same force means stiffest [1]
+    (b) Spring B [1]
+    (c) All show direct proportionality [1] between force and extension [1]
+    (d) 20 cm (pattern: extension = 4 × force) [1]
+
+56. (a) 100g: 12.4 cm, 200g: 14.9 cm, 300g: 17.3 cm [2]
+    (b) 100g: 2.4 cm, 200g: 4.9 cm, 300g: 7.3 cm [3]
+    (c) Reduces effect of random errors [1] and improves reliability [1]
+    (d) Any one: reading ruler at slight angle, spring still moving, 
+        measurement uncertainty [1]
+
+57. (a) Region A [1]
+    (b) Force and extension are directly proportional [2]
+    (c) Spring has passed its limit of proportionality [1] and is no longer 
+        elastic [1]
+    (d) 4 N (from graph) [1]
+
+58. (a) They used different springs [1] with different spring constants [1]
+    (b) Both show direct proportionality [1] between force and extension [1]
+    (c) Student 1 [1] - smaller extension for same force indicates stiffer 
+        spring [1]
+
+SECTION H: EXPERIMENTAL DESIGN
+-------------------------------
+59. Award marks for:
+    Apparatus: clamp stand, spring, ruler, masses, mass hanger, pointer [2]
+    Variables: Independent=force, Dependent=extension, Control=same spring [2]
+    Method: clear step-by-step procedure including measuring original length, 
+    adding masses, recording lengths, calculating extensions [3]
+    Safety: goggles, stand up, mat below masses [1]
+    Errors: repeat readings, eye level, fix ruler [2]
+    [Total: 10 marks]
+
+60. (a) Type of spring material [1]
+    (b) Extension [1]
+    (c) Any two: same force applied, same original length of spring, same 
+        diameter of spring wire [2]
+    (d) Set up apparatus [1], measure original length of each spring [1], 
+        apply same force to each [1], measure extension for each [1]
+
+61. (a) Makes it easier to read exact position on ruler [1], improves precision 
+        of measurements [1]
+    (b) Prevents parallax error [1], ensures accurate reading [1]
+    (c) Reduces effect of random errors [1], improves reliability of results [1]
+    (d) Prevents ruler from moving [1], ensures consistent reference point [1]
+
+================================================================================
+                    END OF SECTION 4.4 EXERCISES
+================================================================================

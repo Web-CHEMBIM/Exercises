@@ -1,0 +1,492 @@
+Cambridge (CIE) IGCSE
+Physics
+Electric Circuits & Electrical Safety
+Contents
+Circuit Diagrams & Circuit Components
+Current in Circuits
+EMF & Potential Difference in Circuits
+Combined Resistance
+Potential Dividers
+Electrical SafetyYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Circuit Diagrams & Circuit Components
+Circuit components
+What are circuit symbols?
+The diagram below shows the circuit symbols that could be used in circuit diagrams to
+represent circuit components
+You will be expected to know what each component is and how it behaves in a
+circuit
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Circuit symbols represent these components in circuit diagrams
+Types of circuit components
+Power supplies
+Cells, batteries, power supplies and generators all supply current to the circuit
+Resistors
+Potential dividers, fixed and variable resistors, thermistors and light-dependent resistors
+(LDRs) are all used to control current
+Meters
+Ammeters and voltmeters are used to measure the current and potential difference
+Ammeters are always connected in series whilst voltmeters are always connected in
+parallel
+Switches and functional components
+Switches open and close a circuit and determine whether current can flow
+Functional components perform specific roles when current passes through them:
+Motors rotate
+Lamps emit light
+Heaters transfer thermal energy
+Bells emit a sound
+Electromagnetic components
+Magnetising coils, relays and transformers use electromagnetic effects
+Relays use a small current in one circuit to switch on a much larger current in another
+Transformers 'step up' and 'step down' current and potential difference
+Fuses
+Protect expensive components from current surges and act as a safety measure against
+fire
+Thermistors
+A thermistor is a non-ohmic conductor and a temperature-dependent resistor
+The resistance of a thermistor changes depending on its temperature
+As the temperature increases the resistance of a thermistor decreases and vice
+versaYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+The resistance through a thermistor is dependent on the temperature of it
+Light-dependent resistors
+A light-dependent resistor (LDR) is a non-ohmic conductor and sensory resistor
+Its resistance automatically changes depending on the light energy falling onto it
+(illumination)
+As the light intensity increases, the resistance of an LDR decreases
+Resistance of an LDR depends on the light intensity falling on it
+DiodesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+Extended Tier Only
+In addition to the above, you should be able to recognise and draw the circuit symbol for
+a diode:
+A diode is a component that only allows a current in one direction
+Diodes are occasionally drawn with a horizontal line running through the middle of them
+Diodes only allow current to flow through them in one direction (see the diagram below)
+This is the direction that the triangle points in the diagram
+When travelling in the same direction as the diode, current can flow. If the diode is
+flipped, it now prevents current from flowing in the circuit
+Light emitting diodes (LEDs) behave the exact same way, but they emit light when
+current flows through themYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Current in Circuits
+Current in series circuits
+What is a series circuit?
+A series circuit contains a single complete loop
+In this circuit, the switch, battery and both lamps are in a single loop, making it a series
+circuit
+Current in a series circuit
+In a series circuit, the current is the same value at any point
+This is because the number of electrons per second that passes through one part of
+the circuit is the same number that passes through any other part
+This means that all components in a closed-loop have the same currentYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+The current is the same at each point in a series circuit
+Factors affecting current in a series circuit
+The amount of current flowing around a series circuit depends on two things:
+The voltage of the power source
+The resistance of the components in the circuit
+Increasing the voltage of the power source drives morecurrent around the circuit
+So, decreasing the voltage of the power source reduces the current
+Increasing the number of components in the circuit increases the totalresistance
+Hence lesscurrent flows through the circuit
+Current will increase if the voltage of the power supply increases, and decreases if the
+number of components increases (because there will be more resistance)Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Current in parallel circuits
+What is a parallel circuit?
+A parallel circuit consists of multiple loops containing circuit components
+The bulbs are each in a separate loop in this circuit, making it a parallel circuit
+What is the rule for current in a parallel circuit?
+In a parallel circuit, the current splits along each branch at a junction
+Some of it goes down one branch and the rest goes down the other
+This means that the current from the source is larger than the current in each branch
+Lighting circuits
+A lighting circuit is used to supply power to multiple light sources
+Office lights are a common example, as multiple identical bulbs must have the same
+brightness
+Lighting circuits are constructed in parallel because:
+Bulb's all have the same potential difference and therefore the same brightness
+If one bulb breaks, the rest continue to function as current passes along each
+branch independently
+This also means lamps can be switched off and on individually without breaking the
+whole circuitYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Calculating current in parallel circuits
+Extended Tier Only
+The current before a junction is equal to the sum of currents along each branch after the
+junction
+Current from the power supply (4 A) is split along each branch (2 A). These current
+combine again at the other side
+At a junction in a parallelcircuit (where two or more wires meet) the current is conserved
+This means the amount of current flowing into the junction is equal to the amount of
+current flowing out of it
+This is because charge is conserved
+Note that the current does not always split equally – often there will be more current in
+some branches than in others
+The current in each branch will only be identical if the resistance of the components
+along each branch are identical
+Current behaves in this way because it is the flow of electrons:
+Electrons are physical matter – they cannot be created or destroyed
+This means the total number of electrons (and hence current) going around a circuit
+must remain the same
+When the electrons reach a junction, however, some of them will go one way and the
+rest will go the otherYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Current is split at a junction into individual branches
+Worked Example
+In the circuit below, ammeter A shows a reading of 10 A, and ammeter A shows a
+reading of 6 A.
+What is the reading on ammeter A?
+Answer:
+Step 1: Recall that at a junction, the current is conserved
+This means that the total amount of current flowing into a junction is equal to the
+total amount flowing out
+Step 2: Consider the first junction in the circuit where current splits
+The diagram below shows the first junction in the circuit0 1
+2Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Step 3: Calculate the missing amount of current
+Since 10 A flows in to the junction (the total current from the battery), 10 A must
+flow out of the junction
+The question says that 6 A flows through ammeter A so the remaining current
+flowing through ammeter A must be:
+10 A − 6 A = 4 A
+Therefore, 4 A flows through ammeter A1
+2
+2
+Examiner Tips and Tricks
+The direction of current flow is important when considering junctions in a circuit. You
+should remember that current flows from the positive terminal to the negative
+terminal of a cell / battery. This will help determine the direction current is flowing
+round a circuit.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+EMF & Potential Difference in Circuits
+EMF in series
+When several cells are connected together in series, their combined e.m.f. is equal to
+the sum of their individual e.m.f.s
+The total e.m.f. of these cells is equal to the sum of their individual e.m.f.s
+Potential difference in series circuits
+Extended Tier Only
+In a series circuit, the sum of potential differences across the components is equal to the
+total e.m.f. (electromotive force) of the power supply
+Potential difference in a series circuitYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+In a series circuit the components share the e.m.f. of the power supply
+Worked Example
+In the circuit diagram below, the power source has an e.m.f., E, of 16 V. There is a
+potential difference of 10 V across component X. Calculate the potential difference
+across component Y. 
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+Potential difference in a parallel circuit
+Extended Tier Only
+The potential difference across each branch of a parallel circuit is the same as the e.m.f.
+of the power source
+Potential difference in a parallel circuit
+The power source has an e.m.f .of 12 V and there is a potential difference of 12 V across
+each branchAnswer:
+Step 1: Recall the rule for potential difference in series
+The sum of potential differences across components in series is equal to the
+e.m.f. across the power source
+Step 2: Write an equation to determine the potential difference across Y
+E = V+ V
+Where:
+E is the e.m.f. of the power source = 16 V
+Vis the potential difference across X = 10 V
+Vis the potential difference across Y
+Recall that:
+E = 16 V
+V = 10 V
+Step 3: Substitute in the known quantities and calculate V
+16 = 10 + V
+Therefore, the potential difference across Y is 6 VX Y
+X 
+Y 
+X
+Y
+YYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+It is important to notice that the potential difference in a parallel circuit is equal across
+each branch
+In the example above, if one branch in the circuit contained multiple components,
+the 12 V would be split between the components on that branchYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Combined Resistance
+Resistors in series & parallel
+Combination of resistance in series
+When two or more components are connected in series:
+The combined resistance of the components is equal to the sum of individual
+resistances
+When several components are connected in series, their combined resistance is equal to
+the sum of their individual resistances
+Combination of resistance in parallel
+When resistors are connected in parallel, the combined resistance is less than the
+resistance of any of the individual components
+If two resistors of equal resistance are connected in parallel, then the combined
+resistance will halveYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+The above resistors will have a combined resistance of 2 Ω  − half the value of each resistor
+in this case
+Determining resistance in parallel
+Extended Tier Only
+To determine the combined resistance of any combination of two resistors, you must
+use the equation:
+1
+R=1
+R1+1
+R2
+Where:
+R is the combined resistance in ohms, Ω
+R1 is the resistance of resistor 1 in ohms, Ω
+R2 is the resistance of resistor 2 in ohms, Ω
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+The combined resistance is always less than the resistance of either resistor individually
+The method to calculate the resistance:
+First find the value of 1/R (by adding 1/R + 1/R)
+Next find the value of R by using the reciprocal button on your calculator (labelled
+either x or 1/x, depending on your calculator)1 2
+-1Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Potential Dividers
+Variable potential dividers
+Extended Tier Only
+When two resistors are connected in series, the potential difference across the power
+source is shared between them
+A potential divider is a circuit which splits potential difference from a power source, so
+only a fraction goes to a component (a voltmeter, in the diagram below)
+Potential divider diagram
+A potential divider splits the potential difference of a power source between two
+components
+The potential difference across each resistor depends upon its resistance:
+The resistor with the largest resistance will have a greater potential difference than
+the other one
+If the resistance of one of the resistors is increased, it will get a greater share of the
+potential difference, whilst the other resistor will get a smaller share
+If one resistor is a variable resistor, the potential difference across the other resistor can
+be altered
+This means the potential difference across any component in parallel with that
+resistor can also be altered
+Resistors as Potential Dividers
+Extended Tier OnlyYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+When two resistors are connected in series, the power source's e.m.f. is split between
+the resistors
+This potential difference splits in the same ratio as the resistance of the two
+resistors
+The ratio of potential differences across each resistor can be found using the following
+equation:
+R1
+R2=V1
+V2
+Where:
+R1 is the resistance of resistor 1 in ohms, Ω
+R2 is the resistance of resistor 2 in ohms, Ω
+V1 is the potential difference across resistor 1 in volts, V
+V2 is the potential difference across resistor 2 in volts, V
+Recall that the e.m.f. of the power source will be equal to V1+V2
+Worked Example
+The circuit is designed to light up a lamp when the input voltage exceeds a value.
+When the lamp lights up, Vout is 5.3 V. 
+Calculate the e.m.f. of the power source required to illuminate the lamp.
+Answer:
+Step 1: List the known quantities
+Resistance of resistor 1, R1 = 12 k Ω  = 12 000 Ω
+Resistance of resistor 2, R2 = 20 k Ω  = 20 000 ΩYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+Potential difference across resistor 2, V2=Vout = 5.3 V
+Step 2: Recall the equation for a potential divider
+R1
+R2=V1
+V2
+Step 3: Substitute the known quantities and determine the potential difference
+across resistor 1
+12000
+20000=V1
+5 .3
+V1=3 .18V
+Step 4: Determine the e.m.f. of the power source, Vin
+Vin=V1+V2
+Vin=3 .18 +5 .3 =8 .48V
+The e.m.f. of the power source when the lamp illuminates is 8.5 V to 2 significant
+figures
+Examiner Tips and Tricks
+When thinking about potential dividers, remember that the higher the resistance the
+more energy it will take to 'push the current through' and therefore the higher the
+potential difference.
+This means that if a component (often shown as a voltmeter in questions) needs to be
+switched on by a change such as increased light or temperature, then the resistor it is
+in parallel with needs to become larger compared to the other resistor.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Electrical Safety
+Electrical hazards
+Mains electricity can be dangerous if safety procedures are not followed
+Voltages as low as 50 V can pose a serious risk of electrocution
+Common electrical hazards include:
+damaged insulation
+overheating cables
+damp conditions
+excess current from overloading of plugs, extension leads, single and multiple
+sockets when using a mains supply
+Electrical danger sign
+The risk of electrocution is indicated by hazard signs but other risks which would not be
+signposted are listed below
+Damaged insulation
+If the insulation around an electrical cable is damaged, the metal part of the wire may
+become exposed
+If a person touches the exposed wire, they could be subjected to a lethal electric shock
+There is also a chance that current will flow between the exposed wire and any piece of
+metal it comes into contact withYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+
+Overheating of cables
+If an excess of current flows in a wire, this can lead to overheating
+This could cause the insulation to melt, or even cause a fire
+Damp conditions
+Damp conditions can be dangerous in the presence of electricity since water is an
+electrical conductor
+If moisture comes into contact with a live wire, this could set up
+a short circuit within the device, which could cause a fire
+a conductive path for current to flow through a person to the earth, which could
+cause electrocution
+Excess current from overloading
+An excessive current may flow if too many plugs, extension leads or sockets are
+connected to the mains supply
+The heat created could cause the insulation to melt, or even cause a fire
+Electrical fire due to excessive current
+Too many appliances plugged into an extension lead can cause overheating and fire
+Mains Circuits
+All electrical appliances are connected to the mains supply
+A mains circuit consists of:
+a live wireYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
+
+a neutral wire
+an earth wire
+The insulation covering each wire is colour-coded for easy identification:
+Live wire – brown
+Neutral wire – blue
+Earth wire – green and yellow stripes
+Live, neutral & earth wires
+A mains-powered appliance in the UK contains live, neutral and earth wires
+Every country has a slightly different configuration, with many using two-pin plugs and
+plug sockets such as in the USA and mainland Europe
+The earth wire is still present in the two-pin plugs, just more hidden
+The three wires have distinct purposesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
+
+The live wire
+The purpose of the live wire is to carry the alternating current from the mains supply to
+a circuit
+It is the most dangerous of the three wires
+If it touches the appliance without the earth wire, it can cause electrocution
+The neutral wire
+The purpose of the neutral wire is to form the opposite end of the circuit to the live wire
+to complete the circuit
+Because of its lower voltage, it is much less dangerous than the live wire
+The earth wire
+The purpose of the earth wire is to act as a safety wire to stop the appliance from
+becoming live
+This prevents electric shocks from occurring if the appliance malfunctions or the live
+wire breaks off and touches the case of the plug
+In order to protect the user or the device, there are several safety features built into
+domestic appliances, including:
+double insulation
+earthing
+fuses
+circuit breakers
+Double insulation
+The conducting part of a wire is usually made of copper or some other metal
+If this comes into contact with a person, this poses a risk of electrocution
+For this reason, wires are covered with an insulating material, such as rubberYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
+
+The conducting part of a wire is covered in an insulating material for safety
+Some appliances do not have metal cases and so there is no risk of them becoming
+electrified
+Such appliances are said to be double insulated, as they have two layers of insulation:
+Insulation around the wires themselves
+A non-metallic case that acts as a second layer of insulation
+Double insulated appliances do not require an earth wire or have been designed so that
+the earth wire cannot touch the metal casing
+Earthing
+Many electrical appliances have metal cases
+This poses a potential safety hazard:
+If a live wire (inside the appliance) came into contact with the case, the case would
+become electrified and anyone who touched it would risk being electrocuted
+The earth wire is an additional safety wire that can reduce this risk
+If this happens:
+The earth wire provides a low resistance path to the earth
+It causes a surge of current in the earth wire and hence also in the live wireYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
+
+The high current through the fuse causes it to melt and break
+This cuts off the supply of electricity to the appliance, making it safe
+Fuses & trip switches
+Fuses and trip switches (circuit breakers) are safety devices designed to cut off the
+flow of electricity to an appliance if the current becomes too large (due to a fault or a
+surge)
+Fuses
+Fuses are used to protect individual appliances
+Fuses are located in the plug
+Fuses usually consist of a glass cylinder containing a thin metal wire
+A fuse without an earth wire protects the circuit and the cabling for a double-insulated
+appliance
+If the current in the wire becomes too large:
+The wire heats up and melts
+This causes the wire to break, breaking the circuit and stopping the current
+Circuit symbol of a fuse
+The circuit symbol for a fuse has a wire running through it (not to be confused with a
+resistor)
+Fuses have ratings, which signify the maximum current that can flow through the fuse
+wire without it melting
+If the current exceeds that value, the fuse wire melts and the individual appliance is
+disconnected from the mains supply
+Fuses come in values of 3 A, 5 A and 13 A
+The correct fuse to use is the value just above the current required for the appliance
+Choosing the correct fuse
+Suppose an appliance uses 3.1 amps
+A 3 amp fuse would be too small - the fuse would blow as soon as the appliance was
+switched onYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+
+A 13 amp fuse would be too large - it would allow an extra 10 amps to pass through
+the appliance before it finally blew
+A 5 amp fuse would be the most appropriate choice, as it is the next size up
+Trip switches
+The current enters the house at the consumer unit (sometimes referred to as a 'fuse
+box')
+The consumer unit consists of a series of trip switches (or circuit breakers) which control
+the amount of current supplied to each circuit within the house
+When the current is too high the switch 'trips' (automatically flicks to the off position)
+This stops the current flowing in that circuit
+Example of a domestic circuit
+The consumer unit distributes current to all the circuits in the house
+The main advantages of trip switches are:
+they provide protection from current surges or faults
+they can be reset when the problem is fixedYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 28
+

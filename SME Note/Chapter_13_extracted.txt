@@ -1,0 +1,421 @@
+Cambridge (CIE) IGCSE
+Physics
+General Properties of Waves
+Contents
+Features of Waves
+The Wave Equation
+Transverse & Longitudinal Waves
+Wave Behaviour
+Ripple TankYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Features of Waves
+Waves & energy transfer
+Waves transfer energywithout transferring matter
+For sound waves, this means it is the wave and not the air molecules (the matter)
+itself that travels
+Objects floating on water provide evidence that waves only transfer energy and not
+matter 
+It is possible to see objects on the surface of the water bob up and down but not
+change their position
+This is because the wave and not the water (the matter) itself that travels
+Waves are described as oscillations or vibrations about a fixed point
+For example, ripples cause particles of water to oscillate up and down
+Sound waves cause particles of air to vibrate back and forth
+Worked Example
+The diagram below shows a toy duck bobbing up and down on top of the surface of
+some water, as waves pass it underneath.
+Use this image
+Explain how the toy duck demonstrates that waves do not transfer matter.
+Answer: 
+The plastic duck moves up and down but does not travel with the wave along the
+surface of the water
+The water waves transfer energy, but the water particles do not move
+This means when a wave travels between two points, no matter travels with it, the
+points on the wave vibrate up and down about fixed positionsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Wave motion
+Wave motion can be illustrated by:
+vibrations in ropes and springs
+experiments using water waves
+Wave vibrationsObjects floating on the water bob up and down when waves pass under them,
+demonstrating that there is no movement of matter in the direction of the wave,
+only energy
+Examiner Tips and Tricks
+There is a key distinction between the particles (or oscillations) of a wave, and the
+wave itself.
+The motion of the wave causes the particles to move. The particles themselves are
+not the wave. Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+Use this image
+Waves can be shown through vibrations in ropes or springs
+Properties of waves can be observed using water waves in a ripple tank
+These properties include frequency, wavelength, amplitude, and wave speed
+Wave motion in a ripple tankYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+Use this image
+Wave motion of water waves may be demonstrated using a ripple tank
+Features of a Wave
+When describing wave motion, there are several terms which are important to know,
+including:
+wavefront
+amplitude
+wavelength
+frequency
+crest (peak)
+trough
+wave speed
+Wavefront
+Wavefronts are a useful way of picturing waves from aboveYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Each wavefront, drawn as a single line, is used to represent a single wave
+The image below illustrates how wavefronts are visualised:
+The arrow shows the direction the wave is moving and is sometimes called a ray
+The space between each wavefront represents the wavelength
+When the wavefronts are close together, this represents a wave with a short
+wavelength
+When the wavefronts are far apart, this represents a wave with a long wavelength
+Wavefronts as viewed from above
+Use this image
+Diagram showing a wave moving to the right, drawn as a series of wavefronts
+Amplitude
+Amplitude is defined as:
+The maximum displacement of a wave from its undisturbed position
+It is given the symbol A and is measured in metres (m)
+On a graph where the vertical axis is displacement, amplitude is measured from the
+undisturbed position to either the highest point of the wave (peak) or the lowest point
+(trough)
+Wavelength
+Wavelength is defined as:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+The distance from one point on the wave to the same point on the next wave
+In a transverse wave:
+The wavelength can be measured from one peak to the next peak
+In a longitudinal wave
+The wavelength can be measured from the centre of one compression to the centre
+of the next
+Wavelength is given the symbol λ (lambda) and is measured in metres (m)
+On a graph where the horizontal axis is distance, the wavelength can be determined by
+measuring the distance from one point on the wave to the same point on the next wave
+Using a graph to determine wavelength and amplitude
+Use this image
+Diagram showing the amplitude and wavelength of a wave
+Frequency
+Frequency is defined as:
+The number of waves passing a point in a second
+Frequency is given the symbol fand is measured in hertz (Hz)
+Crests & troughs
+A crest, or a peak, is defined as:
+The highest point on a wave above its undisturbed position
+A trough is defined as
+The lowest point on a wave below its undisturbed position
+Wave crests and troughsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Use this image
+Diagram showing a crest and a trough on a transverse wave
+Wave speed
+Wave speed is the speed at which energy is transferred through a medium
+Wave speed is defined as:
+The distance travelled by a wave each second
+The equation used to calculate wave speed is explained in The wave equation
+Worked Example
+Small water waves are created in a ripple tank by a wooden bar. The wooden bar
+vibrates up and down hitting the surface of the water. The diagram below shows a
+cross-section of the ripple tank and water.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Use this image
+Identify the letter which shows:
+a) the amplitude of a water wave.
+b) the wavelength of the water wave.
+Answer: 
+Part (a)
+Step 1: Recall the definition of amplitude
+Amplitude = The distance from the undisturbed position to the peak or trough of
+a wave
+Step 2: Mark the undisturbed position on the wave
+This is the centre of the wave
+Use this image
+Step 3: Identify the arrow between the undisturbed position and a peak
+The amplitude is shown by arrow D
+Part (b)
+Step 1: Recall the definition of wavelength
+Wavelength = The distance from one point on the wave to the same point on the
+next wave
+Step 2: Draw lines on each horizontal arrow
+This helps to identify the points on the wave the arrows are referring toYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Use this image
+Step 3: Identify the arrow between two of the same points on the wave
+The wavelength is shown by arrow CYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+The Wave Equation
+The wave equation
+The equation used to calculate wave speed is: 
+v =f ×λ
+Where:
+v = wave speed, measured in metres per second (m/s)
+f = wave frequency, measured in hertz (Hz)
+λ = wavelength, measured in metres (m)
+Wave speed is defined as:
+The distance travelled by a wave each second
+Wave speed is the speed at which energy is transferred through a medium
+Transverse and longitudinal waves both obey the wave equation
+Wave speed formula triangle
+For more information on how to use a formula triangle, refer to the revision note on
+speed & velocityYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Frequency and period
+The period of a wave is defined as:
+The time taken for one complete oscillation to pass a fixed point
+The frequency of a wave is related to its period by the following equation:
+f =1
+T
+And therefore,
+T =1
+f
+Where:
+f = frequency, measured in Hz
+T = period, measured in s
+Worked Example
+A wave in a pond has a speed of 0.15 m/s and a time period of 2 seconds. Calculate:
+a) The frequency of the wave
+b) The wavelength of the wave
+Answer:
+Part (a)
+Step 1: List the known quantities
+Time period, T = 2 s
+Step 2: State the equation relating time period and frequency
+T =1
+f
+Step 3: Rearrange for frequency, f, and calculate the answer
+f =1
+T=1
+2
+Frequency, f = 0.5 Hz
+Part (b)
+Step 1: List the known quantitiesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+Wave speed, v = 0.15 m/s
+Frequency, f = 0.5 Hz
+Step 2: Write out the wave speed equation
+v =f ×λ
+Step 3: Rearrange the equation to calculate the wavelength
+λ =v
+f
+Step 4: Use the frequency you calculated in part (a) and put the values into the
+equation
+λ =0 .15
+0 .5
+Wavelength, λ = 0.30 m
+Examiner Tips and Tricks
+When stating equations make sure you use the right letters. For example, use λ  for
+wavelength, not L or W
+If you can’t remember the correct letters, then just state the word equations
+Be careful with units: wavelength is usually measured in metres and speed in m/s, but
+if the wavelength is given in cm you might have to provide the speed in cm/s
+Likewise, watch out for the frequency given in kHz: 1 kHz = 1000 HzYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+Transverse & Longitudinal Waves
+Transverse waves
+Waves can exist as one of two types:
+Transverse
+Longitudinal
+Transverse waves are defined as:
+Waves where the direction of vibration is at right angles to the direction of energy transfer
+For a transverse wave, the oscillation is perpendicular to the direction the wave is
+travelling in
+Mechanical transverse waves can move in solids, and on the surface of liquids, but not in
+liquids or gases
+Non-mechanical transverse waves can move in avacuum
+Transverse wave motion
+Transverse waves can be seen in a rope when it is moved quickly up and down
+Examples of waves that can be modelled as transverse are:
+Electromagnetic waves (such as radiowaves, visible light, X-rays etc)
+Ripples on the surface of water
+Seismic S-waves (secondary earthquake waves)
+Longitudinal waves
+Longitudinal waves are defined as:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Waves where the direction of vibration is parallel to the direction of propagation
+For a longitudinal wave:
+The energy transfer is in the same direction as the wave motion
+They can move in solids, liquids and gases
+They can not move in a vacuum (since there are no particles)
+The key features of a longitudinal wave are where the points are:
+Close together, called compressions
+Spaced apart, called rarefactions
+Longitudinal wave motion
+Longitudinal waves can be seen in a slinky spring when it is moved quickly backwards and
+forwards
+Examples of waves that can be modelled as longitudinal waves are:
+Sound waves
+Seismic P-waves (primary earthquake waves)
+Difference between transverse and longitudinal
+waves
+Comparing transverse and longitudinal waves
+ Property Transverse waves Longitudinal waves
+Structure Peaks and troughs Compressions and rarefactions
+Vibration Right angles to the direction of
+energy transferParallel to the direction of energy
+transferYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Vacuum Only electromagnetic waves can
+travel in a vacuumCannot travel in a vacuum
+Material Can move in solids and the surfaces
+of liquidsCan move in solids, liquids and
+gases
+Density A constant density The density of the wave changes
+Pressure Has a constant pressure Pressure in the wave changes
+Speed of
+waveDepends on the material the wave is
+travelling inDepends on the material the wave
+is travelling in
+Examiner Tips and Tricks
+The key difference between transverse and longitudinal waves is the direction of the
+vibrations with respect to the direction of the wave itself. For transverse waves, these
+are perpendicular to each other, whilst for longitudinal waves, these are parallel.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+Wave Behaviour
+Reflection, refraction & diffraction
+All waves, whether transverse or longitudinal, can undergo:
+reflection at a plane surface
+refraction due to a change of speed
+diffraction through a narrow gap
+In optics, a transparent material is called a medium
+When referring to more than one medium these are called media
+Angles of light are measured from an imaginary line called the normal
+The normal is always drawn perpendicular to the boundary between two media
+Reflection
+Reflection occurs when:
+A wave hits a boundary between two media at a plane surface and does not pass through,
+but instead stays in the original medium
+An example of reflection
+An identical image of the tree is seen in the water due to reflectionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+Refraction
+When waves enter a different medium, their speed can change
+This effect is called refraction and it occurs when:
+A wave passes a boundary between two different transparent media and undergoes a
+change in speed
+When a wave refracts, as well as a change in speed, the wave also undergoes:
+A change in wavelength (but frequency stays the same)
+A change in direction
+An example of refraction
+Waves can change direction when moving between materials with different densities
+The direction of the incident and refracted rays are also taken from the normal line
+If the waves slow down, they will bunch together, causing the wavelength to decrease
+The waves will also start to turn slightly towards the normal
+If the waves speed up then they will spread out, causing the wavelength to increase
+The waves will also turn slightly away from the normal
+Diffraction
+When waves pass through a narrow gap, the waves spread out
+This effect is called diffraction
+Waves diffracting through a narrow gapYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Diffraction: when a wave passes through a narrow gap, it spreads out
+Factors affecting diffraction
+Extended tier only
+The extent of diffraction depends on the width of the gap compared with the
+wavelength of the waves
+Diffraction is the most prominent when the width of the slit is approximately equal
+to the wavelength
+As the gap gets bigger, the effect gradually gets less pronounced until, in the case that
+the gap is very much larger than the wavelength, the waves no longer spread out at all
+Effect of gap size on diffractionExaminer Tips and Tricks
+When drawing waves being reflected take care to:
+Make sure that the angle of incidence is equal to the angle of reflection
+Keep the wavelength of the waves the same
+Similarly, when waves are diffracted the wavelength remains constant.
+Refraction is the only wave effect in which the wavelength changes.
+Remember:
+Refraction is the name given to the change in the speed of a wave when it passes from
+one medium to another. The change in direction is a consequence of this.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+The size of the gap (compared to the wavelength) affects how much the waves spread
+out
+Diffraction can also occur when waves curve around an edge or barrier
+The waves spread out to fill the gap behind the object
+The extent of this diffraction also depends upon the wavelength of the waves
+The greater the wavelength then the greater the diffraction
+Effect of wavelength on diffraction around an edge
+When a wave goes past the edge of a barrier, the waves can curve around it. Shorter
+wavelengths undergo less diffraction than longer wavelengthsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+Ripple Tank
+Investigating waves with a ripple tank
+Ripple tanks are commonly used in experiments to demonstrate the following
+properties of water waves:
+Reflection at a plane surface
+Refraction due to a change in speed caused by a change in depth
+Diffraction due to a gap
+Diffraction due to an edge
+ Ripple tank experimental set-up
+Reflection, refraction and diffraction can be demonstrated using a ripple tank
+Wavefronts from the transverse water surface waves can be viewed and analysed on the
+screen illuminated to show below the tank
+Investigating ReflectionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Wavefronts are reflected off a metal bar (plane surface) placed in the water of the ripple
+tank
+When the bar is placed at an angle to the wavefronts of the waves generated by the
+paddle reflect according to the Law of reflection
+Diagram of reflected wavefronts in a ripple tank
+Incident wavefronts are reflected at 90 degrees against a barrier
+Reflected wavefronts in a ripple tank
+Wavefronts of incident and reflected waves form right angles to each otherYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+
+Investigating refraction
+Refraction can be shown by placing a glass block in the tank
+The glass block should sit below the surface of the water and cover only some of the
+tank floor
+The depth of water becomes shallower where the glass block is placed
+Since speed depends on depth, the ripples slow down when travelling over the
+block
+The water surface waves slow down when passing from deep to shallow water in the
+ripple tank
+Refracted wavefronts in a ripple tank
+When water waves travel from deep areas to shallow areas they slow down
+Investigating diffraction
+Diffraction can be shown in a ripple tank by placing small barriers with a gap or an edge
+in the tank
+The amount of Diffraction that occurs can be changed by changing the wavelength of
+the waves compared to the gap size
+Changing the gap size for diffraction in a ripple tankYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
+
+When the gap size is bigger than the wavelength less diffraction occurs and the waves
+spread out less after passing through
+Changing the wavelength of waves in the ripple tank
+The motor creates the up-and-down movement of the paddle
+The frequency of the motor affects the wavelength of the waves generated by the
+paddle
+The diagram below shows how the wavelengths differ with frequency in a ripple tank
+The higher the frequency of the motor, the shorter the wavelength
+The lower the frequency of the motor, the longer the wavelength
+Wavelength and frequency of waves in a ripple tankYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
+
+Ripple tank patterns for low and high-frequency vibrationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
+

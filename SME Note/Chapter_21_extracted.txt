@@ -1,0 +1,368 @@
+Cambridge (CIE) IGCSE Physics
+The Nuclear Model of the Atom
+Contents
+The Atom
+The Nucleus
+Protons, Neutrons & Electrons
+Fission & FusionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+The Atom
+Atomic structure
+Atoms are the building blocks of all matter
+They consist of a small dense positively charged nucleus and negatively charged electrons in orbit around
+the nucleus
+ Atomic structure
+An atom: is a small positive nucleus, surrounded by orbiting negative electrons
+Atoms are incredibly small, with a radius of only 1 × 10  m
+This means that about one hundred million atoms could fit side by side across your thumbnail
+The radius of the nucleus is over 10,000 times smaller than the whole atom, but it contains almost all of the
+mass of the atom
+Rutherford's alpha scattering experiment
+Extended tier only
+In Rutherford's alpha scattering experiment the scattering of alpha ( α ) particles by a sheet of thin metal
+supports the nuclear model of the atom, by providing evidence for:
+a very small nucleus surrounded by mostly empty space
+a nucleus containing most of the mass of the atom-10Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+a nucleus that is positively charged
+In 1909 a group of scientists were investigating the Plum Pudding model of atomic structure
+Physicist, Ernest Rutherford was instructing two of his students, Hans Geiger and Ernest Marsden to
+carry out the alpha scattering experiment
+They directed a beam of alpha particles (He  ions) at a thin gold foil
+They expected the alpha particles to travel through the gold foil, and maybe change direction a small
+amount
+As shown in the diagram, instead they discovered that :
+Most of the alpha particles passed straight through the foil because the atom is mostly empty
+space (A)
+Some of the alpha particles were deflected (changed direction) as they passed through the foil
+because they came close to the positively charged nucleus, which repelled the positively charged
+alpha particles (B)
+A few of the alpha particles bounced back off the gold foil because the nucleus is tiny
+This bouncing back could not be explained by the Plum Pudding model of atomic structure, so a new model
+had to be created
+This was the first evidence of the nuclear atom as atomic structure
+ Rutherford's alpha scattering experiment results
+When α -particles are fired at thin gold foil, most of them go straight through but a very small number bounce
+straight back
+Atoms & ions
+An ion is an electricallycharged atom or group of atoms formed by the loss or gain of electrons
+An atom will lose or gain electrons to become more stable
+A stable atom is normally electrically neutral2+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+This means it has the same number of protons (positive charge) and electrons (negative charge)
+Positive ions are therefore formed when atoms lose electrons
+There will be more protons than electrons
+Negative ions are therefore formed when atoms gain electrons
+There will be more electrons than protons
+The atomic structure of ions
+The difference between positive and negative ions
+Examiner Tips and Tricks
+You may hear the term 'net charge'. This just means the 'overall' charge of the atom. If an atom has 5
+protons, 5 neutrons and 6 electrons, it has a net negative charge because it's a negative ion (more
+electrons than protons). 
+Remember which way around the charges are by proton being positive.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+The Nucleus
+Composition of the nucleus
+A nucleus is composed of:
+positively charged protons
+neutrally charged neutrons
+Hence a nucleus has an overall positive charge
+ Structure of the atom
+Protons and neutrons are found in the nucleus of an atom
+Describing the nucleus
+Proton number, Z
+The number of protons in an atom is called its proton number (it can also be called the atomic number)
+Elements in the periodic table are ordered by their atomic number
+Therefore, the number of protons determines which element an atom is
+The atomic number of a particular element is always the sameExaminer Tips and Tricks
+Be careful with your terminology:
+Atom = nucleus (proton and neutron) and electrons
+Nucleus = protons and neutrons at the centre of the atomYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+For example:
+Hydrogen has an atomic number of 1. It always has just one proton
+Sodium has an atomic number of 11. It has 11 protons
+Uranium has an atomic number of 92. It has 92 protons
+The atomic number is also equal to the number of electrons in an atom
+This is because atoms have the same number of electrons and protons in order to have no overall
+charge
+Nucleon number, A
+The total number of particles in the nucleus of an atom is called its nucleon number (or mass number)
+The mass number is the number of protons and neutrons in the atom
+Calculating the number of neutrons
+The number of neutrons can be found by subtracting the atomic number from the mass number
+number ofneutrons =nucleon number −proton number
+For example, if a sodium atom has a mass number of 23 and an atomic number of 11, then the number of
+neutrons would be 23 – 11 = 12
+Nuclide notation
+Atomic symbols are written in a specific notation called ZXA or nuclidenotation
+The top number A represents the nucleon number
+The lower number Z represents the proton number
+Nuclide notation
+Atomic symbols in AZX nuclide notation describe the constituents of nuclei
+A nuclide is a group of atoms containing the same number of protons and neutrons
+For example, 5 atoms of oxygen are all the same nuclide but are 5 separate atoms
+An example of nuclide notation is:Examiner Tips and Tricks
+You may have noticed that the number of electrons is not part of the mass number. This is because
+electrons have a tiny mass compared to neutrons and protons. We say their mass is negligible when
+compared to the particles in the nucleus.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Example of lithium nuclide notation
+Atomic symbols, like the one above, describe the constituents of nuclei
+Worked Example
+The element symbol for gold is Au. How many protons, neutrons and electrons are in the gold atom?
+79197Au
+Protons Neutrons Electrons
+A 79 79 79
+B 197 79 118
+C 118 118 79
+D 79 118 79
+Answer:  D
+Step 1: Determine the atomic and mass number
+The gold atom has an atomic number of 79 (lower number) and a mass number of 197 (top number)
+Step 2: Determine the number of protons
+The atomic number is equal to the number of protons
+The atom has 79 protons
+Step 3: Calculate the number of neutrons
+The mass number is equal to the number of protons and neutrons
+The number of neutrons is equal to the mass number minus the atomic number
+197 −79 =118
+The atom has 118 neutrons
+Step 4: Determine the number of electrons
+An atom has the same number of protons and electrons
+The atom has 79 electrons
+Examiner Tips and Tricks
+You may recognise this notation from the periodic table in chemistry when mass number and proton
+number are more commonly used.  In physics, you are more likely to see nucleon number and proton
+number. The periodic table is ordered by atomic number. Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Isotopes
+Although the number of protons in a particular element is always the same, the number of neutrons can be
+different
+Isotopes are atoms of the same element that have an equal number of protons but a different number of
+neutrons
+This means that each element can have more than one isotope
+Isotopes tend to be more unstable due to their imbalance of protons and neutrons
+This means they're more likely to decay
+In the diagram below are three isotopes of Hydrogen:
+Isotopes of hydrogen
+Hydrogen has three isotopes, each with a different number of neutrons
+Isotopes occur naturally, but some are more rare than others
+For example, about 2 in every 10,000 Hydrogen atoms is Deuterium
+Tritium is even more rare (about 1 in every billion billion hydrogen atoms)
+Worked Example
+Which of the following elements are isotopes of each other?
+A
+1735Cl  and 1835Cl
+B
+92238U and 92235UYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+C
+612C and 814C
+D
+816O and 714N
+Answer: B
+In nuclide notion, the top number is the nucleon number (number of protons and neutrons) and the
+bottom number is the proton number (number of protons)
+Isotopes are two of the same elements
+This eliminates option D since one is oxygen (O) and the other nitrogen (N)
+Which have the same number of protons
+This eliminates option C and A
+Their proton numbers are different for the same element
+But a different number of neutrons
+Therefore, the correct answer is BYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Protons, Neutrons & Electrons
+Relative charge
+Charge can be positive or negative
+Protons, neutrons and electrons have different properties and different charges
+Protons have a positive charge
+Electrons have a negative charge
+Neutrons have no charge
+Relative charge can be used to compare these properties
+Relative charge is the ratio of the charge of a particle compared to the fundamental charge 
+Because relative charge is a ratio, it has no units
+Fundamental charge is equal to the magnitude of the charge on a proton and an electron = 1.6 × 10  C
+The relative charge of a proton is 
+proton =1 .6 ×10−19C
+1 .6 ×10−19C= +1
+The relative charge of an electron is
+electron =−1 .6 ×10−19C
+1 .6 ×10−19C= −1
+The relative charge of a neutron is
+neutron =0C
+1 .6 ×10−19C=0
+Table of relative charges
+Particle Relative charge
+Proton +1
+Neutron 0
+Electron −1
+Nuclear charge
+Extended tier only
+Nuclear charge is the relative charge of the nucleus−19
+Examiner Tips and Tricks
+You don't need to know how to calculate relative charge, but you do need to understand what it is. You do
+also need to remember what the relative charges are for each subatomic particle.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+This is determined by the proton number of the atom
+Relative charge is calculated by: 
+nuclear charge =number ofprotons inthenucleus ×relative chargeofaproton
+An element of carbon has a proton number of 6
+So the relative charge of carbon is 6 × (+1) = 6
+Nuclear mass
+Extended tier only
+Nuclear mass or the relative mass of an atom, is the relative mass of the nucleus
+This is because the mass of electrons orbiting the nucleus is negligible
+A relative mass of 1 = 1.67 × 10  kg
+The relative mass of an atom is determined by the nucleon number of the atom
+It is calculated by: 
+relative mass ofatom =number ofprotons andneutrons inthenucleus ×relative mass ofaproton oraneutron
+An element of carbon has a nucleon number of 12
+So the relative mass of carbon is 12 × 1 = 12 atomic mass units or amuWorked Example
+What is the relative charge of the chromium nucleus 2452Cr?
+Answer:
+Step 1: Determine the number of protons
+The number of protons is the proton number
+This is the Z number in the AZX notation
+ZAX
+This chromium nucleus has 24 protons
+2452Cr
+Step 2: State the relative mass of 1 proton 
+1 proton has a relative charge of +1
+Step 3: Multiply relative charge of 1 proton by the number of protons
+This nucleus of chromium therefore has a relative charge of +24
+Examiner Tips and Tricks
+Charge can be either positive (+) or negative (–). Usually, when a number is positive, we don't write the +
+sign, but when dealing with relative charge, we do.
+-27Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Table of relative mass
+Particle Relative mass
+Proton 1
+Neutron 1
+Electron 1
+2000 negligible
+Worked Example
+What is the relative mass of the chromium nucleus  2452Cr ?
+Answer:
+Step 1: Determine the number of protons and neutrons
+The number of protons and neutrons is the mass (nucleon) number
+This is the A number in the AZX notation
+ZAX
+This chromium nucleus has 52 protons and neutrons
+2452Cr
+Step 2: State the relative mass of 1 proton and 1 neutron
+1 proton has a relative mass of 1
+1 neutron has a relative mass of 1
+Step 3: Multiply relative charge of 1 proton and 1 neutron by number of protons and neutrons
+This nucleus of chromium therefore has a relative mass of 52
+Examiner Tips and Tricks
+The relative mass of a nucleus only includes the protons and neutrons. However, this is pretty much the
+relative mass of the whole atom because electrons have negligible (very little) mass in comparison to the
+proton and neutron.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+Fission & Fusion
+Fission & fusion
+Nuclear fission & fusion are nuclear reactions that change the nucleus of an atom to produce high amounts
+of energy from the energy stored in the nucleus of an atom
+Nuclear fission
+Nuclear fission is defined as:
+The splitting of a large, unstable nucleus into two smaller nuclei
+During fission:
+A neutron collides with an unstable nucleus
+The neutron and the nucleus are the reactants
+The nucleus splits into two smaller nuclei (called daughter nuclei) and two or three neutrons
+The daughter nuclei and the neutrons are the products of the reaction
+Gamma rays are also emitted
+Nuclear fission process
+A neutron is fired into the target nucleus, causing it to split
+Nuclear fission nuclide equations
+An example of a nuclide equation for the fission of uranium-235 is:
+92235U+01n→3692Kr+56141Ba+301n+energy
+Where:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+92235U is an unstable isotope of uranium
+01n is a neutron
+3692Kr  is an unstable isotope of krypton
+56141Ba  is an unstable isotope of  barium
+Nuclear fission of uranium-235
+Large nuclei can decay by fission to produce smaller nuclei and neutrons with a lot of kinetic energy
+Nuclear fission mass and energy values
+Energy is conserved in a nuclear fission reaction
+In the example:
+92235U+01n→3692Kr+56141Ba+301n+energy
+The sum of the nucleon (top) numbers of the reactants (left-hand side) is equal to the sum of the nucleon
+numbers of the products (right-hand side):
+235 +1 =92 +141 + (3 ×1 )
+The same is true for the proton (bottom) numbers:
+92 +0 =36 +56 + (3 ×0 )
+The products of fission move away very quickly
+During a fission reaction, energy is transferred from nuclear energy store of the parent nucleus to the
+kinetic energy store of the products
+The mass of the products is fractionally less than the mass of the original nucleus
+This is because the remaining mass has been converted into energy, which is released during the fission
+process
+Large isotopes with a large nucleon number, such as uranium and plutonium, both undergo fission and are
+used as fuels in nuclear power stationsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Nuclear fusion
+Nuclear fusion is defined as:
+When two light nuclei join to form a heavier nucleus
+Stars use nuclear fusion to produce energy
+In most stars, hydrogen nuclei (light nuclei) are fused together to form a helium nucleus (heavier
+nucleus) and massive amounts of energy is produced
+Nuclear fusion of hydrogen
+Two hydrogen nuclei fuse to form a helium nucleus
+Nuclear fusion requires extremely high temperature and pressure
+So fusion is very hard to reproduce on Earth
+Nuclear fusion nuclide equations
+An example of a nuclide equation for fusion is:
+12H+11H→23He+energy
+Where:
+12H is deuterium (isotope of hydrogen with 1 proton and 1 neutron)
+11H is hydrogen (with one proton)
+23He  is an isotope of helium (with two protons and one neutron)
+Nuclear fusion mass and energy values
+The energy produced during nuclear fusion comes from a very small amount of a particle’s mass converted
+into energy
+Therefore, the mass of the product (fused nucleus) is fractionally less than the mass of the two original
+nuclei (reactants)
+The remaining mass has been converted into the energy released when the nuclei fuse
+The amount of energy released during nuclear fusion is huge:
+The energy from 1 kg of hydrogen that undergoes fusion is equivalent to the energy from burning about
+10 million kilograms of coalYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Worked Example
+A nuclide equation for nuclear fission is stated as:
+92235U+01n→3796Rb+55137Cs+N01n
+Calculate the number of neutrons, N emitted in this reaction.
+Answer:
+Step 1: Calculate the sum of the nucleon numbers of the reactants
+The reactants are on the left-hand side of the equation
+The nucleon numbers are the top numbers in the nuclide notation
+235 + 1 = 236
+Step 2: Calculate the sum of the nucleon numbers of the products
+The products are on the right-hand side of the equation
+96 + 137 + (N × 1) = 233 + N
+Step 3: Equate the total nucleons of the reactants and products
+236 = 233 + N
+Step 4: Rearrange for the number of neutrons, N
+N = 236 – 233 = 3Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+

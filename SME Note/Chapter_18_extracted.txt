@@ -1,0 +1,1034 @@
+Cambridge (CIE) IGCSE
+Physics
+Electrical Quantities
+Contents
+Electric Charge
+Demonstrating Electric Charges
+Electric Fields
+Investigating Conductors & Insulators
+Current
+Direct & Alternating Current
+Electromotive Force
+Potential Difference
+Resistance
+Resistance of a Wire
+Electrical Energy
+Electrical PowerYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Electric Charge
+Positive & negative charges
+There are two types of electric charge: positive and negative
+Inside an atom, there are
+negatively charged electrons
+positively charged protons
+neutral (no charge) neutrons
+Atoms contain equal numbers of protons and electrons as they have equal and opposite
+charges
+These charges cancel out so the overall charge of an atom is zero
+Structure of an atom
+The number of negative electrons in an atom balances the number of positive protons
+Attraction and repulsion
+When two charges are close together, they exert a force on each other, this could be:
+Attractive (the objects get closer together)
+Repulsive (the objects move further apart)
+Electric forces between chargesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Opposite charges attract, like charges repel
+Whether two objects attract or repel depends on their charge
+If the charges are the opposite, they will attract
+If the charges are the same, they will repel
+Attraction or repulsion summary table
+Charge of object 1 Charge of object 2 Attract or repel?
+positive positive repel
+positive negative attract
+negative positive attract
+negative negative repel
+The table shows that:
+Positive charges repel other positive charges and attract negative charges
+Negative charges repel other negative charges and attract positive charges
+Extended tier only
+Electric charge is measured in units called coulombs (C)
+Examiner Tips and Tricks
+Remember the saying “opposites attract” when answering questions about forces
+between charged particles.
+While electrostatic forces share many similarities with magnetic forces, they are
+different phenomena – do not confuse the two!Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+Demonstrating Electric Charges
+Charging by friction
+When certain insulating solids are rubbed against each other, they can become
+electrically charged
+This is called charging by friction
+The charges remain on the insulators and cannot immediately flow away
+One gains a net positive charge and the other gains a net negative charge
+An example of this is a plastic or polythene rod being charged by rubbing it with a cloth
+Both the rod and cloth are insulating materials
+Charging solids by friction
+A polyethene rod may be given a charge by rubbing it with a cloth
+When an uncharged cloth is rubbed against an uncharged polythene rod
+Electrons are transferred away from the cloth to the rod
+The cloth has lost electrons so it becomes positively charged
+The polythene rod has gained electrons so it becomes negatively charged
+These oppositely charged objects are also attracted to each other
+When an uncharged cloth is rubbed against an uncharged acetate plastic rod, however
+Electrons are transferred away from the acetate rod to the cloth
+The cloth has gained electrons so it becomes negatively chargedYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+The rod has lost electrons so it becomes positively charged
+Electrons are transferred away from the acetate rod to the cloth but transferred away
+from the cloth to the polythene rod
+Demonstrating electrostatic charges
+Experiment 1: investigating electrostatic charging by
+friction
+The aim of this experiment is to investigate how insulating materials can be charged by
+friction
+Variables
+Independent variable = Rods of different material
+Dependent variable = Charge on the rod
+Control variables:Examiner Tips and Tricks
+At this level, if you are asked to explain how charge is gained or lost, you must
+reference electrons. If an object gains electrons, it gains negative charge and if it
+loses electrons it loses negative charge (and hence, gains positive charge)
+Remember when charging by friction, it is only the electrons that can move, not any
+'positive' charge, therefore if an insulator gains a negative charge, the other insulator
+must have gained a positive chargeYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Time spent rubbing the rod
+Using the same type of cloth
+Using the same length of rod
+Equipment
+Equipment list
+Equipment Purpose
+Polythene rod to charge and hang from a cradle to test against
+each material
+Rods of different materials (acrylic,
+acetate, glass, wood)to observe the effects of these on the polythene
+rod
+Cloths (one per material) to rub the materials to charge them
+Cradle to suspend rods from, allowing them to move
+freely when subjected to a force
+Nylon string to hang the rods
+Wooden stand to suspend the string and cradle from
+Method
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Apparatus for investigating charging by friction
+1. Take a polythene rod, hold it at its centre and rub both ends with a cloth
+2. Suspend the rod, without touching the ends, from a stand using a cradle and nylon string
+3. Take a second polythene rod and rub one end with a different cloth
+4. Bring the second polythene rod close to the suspended rod
+5. Record any observations of the suspended rod's motion, i.e. whether it is attracted or
+repelled by the second rod
+6. Repeat using an acetate rod and rods of different materials
+Example results table
+charged material 1 charged material 2 attracted or repelled
+polythene polythene
+polythene acetate
+Analysis of results
+When two insulating materials are rubbed together, negative charge (electrons) will
+transfer from one insulator to the other
+A polythene rod gains a negative charge when rubbed with a cloth
+This is because electrons are transferred to the polythene from the cloth
+An acetate rod gains a positive charge when rubbed with a cloth
+This is because electrons are removed from the acetate by the cloth
+Transfer of electrons between charged insulatorsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Electrons are transferred to the polythene rod giving it a negative charge, and they move
+from the acetate rod giving it a positive charge
+If the material is repelled by the polythene rod, then the materials have the same charge
+For example, the polythene rod would be repelled by a second polythene rod, as
+they have the same charge
+If the material is attracted to the polythene rod, then they have opposite charges
+For example, the polythene rod would be attracted to an acetate rod, as they have
+opposite charges
+Evaluating the experiment
+Reduce the effects of environmental factors (e.g. close windows to reduce drafts) to
+ensure the motion of the polythene rod is due to electric forces only
+Make sure not to touch the ends of the rods once they have been charged (if the ends
+are touched, the rods will discharge and the forces will no longer be present)
+Produce greater deflections by rubbing the rods for a longer period to transfer more
+charge (ensuring that the time spent rubbing each rod is the same)
+Experiment 2: detecting charge using a gold-leaf
+electroscope
+The aim of this experiment is to detect charge using a gold leaf electroscope
+Variables
+Independent variable = Rods of different material
+Dependent variable = Charge on the rodYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Equipment
+Equipment list
+Equipment Purpose
+Gold-leaf electroscope to detect charge
+Polythene and acetate rods
+(or strips)to observe the effects of these on the gold-leaf
+electroscope when charged
+Cloths (one per material) to charge the rods (or strips) by rubbing them
+Method
+The gold-leaf electroscope is a device consisting of a metal plate, a metal stem and a thin
+gold leaf. The stem and leaf are housed in an airtight container to prevent draughts.
+1. Before beginning the experiment, ensure the plate of the electroscope is uncharged by
+touching it with your finger. The leaf should hang straight down next to the stem
+2. Charge a polythene rod by rubbing it with a cloth
+3. Bring the charged rod towards the plate of the electroscope and record any
+observationsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+4. Bring the charged rod away from the plate of the electroscope and record any
+observations
+5. Touch the charged rod to the plate of the electroscope and record any observations
+6. Repeat using an acetate rod
+Example results table
+charged
+materialaction gold leaf rises or
+fallsmovement of
+electrons
+polythene moved towards plate
+polythene moved away from
+plate
+polythene touched plate
+acetate moved towards plate
+acetate moved away from
+plate
+acetate touched plate
+Analysis of results
+When a charged object is brought near the plate of the electroscope, the leaf rises
+The negatively charged polythene rod repels electrons away from the surface of the
+plate down the stem and leaf, giving them a negative charge, hence, they repel
+The positively charged acetate rod attracts electrons to the surface of the metal
+plate from the stem and leaf, giving them a positive charge, hence, they repel
+When the charged object is moved away from the plate, the leaf falls
+Electrons in the electroscope are no longer repelled or attracted by the rod so they
+redistribute themselves
+The stem and leaf become electrically neutral
+When a charged object touches the plate of the electroscope, the leaf stays risen
+The charge from the rod is transferred to the metal plate and travels down the stem
+and leaf of the electroscope
+The stem and leaf therefore carry the same charge and repel each other
+The electroscope has been chargedYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+When a finger touches the plate, the leaf falls
+The charge from the electroscope is transferred to the person and travels to the
+earth
+The stem and leaf become electrically neutral
+The electroscope has been discharged
+Evaluating the experiment
+Make sure not to touch the ends of the rods once they have been charged (if the ends
+are touched, the rods will discharge)
+When the electroscope is charged by contact with a rod, it should stay risen. If it doesn't,
+repeat the process but ensure to press harder and draw the rod along the edge of the
+plate
+Examiner Tips and Tricks
+Experimental demonstrations, such as the one above, are different from experiments
+in which you have to take measurements. In the case of this demonstration your
+results are your observations.
+When describing a demonstration you should state a conclusion – in other words,
+explain what you expect to happen and what it means.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Electric Fields
+Electric fields
+Extended tier only
+An electric field is defined as:
+A region of space in which an electric charge experiences a force
+The direction of an electric field at a point is defined as:
+The direction of the force on a positive charge at that point
+Charged objects create electric fields around themselves
+This is similar to how magnets create magnetic fields
+An electric field is a vector quantity as it has both magnitude (strength) and direction
+Electric field patterns
+Extended tier only
+Electric field lines are
+used to represent the direction and magnitude of an electric field
+always directed from the positive charge to the negative charge
+Electric field around a point charge
+Around a point charge, the electric field lines are directly radially inwards or outwards:
+If the charge is positive (+), the field lines are radially outwards
+If the charge is negative (-), the field lines are radially inwards
+Electric field lines around positive and negative point charges
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+Electric field lines around a point charge are directed away from a positive charge and
+towards a negative charge
+Electric field around a charged conducting sphere
+The field lines around a charged conducting sphere are similar to that of a point charge
+This is because the charges on the surface of the sphere will be evenly distributed
+The charges are the same, so they repel
+The surface is conducting, allowing them to move
+Field lines are always perpendicular (at right angles)to the surface of a conducting
+sphere
+Electric field lines around a positively charged sphere
+The electric field pattern around a conducting can be demonstrated using a Van der
+Graaff generator
+Electric field between two parallel plates
+The electric field between two parallel plates is a uniform electric field
+The field lines are:
+directed from the positive to the negative plate
+parallel
+straight linesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+Electric field lines between two oppositely charged parallel
+plates
+Electric field lines between two parallel plates are directed from the positive to the
+negative plate. A uniform electric field has equally spaced field linesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Investigating Conductors & Insulators
+Electrical conductors & insulators
+Conductors
+A conductor is a material that allows charge (usually electrons) to flow through it easily
+Some examples of conductors are:
+silver
+copper
+aluminium
+steel
+The best conductors tend to be metals
+On the atomic scale, metallic conductors are made up of positively charged metal ions
+with their outermost electrons delocalised
+This means the electrons are free to move
+Metals conduct electricity very well because:
+Current is the rate of flow of electrons
+So, the more easily electrons are able to flow, the better the conductor
+Metallic lattice structure
+The lattice structure of a conductor with positive metal ions and delocalised electrons
+InsulatorsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+An insulator is a material that has no free charges and,hence does not allow the flow of
+charge through it very easily
+Some examples of insulators are:
+rubber
+plastic
+glass
+wood
+Some non-metals, such as wood, allow some charge to pass through them
+Although they are not very good at conducting, they do conduct a little in the form of
+static electricity
+For example, two insulators can build up charge on their surfaces and if they touch
+this would allow that charge to be conducted away
+Conductors and insulators
+Different materials have different properties of conductivity
+Investigating electrical conductors &
+insulators
+Aim of the experiment
+The aim of this experiment is to distinguish between good and bad conductors using a
+gold leaf electroscope
+Variables
+Independent variable = Different materials
+Dependent variable = Electrical conductivity of materials
+Equipment
+Equipment list
+Equipment PurposeYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+Gold-leaf electroscope to distinguish between electrical conductors
+and insulators
+Polythene rod to charge the electroscope by contact
+Cloth to charge the rod by friction
+Different conducting and insulating
+materials (metal, plastic, glass, wood)to observe the effects of these on the gold-
+leaf electroscope when uncharged
+Method
+1. Before beginning the experiment, ensure the plate of the electroscope is uncharged by
+touching it with your finger. The leaf should hang straight down next to the stem
+2. Charge a polythene rod by rubbing it with a cloth
+3. Touch the charged rod to the plate of the electroscope. The leaf should stay risen if the
+electroscope has been successfully charged
+4. Touch the plate of the charged electroscope with the first object to be tested and
+record any observations
+5. Repeat for different materials
+Example results table
+material gold leaf falls quickly or slowly good or bad conductor
+metal
+plastic
+glass
+graphite
+wood
+fabric
+rubberYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+Analysis of results
+Good conductors, such as metals, allow charge to flow through them easily
+Therefore, a good conductor will cause the leaf to fall quickly as it allows charge to
+flow to or from the plate
+The faster the leaf falls, the better the conductor
+Poor conductors, such as glass, do not allow charge to flow as easily
+Therefore, a poor conductor will cause the leaf to fall slowly as the charge is unable
+to flow as well
+If the leaf does not move at all, the material is a good insulator
+The expected results are shown in the table below:
+Table of conductors and insulators
+good conductors poor conductors (insulators)
+metal plastic
+graphite glass
+wood
+rubber
+fabric
+Evaluating the experiment
+An electrometer (electronic instrument capable of measuring electric charge) could be
+used instead of an electroscope to allow for numerical comparisons between good and
+poor conductorsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Current
+Current
+Electric current is defined as
+The rate of flow of electric charge
+Current flows
+when a circuit is formed e.g. when a wire connects the two oppositely charged
+terminals of a cell
+from the positive terminal to the negative terminal of a cell
+Charge flows from the positive terminal to the negative terminal
+Measuring current
+Current can be measured using an ammeter
+Ammeters must be connected in series with the component being measuredYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+An ammeter can be used to measure the current around a circuit
+Ammeters can be
+digital (with an electronic read out)
+analogue (with a needle and scale)
+Analogue ammeters
+Typical ranges are 0.1−1.0 A and 1.0−5.0 A for analogue ammeters
+Always double check exactly where the marker is before an experiment, if not at
+zero, you will need to subtract this from all your measurements. They should be
+checked for zero errors before using
+They are also subject to parallax error
+Always read the meter from a position directly perpendicular to the scaleYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+Digital ammeters
+Digital ammeters can measure very small currents, in mA or µA
+Digital displays show the measured values as digits and are more accurate than
+analogue displays
+They’re easy to use because they give a specific value and are capable of displaying
+more precise values
+However digital displays may 'flicker' back and forth between values and a
+judgement must be made as to which to write down
+Digital ammeters should be checked for zero error
+Make sure the reading is zero before starting an experiment, or subtract the “zero”
+value from the end results
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Electrical conduction in metals
+The wires in an electric circuit are made of metal because it is a good conductor of
+electric current
+In the wires, the current is a flow of negativelychargedelectrons
+In metal wires, the current is a flow of negatively charged electrons. When a potential
+difference is applied, electrons flow through the lattice of metal ions
+Calculating current
+Extended tier only
+Electric current can be defined more precisely as:
+The charge passing a point in a circuit per unit time
+Current is measured in units of amperes or amps (A)
+1 amp is equivalent to a charge of 1 coulomb flowing in 1 second, or 1 A = 1 C/s
+This means the size of an electric current is the amount of charge passing through a
+component each second
+Current, charge and time are related by the equation:
+I =Q
+t
+Where:
+Q = charge, measured in coulombs (C)Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+
+I = current, measured in amps (A)
+t = time, measured in seconds (s)
+The current, charge and time equation can be rearranged with the help of the following
+formula triangle:
+Current charge time formula triangle
+Formula triangle for the charge, current and time equation
+Worked Example
+When will 8 A of current pass through an electrical circuit?
+A.     When 8 J of energy is used by 1 C of charge
+B.     When a charge of 4 C passes in 0.5 s
+C.     When a charge of 8 C passes in 0.1 s
+D.     When a charge of 1 C passes in 8 s
+ANSWER:  B
+The equation relating current, charge and time is:
+Q =I ×t
+Rearrange to make current I the subject of the equation:
+I =Q
+t
+Consider option B, where Q = 4 C and t = 0.5 s:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
+
+Conventional current
+Extended tier only
+Current is the flow of positive charge i.e. from the positive terminal to the negative
+terminal of a cell
+This is known as conventional current
+This is in the opposite direction to electron flow
+Electrons are negatively charged, so they flow from the negative terminal to the
+positive terminal of a cell
+Conventional current and electron flowI =4
+0 .5=8A
+Therefore, the correct answer is B
+A is incorrect as this is the definition of a voltage of 8 V between two points and does
+not describe current
+C is incorrect as  I =8
+0 .1=80A
+D is incorrect as  I =1
+8=0 .125A
+Examiner Tips and Tricks
+Electric currents in everyday circuits tend to be quite small, so it's common for
+examiners to throw in a unitprefix like 'm' next to quantities of current, e.g. 10 mA (10
+milliamperes). Make sure you can convert these into standard units, e.g. 10 mA = 10 ×
+10 A.
+Make sure to only use the triangle to help you rearrange the equation that links
+charge, current and time. Don't draw it if you are asked to write out the equation in full,
+such as Q = I × t, as you may lose marks for doing so.
+Check out this revision note on speed, distance and time if you need a reminder on
+how to use formula triangles.-3 Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
+
+By definition, conventional current always goes from positive to negative. This is in the
+opposite direction to the flow of electronsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
+
+Direct & Alternating Current
+Direct & alternating current
+There are two types of current
+direct current (d.c.)
+alternating current (a.c.)
+Direct current
+A direct current (d.c.) is defined as
+A steady current, constantly flowing in the same direction in a circuit, from positive to
+negative
+The potential difference across a cell in a d.c. circuit travels in one direction only
+The current travels from the positive terminal to the negative terminal
+A d.c. power supply has a fixed positive terminal and a fixed negative terminal
+Electric cells, or batteries, produce direct current (d.c.)
+Alternating current
+An alternating current (a.c.) is defined as
+A current that continuously changes its direction, going back and forth around a circuit
+An alternating current power supply has two identical terminals that change from
+positive to negative and back again
+The alternating current always travels from the positive terminal to the negative
+terminal
+Therefore, the current changes direction as the polarity of the terminals changes
+The frequency of an alternating current is the number of times the current changes
+direction back and forth each second
+In the UK, mains electricity is an alternating current with a frequency of 50 Hz and a
+potential difference of around 230 V
+Graphs of direct current and alternating currentYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
+
+Two graphs showing the variation of current with time for alternating current and direct
+current
+Comparing direct and alternating current
+The following table summarises the differences between d.c. and a.c.
+Direct current vs. alternating current table
+Direct current (d.c.) Alternating current (a.c.)
+continuous and in one direction constantly changing direction
+produced by cells and batteries produced by electrical generators i.e. mains
+electricity
+involves a positive and negative
+terminalinvolves two identical terminals
+Examiner Tips and Tricks
+If asked to explain the difference between alternating and direct current, sketch the
+graphs shown above: a well-sketched (and labelled) graph can earn you full marks. Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+
+Electromotive Force
+Electromotive force
+Electromotive force (e.m.f.) is the name given to the potential difference of the power
+source in a circuit
+It is defined as
+The electrical work done by a source in moving a unit charge around a complete circuit
+Electromotive force (e.m.f.) is measured in volts (V)
+The e.m.f. is the voltage supplied by a power supply: 12 V in the above case
+Calculating electromotive force
+Extended tier only
+The definition of e.m.f. can also be expressed using the equation:
+E =W
+Q
+Where
+E = electromotive force (e.m.f.), measured in volts (V)
+W = energy transferred to the charges from the power source, measured in joules (J)
+Q = charge moved, measured in coulombs (C)Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 28
+
+This equation should be compared to the definition of potential difference as the two
+are closely related
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 29
+
+Potential Difference
+Potential difference
+Potential difference is defined as:
+The work done by a unit charge passing through a component
+Potential difference is measured in units of volts (V)
+The potential difference between two points in a circuit is related to the amount of
+energy transferred between those points
+The potential difference is the difference in the electrical potential across each
+component: 5 volts for the bulb (on the left) and 7 volts for the resistor (on the right)
+As electrons flow through a cell, they gain energy
+For example, in a 12 V cell, every coulomb of charge passing through gains 12 J of
+energy
+As electrons flow through a circuit, they lose energy
+For example, after leaving the 12 V cell, each coulomb of charge will transfer 12 J of
+energy to the wires and components in the circuit
+Measuring potential difference
+Potential difference can be measured using a voltmeter
+Voltmeters must be set up in parallel with the component being measuredYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 30
+
+This is because potential difference is the difference in electrical potential between
+two points
+Therefore, a voltmeter has to be connected to two points in the circuit 
+Potential difference can be measured by connecting a voltmeter in parallel between two
+points in a circuit
+Voltmeters can be
+digital (with an electronic read out)
+analogue (with a needle and scale)
+Analogue voltmeters
+Analogue voltmeters are subject to parallax error
+Always read the meter from a position directly perpendicular to the scale
+Typical ranges are 0.1−1.0 V and 0−5.0 V for analogue voltmeters although they can vary
+Always double-check exactly where the marker is before an experiment, if not at
+zero, you will need to subtract this from all your measurements
+They should be checked for zero errors before using
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 31
+
+Voltmeters can be either analogue (with a scale and needle) or digital (with electronic
+read-out)
+Digital voltmeters
+Digital voltmeterscan measure very small potential differences, in mV or µV
+Digital displays show the measured values as digits and are more accurate than
+analogue displays
+They’re easy to use because they give a specific value and are capable of displaying
+more precise values
+However digital displays may 'flicker' back and forth between values and a
+judgement must be made as to which to write down
+Digital voltmeters should be checked for zero error
+Make sure the reading is zero before starting an experiment, or subtract the “zero”
+value from the end results
+Calculating potential difference
+Extended tier only
+Potential difference, energy transferred and charge are related by the equation:
+V =W
+Q
+Where:
+V = potential difference, measured in volts (V)
+W = energy transferred to the components, measured in joules (J)
+Q = charge moved, measured in coulombs (C)Examiner Tips and Tricks
+When you are building a circuit in class, always connect the voltmeter last. Make the
+whole circuit first and check it works.
+Only then pick up the voltmeter. Connect two leads to your voltmeter. Now connect
+the leads so that they are one on each side of the component you are measuring. This
+will save you a lot of time waiting for your teacher to troubleshoot your circuit!
+You might sometimes see potential difference called voltage. Both mean the same
+thing, but it is best to use the term potential difference. This can be particularly useful
+when thinking about voltmeters as the potential difference describes a difference
+between two points, therefore the voltmeter has to be connected between two
+points in the circuit.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 32
+
+One volt is equivalent to the transfer of 1 joule of electrical energy by 1 coulomb of
+charge, or 1 V = 1 J/C
+This can be rearranged using the formula triangle below:
+Energy charge and potential difference formula triangle
+Formula triangle for the energy transferred, voltage and charge equation
+Check out this revision note on speed, distance and time if you need a reminder on how
+to use formula triangles
+Worked Example
+The normal operating voltage for a lamp is 6 V.
+Calculate how much energy is transferred in the lamp when 4200 C of charge flows
+through it.
+Answer:
+Step 1: List the known quantities
+Voltage, V = 6 V
+Charge, Q = 4200 C
+Step 2: State the equation linking potential difference, energy and charge
+The equation linking potential difference, energy and charge is:
+V =W
+Q
+Step 3: Rearrange the equation and substitute the known valuesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 33
+
+W =V ×Q
+W = 6 × 4200 = 25 200 J
+Therefore, 25 200 J of energy is transferred in the lamp
+Examiner Tips and Tricks
+Don't be confused by the symbol for voltage (the symbolV) being the same as its unit
+(the volt, V). Remember that one volt is equivalent to 'a joule per coulomb'.
+Make sure to learn this equation and understand how it is similar (and different) to the
+equation for e.m.f.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 34
+
+Resistance
+Ohm's law
+Resistance
+Resistance is defined as:
+The opposition to current
+Resistance occurs because the free electrons flowing in the circuit (current) collide with
+the metal ions in the wire
+These collisions slow down the electrons, or, in other words, resist their flow
+The higher the resistance of a circuit, the lower the current
+This means that good conductors have a low resistance and insulators have a high
+resistance
+The resistance of a circuit can be increased by adding resistors (or variable resistors) to it
+Every electrical component has a resistance, even wires
+In exam questions, the resistance of the wires and batteries are assumed to be
+negligible
+The effect of resistance on the current in a circuit
+When a circuit has a high resistance, a lower current will flow, and vice versa
+Ohm's law
+Current, I, potential difference, V, and resistance, R, all affect one anotherYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 35
+
+Changing any one of these in a circuit, changes all of them
+Current and resistance are inversely proportional
+If the resistance is doubled, current will halve
+This relationship is described by the following equation, known as Ohm's law
+R =V
+I
+Where
+R = resistance, measured in ohms ( Ω )
+V = potential difference, measured in volts (V)
+I = current, measured in amperes or amps (A)
+Consequences of Ohm's law
+Resistors are used in circuits to control either:
+the current in branches of the circuit (through certain components)
+the potential difference across certain components
+This is due to the consequences of Ohm's Law
+The current in an electrical conductor decreases as its resistance increases (for a
+constant p.d.)
+The p.d. across an electrical conductor increases as its resistance increases (for a
+constant current)
+Worked Example
+A 12 Ω  resistor has a current of 0.3 A flowing through it. 
+Determine the potential difference across the resistor.
+Answer:
+Step 1: List the known quantities
+Resistance, R =12Ω
+Current, I =0 .3A
+Step 2: Write out the equation for Ohm's law and rearrange to make potential
+difference the subject
+R =V
+IYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 36
+
+Current-voltage graphs
+Extended tier only
+The relationship between current and potential difference of a component can be
+shown on a current-voltage (I-V) graph
+When the relationship between current and potential difference is linear:
+the I-V graph is a straight line which passes through the origin
+the resistance is constant
+these are known as ohmic resistors
+When the relationship between current and voltage is non-linear:
+the I-V graph that is not a straight line
+the resistance is not constant
+these are known as non-ohmic resistors
+Current-voltage (I-V) graph for a resistor and a filament lamp
+Linear IV graphs are straight lines through the origin, indicating a constant resistance.
+Non-linear IV graphs are curved, indicating a variable resistanceV =IR
+Step 3: Substitute in the known values to calculate
+V =0 .3 ×12
+V =3 .6VYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 37
+
+Components with linearI-V graphs (ohmic resistors) include:
+fixed resistors (at constant temperature)
+wires (at constant temperature)
+Components with non-linear I-V graphs (non-ohmic resistors) include:
+filament lamps
+diodes
+LDRs
+thermistors
+I-V graph for ohmic conductors
+The relationship between current and voltage for a wire or fixed resistor is linear,
+or directly proportional, which means
+the IV graph is a straight line, so voltage and current increase (or decrease) by
+the same amount
+the slope of the graph is constant, so resistance is constant
+I-V graph for a a wire of fixed resistor
+The current is directly proportional to the potential difference (voltage) as the graph is a
+straight line through the origin
+I-V graph for a filament lamp
+The relationship between current and voltage for a filament lamp is non-linear,
+or not directly proportional, which meansYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 38
+
+the IV graph is not a straight line, so voltage and current do not increase (or
+decrease) by the same amount
+the slope of the graph is not constant, so resistance changes
+The IV graph for a filament lamp shows as voltage increases
+the current increases at a proportionally slower rate
+the resistance increases;the flatter the slope, the higher the resistance
+I-V graph for a filament lamp
+As current flows through a filament lamp, the lamp heats up; resistance increases with
+temperature, causing the S-shaped curve
+As current through a filament lamp increases, the resistance increases because:
+the higher current causes the temperature of the filament to increase
+the higher temperature causes the atoms in the metal lattice of the filament
+to vibrate more
+this causes an increase in resistance as it becomes more difficult
+for freeelectrons (the current) to pass through
+since resistance opposes the current, this causes it to increase at a slower rate
+I-V graph for a diode
+A diode allows current to flow in one direction only
+This is called forward bias
+In the reverse direction, the diode has very high resistance, and therefore no current
+flows
+This is called reverse biasYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 39
+
+When the current is in the direction of the arrowhead symbol, this is forward bias
+On the IV graph, this is shown by a sharp increase in voltage and current on the right
+side of the graph
+This shows the resistance is very low
+When the diode is switched around, this is reverse bias
+On the IV graph, this is shown by a zero reading of current or voltage on the left side
+of the graph
+This shows the resistance is very high
+I-V graph for a diode
+The current is zero at all potential differences in the negative quadrants because current
+only flows one way through a diode; this gives the diode I-V graph its distinct shape
+Examiner Tips and Tricks
+In your IGCSE exam, you could be asked to recognise, sketch or explain the I-V graphs
+for a wire / fixed resistor (ohmic conductors), a filament lamp and a diode.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 40
+
+Resistance of a Wire
+Resistance of a wire
+As electrons pass through a wire, they collide with the metal ions in the wire
+These collisions transfer energy away from the kinetic store of the electrons, which
+causes them to slow down
+The energy from the electrons is transferred to the kinetic store of the vibrating metal
+ions
+This causes the vibration of the ions to increase (increased temperature)
+As the vibration of the ions increases, the more the electrons collide with them
+(increased resistance)
+Electron collisions in a metal wire
+Electrons collide with metal ions, which resist their flow
+If the wire is longer, each electron will collide with more ions, and so there will be more
+resistance:
+The longer a wire, the greater its resistance
+If the wire is thicker (greater diameter) there is more space for the electrons and so more
+electrons can flow:
+The thicker a wire, the smaller its resistanceYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 41
+
+Proportionality relationships for
+electrical conductors
+Extended tier only
+The relationship between resistance, length and cross-sectional area can be
+represented mathematically
+Resistance is directly proportional to length
+Doubling the length will double the resistance and vice versa
+R ∝L
+Resistance is inversely proportional to cross-sectional area (width, or thickness) 
+Doubling the cross-sectional area will halve the resistance
+R ∝1
+A
+Effect of length and cross-sectional area on resistance
+The mathematical relationship between length and width of the wire and the resistanceYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 42
+
+Electrical Energy
+Energy transfer in electrical circuits
+As charge (electrons) flows around a circuit, energy is transferred from the power source
+to the various components
+As electrons pass through the power supply, energy is transferred to the electrons
+As the electrons pass through each component, energy is transferred from the
+electrons to the component 
+The component will often dissipate some of that energy to the surroundings
+Energy transfers in a circuit
+Charge gains energy from the power supply, and transfers the energy to the components
+Some domestic appliances transfer energy from the chemical store of cells and
+batteries, such as mobile phones, laptops, and remote controls
+Most larger household appliances transfer energy electrically from the mains supply
+Lots of household appliances contain motors
+Vacuum cleaners: to create the suction to suck in dust and dirt off carpets
+Washing machines: to rotate the drum to wash (or dry) clothes
+Refrigerators: to compress the refrigerant chemical into a liquid to reduce the
+temperatureYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 43
+
+Energy is transferred electrically from the mains supply to the kinetic store of the motor
+in the appliance
+Lots of household appliances contain heaters
+Toasters: to heat up food
+Kettles: to boil water
+Boiler in a central heating system: hot water is pumped from the boiler so the
+radiator can heat up a room 
+Energy is transferred electrically from the mains supply to the thermal store of the
+heater.
+Energy transfers in common household appliances
+Energy is transferred electrically from the mains supply to the kinetic store of the motor in
+a washing machine, or to the thermal store of the heating element in a toaster
+Electrical energy equation
+The amount of energy transferred by an electrical appliance depends on:
+how long the appliance runs for
+the power rating of the appliance
+Electrical energy can be calculated using the following equation:
+E =VItYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 44
+
+Where:
+E= energy, measured in joules (J)
+V = potential difference, measured in volts (V)
+I = current, measured in amps (A)
+t = time, measured in seconds (s)
+Worked Example
+A washing machine runs a cycle for 3 hours and 16 minutes. The potential difference of
+the mains supply is 230 V. A current of 10.0 A flows through the washing machine for
+the duration of the cycle. 
+Determine the amount of energy transferred from the mains supply during the cycle.
+Give your answer in MJ.
+Answer:
+Step 1: List the known quantities
+Potential difference, V =230V
+Current, I =10 .0A
+Time, t =3hrs16min
+Step 2: Convert the time to seconds
+1 hour = 60 mins
+3 ×60 =180min
+180 +16 =196min
+1 min = 60 s
+196 ×60 =11760s
+Step 3: Write out the equation for electrical energy
+E =VIt
+Step 4: Substitute in the known values to calculate
+E =230 ×10 ×11760
+E =27048000J
+Step 5: Give your answer in MJ
+1 MJ = 1 000 000 J
+E =27MJYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 45
+
+Electrical Power
+Electrical power equation
+The power of an appliance is defined as: 
+The rate at which energy is transferred by an appliance
+Power can be calculated in terms of energy:
+P =E
+t
+Where:
+P = power, measured in watts (W)
+E = energy transferred, measured in joules (J)
+t = time, measured in seconds (s)
+Power can also be calculated in terms of work done:
+P =W
+t
+Where:
+W  = work done, which is equivalent to energy transferred, measured in joules (J)
+The power of an electrical device is the energy transferred per second by the device
+The watt (W) is equivalent to joules per second (J/s)
+The power dissipated by an electrical component can be calculated by:
+P =IV
+Where:
+P = dissipated power, measured in watts (W)
+I = current, measured in amps (A)
+V = potential difference, measured in volts (V)
+Worked Example
+Two lamps are connected in series to a 150 V power supply.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 46
+
+Which statement most accurately describes what happens?
+A.     Both lamps light normally
+B.     The 15 V lamp blows
+C.     Only the 41 W lamp lights
+D.     Both lamps light at less than their normal brightness
+Answer: A
+Step 1: State the equation for electrical power and rearrange for current
+P =IV
+I =P
+V
+Step 2: Calculate the current required for both lamps to operate
+For the 41 W lamp, with a voltmeter reading of 135 V:
+I =41
+135=0 .3A
+For the 4.5 W lamp, with a voltmeter reading of 15 V
+I =4 .5
+15=0 .3A
+Step 3: Determine the outcome of the bulbs
+For both bulbs to operate at their normal brightness, a current of 0.3 A is required
+The lamps are connected in series, so the same current would flow through both
+Therefore, the lamps will light at their normal brightness
+This is option A
+Examiner Tips and TricksYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 47
+
+Measuring energy usage
+Energy measured in joules
+Electrical energy transferred is often calculated in units of joules
+1 joule (J) is equivalent to 1 watt second (W s)
+Consider an average lightbulb with a power of 60 W, which is left on for 6 hours in a
+house
+1 hour is 3600 s
+The energy transferred over this time is 1.296 × 10 J
+This number is large, and that is only one lightbulb for a single day
+A household uses many appliances all year round; the energy transferred per month
+in joules would be inconveniently large
+Energy measured in kilowatt-hours
+To make these large values more relatable to daily use:
+Power can be measured in kilowatts (kW)
+Time can be measured in hours (h)
+In this case, energy has units of kilowatt-hours (kW h)
+The lightbulb from before receives 0.36 kW h of energy over the 6 hours
+This value is much easier to understand for consumers and energy providers; thinking in
+terms of hours of use is more practical than seconds
+Calculations with kWh
+As has been stated previously, the equation for energy transferred is:
+E =Pt
+But here, different units are considered:
+E = energy transferred, measured in kilowatt hours (kW h)
+P = power of the appliance, measured in kilowatts (kW)
+t = time, measured in hours (h)
+The usual unit of energy is joules (J), which is one watt-second
+To find the number of joules in 1 kW h, convert the power and time to watts and secondsWhen doing calculations involving electrical power, remember the unit is Watts W,
+therefore, you should always make sure that the time is in seconds
+6Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 48
+
+1kWh =1000 W ×3600 s =3 .6 ×106J
+1000 watts multiplied by 3600 seconds is equal to 1000 multiplied by 3600, in watt-
+seconds
+1000 W ×3600 s =1000 ×3600 Ws =3 .6 ×106J
+Therefore, 1 kWh = 3.6 × 10 J
+To convert from kW h to J:
+E ( ) kWh × (3 .6 ×106 ) =E ( )J
+To convert from J to kW h:
+E ( )J÷ (3.6×106 )=E ( ) kWh
+The kW h is a large unit of energy, and is mostly used for energy in homes, businesses and
+factories6
+Worked Example
+A cooker transfers 1.2 × 10 J of energy electrically to the thermal store of the heating
+element during its use over a year.
+Assume that 1 kW h costs 14.2 p. 
+100 p = £1 (100 pence = 1 pound)
+Calculate the cost of using the oven for the year.
+Answer: 
+Step 1: List the known quantities
+Energy in joules, E ( )J =1 .2 ×109J
+Cost per kW h, 1kWh =14 .2p
+Step 2: Convert the energy used from J to kW h
+E ( ) kWh =1 .2 ×109
+3 .6 ×106=333 .3kWh
+Step 3: Calculate the price
+1kWh =14 .2p
+333 .3 ×14 .2 =4733 p =£47 .339
+Examiner Tips and TricksYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 49
+
+The kilowatt hour is a tricky concept to get your head around, so make sure you are
+comfortable with the conversions between kW h and J well before your exam.
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 50
+

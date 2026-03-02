@@ -1,0 +1,561 @@
+Cambridge (CIE) IGCSE
+Physics
+Effects of Forces
+Contents
+Resultant Forces
+Newton's First Law
+Newton's Second Law
+Investigating Force & Extension
+Hooke's Law
+Circular Motion
+FrictionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Resultant Forces
+Effects of forces
+A force is defined as:
+A push or a pull that acts on an object due to the interaction with another object
+Forces can have a variety of effects on an object
+Forces can change an object's
+speed
+direction
+shape
+size
+Effects of forces on different objects
+A thrust force can cause a car to speed up, a gravitational force can cause a comet to
+change direction, compression forces can cause a spring to change shape
+The effects of forces on an object often depend on the type of force acting
+The push force (thrust) of an engine can cause a car to speed up, whilst the force
+exerted by the brakes (friction) can cause it to slow down
+The gravitational pull of the Sun on a comet causes the comet to change direction
+When two opposing forces push on each end of a spring, the spring changes shape
+(it compresses)
+Resultant forces on a straight line
+What is a resultant force?Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+A resultant force is a single force that describes all of the forces operating on a body
+When multiple forces act on one object, the forces can be combined to produce one
+net force that describes the combined action of all of the forces
+This single resultant force determines:
+The direction in which the object will move as a result of all of the forces
+The magnitude of the net force experienced by the object
+Balanced and unbalanced forces
+The forces acting on an object can be described as balanced or unbalanced
+Forces are balanced if multiple forces act in opposing directions with an equal
+magnitude in each direction
+The effects of the forces then cancel out
+There is no resultant force in that plane of direction
+Forces are unbalanced if the effects of the forces acting in each plane do not cancel out
+There is a resultant force in one or more planes of direction
+A book is at rest on a table
+The gravitational pull of the Earth on the book (weight) acts in a downward direction
+The push force of the table on the book (normal contact force) acts in the upward
+direction
+The forces are equal in magnitude and opposite in direction
+The forces are therefore balanced
+There is no resultant force acting on the book
+Zero resultant force on a book resting on a tableYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+A book resting on a table is an example of balanced forces
+Calculating resultant force
+Force is a vector quantity; it has both magnitude and direction
+When adding forces together, it is important to assign positive and negative values to
+show the direction in which the forces are acting
+If a 5 N force acts to the right and a 5 N force acts to the left on an object, then we assign
+one of the values as positive and one as negative
+So the resultant force acting on the object is
+resultant force =5 + ( ) −5
+resultant force =0N
+The forces acting on the object are equal in magnitude and opposite in direction;
+therefore, they cancel one another out
+This is like two people pushing a box with equal force from opposite sides; the box
+doesn't move
+If two people push the box from the same side in the same direction, one with a 3 N force
+and one with a 7 N force, then the forces will add together, and the box will move in the
+direction of the resultant force
+resultant force =3 +7
+resultant force =10N
+If two people push the box in opposite directions, one with a 7 N force to the left
+(negative) and one with a 3 N force to the right (positive), then the forces will add
+together and the box will move in the direction of the resultant forceYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+resultant force = ( ) −7 +3
+resultant force = −4N
+In this case, the box will move to the left with a force of 4 N
+Zero and non-zero resultant forces
+Zero and non-zero resultant forces acting on three objects
+Worked Example
+Calculate the magnitude and direction of the resultant force in the diagram below.
+Answer:
+Step 1: Assign a direction to the forces
+Forces acting to the right are positive
+Forces acting to the left are negative
+Step 2: Add together all the forces acting on the object
+resultant force = ( ) −14 +4 +8
+resultant force = ( )14 +12
+resultant force = −2N
+Step 3: State the magnitude and direction of the resultant force
+The resultant force is 2 N to the leftYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Examiner Tips and Tricks
+Mathematically, it doesn't matter which direction you assign to be positive or
+negative, as long as you are consistent throughout your calculation.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Newton's First Law
+Newton's first law
+Newton's 1st law of motion states:
+Objects will remain at rest, or move with a constant velocity unless acted on by a resultant
+force
+This means if that:
+A stationary object will remain stationary
+An object moving with a constant velocity will continue to move at that constant
+velocity
+Unless the object is acted upon by a resultant force
+Conversely, that means that if an object is at rest, or has a constant velocity, no resultant
+force can be acting on it
+Remember that a constant velocity means:
+No change in speed
+No change in direction
+Objects with Zero Resultant Force
+Constant velocity can only be achieved when the forces on an object are balanced - in
+other words, when the resultant force is zeroYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Examples of Newton's first law
+A mug on a table will remain stationary on the table unless acted upon by a resultant
+force
+For example, if someone picks up the mug, or knocks into the table
+A piece of space debris will continue moving in a straight line at a constant speed unless
+acted upon by a resultant force
+For example, if it enters the gravitational field of a planet or collides with an asteroid
+A car travelling in a straight line at a constant speed will continue to travel in a straight line
+at a constant speed unless acted upon my a resultant force
+For example, if the driver brakes or accelerates
+Worked Example
+A student did some online research and found out that the Moon orbits the Earth at a
+constant speed of around 2000 mph.
+The student says that this is not an example of Newton's first law of motion. Is the
+student correct? Explain your answer.
+Answer:
+Step 1: Recall Newton's first law of motion
+Newton's first law of motion states that objects will remain at rest, or move with
+a constant velocity, unless acted on by a resultant force
+Step 2: Determine if the object in the question is at rest, or if it is moving with a
+constant velocity
+The Moon, in this case, is not at rest
+It is moving at a constant speed
+But it is not moving in a constant direction - it continually orbits the Earth
+Hence, it is not moving with a constant velocity, because velocity is a vector
+quantity
+Step 3: State and explain whether the student is correct
+The student is correct
+The Moon moves with a constant speed, but always changes direction
+So it is not moving with a constant velocity, and is not an example of Newton's
+first law of motion
+Worked Example
+A car moves at a constant velocity. The driving force from the engine is 3 kN.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Determine the frictional force acting on the car.
+Answer:
+Step 1: Recall Newton's first law of motion
+Newton's first law of motion states that objects will remain at rest, or move with
+a constant velocity unless acted on by a resultant force
+Step 2: Relate Newton's first law to the scenario
+Since the car is moving at a constant velocity, there is no resultant force
+This means the driving and frictional forces are balanced
+Step 3: State the value of the frictional force
+Frictional force, F = driving force = 3 kN
+Examiner Tips and Tricks
+Students often struggle to understand how an object can move when there is no
+resultant force acting on it. You may even have this misconception without realising it.
+It is important to fully understand Newton's first law, because it underpins a lot of
+physics content and can cause you to make mistakes in seemingly unrelated
+questions.
+Usually, students are comfortable with the idea that an object at rest on a table will not
+move unless something or someone physically moves it. The issue comes from the
+idea of an object in motion.
+A rock drifting through the vacuum of deep space away from the gravitational pull of
+any large bodies, will continue to drift at that same speed, in that same direction,
+potentially forever. The only way to change its motion is for a force to be exerted upon
+it.
+On Earth, there are always forces acting on objects, so in our everyday experience we
+need to think in terms of resultant forces and balanced forces.
+A car can maintain a constant velocity when the force from the engine is balanced
+with the frictional forces opposing its motion (friction between the tyres and road,
+and air resistance). If nothing changes with these forces, it will continue travelling at a
+constant velocity. If you do want to change the motion of the car, to speed up or slow
+down, you need to provide a resultant force. By increasing the force from the engine,
+you can cause the car to speed up. By either decreasing the force from the engine, or
+increasing the frictional force (using the brakes) the car will slow down.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+When the forces acting on an object are not balanced (a resultant force is exerted)
+this will cause a change in the object's motion.
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Newton's Second Law
+Newton's second law
+Newton's second law of motion states:
+The acceleration of an object is proportional to the resultant force acting on it and
+inversely proportional to the object's mass
+Newton's second law of motion explains what happens when a non-zero resultant force
+acts on an object
+A resultant force occurs when the forces acting on an object are not balanced
+A resultant force acting on an object will cause a change in the object's motion
+This change in motion is an acceleration:
+Speeding up
+Slowing down
+Changing direction
+If the resultant force on an object is not zero, the object will accelerate in the direction
+of the resultant force
+The bigger this resultant force, the larger the acceleration
+For a given force, the greater the object's mass, the smaller the acceleration
+experienced
+Examples of Newton's second law
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Objects like baseballs and lawnmowers accelerate when a resultant force is applied on
+them. The size of the acceleration is proportional to the size of the resultant force
+Calculations using Newton's second law
+Extended tier only
+Newton's second law can be expressed as an equation:
+F =ma
+Where:
+F = resultant force on the object, measured in newtons (N)
+m = mass of the object, measured in kilograms (kg)
+a = acceleration of the object, measured in metres per second squared (m/s)
+The acceleration occurs in the same direction as the resultant force
+Formula triangle for acceleration, mass and resultant force
+To use a formula triangle, simply cover up the quantity you wish calculate and the
+structure of the equation is revealed
+A more detailed explanation of how to use formula triangles is covered in the revision
+note Speed and velocity2
+Worked Example
+A car salesman says that their best car has a mass of 900 kg and can accelerate from
+0 to 27 m/s in 3 seconds.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+Calculate:
+a) the acceleration of the car in the first 3 seconds.
+b) the force required to produce this acceleration.
+Answer:
+Part (a)
+Step 1: List the known quantities
+Initial velocity, v =0m /s
+Final velocity, u =27m /s
+Time, t =3s
+Step 2: State the equation for acceleration, in terms of change in velocity
+a =v −u
+t
+a =27 −0
+3
+a =9m /s2
+Part (b)
+Step 1: List the known quantities
+Mass of the car, m =900kg
+Acceleration, a =9m /s2
+Step 2: Identify which law of motion to apply
+The question involves quantities of force, mass and acceleration, so Newton's
+second law is required:
+F =ma
+Step 3: Calculate the force required to accelerate the car
+F =900 ×9
+F =8100 N
+Worked Example
+Three shopping trolleys, A, B and C, are being pushed using the same force. This force
+causes each trolley to accelerate.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+State which trolley would have the smallest acceleration. Explain your answer.
+Answer: C
+Step 1: Identify which law of motion to apply
+The question involves quantities of force and acceleration, and the image shows
+trolleys of different masses, so Newton's second law is required:
+F =ma
+Step 2: Re-arrange the equation to make acceleration the subject
+a =F
+m
+Step 3: Explain the inverse proportionality between acceleration and mass  
+Acceleration is inversely proportional to mass
+This means that for the same amount of force, a largemass will experience a
+smallacceleration
+Therefore, trolley C will have the smallest acceleration because it has the largest
+massYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Investigating Force & Extension
+Investigating springs
+Aim of the experiment
+The aim of this experiment is to investigate the relationship between force and extension
+for a spring
+Variables
+Independent variable = Force, F
+Dependent variable = Extension, x
+Control variables:
+Spring with spring constant, k
+Equipment
+Equipment list
+Equipment Purpose
+Clamp stand, boss and clamp To apply an upward force on the spring
+Ruler To measure the extension of the spring
+Spring To measure the extension of
+6 × 100 g masses To apply a downward force on the spring
+100 g mass hanger To hold the additional masses
+Pointer To accurately read the extension from the ruler
+Resolution of measuring equipment:
+Ruler = 1 mm
+Method
+Equipment for investigating the extension of a springYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Fixing the ruler to the clamp stand will reduce movement in the ruler and, therefore,
+reduce errors in measurement
+1. Align the marker to a value on the ruler with no mass added to the spring, and record this
+initial length of the spring
+2. Add the 100 g mass hanger onto the spring
+3. Record the mass (in kg) and position (in cm) from the ruler now that the spring has
+extended
+4. Add another 100 g to the mass hanger
+5. Record the new mass and position from the ruler now that the spring has extended
+further
+6. Repeat this process until all masses have been added
+7. The masses are then removed and the entire process is repeated again until it has been
+carried out a total of three times, and an average length is calculated
+Example results tableYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+A suitable table of results must contain space for the calculations of force and extension
+Analysis of results
+The force, F added to the spring is the weight of the mass
+The weight is calculated using the equation:
+W =mg
+Where:
+W  = weight, measured in newtons (N)
+m  = mass, measured in kilograms (kg)
+g = gravitational field strength, measured in newtons per kilogram (N/kg)
+Therefore, multiply each mass by gravitational field strength, g = 9.8 N/kg, to calculate
+the force, F
+The extension of the spring is calculated using the equation:
+extension =final length −original length
+The final length is the length of the spring recorded from the ruler when the masses were
+added
+The original length is the length of the spring when there were no masses
+1. Plot a graph of the force against extension
+2. Draw a line of best fit
+3. If the graph has a linear region (is a straight line), then the force is proportional to the
+extension in this region
+Example force-extension graphYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+The graph is a straight line that goes through the origin which shows that the extension of
+the spring is directly proportional to the force applied  (Hooke's Law)
+Evaluating the experiment
+Systematic errors
+Make sure the measurements on the ruler are taken at eye level to avoid parallax error
+Random errors
+The precision of the experiment is improved with the use of a pointer at the bottom of
+the spring
+Wait a few seconds for the mass to become stationary after it is added, before taking
+the readings for its length
+Check that the spring has not gone past its limit of proportionality otherwise, it has
+been stretched too far and will no longer obey this relationship
+Make sure the measurements are taken from the same point on the bottom of the spring
+every time
+Safety considerations
+Wear goggles during this experiment in case the spring snaps
+Stand up while carrying out the experiment making sure no feet are directly under the
+masses
+Place a mat or a soft material below the masses to prevent any damage in case they fall
+Use a G clamp to secure the clamp stand to the desk so that the clamp and masses do
+not fall over
+As well as this, place each mass carefully on the hanger and do not pull the spring
+too hard that it breaks or pulls the apparatus overYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Examiner Tips and Tricks
+Remember, the extension measures how much the object has stretched by and can
+be found by subtracting the original length from each of the subsequent lengths.
+A common mistake is to calculate the increase in length instead of the total extension.
+If each of your extensions is roughly the same, then you might have made this mistake!
+The proportional relationship between force and extension is known as Hooke's law.
+You do not need to remember the name of the law for your exam, but you do need to
+remember the relationship.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+Hooke's Law
+Hooke's law
+Extended tier only
+The relationship between the extension of an elastic object and the applied force is
+defined by Hooke's Law
+Hooke's Law states that:
+The extension of an elastic object is directly proportional to the force applied, up to the
+limit of proportionality 
+Directly proportional means that as the force is increased, the extension increases 
+If the force is doubled, then the extension will double
+If the force is halved, then the extension will also halve
+The limit of proportionality is the point beyond which the relationship between force
+and extension is no longer directly proportional 
+This limit varies according to the material
+The extension of a spring due to an applied load
+Hooke's Law states that a force applied to a spring will cause it to extend by an amount
+proportional to the force
+Hooke's law can be described by the following equation:
+F =kxYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+Where:
+F = force applied, measured in newtons (N)
+k = the spring constant, measured in newtons per metre (N/m)
+x = extension of spring, measured in metres (m)
+The force applied to the spring is sometimes referred to as the load
+Spring constant
+The spring constant is defined as:
+The force per unit extension
+Therefore, the units are newtons per metre (N/m)
+The spring constant is a measure of how stiff the spring is
+Stiff springs have a high spring constant
+Stretchy springs have a low spring constant
+The spring constant can be applied to objects other than springs
+The Hooke's law equation can be used to calculate the spring constant of a material
+k =F
+x
+The force-extension graph
+Hooke’s law is a linear relationship 
+This is represented by a straight line on a force-extension, or load-extension graph
+Any material beyond its limit of proportionality will have a non-linear relationship
+between force and extension
+Force-extension graph for a springYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Hooke's Law is associated with the linear region of a force-extension graph. Beyond the
+limit of proportionality, Hooke's law no longer applies
+Important features of the force-extension graph 
+The linear portion of the graph
+This represents the load or force under which the spring obeys Hooke's law
+Force and extension are directly proportional
+The gradient of the linear portion is equal to the spring constant for a force-
+extension graph
+The gradient of the linear portion is equal to 1
+k for an extension-force graph
+The limit of proportionality
+This is the point at which the graph begins to curve
+Beyond this point, force and extension are no longer proportional
+The curved portion of the graph
+This is where the material does not obey Hooke's law
+Force and extension are not proportional
+Worked Example
+The figure below shows the forces acting on a child who is balancing on a pogo stick.
+The child and pogo stick are not moving.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+
+The spring constant of the spring on the pogo stick is 4900 N/m. The weight of the
+child causes the spring to compress elastically from a length of 40 cm to a new length
+of 33 cm.
+Calculate the weight of the child.
+Answer:
+Step 1: List the known quantities
+Spring constant, k = 4900 N/m
+Original length = 40 cm
+Final length = 33 cm
+Step 2: Write the relevant equation
+F =kx
+Step 3: Calculate the compression, x
+x =final length −original length
+x =33 −40 = −7cm
+A negative extension represents a compression of 7 cm
+Step 4: Convert any units
+Since the spring constant is given in N/m, x must be in metres (m)
+x =7
+100= −0 .07m
+Step 5: Substitute the values into the Hooke's Law equationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
+
+F =4900 × −0 .07
+F = −343N
+The minus sign simply indicates the direction of the force, downwards in this case
+The child's weight is 343 NYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
+
+Circular Motion
+Circular motion
+Extended tier only
+Velocity is a vector quantity with both magnitude and direction
+Therefore, the velocity of an object is its speed in a given direction
+When an object travels in circular motion, its direction is always changing
+Therefore, the velocity of an object in circular motion is always changing, even if its
+speed is constant
+Circular motion is a type of acceleration since acceleration is a change in velocity
+Circular motion of the International Space Station
+The International Space Station’s velocity is always changing - it whizzes around the Earth
+at a constant speed of about 7660 m/s but is always changing direction
+When a force acts perpendicularly to an object’s direction of travel, the force will cause
+that object to change directionYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
+
+When the two cars collide, the first car changes its direction in the direction of the force
+If the force continues to act at 90 degrees to the motion, the object will keep changing
+its direction (whilst remaining at a constant speed) and travel in a circle
+This is what happens when a planet orbits a star, or when a satellite orbits a planet
+Circular motion of the Moon around the Earth
+The Moon is pulled towards the Earth (at 90 degrees to its direction of travel). This causes
+it to travel in a circular path
+Therefore, for an object in circular motion, the force is always directed toward the
+centre of the circle
+The force needed to make something follow a circular path depends on a number of
+factors:
+The mass of the object
+A greater mass requires a greater force when the speed and radius are constantYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
+
+The speed of the object
+A faster-moving object requires a greater force when the mass and radius are
+constant
+The radius of the circle
+A smaller radius requires a greater force to keep the speed constantYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+
+Friction
+Friction in solids
+Friction is a force that works in opposition to the motion of an object
+Frictional forces slow down the motion of the object
+When friction occurs, energy is transferred by heating
+Friction causes an increase in temperature of the object and its surroundings
+The work done against the frictional forces causes this rise in the temperature
+Friction in solids is caused by imperfections in the surfaces of the objects moving over
+one another
+Solid friction:
+decreases the speed of the moving object
+increases the temperature of the objects due to heating 
+Friction between surfaces
+The interface between the ground and the sledge is bumpy, causing the frictional force
+Friction between solids can be reduced by:
+lubricating the surfaces
+smoothing the surfacesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 28
+
+Friction in fluids
+Gases and liquids are known as fluids
+Fluids are different to solids because the particles in fluids are free to move around
+Friction acts on objects moving through gases and liquids as the particles collide with
+the object 
+This type of friction is called drag
+Air resistance is a type of friction that slows the motion of an object moving through air
+Air particles bump into the object as it moves through the air
+Air resistance:
+reduces the speed of the object
+increases the temperature of the object and the air particles due to heating
+The return module of a rocket heats up due to the work done by air resistance as it travels
+a distance through the atmosphere
+Air resistance is covered in greater depth in the revision note Free fall
+Friction in fluids can be reduced by:
+streamlining the shape of the object moving through the fluidYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 29
+

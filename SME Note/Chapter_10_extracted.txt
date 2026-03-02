@@ -1,0 +1,356 @@
+Cambridge (CIE) IGCSE
+Physics
+Kinetic Particle Model of Matter
+Contents
+States of Matter
+Molecular Matter
+Particle Model of Gases
+Brownian Motion
+Gases & Absolute TemperatureYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+States of Matter
+Properties of solids, liquids & gases
+The three states of matter
+The three states of matter in terms of shape and volume
+Solids
+Solids have a definite shape and a definite volume
+Solids cannot flow and are not compressible
+Liquids
+Liquids have no definite shape but do have a definite volume
+Liquids are able to flow to take the shape of a container but they are not
+compressible
+Gases
+Gases have no definite shape and no fixed volume
+Gases can flow to take the shape of their container and are highly compressible
+Changes of state
+When a substance changes state, the number of molecules in that substance doesn't
+change and so neither does its mass
+The only thing that changes is its energy
+Changes of state are physical changes and so they are reversibleYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Melting & freezing
+Melting occurs when a solid turns into a liquid (e.g. ice to water)
+Freezing occurs when a liquid turns into a solid
+Boiling & condensing
+Boiling occurs when a liquid turns into a gas
+This is also called evaporating
+Condensing occurs when a gas turns into a liquid
+You need to know these four processes only, and the states at which they start and end.
+Examiner Tips and Tricks
+It is very useful to think about water when learning the changes of state, because we
+are all used to the idea that solid water (ice) melts to become liquid water (water!) and
+boils to become gaseous water (water vapour).
+However do remember that all substances undergo the same changes between the
+three states, but at different temperatures. So while water will help you to remember
+the names, don't refer to water in your answers unless it has been specified.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+Molecular Matter
+Arrangement & motion of particles
+All molecules and matter are in motion at room temperature
+The motion and arrangement of particles must be known for each state of matter
+In a solid:
+The molecules are very close together and arranged in a regular pattern
+The molecules vibrate about fixed positions
+In a liquid:
+The molecules are still close together (no gaps) but are no longer arranged in a
+regular pattern
+The molecules are able to slide past each other
+In a gas:
+The molecules are widely separated - about 10 times further apart in each direction
+The molecules move about randomly at high speeds
+Properties of states of matter
+State Solid Liquid Gas
+Density High Medium Low
+Arrangement of
+particlesRegular pattern Randomly
+arrangedRandomly arranged
+Movement of
+particlesVibrate around a fixed
+positionMove around each
+otherMove quickly in all
+directions
+Energy of particles Low energy Greater energy Highest energy
+The forces & distances between
+molecules
+Extended tier only
+Intermolecular forces and motion of particles
+The forces between molecules and matter (or 'particles') affect the state of matterYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+This is because the magnitude of the forces affects the relative distances and motion of
+the particles
+This affects the ability of the substance to
+Change shape
+Change volume
+Flow
+The word particles can refer to:
+Atoms
+Molecules
+Ions
+Electrons
+Solids
+The molecules in a solid are held in place by strong intermolecular forces
+They only vibrate in position
+The distance between them is fixed and is very small
+This gives the solid its rigid shape and fixed volume
+Liquids
+The molecules in a liquid have enough energy to overcome the forces between them
+They are still held close together
+The volume of the liquid is the same as the volume of the solid
+Molecules can move around (by sliding past each other)
+This allows the liquid to change shape and flow
+Gases
+The molecules in a gas have more energy and move randomly at high speeds
+The molecules have overcome the forces holding them close together
+Because of the large spaces between the molecules
+The gas can easily be compressed and is also able to expand
+Gases flow freely
+Worked ExampleYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Temperature & energy of particles
+As the temperature of a gas increases, so does the average speed of particles in the
+gas
+At higher temperatures, the particles have more kinetic energy
+The amount of pressure that a gas exerts on its container is dependent on the
+temperature of the gas
+This is because particles gain kinetic energy as their temperature increases
+Therefore, there must be a temperature at which the particles are stationary
+This is the lowest possible temperature, as particles cannot travel any slower than 0
+m/s
+The temperature at which all particles are stationary is called absolute zeroTwo states of matter are described below. Identify each of the states of matter.
+Substance 1
+molecules are spaced very far apart
+molecules move very quickly at random
+molecules move in a straight line
+Substance 2
+molecules are quite closely packed together
+molecules move about at random
+molecules do not have fixed positions
+Answer:
+Substance 1 
+Step 1: Identify the distances between the molecules
+The molecules are spaced far apart
+This can only describe a gas
+Step 2: Identify the motion of the molecules
+The molecules move quickly, at random and in a straight line
+This confirms that substance 1 is a gas
+Substance 2
+Step 1: Identify the distances between the molecules
+The molecules are closely packed
+This could describe either a solid or a liquid
+Step 2: Identify the motion of the molecules
+The molecules move at random and do not have fixed positions
+This confirms that substance 2 is a liquidYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Absolute zero has a value of −273 °C
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Particle Model of Gases
+Motion of particles in a gas
+In the particle model, molecules in a gas are in constant random motion at high speeds
+Random motion means that the molecules are travelling in no specific path and undergo
+sudden changes in their motion if they collide:
+With the walls of its container
+With other molecules
+Pressure in a gas is caused by the collisions of particles with the walls of the container
+When the particles travel faster (e.g. at a higher temperature), they collide with walls
+more frequently
+This means the gas exerts a greater pressure
+Random motion of gas molecules in a container. Collisions with container walls creates
+pressure in the particle model
+Pressure & force of particles in a gas
+Extended tier onlyYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Gases fill their container
+The pressure is defined as the force per unit area
+p =F
+A
+Where:
+p = pressure in pascals Pa
+F = force in newtons N
+A = area in metres-squared m
+This equation and the particle model can be used to explain how particles exert pressure
+As the gas particles move about randomly they collide with the walls of their containers
+These collisions produce force at right angles to the wall of the gas container (or any
+surface)
+Pressure is force per unit area, so the force of these collisions exerts a pressure
+When the particles move faster, they have more frequent collisions with the container
+walls and these exert a greater force
+If the force exerted per unit area is greater and more frequent, the pressure exerted
+is also greater2Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Gas molecules bouncing off the walls of a container exert a force perpendicular to the
+surfaceYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Brownian Motion
+What is Brownian Motion?
+The Kinetic Theory of Matter, which simply says that all matter is made up of tiny
+particles, was discovered almost by accident
+The Scottish scientist Robert Brown first described the random motion of pollen
+grains in water, which he saw under a microscope
+This observation could not be explained at the time, but later it was realised that it
+shows that substances are made of particles which are in constant motion (hence
+'kinetic')
+Brownian Motion: the random motion of microscopic particles when observed through a
+microscope
+Brownian motion is the random movement of particles in a liquid or a gas produced by
+large numbers of collisions with smaller particles which are often too small to see
+When small particles (such as pollen or smoke) are suspended in a liquid or gas, they can
+be observed through a microscope moving around in a random, erratic fashion
+Explaining Brownian motion
+Extended tier only
+What is Brownian motion caused by?
+When observing Brownian Motion, even with a microscope, only the microscopic
+particles can be seen
+The pollen or smoke particles are seen to move
+Smaller atoms and molecules, of water or air, are still too small to be seenYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+These light, fast-moving atoms and molecules collide with the larger microscopic
+particles
+The collisions give the particles a little nudge, causing them to change their speed
+and directions randomly, each time they are struck by a molecule
+The presence of the light, fast moving atoms and molecules is inferred from the motion
+of the microscopic particles
+Inferences such as this are an important part of scientific investigation
+Light, fast-moving molecules collide with larger particles, giving them a little nudge
+This not-to-scale diagram shows how the smaller, fast-moving particles (atoms and
+molecules) cause the larger, visible particles to moveYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+Gases & Absolute Temperature
+Absolute temperature
+What is absolute temperature?
+Temperature measured in kelvin is called absolute temperature
+The kelvin temperature scale begins at absolute zero
+0 K is equal to -273 °C 
+An increase of 1 K is the same change as an increase of 1 °C
+It is not possible to have a temperature lower than 0 K
+This means a temperature in kelvin will never have a negative value
+To convert between temperatures θ in the Celsius scale, and T in the Kelvin scale, use the
+following conversion:
+θ / C = T / K − 273
+T / K = θ / C + 273
+Conversion chart relating the temperature on the Kelvin and Celsius scales°
+°Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+The gas laws
+Pressure & volume (constant temperature)
+If the temperature of a gas remains constant, the pressure of the gas changes when it is:Worked Example
+Convert the following values between the Kelvin (absolute) and Celsius scales of
+temperature.
+a) 0 K = _______  °C
+b) 0 °C = _______  K
+c) 20 °C = _______  K
+Part (a)
+Step 1: Choose whether to add or subtract 273 to the value
+The question is in kelvin therefore subtract 273 to convert to Celsius
+Step 2: Do the calculation
+0 −273 = −273
+Step 3: Write the answer with units
+0K = −273 °C
+Part (b)
+Step 1: Choose whether to add or subtract 273 to the value
+The question is in Celsius therefore add 273 to convert to kelvin
+Step 2: Do the calculation
+0 +273 =273
+Step 3: Write the answer with units
+0 °C = 273 K
+Part (c)
+Step 1: Choose whether to add or subtract 273 to the value
+The question is in Celsius therefore add 273 to convert to kelvin
+Step 2: Do the calculation
+20 +273 =293
+Step 3: Write the answer with units
+20 °C = 293 KYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Compressed – decreases the volume which increases the pressure
+Expanded – increases the volume which decreases the pressure
+At constant temperature, changing the volume changes the pressure
+Similarly, a change in pressure can cause a change in volume
+A vacuum pump can be used to remove the air from a sealed container
+The diagram below shows the change in volume to a tied up balloon when the pressure
+of the air around it decreases:
+The balloon is tied, so there are a fixed number of air particles within it
+At normal pressure, the air pressure outside the balloon is greater than the air
+pressure inside the balloon
+When air is removed from the bell jar, the air pressure outside the balloon is less
+than the air pressure inside the balloon
+The space between the air particles in the balloon increases, so the volume of the
+balloon increasesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+At constant temperature, changing the pressure changes the volume
+When a gas is compressed, the molecules will hit the walls of the container more
+frequently
+This creates a larger overall net force on the walls, which increases the pressure
+Pressure & temperature (constant volume)
+Increasing temperature increases the pressure of a gas which is kept at a constant
+volume
+The average speed of molecules increases when the temperature increases (and vice
+versa)
+As the gas heats up, the molecules will travel at a higher speed
+They collide with the walls more often and with greater force, increasing the
+pressure
+Therefore, at a constant volume, an increase in temperature increases the pressure of a
+gas and vice versa
+Diagram A shows molecules in the same volume collide with the walls of the
+container more as the temperature increases
+Diagram B shows that since the temperature is directly proportional to the pressure
+(at constant volume), the graph is a straight lineYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+At constant volume, an increase in the temperature of the gas increases the pressure due
+to more collisions on the container walls
+Boyle's Law
+Extended tier only
+Boyle’s law 
+If the temperature T of an ideal gas is constant, then Boyle’s Law is given by:
+p ∝1
+V
+This means the pressure is inversely proportional to the volume of a gas
+This can also be written as:
+pV =constant
+The relationship between the pressure and volume for a fixed mass of gas at constant
+temperature can also be written as:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+p1V1=p2V2
+Where:
+p = initial pressure (Pa)
+p = final pressure (Pa)
+V= initial volume (m )
+V = final volume (m )
+Notice that volume and pressure are measured in m and Pa respectively
+In calculations if units are given in cm  or MPa this is a rare case where calculations
+can be done using the original units as long as answers are reported in the same,
+original units and the final and initial units match
+Boyle's Law graph: Pressure is inversely proportional to volume1
+2
+13
+23
+3 
+3
+Examiner Tips and Tricks
+It is an easy mistake to make to think that an inversely proportional graph will be a
+straight line sloping downwards. After all, a directly proportional graph is a straight
+line (through the origin) which slopes upwards!
+The curve above which 'tends towards zero' (meaning the curve gets closer and closer
+but never touches the axis, or zero is an inversely proportional curve, as the graph
+below shows.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+

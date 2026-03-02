@@ -1,0 +1,627 @@
+================================================================================
+          SECTION 4.1 RESULTANT FORCES - PRACTICE EXERCISES (50 Questions)
+================================================================================
+
+Learning Objectives Covered:
+  * State the effects of forces on an object (changes in speed, direction, shape).
+  * Identify different types of forces and describe their effects.
+  * Know that forces can be balanced or unbalanced.
+  * Calculate the resultant force of two or more forces acting along the same line.
+
+Total Questions: 50
+Assessment Objectives: AO1 (25%), AO2 (50%), AO3 (25%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (10)
+================================================================================
+
+1. Which of the following is NOT a possible effect of a force?
+   A: Changing an object's mass
+   B: Changing an object's speed
+   C: Changing an object's shape
+   D: Changing an object's direction
+
+2. Two forces act on an object: 5 N to the right and 3 N to the left.
+   What is the resultant force?
+   A: 2 N to the left
+   B: 2 N to the right
+   C: 8 N to the left
+   D: 8 N to the right
+
+3. A book rests on a table. Which statement describes the forces acting on it?
+   A: Only gravity acts on it
+   B: Only the table pushes up on it
+   C: The forces are unbalanced
+   D: The forces are balanced
+
+4. Force is a vector quantity. This means it has:
+   A: Magnitude only
+   B: Direction only
+   C: Magnitude and direction
+   D: Mass and direction
+
+5. Which unit is used to measure force?
+   A: Kilogram (kg)
+   B: Joule (J)
+   C: Newton (N)
+   D: Watt (W)
+
+6. Three forces act on a block along the same line: 
+   10 N right, 4 N left, and 6 N left.
+   What is the resultant force?
+   A: 0 N
+   B: 2 N right
+   C: 20 N left
+   D: 10 N left
+
+7. An object has balanced forces acting on it. Which statement is correct?
+   A: The object must be stationary
+   B: The object must be accelerating
+   C: The resultant force is zero
+   D: The object must be moving
+
+8. A force of 12 N acts to the right and a force of 5 N acts to the left.
+   What is the magnitude of the resultant force?
+   A: 7 N
+   B: 17 N
+   C: 60 N
+   D: 2.4 N
+
+9. Which of the following situations involves balanced forces?
+   A: A car accelerating from rest
+   B: A ball falling through the air
+   C: A parachutist falling at constant velocity
+   D: A rocket launching upwards
+
+10. Four forces act on an object: 8 N north, 3 N south, 2 N south, and 5 N north.
+    What is the resultant force?
+    A: 8 N north
+    B: 8 N south
+    C: 18 N north
+    D: 2 N south
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION (8)
+================================================================================
+
+For each statement, state whether it is TRUE or FALSE and provide a brief 
+justification for your answer.
+
+11. "A force can only change the speed of an object, not its direction."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+12. "If the resultant force on an object is zero, the object must be stationary."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+13. "Forces are measured in kilograms."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+14. "Balanced forces always result in no change in motion."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+15. "A resultant force is the sum of all forces acting on an object."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+16. "An object can have multiple forces acting on it but still have zero 
+     resultant force."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+17. "Force is a scalar quantity."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+18. "If two equal forces act in opposite directions, the resultant force is 
+     double the magnitude of one force."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK (8)
+================================================================================
+
+Complete the following sentences using the words from the word bank.
+
+WORD BANK: vector, newton, balanced, unbalanced, resultant, magnitude, 
+           direction, zero, shape, speed
+
+19. A force is a push or pull that has both __________ and __________.
+
+20. Force is measured in units called __________.
+
+21. The __________ force is a single force that describes all of the forces 
+    operating on a body.
+
+22. When forces are __________, the resultant force is zero.
+
+23. Force is a __________ quantity because it has both size and direction.
+
+24. __________ forces cause an object to accelerate.
+
+25. Forces can change an object's __________, direction, or __________.
+
+26. When the resultant force is __________, an object will remain at rest or 
+    continue at constant velocity.
+
+================================================================================
+                    SECTION D: SHORT ANSWER QUESTIONS (10)
+================================================================================
+
+27. Define the term "force". [1]
+
+28. State THREE effects that a force can have on an object. [3]
+
+29. Define the term "resultant force". [2]
+
+30. Explain the difference between "balanced forces" and "unbalanced forces". [2]
+
+31. State what is meant by saying that force is a "vector quantity". [1]
+
+32. A mug sits on a table without moving. Describe the forces acting on the 
+    mug and explain why it does not move. [3]
+
+33. State the SI unit of force. [1]
+
+34. Explain why it is important to consider the direction of forces when 
+    calculating the resultant force. [2]
+
+35. A student pushes a box with a force of 50 N to the right. Friction acts 
+    with a force of 50 N to the left. Describe the motion of the box. [2]
+
+36. List TWO examples of situations where forces are balanced. [2]
+
+================================================================================
+                    SECTION E: CALCULATION QUESTIONS (15)
+================================================================================
+
+Show all working for the following calculations.
+
+37. Calculate the resultant force when:
+    - 15 N acts to the right
+    - 8 N acts to the left
+    State the magnitude and direction. [2]
+
+38. Three forces act on an object along a straight line:
+    - 20 N to the left
+    - 12 N to the right
+    - 5 N to the right
+    Calculate the magnitude and direction of the resultant force. [2]
+
+39. A car experiences the following forces:
+    - Engine thrust: 2000 N forward
+    - Air resistance: 600 N backward
+    - Friction: 400 N backward
+    Calculate the resultant force on the car. [2]
+
+40. Five forces act on a point: 6 N right, 4 N left, 3 N right, 2 N left, 
+    and 5 N left. Calculate the resultant force. [2]
+
+41. A box has forces of 25 N, 30 N, and 15 N all acting to the right.
+    A single force acts to the left. If the resultant force is 40 N to 
+    the right, calculate the magnitude of the force acting to the left. [3]
+
+42. Two people push a shopping trolley. Person A pushes with 45 N to the 
+    right. Person B pushes with 38 N to the left. Calculate the resultant 
+    force and state which direction the trolley will move. [2]
+
+43. A tug-of-war rope has forces of 180 N, 220 N, and 150 N pulling to the 
+    left, and forces of 200 N, 190 N, and 160 N pulling to the right.
+    (a) Calculate the total force to the left. [1]
+    (b) Calculate the total force to the right. [1]
+    (c) Calculate the resultant force and state the direction. [2]
+
+44. An object has a resultant force of zero. Forces of 12 N right, 8 N left, 
+    and 15 N right act on it. Calculate the magnitude and direction of the 
+    fourth force that must be acting. [3]
+
+45. A rocket experiences an upward thrust of 50,000 N and a downward weight 
+    of 35,000 N. Calculate the resultant force. [2]
+
+46. Calculate the resultant force when forces of 2.5 N, 3.8 N, and 1.2 N all 
+    act in the same direction. [1]
+
+47. A boat experiences a forward engine force of 8000 N and a backward drag 
+    force of 3500 N. Calculate the resultant force. [2]
+
+48. Forces of 100 N up, 80 N down, 40 N down, and 60 N up act on an object.
+    Calculate the resultant force and state the direction. [2]
+
+49. Three forces act horizontally on a box: 25 N east, 18 N west, and 12 N east.
+    (a) Calculate the resultant force. [2]
+    (b) State whether the forces are balanced or unbalanced. [1]
+
+50. A student pulls a sled with a force of 120 N forward. Snow friction 
+    provides a force of 85 N backward. Calculate the resultant force and 
+    explain what will happen to the sled's motion. [3]
+
+================================================================================
+                    SECTION F: STRUCTURED QUESTIONS (3)
+================================================================================
+
+51. Fig. 1 shows a car traveling along a straight road.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Force
+    PURPOSE: Car with forces for calculation and analysis
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 10 × 6
+    COMPONENTS:
+      [Car]
+        Symbol: car_side_view
+        Position: grid(3,3)
+        Size: medium
+      [Thrust Arrow]
+        Symbol: arrow_right
+        Position: front of car
+        Label: "Thrust = 1500 N"
+      [Friction Arrow]
+        Symbol: arrow_left
+        Position: rear of car
+        Label: "Friction = 400 N"
+      [Air Resistance Arrow]
+        Symbol: arrow_left
+        Position: top of car
+        Label: "Air Resistance = 500 N"
+    ---END DIAGRAM---
+
+    (a) Calculate the total force acting to the left. [1]
+    
+    (b) Calculate the resultant force on the car. State the direction. [2]
+    
+    (c) Is the car accelerating, decelerating, or moving at constant speed?
+        Explain your answer. [2]
+    
+    (d) The driver applies the brakes. The braking force is 1200 N. Calculate 
+        the new resultant force (including all forces). [2]
+
+52. A team is playing tug-of-war. 
+    Team A pulls to the left with forces of 200 N, 250 N, and 300 N.
+    Team B pulls to the right with forces of 220 N, 240 N, and 310 N.
+    
+    (a) Calculate the total force exerted by Team A. [1]
+    
+    (b) Calculate the total force exerted by Team B. [1]
+    
+    (c) Determine the magnitude and direction of the resultant force. [2]
+    
+    (d) Describe the motion of the rope. [1]
+    
+    (e) Team A adds another person who pulls with 30 N. Calculate the new 
+        resultant force. [2]
+    
+    (f) Explain whether the forces are now balanced or unbalanced. [1]
+
+53. Fig. 2 shows a book resting on a table.
+
+    ---DIAGRAM: Fig. 2---
+    TYPE: Force
+    PURPOSE: Show balanced forces on stationary object
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 10
+    COMPONENTS:
+      [Table Surface]
+        Symbol: horizontal_line
+        Position: grid(2,7) to grid(8,7)
+        Style: solid thick
+      [Book]
+        Symbol: rectangle
+        Position: grid(4,5) to grid(6,7)
+        Fill: light gray
+        Label: "Book"
+      [Weight Arrow]
+        Symbol: arrow_down
+        Position: from book center downward
+        Label: "Weight = 15 N"
+      [Normal Force Arrow]
+        Symbol: arrow_up
+        Position: from book center upward
+        Label: "Normal force = ?"
+    ---END DIAGRAM---
+
+    (a) State the magnitude of the normal force acting on the book. [1]
+    
+    (b) Explain how you determined your answer to part (a). [2]
+    
+    (c) Calculate the resultant force acting on the book. [1]
+    
+    (d) The book is now pushed horizontally with a force of 5 N to the right.
+        Friction provides a force of 5 N to the left. State the resultant 
+        horizontal force. [1]
+    
+    (e) Explain whether the book will move horizontally. [2]
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION (4)
+================================================================================
+
+54. The table shows forces acting on different objects.
+
+    ┌─────────┬────────────┬────────────┬──────────────┐
+    │ Object  │ Force 1    │ Force 2    │ Force 3      │
+    ├─────────┼────────────┼────────────┼──────────────┤
+    │ A       │ 10 N right │ 6 N left   │ 4 N left     │
+    │ B       │ 15 N up    │ 15 N down  │ —            │
+    │ C       │ 20 N east  │ 8 N west   │ 5 N east     │
+    │ D       │ 12 N north │ 5 N south  │ 3 N south    │
+    └─────────┴────────────┴────────────┴──────────────┘
+
+    (a) Calculate the resultant force for Object A. [2]
+    (b) State which object has balanced forces. [1]
+    (c) Calculate the resultant force for Object C. [2]
+    (d) Which object experiences the largest resultant force? Show your 
+        working. [3]
+
+55. A student investigates forces on a toy car. The table shows the results.
+
+    ┌──────────────┬─────────────┬──────────────┬──────────────┐
+    │ Trial        │ Push Force  │ Friction     │ Resultant    │
+    │              │ (N)         │ (N)          │ Force (N)    │
+    ├──────────────┼─────────────┼──────────────┼──────────────┤
+    │ 1            │ 8           │ 3            │ ?            │
+    │ 2            │ 12          │ 3            │ ?            │
+    │ 3            │ 6           │ 3            │ ?            │
+    │ 4            │ 10          │ 3            │ ?            │
+    └──────────────┴─────────────┴──────────────┴──────────────┘
+
+    (a) Complete the table by calculating the resultant force for each 
+        trial. [2]
+    (b) In which trial is the car most likely to accelerate fastest? [1]
+    (c) Explain your answer to part (b). [2]
+
+56. The graph shows how the resultant force on an object changes over time.
+
+    ---DIAGRAM: Fig. 3---
+    TYPE: Graph
+    PURPOSE: Show resultant force vs time
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Axes]
+        X-axis: "Time (s)" from 0 to 10
+        Y-axis: "Resultant Force (N)" from -20 to 40
+      [Graph Line]
+        Points: (0,0), (2,20), (4,20), (6,0), (8,-10), (10,-10)
+        Style: connected line segments
+    ---END DIAGRAM---
+
+    (a) State the resultant force at t = 3 s. [1]
+    (b) Describe what is happening to the forces between 4 s and 6 s. [2]
+    (c) At what time period are the forces balanced? [1]
+    (d) When is the object experiencing the greatest unbalanced force? [1]
+
+57. Four students each apply forces to a box as shown in the table.
+
+    ┌──────────┬────────────────────────────────────────┐
+    │ Student  │ Force Applied                          │
+    ├──────────┼────────────────────────────────────────┤
+    │ Ahmed    │ 25 N to the right                      │
+    │ Bella    │ 18 N to the left                       │
+    │ Chen     │ 12 N to the right                      │
+    │ Diana    │ 15 N to the left                       │
+    └──────────┴────────────────────────────────────────┘
+
+    (a) Calculate the total force to the right. [1]
+    (b) Calculate the total force to the left. [1]
+    (c) Calculate the resultant force and state the direction. [2]
+    (d) If Diana stops pushing, calculate the new resultant force. [2]
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST (2)
+================================================================================
+
+58. Compare and contrast balanced forces and unbalanced forces. Your answer 
+    should include:
+    - Definition of each type
+    - Effect on motion
+    - Resultant force value
+    - At least one example of each
+    [6]
+
+59. Compare the effects of forces on the following two scenarios:
+    Scenario A: A book resting on a table
+    Scenario B: A car accelerating along a road
+    
+    In your answer, discuss:
+    - The types of forces acting
+    - Whether forces are balanced or unbalanced
+    - The resultant force
+    - The motion of the object
+    [6]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+---------------------------
+1.  A - Forces cannot change mass; mass is an intrinsic property
+2.  B - Resultant = 5 - 3 = 2 N to the right
+3.  D - Weight down equals normal force up, so forces are balanced
+4.  C - Vector quantities have both magnitude and direction
+5.  C - The SI unit of force is the newton (N)
+6.  A - Right: 10 N, Left: 4+6=10 N. Resultant = 10 - 10 = 0 N
+7.  C - Balanced forces mean resultant force = 0
+8.  A - Resultant = 12 - 5 = 7 N
+9.  C - Constant velocity means balanced forces
+10. A - North: 8+5=13 N, South: 3+2=5 N. Resultant = 13-5 = 8 N north
+
+SECTION B: TRUE/FALSE
+---------------------
+11. FALSE - Forces can change both speed AND direction
+12. FALSE - Object could be moving at constant velocity with zero resultant
+13. FALSE - Forces are measured in newtons (N), not kilograms
+14. TRUE - Balanced forces produce no change in motion (constant velocity or rest)
+15. FALSE - Resultant force is the vector sum (considering direction), not just sum
+16. TRUE - Multiple forces can cancel out to give zero resultant
+17. FALSE - Force is a vector quantity (has magnitude and direction)
+18. FALSE - Equal opposite forces cancel to give zero resultant force
+
+SECTION C: FILL-IN-THE-BLANK
+-----------------------------
+19. magnitude, direction (or direction, magnitude)
+20. newtons
+21. resultant
+22. balanced
+23. vector
+24. Unbalanced
+25. speed, shape (or shape, speed)
+26. zero
+
+SECTION D: SHORT ANSWER
+-----------------------
+27. A force is a push or a pull that acts on an object due to the interaction 
+    with another object. [1]
+
+28. Any three from: change speed, change direction, change shape, change size [3]
+
+29. A resultant force is a single force that describes the combined effect of 
+    all forces acting on a body. [2]
+
+30. Balanced forces are equal in magnitude and opposite in direction, resulting 
+    in zero net force [1]. Unbalanced forces result in a non-zero resultant 
+    force, causing a change in motion [1].
+
+31. A vector quantity has both magnitude (size) and direction. [1]
+
+32. Two forces act on the mug: weight (downward) and normal contact force from 
+    table (upward) [1]. These forces are equal in magnitude and opposite in 
+    direction [1], so they are balanced and the mug remains at rest [1].
+
+33. Newton (N) [1]
+
+34. Force is a vector quantity [1], so direction matters when combining forces; 
+    forces in opposite directions subtract rather than add [1].
+
+35. The forces are balanced (both 50 N) [1], so the box will remain at rest or 
+    continue at constant velocity [1].
+
+36. Any two from: book on table, object hanging from string at rest, car moving 
+    at constant velocity, parachutist at terminal velocity [2]
+
+SECTION E: CALCULATIONS
+-----------------------
+37. Resultant = 15 - 8 = 7 N [1] to the right [1]
+
+38. Left: 20 N, Right: 12+5 = 17 N [1]
+    Resultant = 20 - 17 = 3 N to the left [1]
+
+39. Forward: 2000 N, Backward: 600+400 = 1000 N [1]
+    Resultant = 2000 - 1000 = 1000 N forward [1]
+
+40. Right: 6+3 = 9 N, Left: 4+2+5 = 11 N [1]
+    Resultant = 9 - 11 = 2 N to the left [1]
+
+41. Total right = 25+30+15 = 70 N [1]
+    Let force to left = F
+    Resultant = 70 - F = 40 [1]
+    F = 30 N [1]
+
+42. Resultant = 45 - 38 = 7 N [1] to the right [1]
+
+43. (a) Total left = 180+220+150 = 550 N [1]
+    (b) Total right = 200+190+160 = 550 N [1]
+    (c) Resultant = 550 - 550 = 0 N [1], forces are balanced [1]
+
+44. Right forces: 12+15 = 27 N [1]
+    Left forces: 8 N
+    For zero resultant: 27 - 8 - F = 0 [1]
+    F = 19 N to the left [1]
+
+45. Resultant = 50,000 - 35,000 = 15,000 N upward [2]
+
+46. Resultant = 2.5 + 3.8 + 1.2 = 7.5 N [1]
+
+47. Resultant = 8000 - 3500 = 4500 N forward [2]
+
+48. Up: 100+60 = 160 N, Down: 80+40 = 120 N [1]
+    Resultant = 160 - 120 = 40 N upward [1]
+
+49. (a) East: 25+12 = 37 N, West: 18 N [1]
+        Resultant = 37 - 18 = 19 N east [1]
+    (b) Unbalanced [1]
+
+50. Resultant = 120 - 85 = 35 N forward [1]
+    The sled will accelerate [1] in the forward direction [1]
+
+SECTION F: STRUCTURED QUESTIONS
+--------------------------------
+51. (a) Total left = 400 + 500 = 900 N [1]
+    (b) Resultant = 1500 - 900 = 600 N [1] to the right/forward [1]
+    (c) Accelerating [1] because there is a resultant force in the direction 
+        of motion (unbalanced forces) [1]
+    (d) Total backward force = 400+500+1200 = 2100 N [1]
+        Resultant = 1500 - 2100 = -600 N (600 N backward) [1]
+
+52. (a) Team A total = 200+250+300 = 750 N [1]
+    (b) Team B total = 220+240+310 = 770 N [1]
+    (c) Resultant = 770 - 750 = 20 N [1] to the right (Team B's direction) [1]
+    (d) The rope will accelerate/move toward the right (Team B) [1]
+    (e) New Team A total = 750+30 = 780 N [1]
+        New resultant = 780 - 770 = 10 N to the left [1]
+    (f) Unbalanced [1]
+
+53. (a) 15 N [1]
+    (b) The book is at rest, so forces are balanced [1]. The normal force must 
+        equal the weight [1].
+    (c) 0 N [1]
+    (d) 0 N [1]
+    (e) The book will not move [1] because the horizontal forces are balanced 
+        (resultant = 0) [1]
+
+SECTION G: DATA INTERPRETATION
+-------------------------------
+54. (a) Right: 10 N, Left: 6+4 = 10 N [1]
+        Resultant = 0 N [1]
+    (b) Object B [1]
+    (c) East: 20+5 = 25 N, West: 8 N [1]
+        Resultant = 25-8 = 17 N east [1]
+    (d) Object A: 0 N, Object B: 0 N, Object C: 17 N, Object D: 12-5-3 = 4 N [1]
+        Object C has the largest resultant force [1] of 17 N [1]
+
+55. (a) Trial 1: 8-3 = 5 N
+        Trial 2: 12-3 = 9 N
+        Trial 3: 6-3 = 3 N
+        Trial 4: 10-3 = 7 N [2 marks for all correct, 1 mark for 2-3 correct]
+    (b) Trial 2 [1]
+    (c) Trial 2 has the largest resultant force (9 N) [1], which will produce 
+        the greatest acceleration [1]
+
+56. (a) 20 N [1]
+    (b) The resultant force is decreasing from 20 N to 0 N [1], meaning the 
+        forces are becoming more balanced [1]
+    (c) At t = 0 s and t = 6 s [1]
+    (d) At t = 2-4 s (or any time in this range) when force = 40 N [1]
+
+57. (a) Total right = 25+12 = 37 N [1]
+    (b) Total left = 18+15 = 33 N [1]
+    (c) Resultant = 37-33 = 4 N [1] to the right [1]
+    (d) New total left = 18 N [1]
+        New resultant = 37-18 = 19 N to the right [1]
+
+SECTION H: COMPARE AND CONTRAST
+--------------------------------
+58. Balanced forces: Equal in magnitude and opposite in direction [1], resultant 
+    force is zero [1], object remains at rest or moves at constant velocity [1]. 
+    Example: book on table [1].
+    Unbalanced forces: Not equal/opposite [1], resultant force is non-zero [1], 
+    object accelerates (changes velocity) [1]. Example: car accelerating [1].
+    [Award up to 6 marks for comprehensive comparison]
+
+59. Scenario A: Weight acts downward, normal force acts upward [1], forces are 
+    balanced [1], resultant force is zero [1], book remains at rest [1].
+    Scenario B: Engine force forward, friction/air resistance backward [1], 
+    forces are unbalanced [1], resultant force is non-zero forward [1], car 
+    accelerates [1].
+    [Award up to 6 marks for comprehensive comparison]
+
+================================================================================
+                    END OF SECTION 4.1 EXERCISES
+================================================================================

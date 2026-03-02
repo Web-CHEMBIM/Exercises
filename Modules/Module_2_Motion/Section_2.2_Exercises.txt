@@ -1,0 +1,212 @@
+================================================================================
+          SECTION 2.2 GRAPHS OF MOTION - PRACTICE EXERCISES
+================================================================================
+
+Learning Objectives Covered:
+  * Sketch, plot and interpret distance-time and speed-time graphs.
+  * Determine from data or graph shape when an object is at rest, moving
+    with constant speed, accelerating or decelerating.
+  * Calculate speed from a distance-time graph.
+  * Calculate distance from the area under a speed-time graph.
+  * Calculate acceleration from a speed-time graph.
+  * Know what is meant by deceleration.
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE
+================================================================================
+
+1. On a distance-time graph, a horizontal line represents an object that is:
+   A: Accelerating
+   B: Moving at constant speed
+   C: Stationary (at rest)
+   D: Decelerating
+
+2. On a distance-time graph, the gradient of the line gives:
+   A: Acceleration
+   B: Distance
+   C: Speed
+   D: Time
+
+3. On a speed-time graph, the gradient of the line gives:
+   A: Speed
+   B: Distance
+   C: Acceleration
+   D: Time
+
+4. The area under a speed-time graph represents:
+   A: Acceleration
+   B: Speed
+   C: Force
+   D: Distance travelled
+
+5. A car decelerating is shown on a speed-time graph as:
+   A: A horizontal line
+   B: A line with positive gradient
+   C: A line with negative gradient
+   D: A curved line going upwards
+
+6. On a distance-time graph, a straight line with a steep gradient
+   indicates:
+   A: The object is stationary
+   B: The object is moving slowly
+   C: The object is moving at a high constant speed
+   D: The object is accelerating
+
+7. Which of the following describes deceleration?
+   A: Speeding up
+   B: Constant speed
+   C: Negative acceleration (slowing down)
+   D: Changing direction
+
+8. On a speed-time graph, a horizontal line above zero represents:
+   A: An object at rest
+   B: An object accelerating
+   C: An object at constant speed
+   D: An object decelerating
+
+================================================================================
+                    SECTION B: SHORT ANSWER & STRUCTURED
+================================================================================
+
+9. State what each of the following features of a distance-time graph
+   represents: [3]
+   (a) A horizontal line.
+   (b) A straight line sloping upwards.
+   (c) A curve that gets steeper.
+
+10. State what each of the following features of a speed-time graph
+    represents: [3]
+    (a) A horizontal line above zero.
+    (b) A straight line sloping upwards.
+    (c) A straight line sloping downwards.
+
+11. Fig. 1 shows the distance-time graph for a cyclist's journey.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Graph
+    PURPOSE: Distance-time graph for cyclist journey with sections
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 10
+    COMPONENTS:
+      [Axes]
+        x-axis: "Time / s" (0 to 50)
+        y-axis: "Distance / m" (0 to 200)
+      [Section A-B]
+        Straight line from (0, 0) to (10, 80)
+      [Section B-C]
+        Horizontal line from (10, 80) to (20, 80)
+      [Section C-D]
+        Straight line from (20, 80) to (40, 200)
+    ---END DIAGRAM---
+
+    (a) During which section (A-B, B-C, or C-D) is the cyclist
+        stationary? [1]
+
+    (b) Calculate the speed of the cyclist during section A-B. [2]
+
+    (c) Calculate the speed of the cyclist during section C-D. [2]
+
+    (d) During which section is the cyclist travelling faster?
+        Explain how you can tell from the graph. [2]
+
+12. Fig. 2 shows the speed-time graph for a car journey.
+
+    ---DIAGRAM: Fig. 2---
+    TYPE: Graph
+    PURPOSE: Speed-time graph for car with acceleration, constant speed, and braking
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 10
+    COMPONENTS:
+      [Axes]
+        x-axis: "Time / s" (0 to 30)
+        y-axis: "Speed / m/s" (0 to 20)
+      [Section 1: Acceleration]
+        Straight line from (0, 0) to (10, 20)
+      [Section 2: Constant speed]
+        Horizontal line from (10, 20) to (20, 20)
+      [Section 3: Deceleration]
+        Straight line from (20, 20) to (30, 0)
+    ---END DIAGRAM---
+
+    (a) Calculate the acceleration of the car during the first 10 seconds. [2]
+
+    (b) Describe the motion of the car between 10 s and 20 s. [1]
+
+    (c) Calculate the deceleration of the car during the last 10 seconds. [2]
+
+    (d) Calculate the total distance travelled by the car during the
+        30-second journey. [3]
+        (Hint: Use the area under the graph.)
+
+13. A bus accelerates from rest to 15 m/s in 12 seconds, travels at
+    constant speed for 20 seconds, then decelerates uniformly to rest
+    in 10 seconds.
+
+    (a) Sketch a speed-time graph for this journey. [3]
+
+    (b) Calculate the acceleration of the bus. [2]
+
+    (c) Calculate the deceleration of the bus. [2]
+
+    (d) Calculate the total distance travelled. [3]
+
+14. Explain the difference between the information given by a
+    distance-time graph and a speed-time graph. [4]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+1.  C (Stationary / at rest) - no change in distance
+2.  C (Speed) - gradient = distance / time = speed
+3.  C (Acceleration) - gradient = change in speed / time = acceleration
+4.  D (Distance travelled) - area = speed × time = distance
+5.  C (A line with negative gradient) - speed decreasing over time
+6.  C (The object is moving at a high constant speed) - steeper = faster
+7.  C (Negative acceleration / slowing down)
+8.  C (An object at constant speed) - speed not changing
+
+9.  (a) The object is stationary (at rest) [1].
+    (b) The object is moving at constant speed [1].
+    (c) The object is accelerating (getting faster) [1].
+
+10. (a) The object is moving at constant speed [1].
+    (b) The object is accelerating (constant acceleration) [1].
+    (c) The object is decelerating (slowing down) [1].
+
+11. (a) Section B-C (horizontal line means no change in distance) [1]
+    (b) Speed = distance / time = 80 / 10 [1] = 8 m/s [1]
+    (c) Speed = distance / time = (200 − 80) / (40 − 20) [1]
+        = 120 / 20 = 6 m/s [1]
+    (d) Section A-B is faster [1] because the gradient (steepness) of
+        the line is greater in A-B than in C-D [1].
+
+12. (a) a = Δv / Δt = (20 − 0) / (10 − 0) [1] = 20 / 10 = 2 m/s² [1]
+    (b) The car is travelling at constant speed of 20 m/s [1].
+    (c) Deceleration = Δv / Δt = (20 − 0) / (30 − 20) [1]
+        = 20 / 10 = 2 m/s² [1]
+    (d) Area under graph:
+        Section 1 (triangle): ½ × 10 × 20 = 100 m [1]
+        Section 2 (rectangle): 10 × 20 = 200 m [1]
+        Section 3 (triangle): ½ × 10 × 20 = 100 m [1]
+        Total = 100 + 200 + 100 = 400 m
+
+13. (a) Graph showing:
+        - Straight line from (0, 0) to (12, 15) [1]
+        - Horizontal line from (12, 15) to (32, 15) [1]
+        - Straight line from (32, 15) to (42, 0) [1]
+    (b) a = Δv / Δt = 15 / 12 [1] = 1.25 m/s² [1]
+    (c) Deceleration = Δv / Δt = 15 / 10 [1] = 1.5 m/s² [1]
+    (d) Area under graph:
+        Triangle 1: ½ × 12 × 15 = 90 m [1]
+        Rectangle: 20 × 15 = 300 m [1]
+        Triangle 2: ½ × 10 × 15 = 75 m [1]
+        Total = 90 + 300 + 75 = 465 m
+
+14. A distance-time graph shows the distance travelled plotted against
+    time [1]. Its gradient gives the speed of the object [1].
+    A speed-time graph shows the speed plotted against time [1]. Its
+    gradient gives the acceleration, and the area under the graph gives
+    the distance travelled [1].

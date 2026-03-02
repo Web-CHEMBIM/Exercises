@@ -1,0 +1,695 @@
+================================================================================
+     SECTION 1.1 PHYSICAL QUANTITIES & MEASUREMENT TECHNIQUES
+                    PRACTICE EXERCISES (50 QUESTIONS)
+================================================================================
+
+Syllabus Reference: 1.1 Physical quantities and measurement techniques
+
+Learning Objectives Covered:
+  Core:
+    1. Describe the use of rulers and measuring cylinders to find a
+       length or a volume.
+    2. Describe how to measure a variety of time intervals using clocks
+       and digital timers.
+    3. Determine an average value for a small distance and for a short
+       interval of time by measuring multiples (including the period of
+       oscillation of a pendulum).
+  Supplement:
+    4. Understand that a scalar quantity has magnitude (size) only and
+       that a vector quantity has magnitude and direction.
+    5. Know that the following quantities are scalars: distance, speed,
+       time, mass, energy and temperature.
+    6. Know that the following quantities are vectors: force, weight,
+       velocity, acceleration, momentum, electric field strength and
+       gravitational field strength.
+    7. Determine, by calculation or graphically, the resultant of two
+       vectors at right angles, limited to forces or velocities only.
+
+Distribution:
+  - Recall (AO1): 13 questions (26%)
+  - Application (AO2): 25 questions (50%)
+  - Analysis (AO3): 12 questions (24%)
+
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE (15 Questions)
+================================================================================
+
+1. Which instrument is most suitable for measuring the length of a
+   laboratory bench?
+   A: 30 cm ruler
+   B: Tape measure
+   C: Trundle wheel
+   D: Measuring cylinder
+
+2. What is the resolution of a standard metre ruler?
+   A: 0.01 mm
+   B: 0.1 mm
+   C: 1 mm
+   D: 1 cm
+
+3. The volume of an irregular solid can be found by:
+   A: Measuring its length, width and height
+   B: Using the displacement method with a measuring cylinder
+   C: Placing it on a digital balance
+   D: Using a stopwatch
+
+4. A measuring cylinder contains 45 cm³ of water. A stone is lowered
+   in and the reading rises to 62 cm³. What is the volume of the stone?
+   A: 17 cm³
+   B: 45 cm³
+   C: 62 cm³
+   D: 107 cm³
+
+5. The typical human reaction time is approximately:
+   A: 0.025 s
+   B: 0.25 s
+   C: 2.5 s
+   D: 25 s
+
+6. A student measures the time for 20 complete swings of a pendulum
+   as 26.0 s. What is the period of one swing?
+   A: 0.77 s
+   B: 1.30 s
+   C: 5.20 s
+   D: 520 s
+
+7. Which of the following is a vector quantity?
+   A: Distance
+   B: Speed
+   C: Mass
+   D: Force
+
+8. Which of the following is a scalar quantity?
+   A: Weight
+   B: Velocity
+   C: Energy
+   D: Acceleration
+
+9. Two perpendicular forces of 3 N and 4 N act on an object. What is the
+   magnitude of the resultant force?
+   A: 1 N
+   B: 5 N
+   C: 7 N
+   D: 12 N
+
+10. A student wants to measure the length of a football pitch. The best
+    instrument to use is:
+    A: 30 cm ruler
+    B: Tape measure
+    C: Trundle wheel
+    D: Measuring cylinder
+
+11. To avoid parallax error when reading a measuring cylinder, the eye
+    must be:
+    A: Above the water level
+    B: Below the water level
+    C: Level with the bottom of the meniscus
+    D: Looking through the side of the cylinder
+
+12. A force of 8 N acts east and a force of 6 N acts north on the same
+    object. What is the magnitude of the resultant force?
+    A: 2 N
+    B: 10 N
+    C: 14 N
+    D: 48 N
+
+13. A fiducial marker is used in timing experiments to:
+    A: Increase the time period of a pendulum
+    B: Replace the stopwatch
+    C: Mark the reference point for starting and stopping the timer
+    D: Measure the length of the pendulum
+
+14. Which pair correctly shows a scalar and a vector quantity?
+    A: Speed and mass
+    B: Energy and temperature
+    C: Displacement and weight
+    D: Speed and velocity
+
+15. A student measures the thickness of 50 sheets of paper as 4.5 cm.
+    What is the thickness of one sheet?
+    A: 0.009 cm
+    B: 0.09 cm
+    C: 0.9 cm
+    D: 225 cm
+
+
+================================================================================
+              SECTION B: TRUE/FALSE WITH JUSTIFICATION (6 Questions)
+================================================================================
+
+16. Statement: A measuring cylinder can be used to measure both the
+    volume of a liquid and the volume of an irregular solid.
+
+    True or False? Justify your answer.
+
+17. Statement: If two students time the same event using stopwatches,
+    they should always get exactly the same reading.
+
+    True or False? Justify your answer.
+
+18. Statement: Velocity is a scalar quantity because it only describes
+    how fast an object moves.
+
+    True or False? Justify your answer.
+
+19. Statement: A trundle wheel is more suitable than a ruler for
+    measuring the perimeter of a running track.
+
+    True or False? Justify your answer.
+
+20. Statement: The resultant of two forces acting at right angles is
+    always larger than either of the individual forces.
+
+    True or False? Justify your answer.
+
+21. Statement: Timing 20 swings of a pendulum and dividing by 20 gives
+    a less accurate result than timing a single swing.
+
+    True or False? Justify your answer.
+
+
+================================================================================
+              SECTION C: FILL-IN-THE-BLANK (6 Questions)
+================================================================================
+
+22. A scalar quantity has _____________ only, while a vector quantity has
+    both _____________ and _____________.
+
+23. The volume of a liquid is typically measured using a _____________.
+
+24. To reduce the percentage error when measuring the period of a
+    pendulum, you should time _____________ complete swings and then
+    _____________ the total time by the number of swings.
+
+25. When reading a measuring cylinder, you should read the level at
+    the bottom of the _____________ to avoid _____________ error.
+
+26. Distance, speed, time, mass, energy and _____________ are all
+    examples of _____________ quantities.
+
+27. Force, weight, velocity, acceleration, _____________ and
+    gravitational field strength are all examples of _____________
+    quantities.
+
+
+================================================================================
+              SECTION D: MATCHING (2 Questions)
+================================================================================
+
+28. Match each measuring instrument to its most appropriate use.
+
+    Instrument                    Use
+    ─────────────────────────     ──────────────────────────────────
+    A: Ruler                      i.  Volume of water in a beaker
+    B: Tape measure               ii. Length of a desk
+    C: Trundle wheel              iii. Width of a pencil
+    D: Measuring cylinder         iv. Length of a sports field
+    E: Stopwatch                  v.  Time for one lap of a track
+
+29. Match each quantity to whether it is a scalar or vector.
+
+    Quantity                      Type
+    ─────────────────────────     ──────────────────────
+    A: Momentum                   i.  Scalar
+    B: Temperature                ii. Vector
+    C: Displacement
+    D: Speed
+    E: Electric field strength
+
+
+================================================================================
+              SECTION E: SHORT ANSWER (5 Questions)
+================================================================================
+
+30. State the most appropriate measuring instrument for each of the
+    following:                                                           [3]
+    (a) The diameter of a coin.
+    (b) The distance around a running track.
+    (c) The volume of juice in a glass.
+
+31. Define a scalar quantity and a vector quantity.                       [2]
+
+32. Give three examples of scalar quantities and three examples
+    of vector quantities.                                                [3]
+
+33. Explain the difference between distance and displacement.            [2]
+
+34. State two precautions a student should take when using a ruler
+    to measure the length of a copper wire.                              [2]
+
+
+================================================================================
+              SECTION F: CALCULATIONS (8 Questions)
+================================================================================
+
+35. A student wants to measure the thickness of a single sheet of paper.
+    She measures the thickness of 80 sheets stacked together and obtains
+    a reading of 9.6 mm.
+    Calculate the thickness of a single sheet of paper.                  [2]
+
+36. A student times 25 complete swings of a pendulum using a stopwatch.
+    The total time recorded is 32.5 s.
+    (a) Calculate the period of one complete swing.                      [2]
+    (b) State one advantage of timing 25 swings rather than 1 swing.    [1]
+
+37. A horizontal force of 9 N and a vertical force of 12 N act on
+    an object at the same time.
+    (a) Calculate the magnitude of the resultant force.                  [2]
+    (b) Calculate the angle between the resultant and the horizontal
+        force.                                                           [2]
+
+38. A ship sails 24 km due east and then 10 km due north.
+    (a) State the total distance travelled by the ship.                  [1]
+    (b) Calculate the magnitude of the ship's displacement from its
+        starting point.                                                  [2]
+    (c) Calculate the angle of the displacement measured from
+        due east.                                                        [2]
+
+39. A force of 50 N acts horizontally and a force of 120 N acts
+    vertically on a box.
+    (a) Calculate the magnitude of the resultant force on the box.       [2]
+    (b) Calculate the angle between the resultant force and the
+        horizontal.                                                      [2]
+    (c) If the horizontal force doubled to 100 N while the vertical
+        force stayed the same, calculate the new resultant force.        [2]
+
+40. A stopwatch reads 1:12.35 at the start of a race and 1:37.85 at
+    the finish.
+    Calculate the time taken for the race.                               [2]
+
+41. A displacement of 5 m east is followed by a displacement of 12 m
+    north.
+    (a) Calculate the magnitude of the resultant displacement.           [2]
+    (b) Calculate the angle of the resultant measured from east.         [2]
+
+42. A force F has a horizontal component of 15 N and acts at 60° to
+    the horizontal.
+    (a) Use trigonometry to calculate the vertical component of F.       [2]
+    (b) Calculate the magnitude of the force F.                          [2]
+
+
+================================================================================
+              SECTION G: DATA INTERPRETATION (3 Questions)
+================================================================================
+
+43. A student measures the time period of a pendulum by timing different
+    numbers of swings. Her results are shown below.
+
+    ┌───────────────────────┬────────────────────┬─────────────────────┐
+    │ Number of swings      │ Total time (s)     │ Period (s)          │
+    ├───────────────────────┼────────────────────┼─────────────────────┤
+    │ 5                     │ 6.7                │                     │
+    ├───────────────────────┼────────────────────┼─────────────────────┤
+    │ 10                    │ 13.0               │                     │
+    ├───────────────────────┼────────────────────┼─────────────────────┤
+    │ 20                    │ 26.4               │                     │
+    ├───────────────────────┼────────────────────┼─────────────────────┤
+    │ 50                    │ 65.0               │                     │
+    └───────────────────────┴────────────────────┴─────────────────────┘
+
+    (a) Complete the "Period" column for each row.                       [2]
+    (b) Which row is likely to give the most accurate value for the
+        period? Explain your answer.                                     [2]
+    (c) Calculate the average period from all four measurements.         [2]
+    (d) Suggest why the period calculated from 5 swings differs most
+        from the others.                                                 [2]
+
+44. Fig. 1 shows two measuring cylinders used to find the volume of
+    a key.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Apparatus
+    PURPOSE: Two measuring cylinders showing displacement method
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 8
+    COMPONENTS:
+      [Left Cylinder]
+        Symbol: measuring_cylinder
+        Position: grid(3,4)
+        Size: medium
+        Label: "Before" [below]
+        Water level marked at 35 cm³
+      [Right Cylinder]
+        Symbol: measuring_cylinder
+        Position: grid(9,4)
+        Size: medium
+        Label: "After" [below]
+        Water level marked at 42 cm³
+        Small key shape at bottom
+    ANNOTATIONS:
+      [Left Label]: "35 cm³" at water level
+      [Right Label]: "42 cm³" at water level
+    ---END DIAGRAM---
+
+    (a) State the volume of water before the key was added.              [1]
+    (b) State the volume of water after the key was added.               [1]
+    (c) Calculate the volume of the key.                                 [1]
+    (d) State one precaution the student should take to ensure an
+        accurate reading from the measuring cylinder.                    [1]
+
+45. A student records the following data for the time taken for a ball
+    to roll down a ramp.
+
+    ┌─────────────┬──────────────────┐
+    │ Trial       │ Time (s)         │
+    ├─────────────┼──────────────────┤
+    │ 1           │ 2.35             │
+    ├─────────────┼──────────────────┤
+    │ 2           │ 2.42             │
+    ├─────────────┼──────────────────┤
+    │ 3           │ 2.28             │
+    ├─────────────┼──────────────────┤
+    │ 4           │ 2.39             │
+    ├─────────────┼──────────────────┤
+    │ 5           │ 2.31             │
+    └─────────────┴──────────────────┘
+
+    (a) Calculate the average (mean) time.                               [2]
+    (b) State why taking five readings is better than taking one.        [1]
+    (c) The accepted value is 2.36 s. Calculate the percentage error
+        in the student's average.                                        [2]
+
+
+================================================================================
+              SECTION H: COMPARE & CONTRAST (3 Questions)
+================================================================================
+
+46. Compare and contrast distance and displacement, using an example
+    to illustrate your answer.                                           [4]
+
+47. Compare a ruler and a trundle wheel as instruments for measuring
+    length. In your answer, include the advantages and disadvantages
+    of each.                                                             [4]
+
+48. Compare scalar and vector quantities. Give two examples of each
+    and explain what makes them different.                                [4]
+
+
+================================================================================
+              SECTION I: STRUCTURED QUESTIONS (4 Questions)
+================================================================================
+
+49. A student investigates the period of a simple pendulum.
+
+    (a) State what is meant by the "period" of a pendulum.               [1]
+
+    (b) She measures the time for 20 complete swings as 24.6 s.
+        Calculate the period of one swing.                               [1]
+
+    (c) Explain why she timed 20 swings instead of one swing.            [2]
+
+    (d) Describe how a fiducial marker could be used to improve
+        the accuracy of her experiment.                                  [2]
+
+    (e) The student repeats the experiment with a longer pendulum
+        and finds the time for 20 swings is 31.2 s. Calculate
+        the new period and state what this suggests about the
+        relationship between length and period.                          [3]
+
+50. A student wants to determine the volume of an irregularly shaped
+    stone.
+
+    (a) State the name of the method used to find the volume of
+        an irregular object.                                             [1]
+
+    (b) Describe the step-by-step procedure using a measuring
+        cylinder.                                                        [4]
+
+    (c) The initial water level is 58 cm³ and the final level is
+        73 cm³. Calculate the volume of the stone.                       [1]
+
+    (d) State two conditions that must be true for this method
+        to work.                                                         [2]
+
+    (e) The student finds the stone has a mass of 37.5 g.
+        Calculate the density of the stone using the volume found
+        in part (c).                                                     [2]
+
+
+================================================================================
+              SECTION J: ERROR ANALYSIS (2 Questions)
+================================================================================
+
+51. A student measures the time for a sprinter to run 100 m using a
+    handheld stopwatch. He records the time as 12.45 s. The electronic
+    timing system records 12.10 s.
+
+    (a) Calculate the difference between the two recorded times.         [1]
+
+    (b) Suggest a reason for this difference.                            [1]
+
+    (c) Suggest one improvement the student could make to reduce
+        this type of error.                                              [1]
+
+    (d) Would this error be classified as a systematic error or
+        a random error? Explain your reasoning.                          [2]
+
+52. A student measures the volume of water in a measuring cylinder
+    as 47 cm³. The teacher checks and finds the correct reading is
+    44 cm³.
+
+    (a) Suggest a reason for the student's incorrect reading.            [1]
+
+    (b) Describe how the student should position themselves when
+        reading the measuring cylinder.                                  [1]
+
+    (c) The student then uses this volume measurement to calculate
+        the density of a stone. Explain how the error in volume will
+        affect the calculated density.                                   [2]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+
+1.  B (Tape measure) — suitable for lengths of a few metres
+2.  C (1 mm) — standard ruler has 1 mm divisions
+3.  B (Using the displacement method with a measuring cylinder)
+4.  A (17 cm³) — Volume = 62 − 45 = 17 cm³
+5.  B (0.25 s) — standard human reaction time
+6.  B (1.30 s) — Period = 26.0 / 20 = 1.30 s
+7.  D (Force) — has both magnitude and direction
+8.  C (Energy) — has magnitude only
+9.  B (5 N) — R = √(3² + 4²) = √25 = 5 N
+10. C (Trundle wheel) — suitable for distances of tens of metres
+11. C (Level with the bottom of the meniscus)
+12. B (10 N) — R = √(8² + 6²) = √100 = 10 N
+13. C (Mark the reference point for starting and stopping the timer)
+14. D (Speed and velocity) — speed is scalar, velocity is vector
+15. B (0.09 cm) — 4.5 / 50 = 0.09 cm
+
+SECTION B: TRUE/FALSE WITH JUSTIFICATION
+
+16. True [B1]. A measuring cylinder measures liquid volume directly
+    from the scale [B1]. The volume of an irregular solid can be found
+    by the displacement method — the rise in water level equals the
+    volume of the solid [B1].
+
+17. False [B1]. Each student has a different reaction time, so they will
+    start and stop the stopwatch at slightly different moments [B1].
+    This introduces random error [B1].
+
+18. False [B1]. Velocity is a vector quantity [B1] because it has both
+    magnitude (speed) and direction [B1].
+
+19. True [B1]. A trundle wheel is designed for measuring longer
+    distances (tens of metres or more) [B1]. A ruler would be
+    impractical for such a large distance [B1].
+
+20. True [B1]. By Pythagoras' theorem, R = √(F₁² + F₂²). Since both
+    F₁ and F₂ are positive, R² = F₁² + F₂² > F₁² and R² > F₂² [B1],
+    so R is always larger than either component [B1].
+
+21. False [B1]. Timing 20 swings gives a much longer total time, so
+    the reaction time error becomes a smaller percentage of the
+    measurement [B1]. This gives a more accurate value for the period
+    when divided by 20 [B1].
+
+SECTION C: FILL-IN-THE-BLANK
+
+22. magnitude / magnitude / direction
+23. measuring cylinder
+24. many (or 20/multiple) / divide
+25. meniscus / parallax
+26. temperature / scalar
+27. momentum / vector
+
+SECTION D: MATCHING
+
+28. A → iii (width of a pencil)
+    B → ii (length of a desk)
+    C → iv (length of a sports field)
+    D → i (volume of water in a beaker)
+    E → v (time for one lap of a track)
+
+29. A (Momentum) → ii (Vector)
+    B (Temperature) → i (Scalar)
+    C (Displacement) → ii (Vector)
+    D (Speed) → i (Scalar)
+    E (Electric field strength) → ii (Vector)
+
+SECTION E: SHORT ANSWER
+
+30. (a) Ruler [B1]
+    (b) Trundle wheel [B1]
+    (c) Measuring cylinder [B1]
+
+31. A scalar quantity has magnitude (size) only [B1].
+    A vector quantity has both magnitude (size) and direction [B1].
+
+32. Scalars: e.g. distance, speed, time, mass, energy, temperature
+    (any 3) [B1 each]
+    Vectors: e.g. force, weight, velocity, acceleration, momentum,
+    displacement (any 3) [B1 each]
+
+33. Distance is the total length of the path travelled, regardless
+    of direction — it is a scalar [B1]. Displacement is the
+    straight-line distance from start to finish in a specified
+    direction — it is a vector [B1].
+
+34. Read the ruler at eye level to avoid parallax error [B1].
+    Ensure the ruler starts at 0, or measure from a known graduation
+    and subtract [B1]. (Accept: place ruler in contact with the wire
+    to avoid parallax / check for zero error)
+
+SECTION F: CALCULATIONS
+
+35. Thickness = 9.6 / 80 [M1] = 0.12 mm [A1]
+
+36. (a) Period = 32.5 / 25 [M1] = 1.30 s [A1]
+    (b) Timing 25 swings reduces the percentage error caused by
+        human reaction time [B1].
+
+37. (a) R = √(9² + 12²) = √(81 + 144) = √225 [M1] = 15 N [A1]
+    (b) tan θ = 12 / 9 = 1.333 [M1]
+        θ = tan⁻¹(1.333) = 53.1° [A1]
+
+38. (a) Total distance = 24 + 10 = 34 km [B1]
+    (b) R = √(24² + 10²) = √(576 + 100) = √676 [M1] = 26 km [A1]
+    (c) tan θ = 10 / 24 = 0.4167 [M1]
+        θ = tan⁻¹(0.4167) = 22.6° north of east [A1]
+
+39. (a) R = √(50² + 120²) = √(2500 + 14400) = √16900 [M1]
+        = 130 N [A1]
+    (b) tan θ = 120 / 50 = 2.4 [M1]
+        θ = tan⁻¹(2.4) = 67.4° [A1]
+    (c) R = √(100² + 120²) = √(10000 + 14400) = √24400 [M1]
+        = 156 N (3 s.f.) [A1]
+
+40. Convert 1:37.85 → 60 + 37.85 = 97.85 s [M1]
+    Time = 97.85 − 72.35 = 25.50 s [A1]
+
+41. (a) R = √(5² + 12²) = √(25 + 144) = √169 [M1] = 13 m [A1]
+    (b) tan θ = 12 / 5 = 2.4 [M1]
+        θ = tan⁻¹(2.4) = 67.4° north of east [A1]
+
+42. (a) tan 60° = vertical / 15
+        vertical = 15 × tan 60° = 15 × 1.732 [M1] = 26.0 N [A1]
+    (b) cos 60° = 15 / F
+        F = 15 / cos 60° = 15 / 0.5 [M1] = 30 N [A1]
+
+SECTION G: DATA INTERPRETATION
+
+43. (a) Periods: 6.7/5 = 1.34 s; 13.0/10 = 1.30 s;
+        26.4/20 = 1.32 s; 65.0/50 = 1.30 s [M1 for method, A1 for
+        all four values correct]
+    (b) Row 4 (50 swings) [B1] because the longer total time means
+        the reaction time error is the smallest percentage of the
+        measured time [B1].
+    (c) Average = (1.34 + 1.30 + 1.32 + 1.30) / 4 [M1]
+        = 5.26 / 4 = 1.315 s ≈ 1.32 s [A1]
+    (d) With only 5 swings the total time is short (6.7 s) [B1], so
+        the reaction time (≈ 0.5 s) represents a larger percentage
+        error in starting and stopping the timer [B1].
+
+44. (a) 35 cm³ [B1]
+    (b) 42 cm³ [B1]
+    (c) Volume = 42 − 35 = 7 cm³ [B1]
+    (d) Read the scale at eye level / read from the bottom of the
+        meniscus (to avoid parallax error) [B1]
+
+45. (a) Mean = (2.35 + 2.42 + 2.28 + 2.39 + 2.31) / 5 [M1]
+        = 11.75 / 5 = 2.35 s [A1]
+    (b) Multiple readings help to identify anomalous results and
+        reduce the effect of random error [B1].
+    (c) % error = |2.35 − 2.36| / 2.36 × 100 [M1]
+        = 0.01 / 2.36 × 100 = 0.42% [A1]
+
+SECTION H: COMPARE & CONTRAST
+
+46. Both distance and displacement describe how far an object has moved
+    [B1]. Distance is the total path length — it is a scalar and has
+    no direction [B1]. Displacement is the straight-line distance from
+    start to finish with direction — it is a vector [B1].
+    Example: walking 300 m north then 400 m east gives distance = 700 m
+    but displacement = 500 m in a northeast direction [B1].
+
+47. Ruler: advantage — high resolution (1 mm), suitable for precise
+    short measurements [B1]. Disadvantage — limited range (up to 1 m),
+    impractical for large distances [B1].
+    Trundle wheel: advantage — suitable for measuring long distances
+    (tens of metres) quickly [B1]. Disadvantage — lower resolution
+    (~1 m per click), unsuitable for precise small measurements [B1].
+
+48. A scalar quantity has magnitude only; examples: mass and
+    energy [B1]. A vector quantity has both magnitude and direction;
+    examples: force and velocity [B1]. The key difference is that
+    vectors require a direction to be fully described [B1]. Two
+    scalar values are added arithmetically, whereas vectors must be
+    added using vector diagrams or trigonometry [B1].
+
+SECTION I: STRUCTURED QUESTIONS
+
+49. (a) The period is the time for one complete swing (oscillation)
+        of the pendulum [B1].
+    (b) Period = 24.6 / 20 = 1.23 s [A1]
+    (c) Timing one swing gives a very short time, making the
+        reaction time error a large percentage of the measurement [B1].
+        Timing many swings reduces the percentage error because the
+        total time is much larger than the reaction time [B1].
+    (d) Place a fiducial marker (e.g. a vertical line) at the
+        equilibrium (rest) position of the pendulum [B1]. Start and
+        stop the timer as the pendulum passes the marker in the same
+        direction, making it easier to judge exactly when to
+        start/stop timing [B1].
+    (e) New period = 31.2 / 20 = 1.56 s [A1]. The new period is
+        longer than 1.23 s [B1], suggesting that a longer pendulum
+        has a longer period (period increases with length) [B1].
+
+50. (a) Displacement method / water displacement [B1]
+    (b) 1: Pour water into a measuring cylinder and record the
+        initial volume (V₁) [B1].
+        2: Carefully lower the stone into the water ensuring it is
+        fully submerged [B1].
+        3: Record the new water level (V₂) [B1].
+        4: Calculate: volume of stone = V₂ − V₁ [B1].
+    (c) Volume = 73 − 58 = 15 cm³ [B1]
+    (d) The object must sink in the liquid (be denser than the
+        liquid) [B1]. The object must not dissolve in or absorb the
+        liquid [B1].
+    (e) ρ = m / V = 37.5 / 15 [M1] = 2.5 g/cm³ [A1]
+
+SECTION J: ERROR ANALYSIS
+
+51. (a) Difference = 12.45 − 12.10 = 0.35 s [B1]
+    (b) Human reaction time — the student reacted late when starting
+        and/or stopping the watch [B1].
+    (c) Use electronic timing gates / light gates to remove human
+        reaction time [B1].
+    (d) This is likely a systematic error [B1] because the human
+        reaction time consistently adds to the recorded time, making
+        the measurement always too long in the same direction [B1].
+        Accept: random error, with valid justification that reaction
+        times vary unpredictably.
+
+52. (a) The student read the measuring cylinder from above (parallax
+        error), causing a reading that is too high [B1].
+    (b) The student should position their eyes level with the bottom
+        of the meniscus and read perpendicular to the scale [B1].
+    (c) The volume is too large (47 instead of 44 cm³) [B1]. Since
+        ρ = m/V, a larger volume would give a smaller calculated
+        density than the true value [B1].

@@ -1,0 +1,299 @@
+Cambridge (CIE) IGCSE
+Physics
+Electromagnetic Spectrum
+Contents
+Electromagnetic Waves
+Uses of Electromagnetic Waves
+Dangers of Electromagnetic Waves
+Communications
+Digital & Analogue SignalsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Electromagnetic Waves
+Electromagnetic waves
+The electromagnetic spectrum is arranged in a specific order based on the wavelengths
+or frequencies of the radiation in each region
+Regions with a long wavelength have a low frequency and vice versa
+The main regions of the continuous electromagnetic (EM) spectrum from longest to
+shortest wavelength are:
+Radio waves
+Microwaves
+Infrared
+Visible (red, orange, yellow, green, blue, indigo, violet)
+Ultraviolet
+X-rays
+Gamma rays
+The electromagnetic spectrum in order of decreasing
+wavelength
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Visible light is just one small part of a much bigger spectrum: The electromagnetic
+spectrum
+Properties of electromagnetic waves
+All electromagnetic waves travel at the same high speed in avacuum
+Electromagnetic waves are defined as:
+Transverse waves that transfer energy from the source of the waves to an absorber
+The Speed of Electromagnetic Waves
+Extended tier only
+The speed of electromagnetic waves in a vacuum is
+3.0 × 10 m/s
+This is approximately the same speed as electromagnetic waves in airExaminer Tips and Tricks
+See if you can make up a mnemonic to help you remember the EM spectrum!
+One possibility is:
+Raging Martians Invaded Venus Using X-ray Guns
+The electromagnetic spectrum is usually given in order of decreasing wavelength
+and increasing frequency i.e. from radio waves to gamma waves
+Remember:
+Radios are big (long wavelength)
+Gamma rays are emitted from atoms which are very small (short wavelength)
+8Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+Uses of Electromagnetic Waves
+Uses of electromagnetic waves
+Typical uses of the different regions of the electromagnetic
+spectrum
+Wave Use
+Radio Radio and television transmissions
+Astronomy
+Radio frequency identification (RFID)
+Microwave Satellite television
+Mobile (cell) phones
+Microwave ovens
+Infrared Electric grills
+Television remote controllers
+Intruder alarms
+Thermal imaging
+Optical fibres
+Visible light Vision
+Photography
+Illumination
+Ultraviolet Security marking
+Detecting fake bank notes
+Sterilising water
+X-rays Medical scanning
+Security scanners
+Gamma rays Sterilising food
+Sterilising medical equipmentYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+Detection of cancer
+Treatment of cancer
+Typical uses of the different regions of the electromagnetic
+spectrum
+Uses and dangers of the electromagnetic spectrum
+Uses of radio and microwavesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+The main uses of radio and microwaves are for wireless communication
+Many things people often assume use radio waves use microwaves (e.g. WiFi, radar,
+mobile phones, satellite communications)
+At very high intensities microwaves can also be used to heat things
+This is what happens in a microwave oven
+Uses of infrared
+Warm objects emit infrared radiation
+Infrared can be detected using thermal imaging cameras
+In security cameras, for research and also in medicine
+Remote controls have small infrared LEDs that send invisible signals to an infrared
+receiver on a device such as a TV
+Infrared travels down fibre optic cables more efficiently than visible light
+So most fibre optic communication systems use infrared
+Uses of visible light
+Visible light is the only part of the electromagnetic spectrum that the human eye can see
+Visible light is used for photography, videography and illumination
+Uses of ultraviolet light
+Ultraviolet is responsible for giving you a sun tan, which is your body’s way of protecting
+itself against the ultraviolet rays
+When certain substances are exposed to ultraviolet, they absorb and re-emit it as visible
+light (making them glow)
+This process is known as fluorescence
+Fluorescence can be used to mark things using special ink secretly
+Most bank notes have invisible fluorescent markings on them
+Fluorescent light bulbs also use this principle to emit visible light
+Uses of X-rays
+The most obvious use of x-rays is in medicine
+X-rays pass through body tissues but are absorbed by denser body parts such as bones
+Bones absorb X-rays, leaving a shadow which can be seen using photographic film
+Uses of gamma rays
+Gamma rays are used to kill cells and living tissueYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+This property is utilised in both cancer detection and treatment 
+If gamma rays are carefully aimed at cancerous tissue, they can be effective at
+destroying the cancerous cells
+Gamma rays can also be used to sterilise food and medical equipment by killing off the
+bacteriaYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Dangers of Electromagnetic Waves
+Dangers of electromagnetic waves
+Excessive exposure to electromagnetic radiation has harmful effects on people
+As the frequency of the electromagnetic (EM) waves increases, so does their energy
+Beyond the visible part of the spectrum (ultraviolet waves, X-rays and gamma rays), the
+energy is large enough to ionise atoms
+The higher the frequency, the more ionising the radiation
+The effects of ionisation also depend on the type of radiation and the size of the dose
+Harmful effects of EM radiation
+Wave Danger
+Radio No known danger
+Microwaves Internal heating of body cells
+Infrared Skin burns
+Ultraviolet Damage to surface cells and eyes leads to skin cancer and eye
+conditions
+X-rays and gamma
+raysMutation or damage to cells in the body
+Harmful effects of excessive microwave exposure
+Certain frequencies of microwaves are absorbed by water molecules
+Humans contain a lot of water, so there is a risk of internal heating from microwaves
+This might worry some people, but the longer wavelength (lower energy) microwaves
+used in everyday circumstances are proven to be safe
+Microwaves used for communications (including mobile phones) emit very small
+amounts of energy which are not known to cause any harm
+Microwave ovens, on the other hand, emit very large amounts of energy, however,
+that energy is prevented from escaping the oven by the metal walls and metal grid in
+the glass door
+Harmful effects of excessive ultraviolet exposureYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Ultraviolet is similar to visible light, except it is invisible to the human eye and carries a
+much higher energy
+If eyes are exposed to high levels of UV it can cause severe eye damage
+Good quality sunglasses will absorb ultraviolet, preventing it from entering the eyes
+Ultraviolet can kill cells or cause them to malfunction
+This can cause premature ageing, and diseases such as skin cancer
+Sunscreen absorbs ultraviolet light, preventing it from damaging the skin
+Harmful effects of excessive X-ray and gamma-ray
+exposure
+X-rays and gamma rays are the most ionising types of EM waves
+They can penetrate the body and cause internal damage
+They can cause the mutation of DNA, causing cancerYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Communications
+Communications with satellites
+Communications with artificial satellites use microwaves:
+Some satellite phones use low-orbit artificial satellites
+Some satellite phones and direct broadcast satellite televisions use geostationary
+satellites
+Geostationary and polar-orbiting satellites
+Geostationary and polar orbits around the Earth
+Low orbit satellites
+Low orbit satellites orbit much lower than geostationary satellites, at around 200 km
+above sea level
+Used for monitoring the weather, military applications, and taking images of the
+Earth’s surface
+There is a much shorter time delay for signals compared to geostationary orbit
+signals
+The signals and images are much clearer due to the lower orbit
+However, there is limited use in any one orbit because more than one satellite is
+required for continuous operation
+Polar orbit satellites are a type of low Earth orbit satellite that orbit around the poles
+Low orbit satellitesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Some satellite phones use low-orbit artificial satellites if a more detailed signal is required
+Geostationary satellites
+Geostationary satellites orbit above the Earth’s equator
+The orbit of the satellite is 24 hours
+At a height of 36 000 km above the Earth’s surface, much higher than polar satellites
+Used for radio and telecommunication broadcasting around the world due to its
+high orbit
+Orbit of geostationary satelliteYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Some satellite phones and direct broadcast satellite television use geostationary
+satellites
+Systems of communications
+Extended tier only
+Many important systems of communication rely on long-wave electromagnetic
+radiation, including:
+Mobile phones, wireless internet & satellite television (using microwaves)
+Bluetooth, terrestrial television signals & local radio stations (using radio waves)
+Optical fibres (using visible or infrared waves)
+Microwaves
+Microwaves can be used to transmit signals over large distances 
+As with radio waves, microwave signals will be clearer if there are no obstacles in the way
+which may cause diffraction of the beam
+On the ground, mobile phone signals use a network of microwave transmitter masts to
+relay the signals from the nearest mast to the receiving phone 
+They cannot be spaced so far apart that, for example, hills or the curvature of the
+Earth diffract the beam
+Mobile phones and wireless internet use microwaves because microwaves are not
+refracted, reflected or absorbed by the atmosphere or ionosphereYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+This means satellites can relay signals around the Earth allowing communication 24
+hours a day all around the world
+Also, they can penetrate most walls and only require a short aerial for transmission
+and reception
+Radio waves
+Radio waves can be used to transmit signals over short distances
+Radio waves have wavelengths of around a kilometre
+Radio waves can diffract around the hills
+This is because radio waves have wavelengths similar to the size of the hill
+Bluetooth uses radio waves instead of wires or cables to transmit information between
+electronic devices, over short distances, such as phones and speakers
+Bluetooth signals tend to have shorter wavelengths than radio or television signals
+This enables high rates of data transmission that can only be used over a short
+distance (for example, within a household)
+This means they can pass through walls but the signal is significantly weakened on
+doing so
+Radio waves diffract around hills
+Radio signals diffract around hills because they are a similar wavelength to the hill
+Optical fibres
+Optical fibres use visible light and short-wavelength infrared radiation for cable
+television and high-speed broadband
+Visible light and infrared radiation can carry high rates of data due to their high
+frequencyYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+Digital & Analogue Signals
+Digital & analogue signals
+Extended tier only
+There are two types of signals:
+Analogue
+Digital
+Analogue signals vary continuously - they can take any value
+ An analogue signal
+An analogue signal is continuously varying, taking any value
+A digital signal can only take one of two (discrete) states
+These are usually referred to as;
+1s and 0s
+Highs and lows, or
+Ons and offs
+ A digital signalYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+A digital signal can only take one of two values – 0 or 1
+Transmission of sound
+Extended tier only
+Sound waves that can be transmitted as a digital or analogue signal
+Signals for speech or music are made up of varying frequencies
+To make out the information clearly, the signal needs to be transmitted with as little
+interference as possible
+The signal undergoes digital sampling
+It is converted both before transmission and after being received
+Before transmission: the signal is converted from analogue to digital
+After being received: the signal is converted back from digital to analogue
+Benefits of digital signalling
+Extended tier only
+The benefits of digitally sampling a signal include:
+Increased rate of data transmission
+Increased range due to accurate signal regeneration
+Digital sampling an analogue signalYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Analogue v digital signal
+The key advantages of data transmission in digital form compared to analogue are:
+The signal can be regenerated so there is minimal noise
+Due to accurate signal regeneration, the range of digital signals is larger than the
+range of analogue signals (they can cover larger distances)
+Digital signals enable an increased rate of transmission of data compared to
+analogue
+Extra data can be added so that the signal can be checked for errors
+Examiner Tips and Tricks
+Digital sampling is when an analogue signal is converted into a digital signal by
+recording sound at set time intervals.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+

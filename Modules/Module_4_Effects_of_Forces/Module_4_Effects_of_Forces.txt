@@ -1,0 +1,1922 @@
+================================================================================
+                    MODULE 4: EFFECTS OF FORCES
+================================================================================
+
+================================================================================
+MODULE OVERVIEW
+================================================================================
+
+At the end of this module, students should be able to:
+
+Section 4.1 - Resultant Forces:
+  * State the effects of forces on an object (changes in speed, direction, shape).
+  * Identify different types of forces and describe their effects.
+  * Know that forces can be balanced or unbalanced.
+  * Calculate the resultant force of two or more forces acting along the same line.
+
+Section 4.2 - Newton's First Law:
+  * Describe the effect of balanced forces on an object at rest or moving at constant velocity.
+  * State Newton's first law of motion.
+  * Know that a resultant force is needed to change velocity.
+
+Section 4.3 - Newton's Second Law (Extended):
+  * State Newton's second law of motion.
+  * Recall and use the equation: F = ma
+  * Describe the relationship between resultant force, mass and acceleration.
+
+Section 4.4 - Investigating Force & Extension:
+  * Describe an experiment to investigate the relationship between force and extension.
+  * Plot, interpret and explain the shape of a force-extension graph.
+
+Section 4.5 - Hooke's Law (Extended):
+  * State Hooke's law and identify the limit of proportionality.
+  * Recall and use the equation: F = kx
+  * Define spring constant and calculate it from data.
+
+Section 4.6 - Circular Motion (Extended):
+  * Understand that a force is required to produce circular motion.
+  * Describe how mass, speed and radius affect the required force.
+  * Explain why velocity changes in circular motion even at constant speed.
+
+Section 4.7 - Friction:
+  * Know that friction is a force that opposes motion.
+  * Describe friction in solids and fluids (drag/air resistance).
+  * Describe methods to reduce friction.
+
+Prerequisites:
+  - Module 1: Physical Quantities and Measurement
+  - Module 2: Motion (Speed, velocity, acceleration)
+  - Module 3: Mass, Weight and Density
+
+Estimated Time: 4-5 hours total
+
+Key Vocabulary:
+  - Force           - Resultant        - Balanced        - Unbalanced
+  - Newton          - Acceleration     - Mass            - Inertia
+  - Extension       - Compression      - Spring constant - Proportionality
+  - Elastic         - Friction         - Drag            - Air resistance
+
+
+================================================================================
+                    SECTION 4.1: RESULTANT FORCES
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * State the effects of forces on an object.
+  * Identify that forces can be balanced or unbalanced.
+  * Calculate the resultant force of forces acting along the same line.
+
+--------------------------------------------------------------------------------
+4.1.1  EFFECTS OF FORCES
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Think about pushing a shopping trolley, kicking a football, or squeezing a
+stress ball. In each case, you are applying a force. But what exactly is a
+force, and what does it do?
+
+> DEFINITION
+> A force is a push or a pull that acts on an object due to the interaction
+> with another object.
+
+Forces can have a variety of effects on an object. Forces can change an
+object's:
+  * Speed      - making it go faster or slower
+  * Direction  - changing which way it moves
+  * Shape      - stretching, compressing or bending it
+  * Size       - making it larger or smaller
+
+EXAMPLES OF FORCE EFFECTS:
+┌────────────────────────────┬─────────────────────────────────────────────────┐
+│ Force Applied              │ Effect                                          │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ Engine thrust on a car     │ Causes the car to speed up                      │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ Gravitational pull on      │ Causes the comet to change direction            │
+│ a comet                    │                                                 │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ Compression forces on      │ Causes the spring to change shape               │
+│ a spring                   │                                                 │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ Braking force (friction)   │ Causes the car to slow down                     │
+└────────────────────────────┴─────────────────────────────────────────────────┘
+
+NOTE: Force is a VECTOR quantity - it has both magnitude (size) and direction.
+Force is measured in newtons (N).
+
+
+--------------------------------------------------------------------------------
+4.1.2  RESULTANT FORCES
+--------------------------------------------------------------------------------
+
+WHAT IS A RESULTANT FORCE?
+---------------------------
+
+When multiple forces act on an object, we can combine them to find a single
+force that describes the combined effect of all forces.
+
+> DEFINITION
+> A resultant force is a single force that describes all of the forces
+> operating on a body.
+
+The resultant force determines:
+  - The direction in which the object will move
+  - The magnitude of the net force experienced by the object
+
+
+BALANCED AND UNBALANCED FORCES
+-------------------------------
+
+Forces acting on an object can be described as balanced or unbalanced:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ BALANCED FORCES                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ • Forces act in opposing directions with equal magnitude                    │
+│ • The effects of the forces cancel out                                      │
+│ • There is NO resultant force (resultant = 0)                               │
+│ • The object remains at rest OR continues at constant velocity              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ UNBALANCED FORCES                                                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ • Forces do not cancel out                                                  │
+│ • There IS a resultant force                                                │
+│ • The object will accelerate (change velocity)                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLE: A Book on a Table
+
+Consider a book resting on a table:
+  - The gravitational pull of the Earth on the book (weight) acts DOWNWARD
+  - The push force of the table on the book (normal contact force) acts UPWARD
+  - These forces are equal in magnitude and opposite in direction
+  - The forces are BALANCED
+  - There is no resultant force acting on the book
+  - The book remains at rest
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 4.1---
+TYPE: Force
+PURPOSE: Show balanced forces on a book at rest on a table
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Central book shape with opposing force arrows
+
+COMPONENTS:
+  [Table Surface]
+    Symbol: horizontal_line
+    Position: grid(2,7) to grid(8,7)
+    Style: solid thick (3px)
+    Label: "Table" [below]
+
+  [Book]
+    Symbol: rectangle
+    Position: grid(4,5) to grid(6,7)
+    Size: medium
+    Style: solid medium (2px)
+    Fill: light gray
+    Label: "Book" [center]
+
+  [Weight Arrow]
+    Symbol: arrow_down
+    Position: grid(5,7) to grid(5,9)
+    Style: solid thick, red
+    Label: "Weight (W)" [right]
+
+  [Normal Force Arrow]
+    Symbol: arrow_up
+    Position: grid(5,5) to grid(5,3)
+    Style: solid thick, blue
+    Label: "Normal force (N)" [right]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Result]: "Balanced: N = W, Resultant = 0" [top center]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+EXAMPLE: A Rocket Launching
+
+Consider a rocket just after lift-off:
+  - The thrust from the engines acts UPWARD (force > weight)
+  - The gravitational pull of the Earth (weight) acts DOWNWARD
+  - The upward force is greater than the downward force
+  - The forces are UNBALANCED
+  - There is a resultant force acting upwards
+  - The rocket accelerates upwards
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 4.2---
+TYPE: Force
+PURPOSE: Show unbalanced forces on a rocket causing acceleration
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 3:4 portrait
+GRID: 10 × 12
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Vertical composition with rocket and unequal force arrows
+
+COMPONENTS:
+  [Rocket]
+    Symbol: rocket
+    Position: grid(5,4) to grid(5,8)
+    Size: medium-large
+    Style: solid medium (2px)
+    Fill: white
+    Label: "Rocket" [center]
+
+  [Thrust Arrow]
+    Symbol: arrow_up
+    Position: grid(5,8) to grid(5,2)
+    Style: solid thick (4px), green
+    Label: "Thrust (T)" [right]
+
+  [Weight Arrow]
+    Symbol: arrow_down
+    Position: grid(5,8) to grid(5,10)
+    Style: solid thick (3px), red
+    Label: "Weight (W)" [right]
+
+  [Exhaust Flames]
+    Symbol: flame_shape
+    Position: below rocket
+    Style: jagged lines
+    Fill: orange
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Result]: "Unbalanced: T > W, Resultant acts UP" [top right]
+  [Motion]: "Accelerates Upwards" [top left]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+4.1.3  CALCULATING RESULTANT FORCE
+--------------------------------------------------------------------------------
+
+Since force is a vector quantity, when adding forces together we must consider
+their direction.
+
+SIGN CONVENTION:
+  - Choose one direction as positive (e.g., right or up)
+  - The opposite direction is negative (e.g., left or down)
+  - Add all forces together, keeping their signs
+
+
+EXAMPLE 1: Forces in the Same Direction
+
+If two people push a box from the same side:
+  - Person 1 pushes with 3 N to the right (+3 N)
+  - Person 2 pushes with 7 N to the right (+7 N)
+
+  Resultant force = (+3) + (+7) = +10 N to the right
+
+The box will move to the right with a force of 10 N.
+
+
+EXAMPLE 2: Forces in Opposite Directions
+
+If two people push a box from opposite sides:
+  - Person 1 pushes with 7 N to the left (-7 N)
+  - Person 2 pushes with 3 N to the right (+3 N)
+
+  Resultant force = (-7) + (+3) = -4 N
+
+The box will move to the LEFT with a force of 4 N.
+
+
+EXAMPLE 3: Equal Opposite Forces
+
+If two people push with equal force from opposite sides:
+  - Person 1 pushes with 5 N to the left (-5 N)
+  - Person 2 pushes with 5 N to the right (+5 N)
+
+  Resultant force = (-5) + (+5) = 0 N
+
+The forces are balanced; the box doesn't move.
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 1: Calculating Resultant Force
+--------------------------------------------------------------------------------
+
+PROBLEM:
+Three forces act on an object along a straight line:
+  - 14 N to the left
+  - 4 N to the right
+  - 8 N to the right
+
+Calculate the magnitude and direction of the resultant force.
+
+SOLUTION:
+
+Step 1: Assign a direction to the forces
+    Forces acting to the right are positive (+)
+    Forces acting to the left are negative (-)
+
+Step 2: Convert forces with their signs
+    14 N to the left = -14 N
+    4 N to the right = +4 N
+    8 N to the right = +8 N
+
+Step 3: Add together all the forces
+    Resultant force = (-14) + (+4) + (+8)
+    Resultant force = -14 + 12
+    Resultant force = -2 N
+
+Step 4: State the magnitude and direction
+    The resultant force is 2 N to the left.
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Resultant Forces
+--------------------------------------------------------------------------------
+
+Q1. Define what is meant by a "force".
+
+Q2. List three effects that a force can have on an object.
+
+Q3. Explain the difference between balanced and unbalanced forces.
+
+Q4. A box has the following forces acting on it:
+    - 20 N to the right
+    - 8 N to the left
+    - 5 N to the left
+    Calculate the resultant force on the box.
+
+Q5. A book rests on a table. Explain why the book does not move.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 4.2: NEWTON'S FIRST LAW
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * State Newton's first law of motion.
+  * Describe the effect of balanced forces on an object.
+  * Explain why a resultant force is required to change an object's velocity.
+
+--------------------------------------------------------------------------------
+4.2.1  NEWTON'S FIRST LAW OF MOTION
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Why does a football keep rolling after you kick it? Why does a car need to
+use fuel to keep moving? Isaac Newton answered these questions over 300 years
+ago with his laws of motion.
+
+> DEFINITION
+> Newton's first law of motion states:
+> Objects will remain at rest, or move with a constant velocity, unless acted
+> on by a resultant force.
+
+This means:
+  - A stationary object will remain stationary
+  - An object moving with constant velocity will continue at that velocity
+  - UNLESS a resultant force acts on it
+
+IMPORTANT POINTS:
+
+1. Constant velocity means:
+   - No change in speed
+   - No change in direction
+
+2. If an object is at rest OR moving at constant velocity, then:
+   - No resultant force is acting on it
+   - The forces are balanced
+
+3. To change an object's velocity (speed up, slow down, or change direction):
+   - A resultant force MUST act on the object
+
+
+EXAMPLES OF NEWTON'S FIRST LAW
+-------------------------------
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ EXAMPLE                        │ EXPLANATION                                │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ A mug on a table               │ Remains stationary unless someone picks    │
+│                                │ it up or knocks into the table             │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Space debris in deep space     │ Continues moving in a straight line at     │
+│                                │ constant speed (no air resistance or       │
+│                                │ friction in space)                         │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ A car at constant velocity     │ Travels in a straight line at constant     │
+│                                │ speed until brakes or accelerator applied  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 4.3---
+TYPE: Comparison
+PURPOSE: Show objects at rest and at constant velocity with balanced forces
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two panels side by side
+
+COMPONENTS:
+  [Left Panel - At Rest]
+    Symbol: box_on_surface
+    Position: grid(2,3)
+    Size: medium
+    Label: "AT REST" [top], "v = 0" [below box]
+
+  [Right Panel - Constant Velocity]
+    Symbol: car_moving_right
+    Position: grid(8,3)
+    Size: medium
+    Label: "CONSTANT VELOCITY" [top], "v = constant" [below car]
+
+  [Force Arrows Left]
+    Symbol: opposing_arrows
+    Position: on box
+    Label: "Balanced forces"
+
+  [Force Arrows Right]
+    Symbol: opposing_arrows
+    Position: on car
+    Label: "Balanced forces"
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Note]: "Resultant force = 0 in both cases" [bottom center]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 2: Moon's Orbit
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A student did some research and found that the Moon orbits the Earth at a
+constant speed of around 2000 mph.
+
+The student says that this is NOT an example of Newton's first law of motion.
+Is the student correct? Explain your answer.
+
+SOLUTION:
+
+Step 1: Recall Newton's first law of motion
+    Newton's first law states that objects will remain at rest, or move with
+    a constant VELOCITY, unless acted on by a resultant force.
+
+Step 2: Determine if the Moon is moving with constant velocity
+    The Moon is moving at a constant SPEED.
+    However, the Moon is continually changing DIRECTION as it orbits the Earth.
+    Therefore, its VELOCITY is not constant (velocity = speed + direction).
+
+Step 3: State and explain the conclusion
+    The student is CORRECT.
+    The Moon moves with constant speed but always changes direction.
+    Since velocity includes direction, the Moon's velocity is always changing.
+    This means a resultant force IS acting on the Moon (gravitational pull).
+    Therefore, this is NOT an example of Newton's first law.
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 3: Car at Constant Velocity
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A car moves at a constant velocity. The driving force from the engine is 3 kN.
+Determine the frictional force acting on the car.
+
+SOLUTION:
+
+Step 1: Recall Newton's first law of motion
+    Newton's first law states that objects moving at constant velocity have
+    no resultant force acting on them.
+
+Step 2: Relate Newton's first law to the scenario
+    Since the car is moving at constant velocity:
+    - There is no resultant force
+    - The forces are balanced
+    - Driving force = Frictional force
+
+Step 3: State the value of the frictional force
+    Frictional force = Driving force = 3 kN
+
+
+--------------------------------------------------------------------------------
+COMMON MISCONCEPTIONS
+--------------------------------------------------------------------------------
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ MISCONCEPTION                  │ CORRECTION                                 │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ "An object needs a force to    │ An object moving in a straight line at    │
+│ keep moving"                   │ constant speed will continue forever      │
+│                                │ without any force (if there is no         │
+│                                │ friction). Force is only needed to        │
+│                                │ CHANGE its motion.                        │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ "If an object is moving,       │ An object moving at constant velocity     │
+│ there must be a force on it"   │ has NO resultant force. The forces are    │
+│                                │ balanced.                                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMINER TIP:
+On Earth, there are always frictional forces acting on moving objects. A car
+only maintains constant velocity when the engine force BALANCES the friction.
+If the engine force increases, the car speeds up. If friction increases (or
+engine force decreases), the car slows down.
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Newton's First Law
+--------------------------------------------------------------------------------
+
+Q6. State Newton's first law of motion.
+
+Q7. A rock drifts through the vacuum of deep space. Predict its motion if
+    no forces act on it.
+
+Q8. A train moves at constant velocity of 30 m/s. State the resultant force
+    acting on the train.
+
+Q9. A car is traveling at constant speed but goes around a bend. Explain why
+    a resultant force must be acting on the car.
+
+Q10. A parachutist falls at constant velocity. Explain why the air resistance
+     must equal her weight.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 4.3: NEWTON'S SECOND LAW (Extended)
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW (Extended Tier Only)
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * State Newton's second law of motion.
+  * Recall and use the equation: F = ma
+  * Describe the relationship between force, mass and acceleration.
+
+--------------------------------------------------------------------------------
+4.3.1  NEWTON'S SECOND LAW OF MOTION
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Newton's first law tells us what happens when forces are balanced. Newton's
+second law tells us what happens when forces are UNBALANCED - when there is
+a resultant force.
+
+> DEFINITION
+> Newton's second law of motion states:
+> The acceleration of an object is proportional to the resultant force acting
+> on it and inversely proportional to the object's mass.
+
+This means:
+  - A resultant force causes an ACCELERATION (change in velocity)
+  - The bigger the force, the larger the acceleration
+  - The bigger the mass, the smaller the acceleration
+
+CHANGE IN MOTION:
+A resultant force acting on an object will cause a change in motion:
+  - Speeding up
+  - Slowing down
+  - Changing direction
+
+The acceleration occurs in the SAME DIRECTION as the resultant force.
+
+
+--------------------------------------------------------------------------------
+4.3.2  THE EQUATION F = ma
+--------------------------------------------------------------------------------
+
+Newton's second law can be expressed as an equation:
+
+                F = m × a
+
+Where:
+    F = resultant force, measured in newtons (N)
+    m = mass of the object, measured in kilograms (kg)
+    a = acceleration of the object, measured in metres per second squared (m/s²)
+
+
+FORMULA TRIANGLE:
+
+                     ┌───────┐
+                     │   F   │
+                     ├───┬───┤
+                     │ m │ a │
+                     └───┴───┘
+
+To find any quantity, cover it and see how the others combine:
+  - F = m × a (multiply)
+  - m = F ÷ a (divide)
+  - a = F ÷ m (divide)
+
+
+UNDERSTANDING THE RELATIONSHIPS:
+
+1. Force and Acceleration (at constant mass):
+   - Doubling the force → doubles the acceleration
+   - Halving the force → halves the acceleration
+   - They are DIRECTLY PROPORTIONAL
+
+2. Mass and Acceleration (at constant force):
+   - Doubling the mass → halves the acceleration
+   - Halving the mass → doubles the acceleration
+   - They are INVERSELY PROPORTIONAL
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 4.4---
+TYPE: Equation
+PURPOSE: Help students remember and rearrange the equation F = ma
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 1:1 square
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Centered equilateral triangle with internal dividers
+
+COMPONENTS:
+  [Triangle Outline]
+    Symbol: triangle
+    Position: grid(2,2) to grid(8,8)
+    Size: large
+    Style: solid thick (3px)
+    Fill: none
+
+  [Horizontal Divider]
+    Symbol: line
+    Position: grid(2,5) to grid(8,5)
+    Size: full width
+    Style: solid medium (2px)
+
+  [Vertical Divider]
+    Symbol: line
+    Position: grid(5,5) to grid(5,8)
+    Size: half height
+    Style: solid medium (2px)
+
+  [Variable F]
+    Symbol: text_placeholder
+    Position: grid(5,3.5)
+    Label: "F" [center]
+
+  [Variable m]
+    Symbol: text_placeholder
+    Position: grid(3.5,6.5)
+    Label: "m" [center]
+
+  [Variable a]
+    Symbol: text_placeholder
+    Position: grid(6.5,6.5)
+    Label: "a" [center]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  None
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 4: Force Required for Acceleration
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A car has a mass of 900 kg and can accelerate from 0 to 27 m/s in 3 seconds.
+Calculate:
+a) the acceleration of the car in the first 3 seconds
+b) the force required to produce this acceleration
+
+SOLUTION:
+
+Part (a): Calculate acceleration
+
+Step 1: List the known quantities
+    Initial velocity, u = 0 m/s
+    Final velocity, v = 27 m/s
+    Time, t = 3 s
+
+Step 2: State the equation for acceleration
+              v - u
+    a = ─────────────
+               t
+
+Step 3: Substitute the values
+              27 - 0
+    a = ─────────────
+               3
+
+Step 4: Calculate
+    a = 9 m/s²
+
+
+Part (b): Calculate force
+
+Step 1: List the known quantities
+    Mass of the car, m = 900 kg
+    Acceleration, a = 9 m/s²
+
+Step 2: Identify the equation to use
+    F = ma
+
+Step 3: Calculate the force
+    F = 900 × 9
+    F = 8100 N
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 5: Comparing Accelerations
+--------------------------------------------------------------------------------
+
+PROBLEM:
+Three shopping trolleys A, B and C are being pushed using the same force.
+Trolley A has mass 10 kg, B has mass 15 kg, and C has mass 20 kg.
+
+State which trolley would have the smallest acceleration. Explain your answer.
+
+SOLUTION:
+
+Step 1: Identify which law of motion to apply
+    The question involves force, mass and acceleration.
+    Newton's second law applies: F = ma
+
+Step 2: Rearrange the equation to make acceleration the subject
+           F
+    a = ─────
+           m
+
+Step 3: Explain the inverse proportionality
+    Acceleration is INVERSELY PROPORTIONAL to mass.
+    This means: for the same force, a larger mass will experience a
+    smaller acceleration.
+
+Step 4: State the answer
+    Trolley C will have the smallest acceleration because it has the
+    largest mass (20 kg).
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Newton's Second Law
+--------------------------------------------------------------------------------
+
+Q11. State Newton's second law of motion.
+
+Q12. State the SI unit of:
+     a) force
+     b) mass
+     c) acceleration
+
+Q13. An object of mass 5 kg is accelerated at 4 m/s². Calculate the resultant
+     force acting on the object.
+
+Q14. A force of 600 N acts on a car of mass 1200 kg. Calculate the acceleration.
+
+Q15. A car accelerates at 2.5 m/s² when a resultant force of 2000 N acts on it.
+     Calculate the mass of the car.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 4.4: INVESTIGATING FORCE & EXTENSION
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Describe an experiment to investigate the relationship between force
+    and extension of a spring.
+  * Plot and interpret a force-extension graph.
+  * Identify sources of error and safety precautions.
+
+--------------------------------------------------------------------------------
+4.4.1  AIM AND VARIABLES
+--------------------------------------------------------------------------------
+
+AIM:
+To investigate the relationship between force and extension for a spring.
+
+VARIABLES:
+┌─────────────────────────┬─────────────────────────────────────────────────────┐
+│ Variable Type           │ Variable                                            │
+├─────────────────────────┼─────────────────────────────────────────────────────┤
+│ Independent variable    │ Force (F) applied to the spring                     │
+├─────────────────────────┼─────────────────────────────────────────────────────┤
+│ Dependent variable      │ Extension (x) of the spring                         │
+├─────────────────────────┼─────────────────────────────────────────────────────┤
+│ Control variables       │ Same spring (same spring constant k)                │
+└─────────────────────────┴─────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+4.4.2  EQUIPMENT
+--------------------------------------------------------------------------------
+
+EQUIPMENT LIST:
+┌─────────────────────────────┬───────────────────────────────────────────────┐
+│ Apparatus                   │ Purpose                                       │
+├─────────────────────────────┼───────────────────────────────────────────────┤
+│ Clamp stand, boss and clamp │ To support the spring vertically              │
+├─────────────────────────────┼───────────────────────────────────────────────┤
+│ Ruler (to 30 cm)            │ To measure the extension of the spring        │
+├─────────────────────────────┼───────────────────────────────────────────────┤
+│ Spring                      │ The object being tested                       │
+├─────────────────────────────┼───────────────────────────────────────────────┤
+│ 6 × 100 g masses            │ To apply a known force to the spring          │
+├─────────────────────────────┼───────────────────────────────────────────────┤
+│ 100 g mass hanger           │ To hold the additional masses                 │
+├─────────────────────────────┼───────────────────────────────────────────────┤
+│ Pointer                     │ To accurately read the ruler position         │
+└─────────────────────────────┴───────────────────────────────────────────────┘
+
+RESOLUTION OF MEASURING EQUIPMENT:
+  - Ruler = 1 mm (0.1 cm)
+
+
+--------------------------------------------------------------------------------
+4.4.3  METHOD
+--------------------------------------------------------------------------------
+
+STEP-BY-STEP PROCEDURE:
+
+1. Set up the apparatus with the spring hanging from the clamp stand.
+   Fix the ruler to the clamp stand to reduce movement.
+
+2. Attach a pointer to the bottom of the spring to help read the ruler.
+
+3. Record the initial length of the spring (with no mass added) by reading
+   the position of the pointer on the ruler.
+
+4. Add the 100 g mass hanger to the spring.
+
+5. Record the mass (in kg) and the new position on the ruler.
+
+6. Add another 100 g mass to the hanger.
+
+7. Record the new mass and position on the ruler.
+
+8. Repeat this process, adding 100 g each time, until all masses have
+   been added.
+
+9. Remove the masses one at a time and repeat the entire process two more
+   times to get three sets of readings.
+
+10. Calculate the average length for each mass.
+
+11. Calculate the extension for each mass:
+    Extension = Final length − Original length
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 4.5---
+TYPE: Apparatus
+PURPOSE: Show the setup for investigating force and extension of a spring
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 3:4 portrait
+GRID: 10 × 12
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Central apparatus diagram
+
+COMPONENTS:
+  [Clamp Stand Base]
+    Symbol: horizontal_rectangle
+    Position: grid(3,11) to grid(7,11.5)
+    Style: solid thick
+    Label: "Base" [below]
+
+  [Clamp Stand Rod]
+    Symbol: vertical_line
+    Position: grid(5,11) to grid(5,2)
+    Style: solid thick (3px)
+
+  [Boss and Clamp]
+    Symbol: clamp
+    Position: grid(5,3)
+    Style: solid medium
+    Label: "Clamp" [left]
+
+  [Spring]
+    Symbol: coiled_spring
+    Position: grid(6,3) to grid(6,6)
+    Style: zigzag line
+    Label: "Spring" [right]
+
+  [Pointer]
+    Symbol: triangle
+    Position: grid(6,6)
+    Style: small
+    Label: "Pointer" [right]
+
+  [Mass Hanger]
+    Symbol: rectangle
+    Position: grid(5.5,6) to grid(6.5,7)
+    Style: solid medium
+    Label: "100g" [inside]
+
+  [Additional Masses]
+    Symbol: stacked_rectangles
+    Position: grid(5.5,7) to grid(6.5,9)
+    Style: solid medium
+    Label: "Masses" [right]
+
+  [Ruler]
+    Symbol: vertical_ruler
+    Position: grid(7,3) to grid(7,10)
+    Style: with graduation marks
+    Label: "Ruler" [right]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Note]: "Fix ruler to stand" [near ruler]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+4.4.4  RESULTS AND ANALYSIS
+--------------------------------------------------------------------------------
+
+EXAMPLE RESULTS TABLE:
+┌─────────┬─────────┬─────────┬─────────┬─────────┬───────────┬───────────┐
+│ Mass    │ Force   │ Length  │ Length  │ Length  │ Average   │ Extension │
+│ (kg)    │ (N)     │ 1 (cm)  │ 2 (cm)  │ 3 (cm)  │ Length    │ (cm)      │
+│         │         │         │         │         │ (cm)      │           │
+├─────────┼─────────┼─────────┼─────────┼─────────┼───────────┼───────────┤
+│ 0       │ 0       │ 10.0    │ 10.0    │ 10.0    │ 10.0      │ 0         │
+├─────────┼─────────┼─────────┼─────────┼─────────┼───────────┼───────────┤
+│ 0.1     │ 0.98    │ 12.0    │ 12.1    │ 12.0    │ 12.0      │ 2.0       │
+├─────────┼─────────┼─────────┼─────────┼─────────┼───────────┼───────────┤
+│ 0.2     │ 1.96    │ 14.0    │ 14.1    │ 14.1    │ 14.1      │ 4.1       │
+├─────────┼─────────┼─────────┼─────────┼─────────┼───────────┼───────────┤
+│ ...     │ ...     │ ...     │ ...     │ ...     │ ...       │ ...       │
+└─────────┴─────────┴─────────┴─────────┴─────────┴───────────┴───────────┘
+
+CALCULATING FORCE:
+The force applied to the spring is the weight of the mass:
+
+    W = m × g
+
+Where:
+    W = weight (force), measured in newtons (N)
+    m = mass, measured in kilograms (kg)
+    g = gravitational field strength = 9.8 N/kg
+
+Example: For m = 0.1 kg:
+    W = 0.1 × 9.8 = 0.98 N
+
+
+CALCULATING EXTENSION:
+
+    Extension = Final length − Original length
+
+The original length is the length with no mass added.
+
+
+PLOTTING THE GRAPH:
+
+1. Plot force (F) on the y-axis and extension (x) on the x-axis
+   (This gives a force-extension graph)
+
+2. Draw a line of best fit through the points
+
+3. If the graph is a straight line through the origin:
+   - Force is DIRECTLY PROPORTIONAL to extension
+   - This relationship is known as Hooke's Law
+
+
+--------------------------------------------------------------------------------
+4.4.5  ERRORS AND SAFETY
+--------------------------------------------------------------------------------
+
+SYSTEMATIC ERRORS:
+  - Ensure measurements on the ruler are taken at EYE LEVEL to avoid
+    parallax error
+  - Check that the ruler is vertical and fixed in position
+
+RANDOM ERRORS:
+  - Use a pointer at the bottom of the spring to improve precision
+  - Wait a few seconds for the mass to become stationary before reading
+  - Take repeat readings and calculate an average
+  - Check the spring has not passed its limit of proportionality
+
+SAFETY CONSIDERATIONS:
+  - Wear goggles in case the spring snaps
+  - Stand up during the experiment with no feet under the masses
+  - Place a mat or soft material below the masses to prevent damage if dropped
+  - Use a G-clamp to secure the clamp stand to the desk
+  - Add masses carefully; do not pull the spring too hard
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Force & Extension
+--------------------------------------------------------------------------------
+
+Q16. State the independent variable in a force-extension investigation.
+
+Q17. Why should you take repeat readings and calculate an average?
+
+Q18. A spring has an original length of 15 cm. When a mass is added, its
+     length becomes 23 cm. Calculate the extension.
+
+Q19. Explain why parallax error should be avoided and how to prevent it.
+
+Q20. State two safety precautions for this experiment.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 4.5: HOOKE'S LAW (Extended)
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW (Extended Tier Only)
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * State Hooke's law.
+  * Recall and use the equation: F = kx
+  * Define the spring constant and calculate it from data.
+  * Identify the limit of proportionality on a graph.
+
+--------------------------------------------------------------------------------
+4.5.1  HOOKE'S LAW
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> Hooke's Law states:
+> The extension of an elastic object is directly proportional to the force
+> applied, up to the limit of proportionality.
+
+What does "directly proportional" mean?
+  - If the force is doubled, the extension doubles
+  - If the force is halved, the extension halves
+  - The ratio F/x stays constant
+
+The relationship can be written as an equation:
+
+                F = k × x
+
+Where:
+    F = force applied, measured in newtons (N)
+    k = spring constant, measured in newtons per metre (N/m)
+    x = extension of spring, measured in metres (m)
+
+
+--------------------------------------------------------------------------------
+4.5.2  SPRING CONSTANT
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> The spring constant is the force per unit extension.
+
+The spring constant (k) tells us how stiff a spring is:
+  - STIFF springs have a HIGH spring constant (hard to stretch)
+  - STRETCHY springs have a LOW spring constant (easy to stretch)
+
+Units: newtons per metre (N/m)
+
+To calculate the spring constant:
+
+              F
+    k = ─────────
+              x
+
+NOTE: The spring constant can apply to any elastic object that obeys Hooke's
+law, not just springs.
+
+
+--------------------------------------------------------------------------------
+4.5.3  THE LIMIT OF PROPORTIONALITY
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> The limit of proportionality is the point beyond which force and extension
+> are no longer directly proportional.
+
+Before the limit:
+  - Force and extension are directly proportional
+  - The graph is a straight line through the origin
+  - Hooke's Law applies
+
+After the limit:
+  - Force and extension are NOT proportional
+  - The graph curves
+  - Hooke's Law no longer applies
+  - The spring may be permanently deformed
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 4.6---
+TYPE: Graph
+PURPOSE: Show a force-extension graph with linear region and limit of proportionality
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Standard 2D cartesian graph with labeled regions
+
+COMPONENTS:
+  [Axes]
+    Symbol: axes
+    Position: grid(1,1) to grid(9,9)
+    Label: "Extension / m" [x-axis], "Force / N" [y-axis]
+
+  [Origin]
+    Symbol: point
+    Position: grid(1,1)
+    Label: "0" [below left]
+
+CONNECTIONS:
+  [Linear Region]: grid(1,1) → grid(5,7), solid line
+  [Curved Region]: grid(5,7) → grid(8,8), curved line (flattening)
+
+ANNOTATIONS:
+  [Linear Label]: "Linear region (Hooke's Law applies)" in linear section
+  [Limit Point]: "Limit of proportionality (L)" at grid(5,7), with dot
+  [Curved Label]: "Force and extension no longer proportional" in curved section
+  [Gradient Note]: "Gradient = k (spring constant)" near linear region
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+4.5.4  FEATURES OF THE FORCE-EXTENSION GRAPH
+--------------------------------------------------------------------------------
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ FEATURE                        │ MEANING                                    │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Linear (straight) portion      │ • Hooke's law applies                      │
+│                                │ • F and x are directly proportional        │
+│                                │ • Gradient = spring constant (k)           │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Limit of proportionality       │ • The point where the graph starts to      │
+│                                │   curve                                    │
+│                                │ • Beyond this point, F ∝ x no longer       │
+│                                │   applies                                  │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Curved portion                 │ • Hooke's law does NOT apply               │
+│                                │ • The material may not return to original  │
+│                                │   length                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 6: Calculating Weight Using Hooke's Law
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A child balances on a pogo stick. The spring constant of the spring is 
+4900 N/m. The child's weight causes the spring to compress from 40 cm to 33 cm.
+Calculate the weight of the child.
+
+SOLUTION:
+
+Step 1: List the known quantities
+    Spring constant, k = 4900 N/m
+    Original length = 40 cm
+    Final length = 33 cm
+
+Step 2: Write the relevant equation
+    F = kx
+
+Step 3: Calculate the compression (extension), x
+    x = final length − original length
+    x = 33 − 40 = −7 cm
+
+    (A negative value indicates compression rather than extension)
+
+Step 4: Convert to SI units (cm to m)
+    x = 7 ÷ 100 = 0.07 m
+
+Step 5: Substitute into the equation
+    F = k × x
+    F = 4900 × 0.07
+    F = 343 N
+
+Step 6: State the answer
+    The child's weight is 343 N.
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 7: Calculating Spring Constant
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A spring extends by 8 cm when a force of 12 N is applied.
+Calculate the spring constant.
+
+SOLUTION:
+
+Step 1: List the known quantities
+    Force, F = 12 N
+    Extension, x = 8 cm = 0.08 m
+
+Step 2: Write the equation for spring constant
+              F
+    k = ─────────
+              x
+
+Step 3: Substitute the values
+              12
+    k = ─────────
+             0.08
+
+Step 4: Calculate
+    k = 150 N/m
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Hooke's Law
+--------------------------------------------------------------------------------
+
+Q21. State Hooke's law.
+
+Q22. State the meaning of "limit of proportionality".
+
+Q23. A spring extends by 0.15 m when a force of 30 N is applied.
+     Calculate the spring constant.
+
+Q24. A spring has a spring constant of 500 N/m. Calculate the extension when
+     a force of 75 N is applied.
+
+Q25. A spring stretches from 12 cm to 20 cm when a force is applied. If the
+     spring constant is 120 N/m, calculate the force applied.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 4.6: CIRCULAR MOTION (Extended)
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW (Extended Tier Only)
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Explain why velocity changes in circular motion even at constant speed.
+  * State that a force is required to produce circular motion.
+  * Describe how mass, speed and radius affect the force needed.
+
+--------------------------------------------------------------------------------
+4.6.1  VELOCITY IN CIRCULAR MOTION
+--------------------------------------------------------------------------------
+
+RECALL:
+  - Velocity is a VECTOR quantity
+  - Velocity = speed + direction
+  - If either speed OR direction changes, velocity changes
+
+When an object travels in a circle:
+  - It may move at constant SPEED
+  - But its DIRECTION is always changing
+  - Therefore, its VELOCITY is always changing
+
+> KEY POINT:
+> An object moving in a circle at constant speed is ACCELERATING because its
+> velocity (direction) is constantly changing.
+
+
+EXAMPLE: The International Space Station
+
+The ISS orbits Earth at a constant speed of about 7660 m/s.
+However, it is always changing direction as it orbits.
+Therefore, its velocity is always changing.
+This means the ISS is continuously accelerating.
+
+
+--------------------------------------------------------------------------------
+4.6.2  FORCE AND CIRCULAR MOTION
+--------------------------------------------------------------------------------
+
+Newton's first law tells us:
+  - An object continues in a straight line at constant speed unless a
+    resultant force acts on it
+
+For an object to travel in a circle:
+  - A force must act to change its direction
+  - This force acts at 90° (perpendicular) to the direction of motion
+  - The force is directed toward the CENTER of the circle
+
+This inward force is called the CENTRIPETAL FORCE.
+
+
+EXAMPLES OF CENTRIPETAL FORCE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ SITUATION                      │ SOURCE OF CENTRIPETAL FORCE                │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Moon orbiting Earth            │ Gravitational force from Earth             │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Car going around a bend        │ Friction between tires and road            │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Ball on a string (whirled      │ Tension in the string                      │
+│ in a circle)                   │                                            │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Electron orbiting nucleus      │ Electrostatic attraction                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 4.7---
+TYPE: Circular Motion
+PURPOSE: Show velocity vector changing direction while force points to center
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 1:1 square
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Central circular path with velocity and force vectors
+
+COMPONENTS:
+  [Circle Path]
+    Symbol: dashed_circle
+    Position: center at grid(5,5), radius 3
+    Style: dashed gray
+
+  [Center Point]
+    Symbol: filled_circle
+    Position: grid(5,5)
+    Label: "Center" [below]
+
+  [Object Position 1]
+    Symbol: small_filled_circle
+    Position: grid(8,5)
+    Color: blue
+
+  [Velocity Arrow 1]
+    Symbol: arrow
+    Position: from grid(8,5) pointing UP (tangent)
+    Style: solid thick, green
+    Label: "v" [right]
+
+  [Force Arrow 1]
+    Symbol: arrow
+    Position: from grid(8,5) pointing LEFT (toward center)
+    Style: solid thick, red
+    Label: "F" [below]
+
+  [Object Position 2]
+    Symbol: small_filled_circle
+    Position: grid(5,2)
+    Color: blue
+
+  [Velocity Arrow 2]
+    Symbol: arrow
+    Position: from grid(5,2) pointing LEFT (tangent)
+    Style: solid thick, green
+    Label: "v" [above]
+
+  [Force Arrow 2]
+    Symbol: arrow
+    Position: from grid(5,2) pointing DOWN (toward center)
+    Style: solid thick, red
+    Label: "F" [right]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Note 1]: "Force always points toward center"
+  [Note 2]: "Velocity is tangent to circle"
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+4.6.3  FACTORS AFFECTING CENTRIPETAL FORCE
+--------------------------------------------------------------------------------
+
+The force needed to keep an object moving in a circle depends on:
+
+1. THE MASS OF THE OBJECT
+   - Greater mass requires greater force
+   - (at constant speed and radius)
+
+2. THE SPEED OF THE OBJECT
+   - Faster speed requires greater force
+   - (at constant mass and radius)
+
+3. THE RADIUS OF THE CIRCLE
+   - Smaller radius requires greater force
+   - (at constant mass and speed)
+
+┌─────────────────────────┬──────────────────────────────────────────────────┐
+│ If you...               │ The required force will...                       │
+├─────────────────────────┼──────────────────────────────────────────────────┤
+│ Increase mass           │ INCREASE                                         │
+├─────────────────────────┼──────────────────────────────────────────────────┤
+│ Increase speed          │ INCREASE                                         │
+├─────────────────────────┼──────────────────────────────────────────────────┤
+│ Increase radius         │ DECREASE                                         │
+└─────────────────────────┴──────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Circular Motion
+--------------------------------------------------------------------------------
+
+Q26. Explain why an object traveling in a circle at constant speed is
+     accelerating.
+
+Q27. In which direction does the force act for an object in circular motion?
+
+Q28. A satellite orbits a planet. What provides the centripetal force?
+
+Q29. A ball on a string is whirled faster. What happens to the tension in
+     the string?
+
+Q30. A car goes around a tighter (smaller radius) bend. What must happen to
+     the friction between the tires and road?
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 4.7: FRICTION
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Define friction and describe its effects.
+  * Describe friction in solids and fluids.
+  * Describe methods to reduce friction.
+
+--------------------------------------------------------------------------------
+4.7.1  FRICTION IN SOLIDS
+--------------------------------------------------------------------------------
+
+> DEFINITION
+> Friction is a force that works in opposition to the motion of an object.
+
+Key points about friction:
+  - Frictional forces SLOW DOWN the motion of objects
+  - When friction occurs, energy is transferred by HEATING
+  - Friction causes an increase in TEMPERATURE
+  - The work done against frictional forces causes the temperature rise
+
+
+CAUSE OF SOLID FRICTION:
+  - Friction is caused by imperfections (bumps) in the surfaces of objects
+    moving over one another
+  - Even smooth surfaces have microscopic imperfections
+  - These imperfections catch and resist motion
+
+
+EFFECTS OF SOLID FRICTION:
+  - Decreases the speed of the moving object
+  - Increases the temperature of the objects due to heating
+
+
+REDUCING SOLID FRICTION:
+  - Lubricating the surfaces (oil, grease)
+  - Smoothing the surfaces (polishing)
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 4.8---
+TYPE: Process
+PURPOSE: Show friction between surfaces causing opposing force and heating
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Horizontal view of object sliding on surface
+
+COMPONENTS:
+  [Ground Surface]
+    Symbol: horizontal_line_rough
+    Position: grid(1,6) to grid(11,6)
+    Style: thick with small irregular bumps
+    Label: "Rough surface" [below]
+
+  [Sliding Object]
+    Symbol: rectangle
+    Position: grid(5,4) to grid(7,6)
+    Style: solid medium
+    Fill: light blue
+    Label: "Object" [inside]
+
+  [Motion Arrow]
+    Symbol: arrow
+    Position: from grid(7,5) pointing RIGHT
+    Style: solid thick, green
+    Label: "Direction of motion" [above]
+
+  [Friction Arrow]
+    Symbol: arrow
+    Position: from grid(5,5) pointing LEFT
+    Style: solid thick, red
+    Label: "Friction force" [above]
+
+  [Heat Waves]
+    Symbol: wavy_lines
+    Position: at interface grid(5,6) to grid(7,6)
+    Style: orange/red waves
+    Label: "Heat produced" [below]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Note]: "Energy transferred by heating"
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+4.7.2  FRICTION IN FLUIDS
+--------------------------------------------------------------------------------
+
+DEFINITION OF FLUIDS:
+  - Gases and liquids are known as FLUIDS
+  - Fluids are different from solids because particles in fluids are free
+    to move around
+
+DRAG FORCE:
+  - Friction acts on objects moving through fluids
+  - Particles in the fluid collide with the object as it moves
+  - This type of friction is called DRAG
+
+AIR RESISTANCE:
+  - Air resistance is a specific type of drag
+  - It slows the motion of an object moving through air
+  - Air particles bump into the object as it moves through the air
+
+EFFECTS OF AIR RESISTANCE:
+  - Reduces the speed of the object
+  - Increases the temperature of the object and air due to heating
+
+EXAMPLE: Space craft re-entry
+When a spacecraft returns through the atmosphere:
+  - Air resistance does work on the spacecraft
+  - Energy is transferred to heat
+  - The spacecraft's surface heats up dramatically
+  - Heat shields are needed to protect the spacecraft
+
+
+REDUCING FLUID FRICTION:
+  - STREAMLINING the shape of the object
+  - A streamlined shape allows the fluid to flow smoothly around it
+  - This reduces the number of particle collisions
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 4.9---
+TYPE: Comparison
+PURPOSE: Compare streamlined vs non-streamlined shapes moving through fluid
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two panels side by side
+
+COMPONENTS:
+  [Left Panel - Non-streamlined]
+    Symbol: rectangle
+    Position: grid(3,4)
+    Size: medium
+    Label: "Box shape" [below]
+
+  [Left Flow Lines]
+    Symbol: curved_arrows
+    Position: around left object
+    Style: turbulent, many curves
+    Label: "High drag" [below panel]
+
+  [Right Panel - Streamlined]
+    Symbol: teardrop_shape
+    Position: grid(9,4)
+    Size: medium
+    Label: "Streamlined" [below]
+
+  [Right Flow Lines]
+    Symbol: smooth_arrows
+    Position: around right object
+    Style: smooth, parallel curves
+    Label: "Low drag" [below panel]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Left Arrow]: Large RED arrow pointing left (high friction)
+  [Right Arrow]: Small RED arrow pointing left (low friction)
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+SUMMARY: FRICTION
+--------------------------------------------------------------------------------
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TYPE                           │ HOW TO REDUCE                              │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Friction between solid         │ • Lubricate the surfaces                   │
+│ surfaces                       │ • Smooth/polish the surfaces               │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Friction in fluids (drag)      │ • Streamline the shape                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Friction
+--------------------------------------------------------------------------------
+
+Q31. Define friction.
+
+Q32. What causes friction between solid surfaces?
+
+Q33. What happens to energy when work is done against friction?
+
+Q34. State two methods to reduce friction between solid surfaces.
+
+Q35. Explain why a streamlined shape experiences less drag than a box shape.
+
+(Answers at end of module)
+
+
+================================================================================
+                    MODULE SUMMARY
+================================================================================
+
+--------------------------------------------------------------------------------
+KEY FORMULAS
+--------------------------------------------------------------------------------
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ EQUATION                       │ MEANING                                    │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ F = m × a                      │ Force = mass × acceleration                │
+│                                │ (Newton's second law)                      │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ F = k × x                      │ Force = spring constant × extension        │
+│                                │ (Hooke's Law)                              │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ W = m × g                      │ Weight = mass × gravitational field        │
+│                                │ strength (for calculating force from mass) │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+KEY CONCEPTS
+--------------------------------------------------------------------------------
+
+• A force is a push or pull that can change an object's speed, direction,
+  shape, or size.
+
+• The resultant force is the single force that represents all forces acting
+  on an object combined.
+
+• Balanced forces produce no resultant force; the object stays at rest or
+  at constant velocity.
+
+• Newton's first law: Objects remain at rest or at constant velocity unless
+  a resultant force acts.
+
+• Newton's second law: Acceleration is proportional to force and inversely
+  proportional to mass (F = ma).
+
+• Hooke's law: Extension is directly proportional to force up to the limit
+  of proportionality (F = kx).
+
+• In circular motion, velocity constantly changes (direction), so a force
+  toward the center is required.
+
+• Friction opposes motion, causes heating, and can be reduced by lubrication
+  or streamlining.
+
+
+--------------------------------------------------------------------------------
+SELF-ASSESSMENT CHECKLIST
+--------------------------------------------------------------------------------
+
+I can...
+
+Section 4.1 - Resultant Forces
+[ ] Define force and list its effects on objects
+[ ] Distinguish between balanced and unbalanced forces
+[ ] Calculate the resultant force along a straight line
+
+Section 4.2 - Newton's First Law
+[ ] State Newton's first law of motion
+[ ] Explain why constant velocity means zero resultant force
+[ ] Apply Newton's first law to real-world scenarios
+
+Section 4.3 - Newton's Second Law (Extended)
+[ ] State Newton's second law of motion
+[ ] Use F = ma to calculate force, mass, or acceleration
+[ ] Explain the relationship between F, m, and a
+
+Section 4.4 - Investigating Force & Extension
+[ ] Describe the method for investigating force and extension
+[ ] Identify and reduce sources of error
+[ ] Apply safety precautions
+
+Section 4.5 - Hooke's Law (Extended)
+[ ] State Hooke's law
+[ ] Use F = kx to solve problems
+[ ] Define spring constant and limit of proportionality
+
+Section 4.6 - Circular Motion (Extended)
+[ ] Explain why circular motion involves changing velocity
+[ ] State that force toward the center is required for circular motion
+[ ] Describe how mass, speed, and radius affect the required force
+
+Section 4.7 - Friction
+[ ] Define friction and describe its effects
+[ ] Distinguish between friction in solids and fluids (drag)
+[ ] Describe methods to reduce friction
+
+
+================================================================================
+                    ANSWERS TO CHECK YOUR UNDERSTANDING
+================================================================================
+
+Section 4.1
+-----------
+A1. A force is a push or a pull that acts on an object due to the interaction
+    with another object.
+
+A2. Any three from: change speed, change direction, change shape, change size.
+
+A3. Balanced forces: equal in magnitude, opposite in direction, no resultant,
+    no change in motion.
+    Unbalanced forces: not equal/opposite, resultant force exists, object
+    accelerates.
+
+A4. Resultant = (+20) + (-8) + (-5) = +7 N to the right.
+
+A5. The weight of the book acts downward. The normal contact force from the
+    table acts upward. These forces are balanced (equal and opposite), so
+    the resultant force is zero, and the book remains at rest.
+
+Section 4.2
+-----------
+A6. Objects will remain at rest, or move with a constant velocity, unless
+    acted on by a resultant force.
+
+A7. The rock will continue moving in a straight line at constant speed
+    forever (or until a force acts on it).
+
+A8. Resultant force = 0 N (moving at constant velocity means balanced forces).
+
+A9. Going around a bend means changing direction. Changing direction means
+    changing velocity. A change in velocity requires a resultant force.
+
+A10. At constant velocity, the resultant force is zero. This means the upward
+     force (air resistance) must equal the downward force (weight).
+
+Section 4.3
+-----------
+A11. The acceleration of an object is proportional to the resultant force
+     acting on it and inversely proportional to the object's mass.
+
+A12. a) newtons (N)  b) kilograms (kg)  c) metres per second squared (m/s²)
+
+A13. F = ma = 5 × 4 = 20 N
+
+A14. a = F/m = 600/1200 = 0.5 m/s²
+
+A15. m = F/a = 2000/2.5 = 800 kg
+
+Section 4.4
+-----------
+A16. Force (F) applied to the spring.
+
+A17. To reduce the effect of random errors and improve the reliability of
+     the results.
+
+A18. Extension = 23 - 15 = 8 cm
+
+A19. Parallax error occurs when readings are taken at an angle. It causes
+     inaccurate readings. Prevent by taking readings at eye level,
+     perpendicular to the scale.
+
+A20. Any two from: wear goggles, stand up, place mat under masses, secure
+     clamp stand with G-clamp, add masses carefully.
+
+Section 4.5
+-----------
+A21. The extension of an elastic object is directly proportional to the force
+     applied, up to the limit of proportionality.
+
+A22. The point beyond which force and extension are no longer directly
+     proportional.
+
+A23. k = F/x = 30/0.15 = 200 N/m
+
+A24. x = F/k = 75/500 = 0.15 m (or 15 cm)
+
+A25. Extension = 20 - 12 = 8 cm = 0.08 m
+     F = kx = 120 × 0.08 = 9.6 N
+
+Section 4.6
+-----------
+A26. Although speed is constant, the direction is always changing. Since
+     velocity = speed + direction, the velocity is changing. A change in
+     velocity is acceleration.
+
+A27. Toward the center of the circle.
+
+A28. The gravitational force between the satellite and the planet.
+
+A29. The tension increases. Greater speed requires greater centripetal force.
+
+A30. The friction must increase. A smaller radius requires greater
+     centripetal force.
+
+Section 4.7
+-----------
+A31. Friction is a force that works in opposition to the motion of an object.
+
+A32. Imperfections (bumps, roughness) in the surfaces of objects moving over
+     one another.
+
+A33. Energy is transferred to heat, causing the temperature to increase.
+
+A34. Any two from: lubricating the surfaces, smoothing/polishing the surfaces.
+
+A35. A streamlined shape allows fluid to flow smoothly around it. There are
+     fewer collisions between the object and fluid particles, so less
+     drag force.
+
+
+================================================================================
+                    END OF MODULE 4
+================================================================================

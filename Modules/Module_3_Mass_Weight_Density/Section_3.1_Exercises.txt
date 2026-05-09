@@ -1,0 +1,163 @@
+================================================================================
+          SECTION 3.1 MASS AND WEIGHT - PRACTICE EXERCISES
+================================================================================
+
+Learning Objectives Covered:
+  * State that mass is a measure of the quantity of matter in an object.
+  * State that weight is a gravitational force on an object that has mass.
+  * Define gravitational field strength; recall and use g = W/m.
+  * Know that weights and masses may be compared using a balance.
+  * (Extended) Describe weight as the effect of a gravitational field on mass.
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE
+================================================================================
+
+1. Mass is measured in:
+   A: Newtons (N)
+   B: Kilograms (kg)
+   C: Metres (m)
+   D: Joules (J)
+
+2. Weight is best described as:
+   A: The amount of matter in an object
+   B: The gravitational force on an object
+   C: The volume of an object
+   D: The density of an object
+
+3. An astronaut has a mass of 80 kg on Earth. What is their mass on
+   the Moon?
+   A: 13.3 kg
+   B: 80 kg
+   C: 128 kg
+   D: 480 kg
+
+4. The gravitational field strength on Earth is approximately:
+   A: 1.6 N/kg
+   B: 3.7 N/kg
+   C: 9.8 N/kg
+   D: 24.8 N/kg
+
+5. An object has a mass of 5 kg. What is its weight on Earth?
+   (Take g = 9.8 N/kg)
+   A: 0.51 N
+   B: 5 N
+   C: 14.8 N
+   D: 49 N
+
+6. Which statement about mass and weight is correct?
+   A: Both are measured in kilograms
+   B: Both change when you move to a different planet
+   C: Mass is a scalar; weight is a vector
+   D: Mass is a force; weight is a quantity of matter
+
+7. Which instrument directly measures weight?
+   A: Digital balance
+   B: Beam balance
+   C: Force meter (newton meter)
+   D: Ruler
+
+8. An object weighs 19.6 N on Earth (g = 9.8 N/kg). What is its mass?
+   A: 0.5 kg
+   B: 2 kg
+   C: 9.8 kg
+   D: 192.1 kg
+
+================================================================================
+                    SECTION B: SHORT ANSWER & STRUCTURED
+================================================================================
+
+9. Define the following terms: [2]
+   (a) Mass.
+   (b) Weight.
+
+10. State two differences between mass and weight. Present your answer
+    in a table. [4]
+
+11. Calculate the weight of the following objects on Earth
+    (g = 9.8 N/kg). [3]
+    (a) A textbook with mass 1.2 kg.
+    (b) A student with mass 55 kg.
+    (c) A car with mass 1200 kg.
+
+12. An astronaut has a mass of 75 kg.
+
+    (a) Calculate the astronaut's weight on Earth (g = 9.8 N/kg). [2]
+
+    (b) Calculate the astronaut's weight on the Moon (g = 1.6 N/kg). [2]
+
+    (c) Calculate the astronaut's weight on Mars (g = 3.7 N/kg). [2]
+
+    (d) Explain why the astronaut's mass stays the same on all three
+        bodies, but the weight changes. [2]
+
+13. A bag of flour has a weight of 44.1 N on Earth.
+
+    (a) Calculate the mass of the bag of flour. (g = 9.8 N/kg) [2]
+
+    (b) State the unit for gravitational field strength. [1]
+
+    (c) Define gravitational field strength. [1]
+
+14. A student measures the mass of an object as 250 g.
+
+    (a) Convert this mass to kilograms. [1]
+
+    (b) Calculate the weight of the object on Earth (g = 9.8 N/kg). [2]
+
+    (c) The object is taken to Jupiter where g = 24.8 N/kg.
+        Calculate its new weight. [2]
+
+    (d) Compare the weight on Jupiter to the weight on Earth.
+        How many times heavier does the object feel? [1]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+1.  B (Kilograms / kg)
+2.  B (The gravitational force on an object)
+3.  B (80 kg) - mass does not change with location
+4.  C (9.8 N/kg)
+5.  D (49 N) - W = mg = 5 × 9.8 = 49 N
+6.  C (Mass is a scalar; weight is a vector)
+7.  C (Force meter / newton meter) - measures force directly in N
+8.  B (2 kg) - m = W/g = 19.6 / 9.8 = 2 kg
+
+9.  (a) Mass is a measure of the quantity of matter in an object at rest
+        relative to the observer [1].
+    (b) Weight is the gravitational force on an object that has mass [1].
+
+10. ┌──────────────┬──────────────────────────────┐
+    │ Mass         │ Weight                       │
+    ├──────────────┼──────────────────────────────┤
+    │ Scalar       │ Vector [1]                   │
+    ├──────────────┼──────────────────────────────┤
+    │ Measured     │ Measured in newtons (N) [1]   │
+    │ in kg [1]    │                              │
+    ├──────────────┼──────────────────────────────┤
+    │ Does not     │ Changes with location [1]    │
+    │ change with  │                              │
+    │ location     │                              │
+    └──────────────┴──────────────────────────────┘
+
+11. (a) W = 1.2 × 9.8 = 11.76 N ≈ 11.8 N [1]
+    (b) W = 55 × 9.8 = 539 N [1]
+    (c) W = 1200 × 9.8 = 11 760 N [1]
+
+12. (a) W = mg = 75 × 9.8 [1] = 735 N [1]
+    (b) W = mg = 75 × 1.6 [1] = 120 N [1]
+    (c) W = mg = 75 × 3.7 [1] = 277.5 N [1]
+    (d) Mass is the amount of matter in the astronaut and does not
+        depend on location [1]. Weight depends on the gravitational
+        field strength, which is different on each body [1].
+
+13. (a) m = W / g = 44.1 / 9.8 [1] = 4.5 kg [1]
+    (b) N/kg (newtons per kilogram) [1]
+    (c) Gravitational field strength is the force per unit mass acting
+        on an object in a gravitational field [1].
+
+14. (a) 250 g ÷ 1000 = 0.25 kg [1]
+    (b) W = mg = 0.25 × 9.8 [1] = 2.45 N [1]
+    (c) W = mg = 0.25 × 24.8 [1] = 6.2 N [1]
+    (d) 6.2 / 2.45 ≈ 2.5 times heavier on Jupiter than on Earth [1].

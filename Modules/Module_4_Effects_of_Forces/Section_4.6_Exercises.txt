@@ -1,0 +1,489 @@
+================================================================================
+       SECTION 4.6 CIRCULAR MOTION - PRACTICE EXERCISES (50 Questions)
+                              [EXTENDED TIER ONLY]
+================================================================================
+
+Learning Objectives Covered:
+  * Understand that a force is required to produce circular motion.
+  * Describe how mass, speed and radius affect the required force.
+  * Explain why velocity changes in circular motion even at constant speed.
+
+Total Questions: 50
+Assessment Objectives: AO1 (25%), AO2 (50%), AO3 (25%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (10)
+================================================================================
+
+1. An object travels in a circle at constant speed. Which statement is correct?
+   A: Its velocity is constant
+   B: Its velocity is changing
+   C: No forces act on it
+   D: It is not accelerating
+
+2. The force that keeps an object moving in a circle is called:
+   A: Centrifugal force
+   B: Gravitational force (only)
+   C: Centripetal force
+   D: Frictional force (only)
+
+3. In which direction does the centripetal force act?
+   A: Away from the center of the circle
+   B: Towards the center of the circle
+   C: In the direction of motion
+   D: Opposite to the direction of motion
+
+4. Ideally, the angle between the velocity vector and the centripetal force is:
+   A: 0°
+   B: 45°
+   C: 90°
+   D: 180°
+
+5. If the speed of an object in circular motion increases (mass and radius constant), 
+   the required force:
+   A: Increases
+   B: Decreases
+   C: Stays the same
+   D: becomes zero
+
+6. If the radius of the circle increases (mass and speed constant), the required 
+   force:
+   A: Increases
+   B: Decreases
+   C: Stays the same
+   D: Doubles
+
+7. A satellite orbits the Earth. What provides the centripetal force?
+   A: Friction
+   B: Tension
+   C: Gravity
+   D: Air resistance
+
+8. A car turns a corner on a flat road. What provides the centripetal force?
+   A: Gravity
+   B: Friction between tires and road
+   C: Air resistance
+   D: The engine
+
+9. An object moves in a circle. If the centripetal force suddenly disappears, 
+   the object will:
+   A: Stop immediately
+   B: Spiral into the center
+   C: Fly off in a straight line along the tangent
+   D: Continue in the circle
+
+10. Which change requires the greatest increase in centripetal force?
+    A: Doubling the mass
+    B: Doubling the radius
+    C: Doubling the speed
+    D: Halving the mass
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION (8)
+================================================================================
+
+11. "An object moving in a circle at constant speed has constant velocity."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+12. "Centripetal force is a new type of force like gravity or friction."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+13. "If the centripetal force is removed, the object spirals outwards."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+14. "An object usually accelerates when moving in a circle at constant speed."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+15. "A larger force is needed to keep a heavier object moving in a circle."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+16. "Centripetal force always acts perpendicular to the direction of motion."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+17. "When a ball is whirled on a string, the tension provides the centripetal force."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+18. "Increasing the radius of the circle makes it harder to keep the object moving 
+     in a circle (requires more force)."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK (8)
+================================================================================
+
+WORD BANK: velocity, center, tangent, perpendicular, friction, gravity, 
+           accelerating, speed, tension, centripetal
+
+19. An object in circular motion has constantly changing __________ even if 
+    its __________ is constant.
+
+20. The force that maintains circular motion is called __________ force.
+
+21. This force always acts towards the __________ of the circle.
+
+22. Because the velocity is changing, the object is __________.
+
+23. If the force is removed, the object will move along a __________ to the circle.
+
+24. For a planet orbiting the Sun, __________ provides the centripetal force.
+
+25. For a car turning a corner, __________ provides the centripetal force.
+
+26. The centripetal force acts __________ to the velocity of the object.
+
+================================================================================
+                    SECTION D: SHORT ANSWER QUESTIONS (10)
+================================================================================
+
+27. Explain the difference between speed and velocity for an object in circular 
+    motion. [2]
+
+28. State the direction of the centripetal force acting on an object moving in 
+    a circle. [1]
+
+29. Explain why an object moving in a circle at constant speed is accelerating. [2]
+
+30. Name the force that provides the centripetal force for:
+    (a) The Moon orbiting the Earth [1]
+    (b) An electron orbiting a nucleus [1]
+
+31. A ball is attached to a string and whirled in a horizontal circle. State the 
+    force that provides the centripetal force. [1]
+
+32. Describe what happens to the required centripetal force if the mass of the 
+    object increases (speed and radius constant). [1]
+
+33. Describe what happens to the required centripetal force if the speed of the 
+    object increases (mass and radius constant). [1]
+
+34. A car travels around a bend. Explain what provides the force to change the 
+    car's direction. [1]
+
+35. Explain why a satellite stays in orbit rather than flying off into space. [2]
+
+36. Describe the path of a stone whirled on a string if the string suddenly 
+    breaks. [2]
+
+================================================================================
+                    SECTION E: CONCEPTUAL APPLICATION (12)
+================================================================================
+
+37. A car travels around a bend at 10 m/s.
+    (a) Explain why the driver keeps their foot on the accelerator to maintain 
+        constant speed. [1]
+    (b) Even though the speed is constant, the car is accelerating. Explain why. [2]
+    (c) If the road is icy (low friction), describe what might happen to the 
+        car. [2]
+
+38. A washing machine drum spins clothes to remove water.
+    (a) Explain what force is needed to keep the clothes moving in a circle. [1]
+    (b) The holes in the drum allow water to pass through. Explain why the 
+        water leaves the clothes. [2]
+    
+39. A roller coaster car goes through a loop.
+    (a) At the bottom of the loop, in which direction does the centripetal 
+        force act? [1]
+    (b) At the top of the loop, in which direction does the centripetal force 
+        act? [1]
+    (c) Why do passengers feel heavier at the bottom of the loop? [2]
+
+40. Comparing two scenarios for a car taking a corner:
+    Scenario A: Sharp bend (small radius)
+    Scenario B: Gentle bend (large radius)
+    Both cars have same mass and speed.
+    (a) Which scenario requires more friction? [1]
+    (b) Explain your answer. [2]
+
+================================================================================
+                    SECTION F: DIAGRAM INTERPRETATION (3)
+================================================================================
+
+41. Fig. 1 shows a ball being whirled in a horizontal circle on a string.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Circular Motion
+    PURPOSE: Show velocity and force vectors
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 1:1 square
+    GRID: 10 × 10
+    COMPONENTS:
+      [Path]
+        Symbol: dashed_circle
+        Position: center grid(5,5), radius 3
+      [Ball]
+        Symbol: filled_circle
+        Position: grid(8,5)
+        Label: "M"
+      [Velocity Arrow]
+        Symbol: arrow_up
+        Position: from grid(8,5)
+        Label: "v"
+      [Force Arrow]
+        Symbol: arrow_left
+        Position: from grid(8,5) to grid(5,5)
+        Label: "F"
+    ---END DIAGRAM---
+
+    (a) Name the force labeled F. [1]
+    (b) Name the quantity labeled v. [1]
+    (c) State the angle between arrow F and arrow v. [1]
+    (d) If the string breaks when the ball is at position M, draw or describe 
+        the path the ball will take. [2]
+
+42. Fig. 2 shows two planets orbiting a star.
+
+    Planet A: Radius R, Speed V
+    Planet B: Radius 2R, Speed V
+    Mass of Planet A = Mass of Planet B
+
+    (a) Which planet requires a larger centripetal force to stay in orbit? [1]
+    (b) Explain your answer. [2]
+    (c) Name the force acting as the centripetal force. [1]
+
+43. Fig. 3 shows a car on a curved road from above.
+
+    ---DIAGRAM: Fig. 3---
+    TYPE: Situation
+    PURPOSE: Car cornering
+    STYLE: Top-down view
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Road]
+        Symbol: curved_parallel_lines
+        Position: curving from grid(1,1) to grid(9,1)
+      [Car]
+        Symbol: rectangle
+        Position: grid(5,4)
+      [Center of Curve]
+        Symbol: point
+        Position: grid(5,8)
+        Label: "Center"
+    ---END DIAGRAM---
+
+    (a) Draw an arrow on the car showing the direction of the friction force. [1]
+    (b) Draw an arrow on the car showing the direction of its instantaneous 
+        velocity. [1]
+    (c) Explain what happens if the car speeds up significantly. [2]
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION (4)
+================================================================================
+
+44. A student investigates the force needed to keep a rubber bung moving in a 
+    circle of constant radius.
+
+    ┌─────────────┬──────────────┐
+    │ Speed (m/s) │ Force (N)    │
+    ├─────────────┼──────────────┤
+    │ 2.0         │ 1.5          │
+    │ 4.0         │ 6.0          │
+    │ 6.0         │ 13.5         │
+    │ 8.0         │ 24.0         │
+    └─────────────┴──────────────┘
+
+    (a) Describe the relationship between speed and force. [2]
+    (b) When speed doubles (e.g., 2.0 to 4.0), by what factor does the force 
+        increase? [2]
+    (c) Predict the force needed for a speed of 10.0 m/s. [2]
+
+45. Another experiment keeps speed constant but varies the radius.
+
+    ┌─────────────┬──────────────┐
+    │ Radius (m)  │ Force (N)    │
+    ├─────────────┼──────────────┤
+    │ 0.5         │ 10.0         │
+    │ 1.0         │ 5.0          │
+    │ 2.0         │ 2.5          │
+    └─────────────┴──────────────┘
+
+    (a) Describe the relationship between radius and force. [2]
+    (b) Explain why a wider turn (larger radius) is safer for cars. [2]
+
+46. Centripetal force F is given by the equation: F = (mv²)/r
+    (Note: This equation is usually not required for IGCSE recall, but can be 
+    used for data analysis)
+
+    Use the equation to determine what happens to F if:
+    (a) Mass m is tripled. [1]
+    (b) Speed v is doubled. [1]
+    (c) Radius r is halved. [1]
+
+47. A 2000 kg car travels around a bend of radius 50 m at 15 m/s. The required 
+    friction force is 9000 N.
+    
+    (a) If the car speeds up to 30 m/s, what new force is required? [2]
+    (b) If the maximum friction available is 12000 N, will the car skid at 
+        30 m/s? Explain. [2]
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST (3)
+================================================================================
+
+48. Compare the motion of:
+    - Object A: Traveling in a straight line at constant speed
+    - Object B: Traveling in a circle at constant speed
+    
+    In your answer, discuss:
+    - Velocity
+    - Acceleration
+    - Resultant force
+    [6]
+
+49. Compare the centripetal force requirements for:
+    - A truck vs. a small car (both at same speed and radius)
+    - A racing car taking a sharp corner vs. a wide corner (same speed)
+    [4]
+
+50. Three satellites orbit Earth.
+    Sat A: Mass M, Radius R
+    Sat B: Mass 2M, Radius R
+    Sat C: Mass M, Radius 2R
+    
+    Order them by the amount of gravitational force needed to keep them in orbit 
+    (assuming same speed for simplicity of comparison). highest to lowest. [3]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+---------------------------
+1.  B - Velocity changes because direction changes
+2.  C - Centripetal force
+3.  B - Towards the center
+4.  C - 90 degrees (perpendicular)
+5.  A - Increasing speed requires more force
+6.  B - Increasing radius decreases required force
+7.  C - Gravity provides the force
+8.  B - Friction provides the force
+9.  C - Fly off along tangent (Newton's 1st Law)
+10. C - Doubling speed quadruples force (v squared relationship)
+
+SECTION B: TRUE/FALSE
+---------------------
+11. FALSE - Velocity includes direction, which is changing
+12. FALSE - It's not a new 'type', it's a role played by other forces (gravity, etc)
+13. FALSE - It flies off in a straight line (tangent)
+14. TRUE - Changing velocity means accelerating
+15. TRUE - More mass needs more force (F=ma)
+16. TRUE - Always towards center, perpendicular to motion
+17. TRUE - Tension pulls the ball inwards
+18. FALSE - Increasing radius makes it EASIER (less force needed)
+
+SECTION C: FILL-IN-THE-BLANK
+-----------------------------
+19. velocity, speed
+20. centripetal
+21. center
+22. accelerating
+23. tangent
+24. gravity
+25. friction
+26. perpendicular
+
+SECTION D: SHORT ANSWER
+-----------------------
+27. Speed is a scalar (constant magnitude), velocity is a vector (magnitude + 
+    direction) [1]. Since direction changes, velocity changes [1].
+
+28. Towards the center of the circle [1].
+
+29. Acceleration is the rate of change of velocity [1]. Since velocity (direction) 
+    is changing, the object is accelerating [1].
+
+30. (a) Gravity [1]
+    (b) Electrostatic force [1]
+
+31. Tension [1]
+
+32. The force must increase [1].
+
+33. The force must increase [1].
+
+34. Friction between the tires and the road [1].
+
+35. The gravitational force from Earth pulls it inwards [1], constantly changing 
+    its direction to keep it in a circular path [1].
+
+36. It will fly off in a straight line [1] along the tangent to the circle at 
+    that point [1].
+
+SECTION E: CONCEPTUAL APPLICATION
+---------------------------------
+37. (a) To overcome air resistance/friction (drag) [1].
+    (b) Direction is changing [1], thus velocity is changing, which is 
+        acceleration [1].
+    (c) Friction may be insufficient to provide centripetal force [1], so car 
+        will skid/slide off the road (move in straight line) [1].
+
+38. (a) Centripetal force (provided by the drum wall pushing inwards) [1].
+    (b) There is no inward force on the water at the holes [1], so it continues 
+        in a straight line out of the drum (inertia) [1].
+
+39. (a) Upwards (towards center) [1]
+    (b) Downwards (towards center) [1]
+    (c) The track must push up with force = Weight + Centripetal Force, so 
+         reaction force is higher [2].
+
+40. (a) Scenario A (Sharp bend) [1]
+    (b) Smaller radius requires greater centripetal force [1], which must be 
+        provided by friction [1].
+
+SECTION F: DIAGRAM INTERPRETATION
+---------------------------------
+41. (a) Centripetal force (or Tension) [1]
+    (b) Velocity [1]
+    (c) 90 degrees [1]
+    (d) Straight line upwards (tangent to circle) [2]
+
+42. (a) Planet A [1]
+    (b) It has a smaller radius [1]. Smaller radius requires larger force [1].
+    (c) Gravitational force [1]
+
+43. (a) Arrow pointing towards "Center" [1]
+    (b) Arrow tangent to curve (in direction of motion) [1]
+    (c) Required friction increases [1]. If it exceeds max friction, car will 
+        skid outwards [1].
+
+SECTION G: DATA INTERPRETATION
+-------------------------------
+44. (a) As speed increases, force increases (non-linearly) [2]
+    (b) Force quadruples (x4) [2] (1.5 -> 6.0 is x4)
+    (c) approx 37-38 N (Accept calculation: F ∝ v². 10/2=5. 5²=25. 25*1.5=37.5) [2]
+
+45. (a) As radius increases, force decreases [1] (inversely proportional) [1].
+    (b) Larger radius means less centripetal force is required [1], so less 
+        friction needed, less chance of skidding [1].
+
+46. (a) Tripled [1]
+    (b) Quadrupled (x4) [1]
+    (c) Doubled [1]
+
+47. (a) Speed doubles, so force x4. 9000 * 4 = 36000 N [2]
+    (b) Yes, it will skid [1]. 36000 N > 12000 N [1].
+
+SECTION H: COMPARE AND CONTRAST
+--------------------------------
+48. Object A: Constant velocity [1], Zero acceleration [1], Zero resultant 
+    force [1].
+    Object B: Changing velocity [1], Non-zero acceleration [1], Non-zero 
+    resultant force (towards center) [1].
+
+49. Truck vs Car: Truck requires MORE force (due to larger mass) [2].
+    Sharp vs Wide: Sharp corner requires MORE force (due to smaller radius) [2].
+
+50. Sat B > Sat A > Sat C [3] 
+    (Mass 2M needs most force. Radius 2R needs least force).
+
+================================================================================
+                    END OF SECTION 4.6 EXERCISES
+================================================================================

@@ -1,0 +1,700 @@
+================================================================================
+     SECTION 1.3 CALCULATING WITH VECTORS - PRACTICE EXERCISES
+                           (50 QUESTIONS)
+================================================================================
+
+Syllabus Reference: 1.1 Physical quantities and measurement techniques
+                     (Supplement objective 7)
+
+Learning Objectives Covered (Extended Tier Only):
+  7. Determine, by calculation or graphically, the resultant of two
+     vectors at right angles, limited to forces or velocities only.
+
+Supporting Skills:
+  * Draw and interpret vector diagrams.
+  * Use Pythagoras' theorem to calculate the magnitude of a resultant.
+  * Use trigonometry (sin, cos, tan) to find the direction of a resultant.
+
+Distribution:
+  - Recall (AO1): 12 questions (24%)
+  - Application (AO2): 26 questions (52%)
+  - Analysis (AO3): 12 questions (24%)
+
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE (15 Questions)
+================================================================================
+
+1. Two perpendicular forces of 6 N and 8 N act on an object.
+   What is the magnitude of the resultant force?
+   A: 2 N
+   B: 10 N
+   C: 14 N
+   D: 48 N
+
+2. Which formula is used to find the magnitude of the resultant of
+   two perpendicular vectors?
+   A: R = F₁ + F₂
+   B: R = F₁ − F₂
+   C: R = √(F₁² + F₂²)
+   D: R = F₁ × F₂
+
+3. A force of 5 N acts east and a force of 12 N acts north.
+   What is the magnitude of the resultant force?
+   A: 7 N
+   B: 13 N
+   C: 17 N
+   D: 60 N
+
+4. In a vector diagram, what does the length of the arrow represent?
+   A: The direction of the vector
+   B: The magnitude of the vector
+   C: The unit of the vector
+   D: The type of the vector
+
+5. Two velocities of 30 m/s north and 40 m/s east act on a boat.
+   What is the resultant speed?
+   A: 10 m/s
+   B: 50 m/s
+   C: 70 m/s
+   D: 1200 m/s
+
+6. Which trigonometric function is used to find the angle between the
+   resultant and the horizontal?
+   A: sin θ = adjacent / hypotenuse
+   B: cos θ = opposite / adjacent
+   C: tan θ = opposite / adjacent
+   D: tan θ = adjacent / opposite
+
+7. A vertical force of 15 N and a horizontal force of 20 N act on an
+   object. What is the resultant force?
+   A: 5 N
+   B: 25 N
+   C: 35 N
+   D: 625 N
+
+8. A force of 40 N acts horizontally and a force of 30 N acts
+   vertically. The angle between the resultant and the horizontal is:
+   A: tan⁻¹(30/40) = 36.9°
+   B: tan⁻¹(40/30) = 53.1°
+   C: sin⁻¹(30/40) = 48.6°
+   D: cos⁻¹(30/40) = 41.4°
+
+9. For two perpendicular forces, the resultant always lies:
+   A: Along one of the original forces
+   B: At right angles to both forces
+   C: Diagonally between the two forces
+   D: In the same direction as the larger force
+
+10. A velocity of 10 m/s north and a velocity of 10 m/s east combine.
+    What is the direction of the resultant velocity?
+    A: Due north
+    B: Due east
+    C: 45° from north towards east (northeast)
+    D: 30° from north towards east
+
+11. Two perpendicular forces have magnitudes F₁ = 7 N and F₂ = 24 N.
+    The resultant is:
+    A: 17 N
+    B: 25 N
+    C: 31 N
+    D: 168 N
+
+12. The horizontal component of a velocity is 12 m/s and the vertical
+    component is 16 m/s. The resultant velocity is:
+    A: 4 m/s
+    B: 14 m/s
+    C: 20 m/s
+    D: 28 m/s
+
+13. A vector diagram shows two arrows at right angles forming a
+    rectangle. The resultant is represented by:
+    A: One side of the rectangle
+    B: The diagonal of the rectangle
+    C: The perimeter of the rectangle
+    D: The area of the rectangle
+
+14. If a force of 100 N acts upward and a force of 100 N acts
+    horizontally, the resultant is approximately:
+    A: 100 N
+    B: 141 N
+    C: 200 N
+    D: 10000 N
+
+15. A swimmer swims north at 2 m/s across a river that flows east
+    at 2 m/s. The resultant speed of the swimmer is:
+    A: 0 m/s
+    B: 2 m/s
+    C: 2√2 ≈ 2.83 m/s
+    D: 4 m/s
+
+
+================================================================================
+              SECTION B: TRUE/FALSE WITH JUSTIFICATION (6 Questions)
+================================================================================
+
+16. Statement: The resultant of two perpendicular forces is always
+    greater than either individual force.
+
+    True or False? Justify your answer.
+
+17. Statement: Two forces of 3 N and 4 N always produce a resultant
+    of 5 N.
+
+    True or False? Justify your answer.
+
+18. Statement: If two perpendicular forces are equal in magnitude,
+    the resultant makes an angle of 45° with each force.
+
+    True or False? Justify your answer.
+
+19. Statement: A vector diagram can be used instead of calculation to
+    find the resultant of two perpendicular forces.
+
+    True or False? Justify your answer.
+
+20. Statement: The angle of the resultant from the horizontal increases
+    as the vertical force increases (horizontal force stays the same).
+
+    True or False? Justify your answer.
+
+21. Statement: Pythagoras' theorem can be used to find the resultant
+    of any two forces, regardless of the angle between them.
+
+    True or False? Justify your answer.
+
+
+================================================================================
+              SECTION C: FILL-IN-THE-BLANK (6 Questions)
+================================================================================
+
+22. The magnitude of the resultant of two perpendicular vectors is
+    found using the formula R = √(______² + ______²).
+
+23. The direction of the resultant is found using the formula
+    θ = tan⁻¹(_______/_______).
+
+24. In a vector diagram, the _____________ of the arrow represents
+    the magnitude, and the _____________ shows the direction.
+
+25. When two equal perpendicular forces act on an object, the angle
+    between the resultant and either force is _______ degrees.
+
+26. SOH CAH TOA is a mnemonic for:
+    sin θ = _______ / _______,
+    cos θ = _______ / _______,
+    tan θ = _______ / _______.
+
+27. The resultant of two perpendicular vectors is represented by the
+    _____________ of the rectangle formed by the two vectors.
+
+
+================================================================================
+              SECTION D: LABELLING / DIAGRAM QUESTIONS (3 Questions)
+================================================================================
+
+28. The diagram below shows two forces acting on a block at right angles.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Vector
+    PURPOSE: Show two perpendicular forces on a block
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 8 × 8
+    COMPONENTS:
+      [Block]
+        Symbol: rectangle
+        Position: grid(4,5)
+        Size: small
+      [Horizontal Arrow]
+        Symbol: arrow_right
+        Position: from grid(5,5) to grid(8,5)
+        Style: solid thick, blue
+        Label: "F₁ = 40 N" [below]
+      [Vertical Arrow]
+        Symbol: arrow_up
+        Position: from grid(4,4) to grid(4,1)
+        Style: solid thick, green
+        Label: "F₂ = 30 N" [left]
+    ---END DIAGRAM---
+
+    (a) On the diagram, draw the resultant force as a diagonal arrow
+        from the block.                                                  [1]
+    (b) Calculate the magnitude of the resultant force.                  [2]
+    (c) Calculate the angle between the resultant and the
+        horizontal force.                                                [2]
+
+29. Draw a scale vector diagram to find the resultant of a 60 N
+    force acting east and a 80 N force acting north.
+    Use a scale of 1 cm = 20 N.                                         [4]
+
+    (a) State the length you would draw for the 60 N force.              [1]
+    (b) State the length you would draw for the 80 N force.              [1]
+    (c) State the length and direction of the resultant from
+        your diagram.                                                    [2]
+
+30. A velocity vector has a horizontal component of 8 m/s and a
+    vertical component of 6 m/s.
+
+    (a) Draw a labelled vector triangle showing the two components
+        and the resultant velocity.                                      [3]
+    (b) Calculate the magnitude of the resultant velocity.               [2]
+    (c) Calculate the angle the resultant makes with the horizontal.     [2]
+
+
+================================================================================
+              SECTION E: SHORT ANSWER (3 Questions)
+================================================================================
+
+31. State Pythagoras' theorem and explain how it is used to find the
+    resultant of two perpendicular forces.                               [2]
+
+32. Explain why the graphical method and the calculation method give
+    the same result for the resultant of two perpendicular forces.       [2]
+
+33. A object is acted on by two forces at right angles: one horizontal
+    and one vertical. State two pieces of information needed to fully
+    describe the resultant.                                              [2]
+
+
+================================================================================
+              SECTION F: CALCULATIONS (8 Questions)
+================================================================================
+
+34. A force of 15 N acts east and a force of 20 N acts north on
+    a box.
+    (a) Calculate the magnitude of the resultant force.                  [2]
+    (b) Calculate the angle between the resultant and the eastward
+        force.                                                           [2]
+
+35. A boat travels at 6 m/s due east while a river current pushes it
+    at 8 m/s due south.
+    (a) Calculate the resultant velocity of the boat.                    [2]
+    (b) Calculate the angle of the resultant measured from due east.     [2]
+
+36. Two forces act on a ball: 24 N horizontally and 7 N vertically.
+    (a) Calculate the resultant force.                                   [2]
+    (b) Calculate the angle between the resultant and the horizontal.    [2]
+
+37. An aeroplane flies at 250 m/s due north while a crosswind blows
+    at 60 m/s due east.
+    (a) Calculate the resultant speed of the aeroplane.                  [2]
+    (b) Calculate the angle the aeroplane is deflected from due north.   [2]
+    (c) State whether the pilot should adjust their heading to
+        compensate. Explain your reasoning.                              [2]
+
+38. A force of 200 N acts vertically downward and a force of 150 N
+    acts horizontally to the right.
+    (a) Calculate the magnitude of the resultant force.                  [2]
+    (b) Calculate the angle between the resultant and the
+        vertical force.                                                  [2]
+    (c) Describe the direction in which the resultant acts.              [1]
+
+39. A child pushes a toy car with a force that has a horizontal
+    component of 10 N and a vertical component of 5 N.
+    (a) Calculate the magnitude of the applied force.                    [2]
+    (b) Calculate the angle the force makes with the horizontal.         [2]
+
+40. A swimmer crosses a river. She swims at 1.5 m/s due north, while
+    the current flows at 2.0 m/s due east.
+    (a) Calculate the magnitude of the resultant velocity.               [2]
+    (b) Calculate the angle of the resultant from due north.             [2]
+    (c) The river is 60 m wide (north to south). Calculate the time
+        taken for the swimmer to cross.                                  [2]
+    (d) Calculate how far downstream (east) the current carries her
+        during the crossing.                                             [2]
+
+41. A climber pulls a rope with a force of 500 N at an angle of 30°
+    to the vertical.
+    (a) Calculate the vertical component of the force.                   [2]
+    (b) Calculate the horizontal component of the force.                 [2]
+
+
+================================================================================
+              SECTION G: DATA INTERPRETATION (2 Questions)
+================================================================================
+
+42. The table shows four pairs of perpendicular forces acting on
+    different objects. Complete the table.
+
+    ┌──────────┬───────────────┬───────────────┬─────────────┬───────────┐
+    │ Object   │ Force 1 (N)   │ Force 2 (N)   │ Resultant   │ Angle     │
+    │          │ (horizontal)  │ (vertical)    │ (N)         │ (°)       │
+    ├──────────┼───────────────┼───────────────┼─────────────┼───────────┤
+    │ A        │ 3             │ 4             │             │           │
+    ├──────────┼───────────────┼───────────────┼─────────────┼───────────┤
+    │ B        │ 5             │ 12            │             │           │
+    ├──────────┼───────────────┼───────────────┼─────────────┼───────────┤
+    │ C        │ 8             │ 15            │             │           │
+    ├──────────┼───────────────┼───────────────┼─────────────┼───────────┤
+    │ D        │ 20            │ 21            │             │           │
+    └──────────┴───────────────┴───────────────┴─────────────┴───────────┘
+
+    (a) Complete the "Resultant" and "Angle" columns.                    [4]
+    (b) As the vertical force increases (with horizontal constant at
+        object A-like scenarios), what happens to the angle?             [1]
+    (c) Under what condition would the angle be exactly 45°?             [1]
+
+43. A student performs an experiment to verify the resultant of two
+    perpendicular forces using a force board. His results are below.
+
+    ┌──────────┬───────────────┬───────────────┬───────────────┬──────────────┐
+    │ Trial    │ F₁ horiz (N)  │ F₂ vert (N)   │ Measured R (N)│ Calculated   │
+    │          │               │               │               │ R (N)        │
+    ├──────────┼───────────────┼───────────────┼───────────────┼──────────────┤
+    │ 1        │ 3.0           │ 4.0           │ 5.2           │              │
+    ├──────────┼───────────────┼───────────────┼───────────────┼──────────────┤
+    │ 2        │ 6.0           │ 8.0           │ 9.8           │              │
+    ├──────────┼───────────────┼───────────────┼───────────────┼──────────────┤
+    │ 3        │ 5.0           │ 12.0          │ 13.5          │              │
+    ├──────────┼───────────────┼───────────────┼───────────────┼──────────────┤
+    │ 4        │ 10.0          │ 10.0          │ 13.8          │              │
+    └──────────┴───────────────┴───────────────┴───────────────┴──────────────┘
+
+    (a) Complete the "Calculated R" column using Pythagoras' theorem.    [2]
+    (b) Compare the measured and calculated values. Are they in
+        good agreement?                                                  [2]
+    (c) Suggest two reasons why the measured values might differ
+        from the calculated values.                                      [2]
+
+
+================================================================================
+              SECTION H: COMPARE & CONTRAST (2 Questions)
+================================================================================
+
+44. Compare the graphical method and the calculation method for
+    finding the resultant of two perpendicular vectors.                  [4]
+    In your answer include:
+    - How each method works
+    - The equipment needed
+    - The advantages and disadvantages of each
+
+45. Compare the resultant of two equal perpendicular forces with
+    the resultant of two unequal perpendicular forces.                   [4]
+    Include sketches to support your answer.
+
+
+================================================================================
+              SECTION I: STRUCTURED QUESTIONS (3 Questions)
+================================================================================
+
+46. A boy kicks a football due east with a velocity of 8 m/s.
+    At the same time, a crosswind blows the ball due north at 6 m/s.
+
+    (a) Draw a labelled vector diagram showing the two velocities
+        and the resultant.                                               [3]
+
+    (b) Calculate the resultant speed of the football.                   [2]
+
+    (c) Calculate the angle the resultant makes with the eastward
+        direction.                                                       [2]
+
+    (d) State the direction in which the football actually travels.      [1]
+
+    (e) If the wind speed increased to 8 m/s (same direction),
+        calculate the new resultant speed and state how the angle
+        would change.                                                    [3]
+
+47. A rescue helicopter hovers while lowering a person on a rope. A
+    horizontal wind exerts a force of 400 N on the person, while
+    gravity pulls the person down with a force of 700 N.
+
+    (a) State the two forces acting on the person.                       [2]
+
+    (b) Calculate the magnitude of the resultant force on the person.    [2]
+
+    (c) Calculate the angle the resultant makes with the vertical.       [2]
+
+    (d) Describe what would happen to the person's path as a result
+        of the two forces.                                               [2]
+
+    (e) The wind speed increases, doubling the horizontal force to
+        800 N while the gravitational force stays the same.
+        (i) Calculate the new resultant force.                           [2]
+        (ii) Calculate the new angle from the vertical.                  [2]
+        (iii) Compare this angle with your answer to part (c).           [1]
+
+48. A dog runs 40 m due west and then 30 m due south to reach a
+    bone.
+
+    (a) State the total distance run by the dog.                         [1]
+
+    (b) Draw a scale diagram to determine the dog's displacement.
+        State the scale you use.                                         [3]
+
+    (c) Calculate the magnitude of the dog's displacement from its
+        starting position.                                               [2]
+
+    (d) Calculate the angle of the displacement measured from
+        due west.                                                        [2]
+
+    (e) Explain why the displacement is less than the distance.          [2]
+
+
+================================================================================
+              SECTION J: ERROR ANALYSIS (2 Questions)
+================================================================================
+
+49. A student calculates the resultant of a 40 N horizontal force and
+    a 30 N vertical force as follows:
+
+    "R = 40 + 30 = 70 N"
+
+    (a) Identify the error the student has made.                         [1]
+
+    (b) Show the correct calculation and state the correct answer.       [2]
+
+    (c) Calculate the percentage error in the student's answer.          [2]
+
+50. A student draws a vector diagram with the following scale:
+    1 cm = 10 N. She draws the horizontal force (60 N) as 6 cm and
+    the vertical force (80 N) as 9 cm.
+
+    (a) Identify the error in the student's diagram.                     [1]
+
+    (b) State the correct length for the 80 N force using the
+        given scale.                                                     [1]
+
+    (c) The student measures the resultant as 11 cm from her
+        (incorrect) diagram. Convert this to newtons using her scale.    [1]
+
+    (d) Calculate the true resultant force using Pythagoras' theorem.    [2]
+
+    (e) Explain how the incorrect scale drawing led to an error in
+        the resultant.                                                   [2]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+
+1.  B (10 N) — R = √(6² + 8²) = √100 = 10 N
+2.  C (R = √(F₁² + F₂²)) — Pythagoras' theorem
+3.  B (13 N) — R = √(5² + 12²) = √169 = 13 N
+4.  B (The magnitude of the vector)
+5.  B (50 m/s) — R = √(30² + 40²) = √2500 = 50 m/s
+6.  C (tan θ = opposite / adjacent)
+7.  B (25 N) — R = √(15² + 20²) = √625 = 25 N
+8.  A (tan⁻¹(30/40) = 36.9°) — the vertical is opposite, horizontal
+    is adjacent
+9.  C (Diagonally between the two forces) — along the diagonal of the
+    rectangle formed by the two forces
+10. C (45° / northeast) — both forces are equal, so the angle is 45°
+11. B (25 N) — R = √(7² + 24²) = √625 = 25 N
+12. C (20 m/s) — R = √(12² + 16²) = √400 = 20 m/s
+13. B (The diagonal of the rectangle)
+14. B (141 N) — R = √(100² + 100²) = √20000 ≈ 141 N
+15. C (2√2 ≈ 2.83 m/s) — R = √(2² + 2²) = √8 ≈ 2.83 m/s
+
+SECTION B: TRUE/FALSE WITH JUSTIFICATION
+
+16. True [B1]. By Pythagoras' theorem R = √(F₁² + F₂²). Since both
+    F₁ and F₂ are positive, R² > F₁² and R² > F₂² [B1]. Therefore
+    R is larger than either individual force [B1].
+
+17. False [B1]. A resultant of 5 N only occurs when the 3 N and 4 N
+    forces act at right angles [B1]. If they act in the same direction,
+    the resultant is 7 N; if in opposite directions, 1 N [B1].
+
+18. True [B1]. tan θ = F₂/F₁ = F/F = 1 [B1]. tan⁻¹(1) = 45° [B1].
+
+19. True [B1]. Drawing an accurate scale diagram with a ruler and
+    protractor gives the same result [B1]. The diagonal of the
+    rectangle represents the resultant [B1].
+
+20. True [B1]. tan θ = vertical/horizontal. As the vertical force
+    increases, the ratio increases [B1], so the angle increases [B1].
+
+21. False [B1]. Pythagoras' theorem only applies when the two forces
+    are at exactly 90° to each other [B1]. For other angles, the
+    cosine rule or a scale diagram must be used [B1].
+
+SECTION C: FILL-IN-THE-BLANK
+
+22. F₁ / F₂
+23. opposite / adjacent
+24. length / direction (of the arrowhead)
+25. 45
+26. opposite / hypotenuse, adjacent / hypotenuse, opposite / adjacent
+27. diagonal
+
+SECTION D: LABELLING / DIAGRAM QUESTIONS
+
+28. (a) Diagonal arrow from block towards upper right [B1]
+    (b) R = √(40² + 30²) = √(1600 + 900) = √2500 [M1] = 50 N [A1]
+    (c) tan θ = 30/40 = 0.75 [M1]
+        θ = tan⁻¹(0.75) = 36.9° [A1]
+
+29. (a) 60/20 = 3 cm [B1]
+    (b) 80/20 = 4 cm [B1]
+    (c) Resultant length by measurement ≈ 5 cm [B1]
+        Resultant = 5 × 20 = 100 N [B1]
+        Direction: diagonally between east and north
+
+30. (a) Right-angled triangle with 8 m/s horizontal, 6 m/s vertical,
+        and resultant as hypotenuse — correctly labelled [B1 × 3]
+    (b) R = √(8² + 6²) = √(64 + 36) = √100 [M1] = 10 m/s [A1]
+    (c) tan θ = 6/8 = 0.75 [M1]
+        θ = tan⁻¹(0.75) = 36.9° above horizontal [A1]
+
+SECTION E: SHORT ANSWER
+
+31. Pythagoras' theorem states that in a right-angled triangle, the
+    square of the hypotenuse equals the sum of the squares of the other
+    two sides [B1]. For two perpendicular forces F₁ and F₂, the
+    resultant R = √(F₁² + F₂²) because the forces form a right angle
+    and the resultant is the hypotenuse [B1].
+
+32. Both methods are based on the same geometric relationship — a right-
+    angled triangle [B1]. The graphical method uses accurate drawing
+    and measurement, while the calculation method uses algebra, but
+    both represent the same vector triangle [B1].
+
+33. The magnitude of the resultant (in newtons) [B1] and the direction/
+    angle of the resultant [B1].
+
+SECTION F: CALCULATIONS
+
+34. (a) R = √(15² + 20²) = √(225 + 400) = √625 [M1] = 25 N [A1]
+    (b) tan θ = 20/15 = 1.333 [M1]
+        θ = tan⁻¹(1.333) = 53.1° from east towards north [A1]
+
+35. (a) R = √(6² + 8²) = √(36 + 64) = √100 [M1] = 10 m/s [A1]
+    (b) tan θ = 8/6 = 1.333 [M1]
+        θ = tan⁻¹(1.333) = 53.1° south of east [A1]
+
+36. (a) R = √(24² + 7²) = √(576 + 49) = √625 [M1] = 25 N [A1]
+    (b) tan θ = 7/24 = 0.2917 [M1]
+        θ = tan⁻¹(0.2917) = 16.3° [A1]
+
+37. (a) R = √(250² + 60²) = √(62500 + 3600) = √66100 [M1]
+        = 257 m/s (3 s.f.) [A1]
+    (b) tan θ = 60/250 = 0.24 [M1]
+        θ = tan⁻¹(0.24) = 13.5° east of north [A1]
+    (c) Yes, the pilot should adjust heading to compensate [B1].
+        Without compensation, the crosswind will deflect the plane
+        13.5° off course from the intended northward direction [B1].
+
+38. (a) R = √(200² + 150²) = √(40000 + 22500) = √62500 [M1]
+        = 250 N [A1]
+    (b) tan θ = 150/200 = 0.75 [M1]
+        θ = tan⁻¹(0.75) = 36.9° from vertical [A1]
+    (c) Diagonally downward and to the right [B1].
+
+39. (a) R = √(10² + 5²) = √(100 + 25) = √125 [M1]
+        = 11.2 N (3 s.f.) [A1]
+    (b) tan θ = 5/10 = 0.5 [M1]
+        θ = tan⁻¹(0.5) = 26.6° below horizontal [A1]
+
+40. (a) R = √(1.5² + 2.0²) = √(2.25 + 4.00) = √6.25 [M1]
+        = 2.5 m/s [A1]
+    (b) tan θ = 2.0/1.5 = 1.333 [M1]
+        θ = tan⁻¹(1.333) = 53.1° east of north [A1]
+    (c) time = distance / speed (north component only)
+        t = 60 / 1.5 [M1] = 40 s [A1]
+    (d) distance east = speed east × time = 2.0 × 40 [M1]
+        = 80 m [A1]
+
+41. (a) Vertical = 500 × cos 30° = 500 × 0.866 [M1] = 433 N [A1]
+    (b) Horizontal = 500 × sin 30° = 500 × 0.5 [M1] = 250 N [A1]
+
+SECTION G: DATA INTERPRETATION
+
+42. (a) Object A: R = √(3² + 4²) = 5 N; θ = tan⁻¹(4/3) = 53.1°
+        Object B: R = √(5² + 12²) = 13 N; θ = tan⁻¹(12/5) = 67.4°
+        Object C: R = √(8² + 15²) = 17 N; θ = tan⁻¹(15/8) = 61.9°
+        Object D: R = √(20² + 21²) = 29 N; θ = tan⁻¹(21/20) = 46.4°
+        [B1 per correct pair × 4]
+    (b) The angle increases as the vertical force increases (relative
+        to the horizontal), because tan θ increases [B1].
+    (c) When the horizontal and vertical forces are equal (F₁ = F₂),
+        tan θ = 1, so θ = 45° [B1].
+
+43. (a) Trial 1: √(3² + 4²) = 5.0 N
+        Trial 2: √(6² + 8²) = 10.0 N
+        Trial 3: √(5² + 12²) = 13.0 N
+        Trial 4: √(10² + 10²) = 14.1 N
+        [M1 for method, A1 for all correct]
+    (b) The measured values are close to but slightly larger than the
+        calculated values [B1]. The agreement is reasonable but not
+        exact, suggesting small systematic errors [B1].
+    (c) Friction in the pulleys / force board may affect readings [B1].
+        Difficulty in reading the scale on the force meter (parallax
+        error or limited resolution) [B1].
+
+SECTION H: COMPARE & CONTRAST
+
+44. Graphical method: Draw vectors to scale using a ruler and
+    protractor, complete the rectangle, and measure the diagonal [B1].
+    Calculation method: Use Pythagoras (R = √(F₁²+F₂²)) and
+    trigonometry (θ = tan⁻¹(opp/adj)) [B1].
+    Graphical method is visual and requires drawing equipment, but
+    limited by drawing precision [B1]. Calculation method gives exact
+    numerical answers and requires only a calculator, but needs
+    mathematical skill [B1].
+
+45. Equal perpendicular forces: resultant = F√2 and the angle is 45°
+    to each force — the resultant bisects the right angle [B1+B1].
+    Unequal perpendicular forces: resultant = √(F₁²+F₂²) and the
+    angle is closer to the larger force [B1]. The larger force
+    "pulls" the resultant direction towards itself [B1].
+
+SECTION I: STRUCTURED QUESTIONS
+
+46. (a) Correct horizontal arrow (8 m/s east) [B1], correct vertical
+        arrow (6 m/s north) at right angles [B1], diagonal arrow
+        showing resultant from origin [B1].
+    (b) R = √(8² + 6²) = √(64 + 36) = √100 [M1] = 10 m/s [A1]
+    (c) tan θ = 6/8 = 0.75 [M1]
+        θ = tan⁻¹(0.75) = 36.9° north of east [A1]
+    (d) The football travels at 36.9° north of east / northeast [B1].
+    (e) R = √(8² + 8²) = √128 = 11.3 m/s [M1+A1].
+        The angle increases to 45° because the two perpendicular
+        velocities are now equal [B1].
+
+47. (a) Horizontal wind force of 400 N [B1] and gravitational force
+        (weight) of 700 N downward [B1].
+    (b) R = √(400² + 700²) = √(160000 + 490000) = √650000 [M1]
+        = 806 N (3 s.f.) [A1]
+    (c) tan θ = 400/700 = 0.571 [M1]
+        θ = tan⁻¹(0.571) = 29.7° from vertical [A1]
+    (d) The person would swing outward at an angle from the vertical
+        [B1], moving both downward and sideways in the direction of
+        the wind [B1].
+    (e)(i) R = √(800² + 700²) = √(640000 + 490000) = √1130000 [M1]
+           = 1063 N (4 s.f.) [A1]
+       (ii) tan θ = 800/700 = 1.143 [M1]
+            θ = tan⁻¹(1.143) = 48.8° from vertical [A1]
+       (iii) The angle has increased from 29.7° to 48.8° [B1] because
+             the horizontal force has increased relative to the
+             vertical.
+
+48. (a) Distance = 40 + 30 = 70 m [B1]
+    (b) Suitable scale chosen (e.g. 1 cm = 10 m) [B1], 40 m west
+        drawn correctly [B1], 30 m south drawn at right angles [B1].
+    (c) R = √(40² + 30²) = √(1600 + 900) = √2500 [M1] = 50 m [A1]
+    (d) tan θ = 30/40 = 0.75 [M1]
+        θ = tan⁻¹(0.75) = 36.9° south of west [A1]
+    (e) Distance is the total path length (70 m) including both
+        legs [B1]. Displacement is the straight-line distance from
+        start to finish (50 m), which is shorter because the path
+        changes direction [B1].
+
+SECTION J: ERROR ANALYSIS
+
+49. (a) The student added the forces arithmetically instead of using
+        Pythagoras' theorem [B1].
+    (b) R = √(40² + 30²) = √(1600 + 900) = √2500 [M1] = 50 N [A1]
+    (c) % error = (70 − 50) / 50 × 100 [M1] = 40% [A1]
+
+50. (a) The 80 N force should be 80/10 = 8 cm, but the student drew
+        9 cm [B1].
+    (b) 8 cm [B1]
+    (c) 11 cm × 10 = 110 N [B1]
+    (d) R = √(60² + 80²) = √(3600 + 6400) = √10000 [M1]
+        = 100 N [A1]
+    (e) Drawing the 80 N force too long made the diagonal (resultant)
+        too long [B1]. This led to an overestimate of the resultant
+        force (110 N instead of 100 N) [B1].

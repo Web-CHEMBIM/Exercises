@@ -1,0 +1,975 @@
+================================================================================
+                    MODULE 1: PHYSICAL QUANTITIES &
+                       MEASUREMENT TECHNIQUES
+================================================================================
+
+================================================================================
+MODULE OVERVIEW
+================================================================================
+
+At the end of this module, students should be able to:
+
+Section 1.1 - Measurement:
+  * Describe how to measure length using appropriate instruments.
+  * Describe how to measure volume of liquids and irregular solids.
+  * Describe how to measure short time intervals, including the use of a
+    stopwatch.
+  * Explain why multiple readings improve accuracy.
+  * Describe the use of a fiducial marker.
+
+Section 1.2 - Scalars & Vectors (Extended):
+  * Define scalar and vector quantities.
+  * Give examples of scalar and vector quantities.
+  * Distinguish between distance and displacement.
+  * Distinguish between speed and velocity.
+
+Section 1.3 - Calculating with Vectors (Extended):
+  * Draw and use vector diagrams.
+  * Calculate the resultant of two perpendicular vectors using Pythagoras'
+    theorem and trigonometry.
+  * Determine the direction of a resultant vector.
+
+Prerequisites:
+  - Basic mathematics (addition, subtraction, multiplication, division)
+  - Basic understanding of units (metres, seconds, kilograms)
+  - Pythagoras' theorem and trigonometry (for Section 1.3)
+
+Estimated Time: 3-4 hours total
+
+Key Vocabulary:
+  - Measurement     - Length          - Volume         - Time interval
+  - Accuracy        - Precision       - Scalar         - Vector
+  - Magnitude       - Direction       - Displacement   - Velocity
+  - Resultant       - Component       - Fiducial marker
+
+
+================================================================================
+                    SECTION 1.1: MEASUREMENT
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Select and use appropriate instruments to measure length.
+  * Measure the volume of liquids and irregular solids.
+  * Measure short time intervals using a stopwatch.
+  * Explain the importance of taking multiple readings.
+  * Describe the use of a fiducial marker.
+
+--------------------------------------------------------------------------------
+1.1.1  MEASURING LENGTH
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Measurement is fundamental to physics. Every experiment involves measuring
+quantities - and the accuracy of your results depends on using the right
+instrument and technique.
+
+> DEFINITION
+> A measurement is a quantitative observation - it gives a numerical value
+> to a physical quantity.
+
+
+CHOOSING THE RIGHT INSTRUMENT
+-------------------------------
+
+Different instruments are used depending on the size of the length being
+measured:
+
+┌──────────────────────────┬────────────────────────┬─────────────────────────┐
+│ Instrument               │ Range                  │ Resolution              │
+├──────────────────────────┼────────────────────────┼─────────────────────────┤
+│ Ruler                    │ Up to 100 cm           │ 1 mm (0.1 cm)           │
+├──────────────────────────┼────────────────────────┼─────────────────────────┤
+│ Tape measure             │ Up to several metres   │ 1 mm                    │
+├──────────────────────────┼────────────────────────┼─────────────────────────┤
+│ Trundle wheel            │ Tens of metres         │ The circumference of    │
+│                          │                        │ the wheel (~1 m)        │
+└──────────────────────────┴────────────────────────┴─────────────────────────┘
+
+KEY POINTS:
+  - A ruler can measure small distances of a few centimetres, to the nearest
+    millimetre
+  - A tape measure is used for longer lengths of tens of centimetres to a
+    few metres
+  - A trundle wheel is used for even larger distances (tens of metres), such
+    as the length of a sports field
+
+
+AVOIDING ERRORS WHEN MEASURING LENGTH
+---------------------------------------
+
+1. PARALLAX ERROR:
+   - Always read the scale at EYE LEVEL, directly in line with the mark
+   - Looking from an angle gives a false reading
+
+2. ZERO ERROR:
+   - Check that the ruler reads zero before the measurement starts
+   - If the ruler is worn at the end, start measuring from a known
+     graduation (e.g. 1 cm) and subtract it from your reading
+
+3. For very small objects, measure several together and divide:
+   - For example, measure the thickness of 10 sheets of paper, then
+     divide by 10 to find the thickness of one sheet
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 1.1---
+TYPE: Apparatus
+PURPOSE: Show common instruments for measuring length
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Three panels side by side showing ruler, tape measure, trundle wheel
+
+COMPONENTS:
+  [Left Panel - Ruler]
+    Symbol: ruler_horizontal
+    Position: grid(2,4)
+    Size: medium
+    Style: solid medium (2px), with graduation marks
+    Label: "Ruler" [below]
+    Annotation: "Up to 100 cm" [below label]
+
+  [Center Panel - Tape Measure]
+    Symbol: tape_measure_coiled
+    Position: grid(6,4)
+    Size: medium
+    Style: solid medium (2px)
+    Label: "Tape Measure" [below]
+    Annotation: "Up to several metres" [below label]
+
+  [Right Panel - Trundle Wheel]
+    Symbol: trundle_wheel
+    Position: grid(10,4)
+    Size: medium
+    Style: solid medium (2px)
+    Label: "Trundle Wheel" [below]
+    Annotation: "Tens of metres" [below label]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Title]: "Instruments for Measuring Length" [top center]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 1: Measuring Small Objects
+--------------------------------------------------------------------------------
+
+PROBLEM:
+The diagram shows four identical ball-bearings placed between two blocks
+on a steel ruler. Calculate the diameter of one ball-bearing.
+
+The blocks mark the edges of the first and last ball-bearings.
+The left block is at the 4 cm mark. The right block is at the 12 cm mark.
+
+SOLUTION:
+
+Step 1: Measure the total length of all four ball-bearings
+    Total length = 12 cm − 4 cm
+    Total length = 8 cm
+
+Step 2: Calculate the diameter of one ball-bearing
+    Diameter = Total length ÷ Number of ball-bearings
+    Diameter = 8 ÷ 4
+    Diameter = 2 cm
+
+EXAMINER TIP:
+When measuring several small identical objects together, always divide the
+total measurement by the number of objects to find the size of one.
+
+
+--------------------------------------------------------------------------------
+1.1.2  MEASURING VOLUME
+--------------------------------------------------------------------------------
+
+MEASURING THE VOLUME OF A LIQUID
+----------------------------------
+
+A measuring cylinder is used to measure the volume of a liquid.
+
+KEY POINTS:
+  - Read the scale at the BOTTOM of the meniscus (the curved surface)
+  - Read at EYE LEVEL to avoid parallax error
+  - The units are usually cubic centimetres (cm³) or millilitres (ml)
+    (1 cm³ = 1 ml)
+
+
+MEASURING THE VOLUME OF AN IRREGULAR SOLID
+---------------------------------------------
+
+The volume of an irregular solid (e.g. a stone or key) can be found using
+the DISPLACEMENT METHOD:
+
+PROCEDURE:
+  1. Pour water into a measuring cylinder and record the initial volume (V₁)
+  2. Carefully lower the object into the water
+  3. Record the new volume (V₂)
+  4. Calculate the volume of the object:
+
+         Volume of object = V₂ − V₁
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 1.2---
+TYPE: Apparatus
+PURPOSE: Show the displacement method for measuring volume of irregular solid
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 16:9 wide
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two measuring cylinders side by side (before and after)
+
+COMPONENTS:
+  [Left Cylinder - Before]
+    Symbol: measuring_cylinder
+    Position: grid(3,4)
+    Size: medium
+    Style: solid medium (2px)
+    Label: "Before" [below]
+
+  [Left Water Level]
+    Symbol: horizontal_line
+    Position: inside left cylinder, at lower level
+    Style: blue, dashed
+    Label: "V₁ = 50 cm³" [left]
+
+  [Right Cylinder - After]
+    Symbol: measuring_cylinder
+    Position: grid(9,4)
+    Size: medium
+    Style: solid medium (2px)
+    Label: "After" [below]
+
+  [Right Water Level]
+    Symbol: horizontal_line
+    Position: inside right cylinder, at higher level
+    Style: blue, dashed
+    Label: "V₂ = 73 cm³" [left]
+
+  [Object in Right Cylinder]
+    Symbol: irregular_shape
+    Position: bottom of right cylinder
+    Label: "Stone" [right]
+
+  [Arrow Between]
+    Symbol: arrow_right
+    Position: grid(5,4) to grid(7,4)
+    Label: "Add object" [above]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Calculation]: "Volume = V₂ − V₁ = 73 − 50 = 23 cm³" [bottom center]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+EXAMINER TIP:
+The displacement method only works for objects that:
+  - SINK in water (denser than water)
+  - Do NOT dissolve in water
+  - Do NOT absorb water
+
+
+--------------------------------------------------------------------------------
+1.1.3  MEASURING TIME
+--------------------------------------------------------------------------------
+
+INSTRUMENTS FOR MEASURING TIME
+---------------------------------
+
+In physics, stop-clocks and stopwatches are used to measure time intervals.
+
+KEY POINTS:
+  - Before starting, ensure the stopwatch is reset to zero
+  - Digital stopwatches typically measure to the nearest 0.01 s
+  - Analogue stop-clocks typically measure to the nearest 0.5 s
+
+
+HUMAN REACTION TIME
+---------------------
+
+An important factor when measuring time intervals is human reaction time:
+
+  - The typical human reaction time for an alert person is about 0.25 s
+  - This creates an uncertainty at the START and at the END of timing
+  - Total reaction time error could be up to 0.5 s per measurement
+
+For this reason, very short time intervals should be measured carefully
+using techniques to reduce the impact of reaction time.
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 2: Measuring Time with a Stopwatch
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A stopwatch is used to measure the time taken for a runner to complete a
+lap of a 400 m track.
+
+The stopwatch shows 0:55:10 at the start and 1:45:10 at the end.
+Calculate how long it took the runner to complete the lap.
+
+SOLUTION:
+
+Step 1: Identify the start time
+    Start time = 55.10 s
+
+Step 2: Identify the finish time
+    Finish time = 1 minute and 45.10 s
+
+Step 3: Convert the finish time into seconds
+    1 minute = 60 seconds
+    Finish time = 60 s + 45.10 s = 105.10 s
+
+Step 4: Calculate the total time taken
+    Total time = Finish time − Start time
+    Total time = 105.10 s − 55.10 s
+    Total time = 50 s
+
+EXAMINER TIP:
+Sometimes information is given in the question that is NOT needed for
+the calculation (e.g. the 400 m track length here). This is a common
+technique to make a question seem harder. Don't let it catch you out!
+
+
+--------------------------------------------------------------------------------
+1.1.4  MULTIPLE READINGS AND FIDUCIAL MARKERS
+--------------------------------------------------------------------------------
+
+WHY TAKE MULTIPLE READINGS?
+-----------------------------
+
+Taking multiple readings in physics reduces the impact of measurement errors:
+
+1. FOR VERY SMALL MEASUREMENTS:
+   - The thickness of a single sheet of paper is too small to measure
+     accurately with a ruler
+   - Measure the thickness of 100 sheets, then divide by 100
+   - This gives a much more accurate average value for one sheet
+
+2. FOR TIME MEASUREMENTS:
+   - A single timing of a pendulum swing includes reaction time errors
+   - Instead, time 10 or 20 complete swings
+   - Divide the total time by the number of swings
+   - This reduces the percentage error from reaction time
+
+
+FIDUCIAL MARKERS
+------------------
+
+> DEFINITION
+> A fiducial marker is a visual reference point, such as a line or a dot,
+> that marks the position at which a measurement is taken.
+
+When timing oscillations (e.g. of a pendulum):
+  - Place a fiducial marker at the equilibrium (rest) position
+  - This is the point where the pendulum moves fastest
+  - It makes it easier to see when the pendulum passes this point
+  - This reduces the error in starting and stopping the timer
+  - Always start and stop timing as the pendulum passes the marker
+    in the SAME direction
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Measurement
+--------------------------------------------------------------------------------
+
+Q1. State the instrument you would use to measure:
+    a) the length of a pencil
+    b) the length of a football pitch
+    c) the volume of water in a beaker
+
+Q2. A student measures the thickness of 50 identical sheets of card.
+    The total thickness is 14.0 cm.
+    Calculate the thickness of one sheet.
+
+Q3. Describe how you would find the volume of a small, irregularly shaped
+    stone using a measuring cylinder.
+
+Q4. Explain why timing 20 swings of a pendulum and dividing by 20 gives
+    a more accurate result than timing just one swing.
+
+Q5. What is a fiducial marker and why is it used?
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 1.2: SCALARS & VECTORS (Extended)
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW (Extended Tier Only)
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Define scalar and vector quantities.
+  * Give examples of each type.
+  * Distinguish between distance and displacement.
+  * Distinguish between speed and velocity.
+
+--------------------------------------------------------------------------------
+1.2.1  SCALAR AND VECTOR QUANTITIES
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+In physics, every quantity can be classified as one of two types: a scalar
+or a vector. Understanding the difference is essential for solving problems
+involving motion and forces.
+
+> DEFINITION
+> A scalar quantity has magnitude (size) only.
+
+> DEFINITION
+> A vector quantity has both magnitude (size) and direction.
+
+EXAMPLES:
+  - Mass is a SCALAR: it has a value (e.g. 5 kg) but no direction
+  - Weight is a VECTOR: it has a value (e.g. 50 N) AND a direction (downward)
+
+
+TABLE OF COMMON SCALARS AND VECTORS:
+
+┌──────────────────────────────┬──────────────────────────────────────────────┐
+│ SCALAR (magnitude only)      │ VECTOR (magnitude + direction)               │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Distance                     │ Displacement                                 │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Speed                        │ Velocity                                     │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Mass                         │ Weight                                       │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Energy                       │ Force                                        │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Volume                       │ Acceleration                                 │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Density                      │ Momentum                                     │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Temperature                  │ Electric field strength                      │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Power                        │                                              │
+└──────────────────────────────┴──────────────────────────────────────────────┘
+
+
+--------------------------------------------------------------------------------
+1.2.2  DISTANCE AND DISPLACEMENT
+--------------------------------------------------------------------------------
+
+DISTANCE:
+  - A measure of how far an object has travelled, regardless of direction
+  - It is the total length of the path taken
+  - Distance has magnitude but NO direction
+  - Distance is a SCALAR quantity
+
+DISPLACEMENT:
+  - A measure of the straight-line distance between two points, INCLUDING
+    direction
+  - Displacement is the length and direction of a straight line drawn from
+    the starting point to the finishing point
+  - Displacement has magnitude AND direction
+  - Displacement is a VECTOR quantity
+
+
+EXAMPLE:
+A student walks 300 m north and then 400 m east to get to school.
+
+  - Distance travelled = 300 + 400 = 700 m (the total path)
+  - Displacement = the straight-line distance from home to school
+    (which can be calculated using Pythagoras' theorem: √(300² + 400²) = 500 m
+    in a direction northeast)
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 1.3---
+TYPE: Comparison
+PURPOSE: Show the difference between distance (path taken) and displacement (straight line)
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Map-style diagram showing a winding path and a straight arrow
+
+COMPONENTS:
+  [Start Point]
+    Symbol: filled_circle
+    Position: grid(2,8)
+    Label: "Home" [below]
+
+  [End Point]
+    Symbol: filled_circle
+    Position: grid(8,3)
+    Label: "School" [above]
+
+  [Path Taken]
+    Symbol: curved_line
+    Position: from grid(2,8) through grid(2,3) to grid(8,3)
+    Style: solid medium, blue
+    Label: "Distance = 700 m (path taken)" [left]
+
+  [Displacement Arrow]
+    Symbol: arrow
+    Position: from grid(2,8) to grid(8,3)
+    Style: solid thick, red
+    Label: "Displacement = 500 m" [along arrow]
+
+  [North Arrow (300 m)]
+    Symbol: arrow_up
+    Position: from grid(2,8) to grid(2,3)
+    Style: dashed, blue
+    Label: "300 m North" [left]
+
+  [East Arrow (400 m)]
+    Symbol: arrow_right
+    Position: from grid(2,3) to grid(8,3)
+    Style: dashed, blue
+    Label: "400 m East" [above]
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Note]: "Distance ≠ Displacement (unless travel is in a straight line)" [bottom center]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+1.2.3  SPEED AND VELOCITY
+--------------------------------------------------------------------------------
+
+SPEED:
+  - A measure of the distance travelled per unit time
+  - Speed describes how FAST an object is moving
+  - Speed has magnitude but NO direction
+  - Speed is a SCALAR quantity
+
+VELOCITY:
+  - A measure of the displacement per unit time, including direction
+  - Velocity describes how fast an object is moving AND the direction
+  - Velocity has magnitude AND direction
+  - Velocity is a VECTOR quantity
+
+KEY POINT:
+An object can have a constant SPEED but a changing VELOCITY if it is
+changing direction.
+
+EXAMPLE:
+A car driving around a roundabout at a constant speed of 30 km/h:
+  - Its speed is constant (30 km/h)
+  - But its velocity is constantly changing because its direction changes
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 3: Mass vs Weight (Scalar vs Vector)
+--------------------------------------------------------------------------------
+
+PROBLEM:
+An instructor is explaining the difference between mass and weight to
+junior astronauts. Suggest how the instructor should explain the difference,
+using definitions of scalars and vectors in your answer.
+
+SOLUTION:
+
+Step 1: Recall the definitions
+    Scalars are quantities that have only magnitude.
+    Vectors are quantities that have both magnitude and direction.
+
+Step 2: Classify mass
+    Mass is a quantity with magnitude only (e.g. 70 kg).
+    Therefore, mass is a SCALAR quantity.
+    The instructor might explain that their mass will NOT change as their
+    location in the Universe changes.
+
+Step 3: Classify weight
+    Weight is a force, so it has both magnitude and direction.
+    Therefore, weight is a VECTOR quantity.
+    The instructor might explain that their weight (the gravitational force
+    acting on them) WILL change depending on location. For example, the
+    force of weight on the Moon is less than on Earth.
+
+EXAMINER TIP:
+Make sure you know the commonly confused pairings:
+  - Distance and displacement
+  - Speed and velocity
+  - Mass and weight
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Scalars & Vectors
+--------------------------------------------------------------------------------
+
+Q6. Define a scalar quantity and a vector quantity.
+
+Q7. Classify each of the following as scalar or vector:
+    a) 50 N downwards
+    b) 25 m/s
+    c) 100 kg
+    d) 30 m north
+    e) 200 J
+
+Q8. Explain the difference between distance and displacement.
+
+Q9. A satellite moves at constant speed in a circular orbit around Earth.
+    Explain why its velocity is not constant.
+
+Q10. Give two examples of vector quantities and two examples of scalar
+     quantities.
+
+(Answers at end of module)
+
+
+================================================================================
+                    SECTION 1.3: CALCULATING WITH VECTORS (Extended)
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION OVERVIEW (Extended Tier Only)
+--------------------------------------------------------------------------------
+
+At the end of this section, students should be able to:
+  * Draw and interpret vector diagrams.
+  * Calculate the resultant of two perpendicular vectors.
+  * Use Pythagoras' theorem and trigonometry to find magnitude and direction.
+
+--------------------------------------------------------------------------------
+1.3.1  VECTOR DIAGRAMS
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+---------------
+Vectors can be represented visually using vector diagrams. These diagrams
+use arrows to show both the magnitude and direction of a quantity.
+
+RULES FOR DRAWING VECTORS:
+  - The LENGTH of the arrow represents the magnitude
+  - The DIRECTION of the arrow indicates the direction of the quantity
+  - The scale of arrows should be proportional to the relative magnitudes
+    (e.g. an arrow for 4 N should be twice as long as an arrow for 2 N)
+
+
+COMPONENT VECTORS:
+  - A single vector can be split into two components:
+    • A HORIZONTAL component (FH)
+    • A VERTICAL component (FV)
+  - Component vectors are often drawn with dotted lines
+
+
+--------------------------------------------------------------------------------
+1.3.2  COMBINING VECTORS GRAPHICALLY
+--------------------------------------------------------------------------------
+
+When two vectors act at right angles to each other, they can be combined
+into a single RESULTANT vector.
+
+THE GRAPHICAL METHOD:
+
+Follow these steps:
+  1. Choose a suitable SCALE (e.g. 1 cm = 10 N)
+  2. Draw the first vector to scale in the correct direction
+  3. Draw the second vector to scale at right angles
+  4. Complete the rectangle
+  5. Draw the RESULTANT vector as the diagonal from the origin
+  6. Measure the length of the resultant and convert using the scale
+  7. Use a protractor to measure the angle
+
+
+--------------------------------------------------------------------------------
+1.3.3  COMBINING VECTORS BY CALCULATION
+--------------------------------------------------------------------------------
+
+Instead of drawing to scale, vectors can be combined using mathematics.
+
+WHEN TWO VECTORS ARE PERPENDICULAR (at 90°):
+
+1. Find the MAGNITUDE of the resultant using Pythagoras' theorem:
+
+              R = √(F₁² + F₂²)
+
+2. Find the DIRECTION (angle) using trigonometry:
+
+                        opposite
+              tan θ = ──────────
+                        adjacent
+
+Where θ is the angle between the resultant and one of the component vectors.
+
+TRIGONOMETRY REMINDER (SOH CAH TOA):
+  - sin θ = opposite / hypotenuse
+  - cos θ = adjacent / hypotenuse
+  - tan θ = opposite / adjacent
+
+
+--------------------------------------------------------------------------------
+---DIAGRAM: Fig. 1.4---
+TYPE: Vector
+PURPOSE: Show how two perpendicular vectors combine into a resultant
+STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+ASPECT_RATIO: 4:3 landscape
+GRID: 10 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Right-angled triangle formed by two component vectors and resultant
+
+COMPONENTS:
+  [Origin Point]
+    Symbol: filled_circle
+    Position: grid(2,8)
+
+  [Horizontal Vector]
+    Symbol: arrow_right
+    Position: from grid(2,8) to grid(8,8)
+    Style: solid thick, blue
+    Label: "F₁ = 60 N" [below]
+
+  [Vertical Vector]
+    Symbol: arrow_up
+    Position: from grid(8,8) to grid(8,2)
+    Style: solid thick, green
+    Label: "F₂ = 100 N" [right]
+
+  [Resultant Vector]
+    Symbol: arrow
+    Position: from grid(2,8) to grid(8,2)
+    Style: solid thick (4px), red
+    Label: "R = 117 N" [along arrow]
+
+  [Angle Arc]
+    Symbol: arc
+    Position: at grid(2,8)
+    Style: small arc between horizontal and resultant
+    Label: "θ = 59°" [inside arc]
+
+  [Right Angle Symbol]
+    Symbol: square_corner
+    Position: grid(8,8)
+    Style: small square
+
+CONNECTIONS:
+  None
+
+ANNOTATIONS:
+  [Formula 1]: "R = √(60² + 100²) = 117 N" [top left]
+  [Formula 2]: "θ = tan⁻¹(100/60) = 59°" [below formula 1]
+---END DIAGRAM---
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLE 4: Resultant Force Calculation
+--------------------------------------------------------------------------------
+
+PROBLEM:
+A force acts on an object with 60 N to the right. A second force of 100 N
+acts on the same object in the upward direction. Calculate the resultant
+force acting on the object.
+
+SOLUTION:
+
+Step 1: Draw a vector diagram (sketch)
+    The two forces act at right angles to each other.
+    F₁ = 60 N (horizontal, to the right)
+    F₂ = 100 N (vertical, upward)
+
+Step 2: Calculate the magnitude using Pythagoras' theorem
+    R = √(F₁² + F₂²)
+    R = √(60² + 100²)
+    R = √(3600 + 10000)
+    R = √13600
+    R = 117 N (to 3 significant figures)
+
+Step 3: Calculate the direction using trigonometry
+                   opposite       100
+    tan θ = ──────────── = ──────
+                   adjacent        60
+
+    θ = tan⁻¹(100/60)
+    θ = 59° (to 2 significant figures)
+
+Step 4: State the final answer with magnitude and direction
+    The resultant force is 117 N at 59° from the horizontal.
+
+EXAMINER TIP:
+If the question asks you to use a specific method (graphical or calculation),
+you MUST use that method. If the choice is yours, calculation is usually
+quicker and more accurate.
+
+
+--------------------------------------------------------------------------------
+CHECK YOUR UNDERSTANDING: Calculating with Vectors
+--------------------------------------------------------------------------------
+
+Q11. A force of 30 N acts to the right and a force of 40 N acts upward.
+     Calculate the magnitude of the resultant force.
+
+Q12. For the forces in Q11, calculate the angle between the resultant
+     and the horizontal.
+
+Q13. A boat travels 5 km east and then 12 km north.
+     a) What is the total distance travelled?
+     b) Calculate the displacement of the boat from its starting point.
+
+Q14. Explain why a vector diagram must be drawn to scale when using the
+     graphical method.
+
+Q15. State two mathematical methods that can be used to calculate the
+     resultant of two perpendicular vectors.
+
+(Answers at end of module)
+
+
+================================================================================
+                    MODULE SUMMARY
+================================================================================
+
+KEY CONCEPTS:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TOPIC                          │ KEY POINTS                                 │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Measuring Length               │ Use rulers (small), tape measures           │
+│                                │ (medium), trundle wheels (large)           │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Measuring Volume               │ Use measuring cylinder; displacement       │
+│                                │ method for irregular solids                │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Measuring Time                 │ Stopwatch; reaction time ≈ 0.25 s         │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Multiple Readings              │ Reduce error by measuring many at once     │
+│                                │ and dividing                               │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Fiducial Marker                │ Reference point for oscillation timing     │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Scalar                         │ Magnitude only (e.g. mass, distance,       │
+│                                │ speed, energy)                             │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Vector                         │ Magnitude + direction (e.g. weight,        │
+│                                │ displacement, velocity, force)             │
+├────────────────────────────────┼────────────────────────────────────────────┤
+│ Resultant Vector               │ R = √(F₁² + F₂²) for perpendicular       │
+│                                │ vectors; θ = tan⁻¹(opp / adj)             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+KEY FORMULAS:
+
+  Volume of irregular solid: V = V₂ − V₁
+
+  Resultant of perpendicular vectors:  R = √(F₁² + F₂²)
+
+  Direction of resultant:  θ = tan⁻¹(opposite / adjacent)
+
+
+================================================================================
+                   ANSWERS TO CHECK YOUR UNDERSTANDING
+================================================================================
+
+SECTION 1.1: Measurement
+
+A1. a) Ruler
+    b) Trundle wheel (or tape measure)
+    c) Measuring cylinder
+
+A2. Thickness of one sheet = 14.0 ÷ 50 = 0.28 cm (or 2.8 mm)
+
+A3. 1) Pour water into a measuring cylinder and record the initial
+       volume (V₁).
+    2) Carefully lower the stone into the water.
+    3) Record the new volume (V₂).
+    4) Volume of stone = V₂ − V₁.
+
+A4. Timing 20 swings reduces the effect of human reaction time error.
+    The total reaction time error (approximately 0.5 s) is spread over
+    a much longer time period, making the percentage error much smaller.
+
+A5. A fiducial marker is a visual reference point (a line or dot) placed
+    at the equilibrium position of an oscillating object. It is used to
+    reduce timing errors by making it easier to see when the object
+    passes this point.
+
+
+SECTION 1.2: Scalars & Vectors
+
+A6. A scalar quantity has magnitude (size) only.
+    A vector quantity has both magnitude and direction.
+
+A7. a) Vector (force with direction)
+    b) Scalar (speed has no direction stated)
+    c) Scalar (mass)
+    d) Vector (displacement - has direction "north")
+    e) Scalar (energy)
+
+A8. Distance is the total length of the path taken (scalar, no direction).
+    Displacement is the straight-line distance from start to finish,
+    including direction (vector).
+
+A9. Although the satellite has constant speed, its direction is
+    continuously changing as it orbits. Velocity includes direction,
+    so if direction changes, velocity changes. Therefore, velocity
+    is not constant.
+
+A10. Vectors: force, velocity (or weight, displacement, acceleration).
+     Scalars: mass, energy (or distance, speed, temperature, volume).
+
+
+SECTION 1.3: Calculating with Vectors
+
+A11. R = √(30² + 40²) = √(900 + 1600) = √2500 = 50 N
+
+A12. tan θ = 40 / 30
+     θ = tan⁻¹(40/30) = tan⁻¹(1.333) = 53.1°
+
+A13. a) Total distance = 5 + 12 = 17 km
+     b) Displacement = √(5² + 12²) = √(25 + 144) = √169 = 13 km
+
+A14. The graphical method relies on measuring the length of the resultant
+     arrow. If the diagram is not drawn to scale, the measured length
+     will give an incorrect magnitude.
+
+A15. Pythagoras' theorem (for magnitude) and trigonometry (for direction).
+
+
+================================================================================
+                    SELF-ASSESSMENT CHECKLIST
+================================================================================
+
+After completing this module, check that you can:
+
+  [ ] Select the correct instrument for measuring length, volume, and time
+  [ ] Describe the displacement method for finding volume
+  [ ] Explain why multiple readings improve accuracy
+  [ ] Describe the use of a fiducial marker
+  [ ] Define scalar and vector quantities (Extended)
+  [ ] Give examples of scalars and vectors (Extended)
+  [ ] Distinguish between distance/displacement and speed/velocity (Extended)
+  [ ] Draw vector diagrams (Extended)
+  [ ] Use Pythagoras and trigonometry to calculate resultant vectors (Extended)
+
+================================================================================
+                    END OF MODULE 1
+================================================================================

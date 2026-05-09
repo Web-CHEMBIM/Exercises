@@ -1,0 +1,212 @@
+Cambridge (CIE) IGCSE
+Physics
+Simple Phenomena of Magnetism
+Contents
+Magnetism
+Magnets
+Magnetic Fields
+Plotting Magnetic FieldsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Magnetism
+Magnetism
+Forces between magnetic poles
+The ends of a magnet are called poles
+Magnets have two poles: a north and a south
+Magnetic forces are strongest at the poles
+North and south poles of a magnet
+Poles of a Magnet
+When two magnets are held close together, there will be a force between the magnets
+Like poles repel (push each other apart)
+A north pole will repel a north pole
+A south pole will repel a south pole
+Opposite poles attract (are pulled toward each other)
+A north pole will be attracted to a south pole 
+Magnet attraction and repulsion
+Opposite poles attract and like poles repel
+The attraction or repulsion between two magnetic poles is an example of a non-contact
+force
+Examiner Tips and TricksYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Uses of magnets
+Uses of permanent magnets
+Uses of permanent magnets include:
+Compasses: for thousands of years humans have used compasses for navigation,
+since the needle always points north
+School lab experiments: the magnets used in school science demonstrations are
+permanent magnets
+Toys: toy trains and trucks often have magnets which attach the carriages or trailers
+to the engine or cab
+Fridge magnets: these are made either of flexible magnetic material or by sticking a
+magnet to the back of something
+Some uses of magnets
+Compasses and toy trains are two examples of the use of permanent magnets
+Uses of electromagnets
+Electromagnets have many uses including
+MRI scanners: in hospitals, an MRI scanner is a large, cylindrical machine using
+powerful electromagnets to produce diagnostic images of the organs of the body
+Speakers and earphones: the loudspeakers, microphones and earphones used in
+phones and laptops use electromagnets to sense or send soundwaves
+Recycling: because steel is a magnetic material it can be easily separated from
+other metals and materials using electromagnets. Once recovered the steel is re-
+used and recycled, reducing mining for iron ore and processing ore into steelIn your exam, you need to be able to predict the interaction that will occur between
+magnets when given their physical arrangement.
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+Mag-Lev Trains: the ability of Mag-Lev trains to hover above the rails is due to them
+being repelled by large electromagnets on the train and track. This reduces friction
+and allows speeds of nearly 400 miles per hour
+Some uses of electromagnets
+Picking and sorting scrap metal and an MRI scanner are two examples of the uses of
+electromagnetsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+Magnets
+Induced magnetism
+Magnetic materials
+Very few metals in the Periodic Table are magnetic
+The magnetic metals are:
+Iron
+Cobalt
+Nickel
+Steel is an alloy which contains iron, so it is also magnetic
+Magnetic materials
+Magnetic materials are attracted to a magnet; non-magnetic materials are not
+Magnetic materials (which are not magnets) will always be attracted to the magnet,
+regardless of which pole is held close to it
+Magnets and magnetic materials
+Magnetic materials are attracted to both poles of a permanent magnet
+Bringing a material close to a known magnet will determine if the material is magnetic,
+non-magnetic or if it is a magnet itselfYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+It is a magnet if it is repelled by the known magnet
+It is a magnetic material if it is attracted to the known magnet
+It is a non-magnetic material if it is neither attracted nor repelled by the known
+magnet
+Types of magnets
+There are two types of magnets:
+Permanent magnets
+Induced (also called temporary) magnets
+Permanent magnets
+Permanent magnets are made out of permanent magnetic materials, for example, steel
+A permanent magnet will produce its own magnetic field
+It will not lose its magnetism
+Temporary (induced) magnetism
+An induced magnet is a material with a soft iron core that becomes a magnet
+temporarily when it is placed in a magnetic field
+Induced magnetism always causes a force of attraction between the permanent
+magnet creating the magnetic field and the induced magnet 
+When this happens it is said that the material has been magnetised
+This means that the end of the material closest to the magnet will have the opposite
+pole to that of the magnet pole closest to the material
+When removed from the magnetic field, the material will lose its induced magnetism
+quickly and become unmagnetised
+Some objects such as paperclips or needles (made from steel) can be magnetised
+and will remain magnetic for a while
+Other objects, such as electromagnets or transformers (which are made from soft
+iron) will be unmagnetised (no longer magnetised) as soon as the cause of the
+induced magnetism is removed
+Induced magnetism in a magnetic materialYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Inducing magnetism in a magnetic material
+Worked Example
+The diagram below shows a magnet held close to a piece of metal suspended by a
+light cotton thread. The piece of metal is attracted towards the magnet.
+Which of the following rows in the table gives the correct type of pole at X and the
+correct material of the suspended piece of metal?
+Type of pole at X Material of suspended piece of metal
+A North Nickel
+B South Nickel
+C North AluminiumYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+D South Aluminium
+Answer: A
+X must be a north pole
+The piece of metal is being attracted towards the magnet
+The law of magnetism states that opposite poles attract
+The material of the suspended piece of metal is nickel
+Nickel is a magnetic material (It will experience a force when it is placed in a
+magnetic field, in this case it is attracted towards the magnet)
+B is incorrect because X cannot also be a south pole (and hence is a north pole)
+If the pole at X was a south pole then the piece of metal would be repelled
+from the magnet because the law of magnetism states that like poles repel
+C and D are incorrect because aluminium is not a magnetic material
+A non-magnetic material would be unaffected by the magnetic field
+produced by the magnetYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Magnetic Fields
+Magnetic fields
+A magnetic field is defined as:
+A region in which a magnetic pole experiences a force
+Magnetic field around a bar magnet
+The magnetic field is strongest at the poles
+Therefore, the magnetic field lines are closer together at the ends of the magnets
+The magnetic field becomes weaker as the distance from the magnet increases
+Therefore, the magnetic field lines get further apart
+Magnetic field around a bar magnet
+The magnetic field around a bar magnet
+Magnetic field lines
+Field lines always have an arrow indicating the direction of the field line
+The direction of the field line shows the direction that the magnetic force would act
+The field lines always go from a north pole to a south pole
+Magnetic field strength
+Extended tier only
+Magnetic forces are due to interactions between magnetic fields
+Two bar magnets can repel or attract
+This is shown by the magnetic field lines between the two magnets:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Attractive and repulsive magnetic fields
+Magnetic field lines for attracting and repelling bar magnets
+The strength of the magnetic field is shown by the spacing of the magnetic field lines
+If the magnetic field lines are close together then the magnetic field will be strong
+If the magnetic field lines are far apart then the magnetic field will be weak
+Examiner Tips and Tricks
+If you are asked to draw the magnetic field around a bar magnet remember to
+indicate both the direction of the magnetic field and the strength of the magnetic
+field. You can do this by:
+Adding arrows pointing away from the north pole and towards the south pole
+Making sure the magnetic field lines are further apart as the distance from the
+magnet increasesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Plotting Magnetic Fields
+Plotting magnetic field lines
+In your IGCSE examination, you might be asked to describe a method of plotting the
+magnetic field around a bar magnet
+There are two principal ways of doing this:
+using iron filings
+using plotting compasses
+Using iron filings
+Place a piece of paper on top of the magnet
+Gently sprinkle iron filings on top of the paper
+Now carefully tap the paper to allow the iron filings to settle on the field lines
+Magnetic field lines using iron filings
+Iron filings can be used to plot a magnetic field
+Using plotting compasses
+Place the magnet on top of a piece of paper
+Draw a dot at one end of the magnet (near its corner)
+Place a plotting compass next to the dot, so that one end of the needle of the compass
+points towards the dotYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Use a pencil to draw a new dot on the other side of the compass needle
+Now move the compass so that it points towards the new dot, and repeat the above
+process
+Keep repeating until you have a chain of dots going from one end of the magnet to the
+other. Then remove the compass, and link the dots using a smooth curve. This is the
+magnetic field line
+The direction of the field lines go from the north pole to the south pole of the magnet.
+This is the same as the direction of the north arrow on the plotting compass, which
+points towards the south pole
+Repeat the process to create other magnetic field lines around the bar magnet
+Using a compass to create magnetic field lines
+Compasses can be used to plot the magnetic field around a bar magnet Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+

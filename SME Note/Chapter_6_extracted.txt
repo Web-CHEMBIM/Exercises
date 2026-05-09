@@ -1,0 +1,242 @@
+Cambridge (CIE) IGCSE
+Physics
+Momentum
+Contents
+Momentum
+ImpulseYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Momentum
+Momentum
+Extended tier only
+An object with mass that is in motion has momentum 
+The momentum equation
+Momentum is defined by the equation:
+momentum =mass ×velocity
+p =mv
+Where:
+p = momentum, measured in kilogram metres per second (kg m/s)
+m  = mass in kilograms (kg)
+v = velocity in metres per second (m/s)
+This means that an object at rest (i.e. v = 0) has no momentum
+Momentum keeps an object moving in the same direction
+It is difficult to change the direction of an object that has a large momentum
+Velocity is a vector with both magnitude and direction
+This means that the momentum of an object also depends on its direction of travel
+Therefore, momentum can be either positive or negative
+If an object has positive momentum, then an object travelling in the opposite direction
+will have negative momentum 
+How does the momentum of a ball change after a collision?Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+The momentum of the tennis ball is positive as it approaches the wall and negative after
+the collision, as it moves in the opposite direction
+Worked Example
+Determine which object has the most momentum.
+Answer:
+Step 1: Determine the momentum of the tennis ball using the momentum equation
+p =mv
+p =0 .06 ×75
+p =4 .5kgm /sYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+Conservation of momentum
+Extended tier only
+The principle of conservation of momentum states that:
+In a closed system, the total momentum before an event is equal to the total momentum
+after the event
+A system, in physics, is an object or group of objects
+A closed system means that no energy is transferred into or out of the system and there
+are no external forces acting
+The principle of conservation of momentum can also be written as:
+The total momentum before a collision = The total momentum after a collision
+Since momentum is a vector quantity, a system of objects moving in opposite directions
+(e.g. towards each other) at the same speed will have an overall momentum of 0 since
+they will cancel out
+Momentum is always conserved over time
+The diagram below shows two masses m with velocity u and M at rest (ie. zero velocity)
+Principle of conservation of momentum for a collisionStep 2: Determine the momentum of the brick using the momentum equation
+p =mv
+p =3 ×1 .5
+p =4 .5kgm /s
+Step 3: Compare the momentum of each object
+Both the tennis ball and the brick have the same momentum
+Even though the brick is much heavier than the ball, the ball is travelling much
+faster than the brick
+This means that on impact, they would both exert a similar force (depending on
+the time it takes for each to come to rest)
+Examiner Tips and Tricks
+You can remember momentum as mass in motion. The units of momentum are kg
+m/s which is the product of the units of mass (kg) and velocity (m/s).
+Which direction is taken as positive is completely up to you in the exam, as long as you
+are consistent throughout a question. In general, the right and upwards are taken as
+positive, and down or to the left as negative.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+The momentum of a system before and after a collision is constant
+Before the collision:
+The momentum is only of mass m which is moving
+If the right is taken as the positive direction, the total momentum of the system is m
+× u
+After the collision:
+Mass M also now has momentum
+The velocity of m is now -v (since it is now travelling to the left) and the velocity of M
+is V
+The total momentum is now the momentum of M + momentum of m
+This is (M × V) + (m × -v) or (M × V) – (m × v)
+Worked Example
+The diagram shows a car and a van, just before and just after the car collided with the
+van, which is initially at rest.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Use the idea of conservation of momentum to calculate the velocity of the van when it
+is pushed forward by the collision.
+Answer:
+Step 1: State the principle of conservation of momentum
+total momentum before =total momentum after
+Step 2: Calculate the total momentum before the collision
+p =mv
+Momentum of the car
+p =990 ×10
+p =9900 kgm /s
+Momentum of the van
+The van is at rest
+Therefore, v = 0 m/s
+Therefore, p = 0 kg m/s
+Total momentum before collision
+pbefore=9900 +0 =9900 kgm /s
+Step 3: Calculate the total momentum after the collision
+Momentum of the car
+p =990 ×2Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+p =1980 kgm /s
+Momentum of the van
+p =4200 ×v
+Total momentum after collision
+pafter=1980 +4200 v
+Step 4: Rearrange the conservation of momentum equation to solve for v
+pbefore=pafter
+9900 =1980 +4200 v
+9900 −1980 =4200 v
+v =9900 −1980
+4200
+v =1 .9m /s
+Examiner Tips and Tricks
+If it is not given in the question already, drawing a diagram of before and after helps
+keep track of all the masses and velocities (and directions) in the conversation of
+momentum questions.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Impulse
+Impulse
+Extended tier only
+When an external resultant force acts on an object for a very short time and changes the
+object's motion, we call this impulse
+For example:
+Kicking a ball
+Catching a ball
+A collision between two objects
+The impulse equation
+Impulse is the product of the force applied and the time for which it acts
+impulse =F ∆t
+Where:
+F = resultant force, measured in newtons (N)
+∆t = change in time, measured in seconds (s)
+Therefore, the units of impulse are newton seconds (Ns)
+The impulse of the resultant force is equal to the change in momentum of the object
+impulse =F ∆t = ∆p
+Change in momentum can also be described as:
+∆p = ∆ ( )mv
+∆p =mv −mu
+Where:
+∆p = change in momentum, measured in kilogram metres per second (kg m/s)
+m  = mass, measured in kilograms (kg)
+v = final velocity, measured in metres per second (m/s)
+u = initial velocity, measured in metres per second (m/s)
+Therefore:
+impulse =F ∆t = ∆p =mv −muYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Examples of impulse
+When rain and hail (frozen water droplets) hit an umbrella, they feel very different due to
+the impulse of the force
+Water droplets tend to splatter and roll off the umbrella because there is only a
+very small change in momentum
+Hailstones have a larger mass and tend to bounce back off the umbrella, because there
+is a greater change in momentum
+Therefore, the impulse that the umbrella applies on the hail stones is greater than the
+impulse the umbrella applies on the raindrops
+This means that more force is required to hold an umbrella upright in hail compared to
+rain
+The impulse exerted by the umbrella on the hail stones is greater than the impulse exerted
+on the raindrops.
+Worked Example
+A 58 g tennis ball moving horizontally to the left at a speed of 30 m s is struck by a
+tennis racket which returns the ball back to the right at 20 m s.
+(i) Calculate the impulse of the force exerted by the racket on the ball
+(ii) State which direction the impulse is in–1
+–1Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Force & momentum
+Extended tier only
+Newton's second law is defined by the equation:
+F =ma
+Momentum is given by the equation:
+p =mv
+Combining these equations gives Newton's second law in terms of momentum:Answer:
+Part (i)
+Step 1: Write the known quantities
+Taking the initial direction of the ball as positive (the left)
+Initial velocity, u =30m /s
+Final velocity, v = −20m /s
+Mass, m =58g =58 ×10−3kg
+Step 2: Write down the impulse equation
+impulse =F ∆t = ∆p =mv −mu
+Step 3: Substitute in the values
+impulse =m ( ) v −u
+impulse =58 ×10−3 ( ) −20 −30
+impulse = −2 .9Ns
+Part (ii)
+State the direction of the impulse
+Since the impulse is negative, it must be in the opposite direction to which the
+tennis ball was initially travelling 
+Therefore, the direction of the impulse is to the right
+Examiner Tips and Tricks
+Remember that if an object changes direction, then this must be reflected by the
+change in sign of the velocity. For example, if the left is taken as positive and therefore
+the right as negative, an impulse of 20 N s to the right is equal to -20 N sYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+F =∆p
+∆t
+Therefore, force can also be defined as the rate of change of momentum on a body
+Or the change in momentum per unit time
+Worked Example
+A tennis ball hits a racket twice, with a change in momentum of 0.5 kg m/s both times.
+During the first hit, the contact time is 2 s and during the second hit, the contact time
+is 0.1 s
+Determine which strike of the tennis racket experiences the greatest force from the
+tennis ball.
+Answer:
+Step 1: Calculate the force during the first hit
+F =∆p
+∆t
+F =0 .5
+2
+F =0 .25N
+Step 2: Calculate the force during the second hit
+F =∆p
+∆t
+F =0 .5
+0 .1
+F =5 .0N
+Step 3: State your answerYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+The tennis racket experiences the greatest force from the ball during the second
+hit
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+

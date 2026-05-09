@@ -1,0 +1,656 @@
+Cambridge (CIE) IGCSE
+Physics
+Earth & The Solar System
+Contents
+The Earth, Moon & Sun
+The Solar System
+Formation of the Solar System
+Light Speed Calculations
+Gravitational Field Strength
+Orbital Speed Equation
+Elliptical OrbitsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+The Earth, Moon & Sun
+Sun & Earth
+The Earth is a planet that
+rotates on its axis once every 24 hours
+orbits around the Sun once every 365 days
+The Earth's axis is:
+a line that passes through the North and South poles
+tilted at an angle of approximately 23.5° from the vertical
+The daily rotation of the Earth on its axis causes
+the periodic cycle of day and night
+the apparent daily rising and setting of the Sun
+Day and night
+Day and night are caused by the Earth's rotation on its axis
+One full rotation takes approximately 24 hours, which means
+the half of the Earth's surface facing the Sun experiences day
+the other half of the Earth's surface, facing away from the Sun, experiences night
+Day and night on EarthYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Day and night are caused by the rotation of the Earth on its axis once every 24 hours
+The rising and setting of the Sun
+The apparent daily motion of the Sun is also caused by the Earth's rotation on its axis
+Each day, the Sun appears 
+to rise from the east
+to set in the west 
+to reach its highest point above the horizon at noon (12 pm)
+The length of a day is
+the number of hours a location receives sunlight, i.e. from the time the Sun rises to
+the time it sets
+the same (about 12 hours) in locations near to the equator
+variable in locations north and south of the equator
+Apparent motion of the SunYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+The Sun rises in the east and sets in the west. Its apparent motion across the sky changes
+throughout the year
+During equinoxes in both hemispheres:
+day and night are approximately equal in length
+the Sun appears to rise exactly in the east and set exactly in the west
+During the summer, the Sun appears:
+to rise in the northeast and set in the northwest (in the northern hemisphere)
+to rise in the southeast and set in the southwest (in the southern hemisphere)
+to move higher above the horizon
+to reach its greatest height above the horizon on the summer solstice, the day when
+daylight hours are the longest
+During the winter, the Sun appears:
+to rise in the southeast and set in the southwest (in the northern hemisphere)
+to rise in the northeast and set in the northwest (in the southern hemisphere)
+to move closer to the horizonYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+to reach its lowest height above the horizon on the winter solstice, the day when
+daylight hours are the shortest
+The seasons
+Throughout the year, most locations on Earth experience four seasons; summer,
+autumn, winter and spring
+These seasons are caused by
+the Earth's orbit around the Sun
+the Earth's tilted axis
+The Earth's axis of rotation stays tilted at 23.5° throughout its orbit around the Sun, which
+means
+one hemisphere tilts towards the Sun and receives more solar radiation
+the other hemisphere tilts away from the Sun and receives less solar radiation
+six months later, the hemispheres tilt in the opposite direction
+Seasons on Earth
+Seasons are caused by the tilt of the Earth and the orbital motion around the Sun. When it
+is summer in the northern hemisphere (NH), it is winter in the southern hemisphere (SH)
+When it is summer in the northern hemisphere
+the northern hemisphere is tilted towards the SunYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+the northern hemisphere receives a greater proportion of solar radiation
+the southern hemisphere experiences winter
+When it is winter in the northern hemisphere
+the northern hemisphere is tilted away from the Sun
+the northern hemisphere receives a smaller proportion of solar radiation
+the southern hemisphere experiences summer
+When it is spring or autumn, both hemispheres receive about the same amount of solar
+radiation
+The effect of the Earth's tilt on solar radiation
+The amount of solar radiation received by the northern hemisphere in winter is less than
+the amount of solar radiation received by the southern hemisphere in summer
+The variation in daylight hours throughout the year in the northern and southern
+hemispheres is shown below: 
+Seasons, equinoxes and solstices
+When Northern
+HemisphereDaylight hours Southern
+HemisphereDaylight hours
+20 Mar (spring)
+equinoxequal hours of
+day and night(autumn)
+equinoxequal hours of
+day and night
+Mar, Apr,
+Mayspring days are longer
+than nights
+hours of daylight
+increaseautumn days are shorter
+than nights
+hours of daylight
+decrease
+21 Jun (summer)
+solsticelongest hours of
+daylight(winter)
+solsticeshortest hours of
+daylight
+Jun, Jul,
+Augsummer days are longer
+than nights
+hours of daylight
+decreasewinter days are shorter
+than nights
+hours of daylight
+increase
+23 Sept (autumn)
+equinoxequal hours of
+day and night(spring)
+equinoxequal hours of
+day and night
+Sept,
+Oct, Novautumn days are shorter
+than nights
+hours of daylight
+decreasespring days are longer
+than nights
+hours of daylight
+increaseYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+21 Dec (winter)
+solsticeshortest hours of
+daylight(summer)
+solsticelongest hours of
+daylight
+Dec, Jan,
+Febwinter days are shorter
+than nights
+hours of daylight
+increasesummer days are longer
+than nights
+hours of daylight
+decrease
+Moon & Earth
+The Moon is a natural satellite that
+orbits around the Earth in a roughly circular orbit
+takes about one month (28 days) to complete one orbit
+rotates on its axis once every 28 days so the same side always faces the Earth
+Phases of the Moon
+The Moon does not produce its own light
+It is visible in the night sky because it reflects the light from the Sun
+As it orbits around the Earth, it can be seen to undergo different phases
+Motion of the MoonExaminer Tips and Tricks
+It is a common misconception that summer is warm because the Sun is closer to Earth
+and that winter is cold because the Sun is further away - this is not correct! The Earth
+does have a slightly elliptical orbit around the Sun, but this does not cause a
+significant temperature variation.
+Remember that seasons are caused by the Earth's tilted axis of rotation and its yearly
+revolution around the Sun.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+Exactly half of the Moon is always illuminated by the Sun, but its appearance varies when
+viewed from Earth as it completes its monthly orbit
+On day 0, a new moon is observed, where:
+the Moon is positioned between the Earth and the Sun 
+the side of the Moon facing away from Earth is fully illuminated
+none of the Moon's surface is visible from Earth
+On day 7, the first quarter phaseis observed
+After the new moon, a thin crescent appears and becomes brighter (waxes)
+After the first quarter moon, it continues to brighten (wax) into a gibbous shape
+On day 14, a full moon is observed, where:
+the Earth is positioned between the Moon and the Sun 
+the side of the Moon facing towards the Earth is fully illuminated
+all of the Moon's surface is visible from Earth
+On day 21, the last quarter phase is observed 
+After the full moon, it becomes dimmer (wanes) back into a gibbous shape
+After the last quarter moon, it continues to dim (wane) into a crescent
+On day 29, a new moon is observed and the cycle starts againYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+The Solar System
+The Solar System
+The Solar System consists of:
+the Sun
+eight planets
+natural and artificial satellites
+dwarf planets
+asteroids and comets
+The Solar System
+The Solar System consists of one star (the Sun) and the objects that orbit it, including the
+planets, moons, dwarf planets, asteroids and comets
+The Planets
+There are eight planets which orbit the Sun
+In ascending order of the distance from the Sun, these are:
+Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+The planets can be divided into two groups
+the inner rocky planets
+the outer gas giants
+Dwarf Planets
+A dwarf planet is an object similar to a planet, but much smallerYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+The gravitational field around a planet is strong enough to pull in nearby objects (with
+the exception of natural satellites)
+Whereas, the gravitational fieldaround a dwarf planet is not strong enough to pull in
+nearby objects
+Satellites
+There are two types of satellites: natural and artificial
+Natural and artificial satellites of Earth
+The Moon is a natural satellite of the Earth. Many artificial satellites orbit around the Earth.
+Natural satellites are objects that orbit planets
+A moon is a type of natural satellite
+Artificial satellites are manmade objects that orbit another object in space
+The International Space Station (ISS) is an example of an artificial satellite that orbits the
+Earth 
+Asteroids and comets
+Asteroids and comets also orbit the Sun
+Locations of asteroids and cometsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Asteroids are found in the Asteroid Belt between Mars and Jupiter, whereas comets are
+usually found in the outer reaches of the Solar System due to their highly elliptical orbits
+An asteroid is a small rocky object which orbits the Sun
+The asteroid belt lies between Mars and Jupiter
+An asteroid
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Asteroids are small, rocky objects which occupy the inner Solar System
+A comet is an object made of dust and ice which goes around the Sun in a highly
+elliptical (not a circular path with the Sun at the centre) path
+The ice melts when the comet approaches the Sun and forms the comet’s tail
+A comet
+Comets are small, icy objects which occupy the outer Solar System
+Orbiting bodies
+The Solar System is made up of many bodies which orbit around other bodies
+Smaller bodies orbit around larger bodies
+For example, planets orbit the Sun and moons orbit planets
+The orbiting bodies in the Solar System are shown in the table below:
+Table of orbiting bodies in the Solar System
+orbiting body body it orbits
+planet the Sun
+moon planetYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+comet can pass around the Sun
+asteroid the Sun
+artificial satellites the Earth
+Analysing orbits
+Extended tier only
+Over many years, data for the planets, moons and the Sun have been collected
+Some of this data is shown in the table below 
+Data for the planets in the Solar System
+Planet Mean
+distance
+from
+Sun
+(relative
+to Earth)Orbital
+period
+(Earth
+years)Mean
+surface
+temperature
+(°C)Density
+(kg/m )Diameter
+(10 km)Mass
+(relative
+to
+Earth)Surface
+gravity
+(N/kg)
+Mercury 0.39 0.24 350 5429 4.9 0.06 3.7
+Venus 0.72 0.60 460 5243 12.1 0.82 8.9
+Earth 1 1 20 5514 12.8 1 9.8
+Mars 1.5 2 −23 3934 6.8 0.11 3.7
+Jupiter 5.2 12 −120 1326 143 320 23.1Examiner Tips and Tricks
+You need to know the order of the 8 planets in the Solar System. The following
+mnemonic gives the first letter of each of the planets to help you recall them:
+My Very Excellent Mother Just Served Us Noodles
+Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+3 3Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+Saturn 9.6 30 −180 687 121 95 9.0
+Uranus 19 84 −210 1270 51 15 8.7
+Neptune 30 160 −220 1638 50 17 11.0
+The data allows us to
+make comparisons
+identify trends and anomalies
+make predictions 
+Some examples of comparisons are:
+Neptune is 30 times further away from the Sun than the Earth
+Jupiter contains the same mass as 320 Earths
+An example of a trend is:
+As the distance from the Sun increases, the time it takes to complete one orbit
+(orbital period) also increases
+An example of an anomaly is:
+As the distance from the Sun increases, the temperature decreases, except for
+Venus which has a higher temperature than Mercury
+An example of a prediction is:
+The temperature of a dwarf planet in the asteroid belt is likely to be around −100°C,
+but it could be anywhere between −63°C and −130°C as these are the temperatures
+of Mars and Jupiter
+Examiner Tips and Tricks
+Don't panic when you see the large table of numbers - you don't need to memorise
+any of it, but you need to be able to analyse and interpret it confidently. Look for
+trends such as one variable increasing whilst the other decreases (or increases). Think
+carefully about why that may be with what you have already learnt about the planets
+from this topic. For example, what is the planet made of? What is its distance from the
+Sun and how does this affect it?Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Formation of the Solar System
+Formation of the Solar System
+The 4 inner planets (nearest to the Sun):  
+are rocky and small
+have atmospheres (except for Mercury)
+The 4 outer planets (furthest from the Sun):
+are gaseous and large
+are mostly composed of hydrogen and helium gas
+The planets in the Solar System
+The eight planets can be split into the four inner rocky planets and the four outer gas
+giants
+The differences between the inner and outer planets can be explained using the
+accretion model for the formation of the Solar System
+Distribution of elements in the Solar System
+The Sun and the planets in the Solar System formed from a cloud of dust and gas
+(nebula)
+Gravity pulled this cloud together into a giant ball, which would eventually become
+the Sun
+As the nebula collapsed, the Sun became denser and hotterYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+The Solar System then formed around 4.5 billion years ago
+The planets formed from the remnants of the matter left over from the nebula that
+formed the Sun
+The nebula contained many elements that were created during a supernova
+explosion in the distant past
+As the early Sun became hotter, gaseous matter was pushed further out into the Solar
+System than solid matter
+A nebula
+A nebula is an interstellar cloud of gas and dust 
+Formation of the inner planets
+In the hotter regions, closer to the Sun, the temperature was too high for lighter elements
+to exist in a solid state
+Therefore, the inner planets formed from materials with high melting temperatures
+such as metals (e.g. iron)
+The original nebula contained only a small proportion of heavy elements, so the inner
+planets could not grow as significantly as the outer planets
+As a result, solids in the inner disc were pulled together by gravity to form solid planets
+This is why the 4 planets nearest to the Sun (Mercury, Venus, Earth and Mars) are
+rocky and small 
+Formation of the outer planets
+In the cooler regions, further from the Sun, the temperature was low enough for the light
+molecules to exist in a solid stateYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+Therefore, the outer planets formed from materials with low melting temperatures
+(e.g. hydrogen, helium, water and methane)
+The original nebula contained a large proportion of light elements, so the outer
+planets were able to become exceptionally large
+As a result, gases in the outer disc were pulled together by gravity to form gaseous
+planets
+This is why the 4 planets furthest from the Sun (Jupiter, Saturn, Uranus and Neptune)
+are gaseous and large
+Formation of the accretion disc
+In the nebula, matter accreted
+This means attractive gravitational forces between particles caused them to join
+together and grow into larger objects
+As the cloud collapsed under gravitational forces
+it began to spin faster
+it became hotter
+it formed an accretion disc
+From the rotating accretion disc, the Sun and the planets emerged
+The Sun formed at the centre
+The planets formed in the accretion disc
+Formation of the Solar SystemYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+The Solar System formed from a nebula with the Sun in the centre, then solid planets
+closer to the Sun and gaseous planets further away
+Examiner Tips and Tricks
+When writing about the formation of the Solar System, make sure you can:
+State where solid and gaseous matter gathered in the Solar System
+Explain how heavier elements became a part of the nebula
+Describe the role of gravity in pulling matter together and the formation of an
+accretion disc
+Explain the difference between the planets in terms of the accretion modelYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+Light Speed Calculations
+Light speed calculations
+Light is a type of electromagnetic wave which travels at a constant speed of 3 × 10 m/s
+Objects in the Solar System are visible from Earth as they reflect light from the Sun
+It takes time for light to travel such large distances, for example:
+it takes 8 minutes for light from the Sun to reach Earth
+it takes around 5 hours for light from the Sun to reach the outer regions of the Solar
+System
+it takes 4 years for light from our nearest star (after the Sun) to reach Earth
+The Milky Way galaxy contains billions of stars, huge distances away, with the light taking
+even longer to be seen from Earth
+To carry out light speed calculations, we can rearrange the equation:
+average speed =total distance
+total time
+So, the time taken for light to travel a distance can be calculated using:
+time =distance
+speed oflight8
+Worked Example
+The radius of Mercury's orbit around the Sun is 5.8 × 10  m.
+The speed of light is 3.0 × 10 m/s.
+Calculate the time taken for light from the Sun to reach Mercury.
+Answer:
+Step 1: List the known quantities
+Distance travelled = 5.8 × 10  m
+Speed of light = 3.0 × 10 m/s
+Step 2: State the equation for the time taken for light to travel a distance
+time =distance
+speed oflight
+Step 3: Substitute the values into the equation10
+8
+10
+8Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+time =5 .8 ×1010
+3 .0 ×108=193s
+It takes about 193 s, or 3 min, for light from the Sun to reach Mercury
+Examiner Tips and Tricks
+The speed of light is very fast. This is why in our everyday life things like switching on a
+light seem to be instant. However, this is only because the light travels very fast and
+the distances are very small. In large, astronomical distances which can be millions or
+even billions of kilometres, the limit of the speed of light starts to have an effect.
+For example, it takes light 8 minutes to travel from the Sun to the Earth. This means we
+are seeing the Sun as it was eight minutes ago. If the Sun was to disappear, we would
+not notice till eight minutes later. Although, by that time, time delay would be the least
+of our worries...
+p.s.: The Sun is not going to vanish!Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Gravitational Field Strength
+Gravitational field strength of a planet
+The strength of a gravitational field around a planet depends on 
+the mass of the planet
+the distance from the planet
+Gravitational field strength and mass
+The relationship between gravitational field strength and mass is:
+The greater the mass of a planet, the greater the strength of the gravitational field at its
+surface
+The value of g (gravitational field strength) varies from planet to planet depending on
+their mass and radius
+Gravitational field strength of bodies in the Solar System
+The strength of the gravitational field at the surface of a planet depends on its mass and
+radius
+Gravitational field strength and distance
+The relationship between gravitational field strength and distance is:
+As the distance from a planet increases, the strength of the gravitational field decreases
+At the surface of a planet, the value of g (gravitational field strength) is constant, but it
+decreases with distance from the planet
+Examiner Tips and TricksYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+
+Gravitational attraction of the Sun
+Orbital motion is a result of the gravitational force of attraction acting between two
+bodies
+This gravitational force
+always acts towards the centre of the larger body
+causes the orbiting body to move in a circular path
+The Sun contains most of the mass (>99%) of the Solar System
+Therefore, for objects orbiting around the Sun
+the Sun's gravitational attraction keeps them in orbit
+the force is directed from the orbiting object to the centre of the Sun
+Orbital motion of the Earth around the Sun
+The Sun's gravitational force of attraction keeps the Earth in orbit around the Sun
+Orbital motion of planets
+Extended tier only
+As the distance from the Sun increases:
+the Sun's gravitational field strength decreases
+the orbital speed of a planet decreasesYou do not need to remember the value of g on different planets for your exam, and
+the value of g for Earth is given on the front page of the exam paper.
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
+
+For an object to maintain a circular orbit, it must have a centripetal force
+For planets orbiting the Sun, this force is the Sun's gravitational attraction
+Therefore, the centripetal force on a planet depends on
+the strength of the Sun's gravitational field
+the distance of the planet from the Sun
+The further away a planet is from the Sun, the weaker the strength of the Sun's
+gravitational attraction and the weaker the centripetal force
+The centripetal force on a planet is proportional to its orbital speed
+Therefore, the further a planet is from the Sun:
+the smaller its orbital speed
+the longer its orbital period
+Orbital speed and distance
+The closest planets to the Sun have the fastest orbital speeds, and the furthest have the
+slowest
+This trend in orbital speed and distance can be seen in the data of the planets in the Solar
+System:
+Orbital radius, speed and period data
+Planet Orbital radius (million
+km)Orbital speed
+(km/s)Orbital period (days or
+years)
+Mercury 57.9 47.9 88 daysYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
+
+Venus 108.2 35.0 225 days
+Earth 149.6 29.8 365 days
+Mars 227.9 24.1 687 days
+Jupiter 778.6 13.1 11.9 years
+Saturn 1433.5 9.7 29.5 years
+Uranus 2872.5 6.8  75 years
+Neptune 4495.1 5.4 165 years
+Examiner Tips and Tricks
+Be careful with your wording in this topic when talking about gravity. It is important to
+refer to the force of gravity as 'gravitational attraction', ' strength of the Sun's
+gravitational field' or 'the force due to gravity'. Avoid terms such as 'the Sun's gravity'
+or even more vague, 'the force from the Sun'. Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
+
+Orbital Speed Equation
+Orbital speed equation
+Extended tier only
+When planets orbit around the Sun, or a moon moves around a planet, they move
+in circular orbits
+In one complete orbit, a planet travels a distance equal to the circumference of a circle
+This is equal to 2 πr,where r is the radius of the circular path
+The relationship between speed, distance and time is:
+speed =distance
+time=circumference oforbit
+orbital period
+The average orbital speed of an object can be defined by the equation:
+v =2 πr
+T
+Where:
+v = orbital speed in metres per second (m/s)
+r = average radius of the orbit in metres (m)
+T = orbital period in seconds (s)
+This orbital period (or time period) is defined as:
+The time taken for an object to complete one orbit
+The orbital radius r is always taken from the centre of the object being orbited to the
+object orbiting
+Orbital speed of a planetYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
+
+Orbital radius and orbital speed of a planet moving around a Sun
+Worked Example
+The Hubble Space Telescope moves in a circular orbit. Its height above the Earth’s
+surface is 560 km and the radius of the Earth is 6400 km. It completes one orbit in 96
+minutes.
+Calculate its orbital speed in m/s.
+Answer:
+Step 1: List the known quantities
+Radius of the Earth, R = 6400 km
+Height of the telescope above the Earth's surface, h = 560 km
+Time period, T = 96 minutes
+Step 2: Write the relevant equationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+
+v =2 πr
+T
+Step 3: Calculate the orbital radius, r
+The orbital radius is the distance from the centre of the Earth to the telescope
+r =R +h
+r =6400 +560 =6960 km
+Step 4: Convert any units
+The time period needs to be in seconds
+1minute =60seconds
+96minutes =60 ×96 =5760 s
+The radius needs to be in metres
+1km =1000 m
+6960 km =6960000m
+Step 5: Substitute values into the orbital speed equation
+v =2 π ×6960000
+5760=7592 .18 =7590 m /s
+Examiner Tips and Tricks
+Remember to check that the orbital radius r given is the distance from the centre of
+the Sun (if a planet is orbiting a Sun) or the planet (if a moon is orbiting a planet) and
+not just from the surface. If the distance is a height above the surface you must add
+the radius of the body, to get the height above the centre of mass of the body.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 28
+
+This is because orbits are caused by the mass, which can be assumed to act at the
+centre, rather than the surface.
+Don't forget to check your units and convert any if required!Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 29
+
+Elliptical Orbits
+Elliptical orbits
+Extended tier only
+The orbits of planets, minor planets and comets are elliptical
+An ellipse is a 'squashed' circle
+Planets and minor planets have slightly elliptical orbits
+Their orbits are approximately circular, so the Sun is generally considered to be at
+the centre
+Comets have highly elliptical orbits
+The Sun is not at the centre of the orbit, it is at one of the two foci of the ellipse
+Comet speed
+Extended tier only
+An object in an elliptical orbit around the Sun travels at a different speed depending on
+its distance from the Sun 
+Although these orbits are not circular, they are still stable
+For a stable orbit, the radius must change if the comet's orbital speed changes
+As the comet approaches the Sun:
+the radius of the orbit decreases
+the orbital speed increases due to the Sun's strong gravitational pull
+As the comet travels further away from the Sun:
+the radius of the orbit increases
+the orbital speed decreases due to a weaker gravitational pull from the Sun
+Speed of a comet in an elliptical orbitExaminer Tips and Tricks
+You will not be asked to do any calculations with elliptical orbits. If you are asked to
+calculate the time period, orbital speed or radius of an orbit, it can be assumed that it
+is circular.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 30
+
+Comets travel in highly elliptical orbits, speeding up as they approach the Sun
+Conservation of energy in elliptical orbits
+When an object moves in an elliptical orbit, energy must be conserved
+Throughout the orbit, gravitational potential energy is transferred to kinetic energy, and
+vice versa
+When a comet travels closer to the Sun, it has greater kinetic energy
+When a comet travels further from the Sun, it has greater gravitational potential
+energy
+As the comet approaches the Sun:
+it loses gravitational potential energy and gains kinetic energy
+the increase in kinetic energy causes it to speed up
+As the comet moves away from the Sun:
+it gains gravitational potential energy and loses kinetic energy
+the decrease in kinetic energy causes it to slow down
+Examiner Tips and Tricks
+Remember that an object's kinetic energy is defined by: 1
+2mv2 where m is the mass
+of the object and v is its speed. Therefore, if the speed of an object increases, soYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 31
+
+does its kinetic energy. Its gravitational potential energy therefore must decrease for
+energy to be conserved.
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 32
+

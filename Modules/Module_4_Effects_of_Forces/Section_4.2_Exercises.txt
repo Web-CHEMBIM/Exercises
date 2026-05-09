@@ -1,0 +1,631 @@
+================================================================================
+          SECTION 4.2 NEWTON'S FIRST LAW - PRACTICE EXERCISES (50 Questions)
+================================================================================
+
+Learning Objectives Covered:
+  * State Newton's first law of motion.
+  * Describe the effect of balanced forces on an object.
+  * Explain why a resultant force is required to change an object's velocity.
+
+Total Questions: 50
+Assessment Objectives: AO1 (25%), AO2 (50%), AO3 (25%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (10)
+================================================================================
+
+1. Newton's first law states that an object will remain at rest or move with 
+   constant velocity unless:
+   A: It has mass
+   B: It is in space
+   C: A resultant force acts on it
+   D: Friction is present
+
+2. A car travels at a constant velocity of 20 m/s. What is the resultant force 
+   acting on the car?
+   A: 0 N
+   B: 20 N
+   C: Cannot be determined without knowing the mass
+   D: Depends on the direction
+
+3. Which of the following is an example of Newton's first law?
+   A: A rocket accelerating upwards
+   B: A book resting on a table
+   C: A ball falling from a height
+   D: A car braking to a stop
+
+4. An object is moving at constant velocity. Which statement is correct?
+   A: No forces are acting on it
+   B: The forces acting on it are balanced
+   C: It must be in space
+   D: It is accelerating
+
+5. A spacecraft drifts through deep space at constant speed in a straight line.
+   What can be concluded about the forces acting on it?
+   A: A forward force is pushing it
+   B: Gravity is pulling it
+   C: The resultant force is zero
+   D: Air resistance is slowing it down
+
+6. A train moves at 30 m/s in a straight line. The engine provides 5000 N 
+   forward. What is the total backward force (friction + air resistance)?
+   A: 0 N
+   B: 5000 N
+   C: 10000 N
+   D: Cannot be determined
+
+7. Which quantity must be constant for Newton's first law to apply?
+   A: Speed only
+   B: Direction only
+   C: Velocity (speed and direction)
+   D: Acceleration
+
+8. An ice hockey puck slides across frictionless ice at constant speed. 
+   According to Newton's first law, what will happen?
+   A: It will slow down gradually
+   B: It will speed up
+   C: It will continue at constant speed indefinitely
+   D: It will stop immediately
+
+9. A parachutist falls at constant velocity (terminal velocity). What does this 
+   tell us about the forces?
+   A: Air resistance is greater than weight
+   B: Weight is greater than air resistance
+   C: Air resistance equals weight
+   D: No forces are acting
+
+10. Which of the following requires a resultant force?
+    A: An object at rest
+    B: An object moving at constant velocity
+    C: An object changing direction
+    D: An object in equilibrium
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION (8)
+================================================================================
+
+11. "An object needs a continuous force to keep moving at constant velocity."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+12. "If an object is moving, there must be a resultant force acting on it."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+13. "Newton's first law only applies to objects at rest."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+14. "A car traveling around a bend at constant speed is an example of Newton's 
+     first law."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+15. "In space, an object will continue moving forever without any force."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+16. "Constant velocity means the same thing as constant speed."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+17. "If the resultant force on an object is zero, it must be stationary."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+18. "Friction always opposes Newton's first law."
+    TRUE / FALSE
+    Justification: ___________________________________________
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK (8)
+================================================================================
+
+WORD BANK: velocity, rest, resultant, balanced, zero, direction, inertia, 
+           constant, accelerate, straight line
+
+19. Newton's first law states that objects will remain at __________ or move 
+    with constant __________ unless acted on by a resultant force.
+
+20. When an object moves at constant velocity, the __________ force is zero.
+
+21. Constant velocity means both speed and __________ are constant.
+
+22. If forces are __________, an object will not change its motion.
+
+23. A __________ force is needed to make an object accelerate.
+
+24. An object moving at constant velocity will continue in a __________ at 
+    constant speed.
+
+25. When the resultant force is __________, there is no change in velocity.
+
+26. The tendency of an object to resist changes in motion is called __________.
+
+================================================================================
+                    SECTION D: SHORT ANSWER QUESTIONS (10)
+================================================================================
+
+27. State Newton's first law of motion. [2]
+
+28. Explain what is meant by "constant velocity". [2]
+
+29. A book rests on a table. Use Newton's first law to explain why it remains 
+    at rest. [2]
+
+30. A rock drifts through the vacuum of deep space. Predict its motion if no 
+    forces act on it. [2]
+
+31. Explain why a resultant force is needed to change an object's velocity. [2]
+
+32. A car travels at constant speed but goes around a bend. Explain why this 
+    is NOT an example of Newton's first law. [3]
+
+33. State what the resultant force must be for an object moving at constant 
+    velocity. [1]
+
+34. Describe the motion of an object when the forces acting on it are balanced. [2]
+
+35. A train moves at constant velocity of 25 m/s. The engine provides a forward 
+    force of 8000 N. State the magnitude of the total backward force. [2]
+
+36. Explain why passengers lurch forward when a bus brakes suddenly. Use 
+    Newton's first law in your answer. [3]
+
+================================================================================
+                    SECTION E: CALCULATION QUESTIONS (15)
+================================================================================
+
+37. A car moves at constant velocity. The driving force is 2500 N forward.
+    Calculate the total frictional force acting backward. [2]
+
+38. A boat travels at constant velocity. The engine provides 6000 N forward.
+    Air resistance is 2000 N and water resistance is 4000 N.
+    (a) Calculate the total backward force. [1]
+    (b) Verify that the boat is traveling at constant velocity. [1]
+
+39. A cyclist travels at constant velocity. Friction and air resistance total 
+    180 N backward. Calculate the force the cyclist must apply forward. [2]
+
+40. An airplane flies at constant velocity. The engines provide 50,000 N thrust.
+    Air resistance is 35,000 N. Calculate the additional drag force that must 
+    be acting. [2]
+
+41. A train moves at constant velocity of 30 m/s. The engine force is 12,000 N.
+    Friction is 5000 N and air resistance is 7000 N.
+    (a) Calculate the total backward force. [1]
+    (b) Show that the train is moving at constant velocity. [1]
+
+42. A box slides across ice at constant velocity. The pushing force is 25 N.
+    Calculate the friction force. [2]
+
+43. A parachutist falls at terminal velocity (constant velocity downward).
+    Her weight is 600 N. Calculate the air resistance force. [2]
+
+44. A car travels at constant velocity. The engine provides 3000 N forward.
+    If air resistance is 1200 N, calculate the friction force. [2]
+
+45. A boat moves at constant velocity. The total backward force is 8500 N.
+    Calculate the engine force. [2]
+
+46. An object moves at constant velocity. Forces of 100 N forward, 40 N backward,
+    and 30 N backward act on it. Calculate the additional force that must be 
+    acting and state its direction. [3]
+
+47. A skydiver falls at terminal velocity. His weight is 800 N. Air resistance 
+    is 650 N. Is he actually at terminal velocity? Show your working. [3]
+
+48. A lorry travels at constant velocity. The engine provides 15,000 N forward.
+    Friction is 6000 N and air resistance is 9000 N.
+    (a) Show that the lorry is at constant velocity. [2]
+    (b) The driver increases the engine force to 18,000 N. Calculate the new 
+        resultant force. [2]
+
+49. A spacecraft in deep space travels at constant velocity of 5000 m/s.
+    State the resultant force acting on it. Explain your answer. [2]
+
+50. A car moves at constant velocity. The driving force is 4500 N. The total 
+    resistance is F. Write an equation relating these forces. [1]
+
+51. A swimmer swims at constant velocity. She pushes the water backward with 
+    a force of 120 N. Calculate the water resistance force acting on her. [2]
+
+================================================================================
+                    SECTION F: STRUCTURED QUESTIONS (3)
+================================================================================
+
+52. Fig. 1 shows a car traveling along a straight, level road at constant 
+    velocity.
+
+    ---DIAGRAM: Fig. 1---
+    TYPE: Force
+    PURPOSE: Car at constant velocity with forces
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 10 × 6
+    COMPONENTS:
+      [Car]
+        Symbol: car_side_view
+        Position: grid(5,3)
+        Size: medium
+      [Engine Force Arrow]
+        Symbol: arrow_right
+        Position: front of car
+        Label: "Engine force = 3000 N"
+      [Friction Arrow]
+        Symbol: arrow_left
+        Position: rear of car
+        Label: "Friction = 1000 N"
+      [Air Resistance Arrow]
+        Symbol: arrow_left
+        Position: top of car
+        Label: "Air resistance = ?"
+    ---END DIAGRAM---
+
+    (a) State the velocity of the car at t = 5 s if it was 20 m/s at t = 0 s. [1]
+    
+    (b) Calculate the air resistance force. [2]
+    
+    (c) Explain why the car does not accelerate. [2]
+    
+    (d) The driver presses the accelerator, increasing the engine force to 
+        4000 N. Calculate the new resultant force. [2]
+    
+    (e) Describe what will happen to the car's motion after the driver presses 
+        the accelerator. [1]
+
+53. A student investigates Newton's first law using a dynamics trolley on a 
+    horizontal track.
+
+    (a) The student gives the trolley a push and releases it. The trolley 
+        gradually slows down and stops. The student says: "This shows Newton's 
+        first law is wrong because the trolley didn't keep moving."
+        
+        Explain why the student is incorrect. [3]
+    
+    (b) Suggest how the experiment could be improved to better demonstrate 
+        Newton's first law. [2]
+    
+    (c) In an ideal situation with no friction, predict what would happen to 
+        the trolley after it is pushed. [2]
+    
+    (d) The trolley has mass 500 g and travels at constant velocity of 0.8 m/s.
+        State the resultant force acting on it. [1]
+
+54. Fig. 2 shows a parachutist at two different stages of a jump.
+
+    ---DIAGRAM: Fig. 2---
+    TYPE: Comparison
+    PURPOSE: Show forces at different stages of parachute jump
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 8
+    COMPONENTS:
+      [Stage A - Left Panel]
+        Symbol: parachutist_falling
+        Position: grid(3,4)
+        Label: "Stage A: Just after jumping"
+        [Weight Arrow]: down, "Weight = 700 N"
+        [Air Resistance Arrow]: up, "Air resistance = 100 N"
+      
+      [Stage B - Right Panel]
+        Symbol: parachutist_falling
+        Position: grid(9,4)
+        Label: "Stage B: Terminal velocity"
+        [Weight Arrow]: down, "Weight = 700 N"
+        [Air Resistance Arrow]: up, "Air resistance = ?"
+    ---END DIAGRAM---
+
+    (a) Calculate the resultant force at Stage A. [2]
+    
+    (b) Describe the motion of the parachutist at Stage A. [1]
+    
+    (c) Calculate the air resistance at Stage B. [2]
+    
+    (d) Explain why the parachutist is at constant velocity at Stage B. [2]
+    
+    (e) Use Newton's first law to explain what happens at Stage B. [2]
+
+================================================================================
+                    SECTION G: DATA INTERPRETATION (4)
+================================================================================
+
+55. The table shows data for different vehicles traveling along a road.
+
+    ┌──────────┬──────────┬────────────┬────────────┬──────────────┐
+    │ Vehicle  │ Velocity │ Engine     │ Total      │ Resultant    │
+    │          │ (m/s)    │ Force (N)  │ Resistance │ Force (N)    │
+    │          │          │            │ (N)        │              │
+    ├──────────┼──────────┼────────────┼────────────┼──────────────┤
+    │ Car A    │ 20       │ 2000       │ 2000       │ ?            │
+    │ Car B    │ 25       │ 3500       │ 3000       │ ?            │
+    │ Truck C  │ 15       │ 8000       │ 8000       │ ?            │
+    │ Bus D    │ 18       │ 6000       │ 5500       │ ?            │
+    └──────────┴──────────┴────────────┴────────────┴──────────────┘
+
+    (a) Complete the table by calculating the resultant force for each 
+        vehicle. [2]
+    (b) Which vehicles are traveling at constant velocity? [2]
+    (c) Which vehicle is accelerating most? Explain your answer. [2]
+    (d) Explain why Car A continues to move even though the resultant force 
+        is zero. [2]
+
+56. A student records the forces on a bicycle at different times during a journey.
+
+    ┌──────────┬─────────────┬──────────────┬──────────────┐
+    │ Time (s) │ Pedal Force │ Resistance   │ Velocity     │
+    │          │ (N)         │ (N)          │ (m/s)        │
+    ├──────────┼─────────────┼──────────────┼──────────────┤
+    │ 0        │ 150         │ 50           │ 0            │
+    │ 5        │ 150         │ 100          │ 8            │
+    │ 10       │ 150         │ 150          │ 12           │
+    │ 15       │ 150         │ 150          │ 12           │
+    │ 20       │ 100         │ 150          │ 12           │
+    └──────────┴─────────────┴──────────────┴──────────────┘
+
+    (a) At what time does the bicycle first reach constant velocity? [1]
+    (b) Explain how you determined your answer to part (a). [2]
+    (c) Calculate the resultant force at t = 20 s. [1]
+    (d) Describe the motion of the bicycle after t = 20 s. [2]
+
+57. The graph shows the velocity of a car over time.
+
+    ---DIAGRAM: Fig. 3---
+    TYPE: Graph
+    PURPOSE: Velocity-time graph showing constant velocity periods
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+    COMPONENTS:
+      [Axes]
+        X-axis: "Time (s)" from 0 to 30
+        Y-axis: "Velocity (m/s)" from 0 to 25
+      [Graph Line]
+        Points: (0,0), (5,15), (15,15), (20,20), (30,20)
+        Style: connected line segments
+    ---END DIAGRAM---
+
+    (a) During which time periods is the car at constant velocity? [2]
+    (b) State the resultant force during these periods. [1]
+    (c) During which time periods is there a resultant force acting? [2]
+    (d) Use Newton's first law to explain the motion between 5 s and 15 s. [2]
+
+58. Four objects are moving as described in the table.
+
+    ┌──────────┬─────────────────────────────────────────────────┐
+    │ Object   │ Description                                     │
+    ├──────────┼─────────────────────────────────────────────────┤
+    │ A        │ Moving at 10 m/s in a straight line             │
+    │ B        │ Moving at 10 m/s around a circular track        │
+    │ C        │ Stationary on a table                           │
+    │ D        │ Accelerating from 0 to 10 m/s                   │
+    └──────────┴─────────────────────────────────────────────────┘
+
+    (a) Which objects have a resultant force of zero? [2]
+    (b) Explain your answer for Object B. [2]
+    (c) Which object is the best example of Newton's first law? Explain. [2]
+
+================================================================================
+                    SECTION H: COMPARE AND CONTRAST (2)
+================================================================================
+
+59. Compare and contrast the motion of:
+    - Object A: At rest on a table
+    - Object B: Moving at constant velocity in a straight line
+    
+    In your answer, discuss:
+    - The resultant force in each case
+    - Whether Newton's first law applies
+    - The state of the forces (balanced/unbalanced)
+    - What would happen if a force was applied
+    [6]
+
+60. Two cars are traveling along a road:
+    - Car A: Constant velocity of 20 m/s
+    - Car B: Accelerating from 15 m/s to 25 m/s
+    
+    Compare these situations in terms of:
+    - Resultant force
+    - Balance of forces
+    - Application of Newton's first law
+    - Engine force vs. resistance forces
+    [6]
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+---------------------------
+1.  C - A resultant force is needed to change motion
+2.  A - Constant velocity means resultant force = 0 N
+3.  B - Book at rest with balanced forces
+4.  B - Constant velocity means balanced forces (resultant = 0)
+5.  C - No acceleration means resultant force is zero
+6.  B - At constant velocity, forward force = backward force = 5000 N
+7.  C - Velocity (both speed and direction) must be constant
+8.  C - With no friction and no force, it continues indefinitely
+9.  C - Constant velocity means balanced forces
+10. C - Changing direction requires a resultant force
+
+SECTION B: TRUE/FALSE
+---------------------
+11. FALSE - Object continues at constant velocity without force (Newton's 1st law)
+12. FALSE - Object can move at constant velocity with zero resultant force
+13. FALSE - Also applies to objects moving at constant velocity
+14. FALSE - Changing direction means changing velocity, requires resultant force
+15. TRUE - Newton's first law: continues indefinitely without force
+16. FALSE - Constant velocity requires constant speed AND direction
+17. FALSE - Could be moving at constant velocity
+18. FALSE - Friction can be balanced by another force, allowing constant velocity
+
+SECTION C: FILL-IN-THE-BLANK
+-----------------------------
+19. rest, velocity
+20. resultant
+21. direction
+22. balanced
+23. resultant
+24. straight line
+25. zero
+26. inertia
+
+SECTION D: SHORT ANSWER
+-----------------------
+27. Objects will remain at rest or move with constant velocity [1] unless acted 
+    on by a resultant force [1].
+
+28. Constant velocity means both speed and direction remain unchanged [2].
+
+29. The forces on the book are balanced (weight down = normal force up) [1], so 
+    the resultant force is zero and the book remains at rest [1].
+
+30. The rock will continue moving in a straight line at constant speed 
+    indefinitely [2].
+
+31. Newton's first law states objects continue at constant velocity unless a 
+    resultant force acts [1]. Therefore, a resultant force is needed to change 
+    velocity [1].
+
+32. Going around a bend means changing direction [1]. Changing direction means 
+    velocity is changing [1]. Newton's first law requires constant velocity 
+    (constant speed AND direction) [1].
+
+33. 0 N (zero) [1]
+
+34. The object will remain at rest if stationary [1], or continue at constant 
+    velocity if moving [1].
+
+35. At constant velocity, forward force = backward force [1], so backward force 
+    = 8000 N [1].
+
+36. The passengers' bodies want to continue at constant velocity (Newton's first 
+    law) [1]. When the bus brakes, the bus slows but the passengers continue 
+    forward [1] until the seat belt or seat provides a force to slow them [1].
+
+SECTION E: CALCULATIONS
+-----------------------
+37. At constant velocity, forward = backward [1]
+    Frictional force = 2500 N [1]
+
+38. (a) Total backward = 2000 + 4000 = 6000 N [1]
+    (b) Forward (6000 N) = Backward (6000 N), so constant velocity ✓ [1]
+
+39. At constant velocity, forward = backward [1]
+    Cyclist force = 180 N forward [1]
+
+40. Total backward = 50,000 N (at constant velocity) [1]
+    Additional drag = 50,000 - 35,000 = 15,000 N [1]
+
+41. (a) Total backward = 5000 + 7000 = 12,000 N [1]
+    (b) Forward (12,000 N) = Backward (12,000 N), so constant velocity ✓ [1]
+
+42. At constant velocity, friction = pushing force [1]
+    Friction = 25 N [1]
+
+43. At terminal velocity (constant), air resistance = weight [1]
+    Air resistance = 600 N [1]
+
+44. At constant velocity, total backward = 3000 N [1]
+    Friction = 3000 - 1200 = 1800 N [1]
+
+45. At constant velocity, engine force = total backward [1]
+    Engine force = 8500 N [1]
+
+46. Forward: 100 N, Backward: 40+30 = 70 N [1]
+    For constant velocity: need 100 = 70 + F [1]
+    Additional force = 30 N backward [1]
+
+47. For terminal velocity, weight must equal air resistance [1]
+    800 N ≠ 650 N, so NOT at terminal velocity [1]
+    Resultant = 800-650 = 150 N downward, still accelerating [1]
+
+48. (a) Total backward = 6000+9000 = 15,000 N [1]
+        Forward (15,000) = Backward (15,000), constant velocity ✓ [1]
+    (b) New resultant = 18,000 - 15,000 = 3000 N forward [2]
+
+49. Resultant force = 0 N [1]. At constant velocity, forces are balanced [1].
+
+50. 4500 = F [1] (or F = 4500 N)
+
+51. At constant velocity, water resistance = pushing force [1]
+    Water resistance = 120 N [1]
+
+SECTION F: STRUCTURED QUESTIONS
+--------------------------------
+52. (a) 20 m/s (constant velocity means no change) [1]
+    (b) At constant velocity, total backward = forward = 3000 N [1]
+        Air resistance = 3000 - 1000 = 2000 N [1]
+    (c) The forces are balanced [1], so resultant force is zero and no 
+        acceleration occurs [1]
+    (d) New resultant = 4000 - 3000 = 1000 N forward [2]
+    (e) The car will accelerate (speed up) [1]
+
+53. (a) The trolley slowed because friction acted on it [1]. Friction is a 
+        resultant force that opposes motion [1]. Newton's first law says objects 
+        continue at constant velocity UNLESS a force acts - friction is that 
+        force [1].
+    (b) Reduce friction by using a smoother track / air track / lubricating 
+        the track [1]. Use light gates to measure velocity more accurately [1].
+    (c) The trolley would continue at constant velocity indefinitely [2].
+    (d) 0 N (constant velocity means zero resultant force) [1]
+
+54. (a) Resultant = 700 - 100 = 600 N downward [2]
+    (b) Accelerating downward (speeding up) [1]
+    (c) At terminal velocity, air resistance = weight [1]
+        Air resistance = 700 N [1]
+    (d) The forces are balanced (weight = air resistance) [1], so resultant 
+        force is zero and velocity is constant [1]
+    (e) Newton's first law states objects continue at constant velocity when 
+        resultant force is zero [1]. At Stage B, forces are balanced so the 
+        parachutist continues at constant velocity [1].
+
+SECTION G: DATA INTERPRETATION
+-------------------------------
+55. (a) Car A: 2000-2000 = 0 N
+        Car B: 3500-3000 = 500 N
+        Truck C: 8000-8000 = 0 N
+        Bus D: 6000-5500 = 500 N
+        [2 marks for all correct]
+    (b) Car A and Truck C [2] (resultant force = 0)
+    (c) Car B and Bus D both have 500 N resultant [1], but without mass we 
+        cannot determine which accelerates more [1]
+    (d) Newton's first law [1]: objects continue at constant velocity when 
+        resultant force is zero [1]
+
+56. (a) t = 10 s [1]
+    (b) At t = 10 s, pedal force = resistance (150 N = 150 N) [1], and velocity 
+        remains constant from t = 10 s to t = 15 s [1]
+    (c) Resultant = 100 - 150 = -50 N (50 N backward) [1]
+    (d) The bicycle will decelerate (slow down) [2]
+
+57. (a) 5-15 s and 20-30 s [2]
+    (b) 0 N [1]
+    (c) 0-5 s and 15-20 s [2]
+    (d) Between 5 s and 15 s, velocity is constant at 15 m/s [1]. Newton's first 
+        law states this means the resultant force is zero (balanced forces) [1].
+
+58. (a) Objects A and C [2]
+    (b) Object B is changing direction [1], so velocity is changing and a 
+        resultant force is required [1]
+    (c) Object A [1] - demonstrates that an object continues at constant velocity 
+        when no resultant force acts [1]
+
+SECTION H: COMPARE AND CONTRAST
+--------------------------------
+59. Both have resultant force of zero [1] and balanced forces [1]. Newton's first 
+    law applies to both [1]. Object A remains at rest, Object B continues at 
+    constant velocity [1]. If a force is applied, both would accelerate in the 
+    direction of the force [1]. The key difference is their initial state of 
+    motion [1].
+    [Award up to 6 marks]
+
+60. Car A: Resultant force = 0 N [1], forces balanced [1], Newton's first law 
+    applies [1], engine force = resistance [1].
+    Car B: Resultant force > 0 [1], forces unbalanced [1], Newton's first law 
+    does NOT apply [1], engine force > resistance [1].
+    [Award up to 6 marks]
+
+================================================================================
+                    END OF SECTION 4.2 EXERCISES
+================================================================================

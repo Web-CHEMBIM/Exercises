@@ -1,0 +1,943 @@
+Cambridge (CIE) IGCSE
+Physics
+Radioactivity
+Contents
+Background Radiation
+Types of Radiation
+Ionising Power & Deflection
+Radioactive Decay
+Half-Life
+Uses of Radiation
+Dangers of RadiationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Background Radiation
+Background radiation
+Background radiation is defined as:
+The radiation that exists around us all the time
+There are two types of background radiation:
+Natural sources from radioactive elements that have always existed on Earth and in
+outer space
+Man-made sources from human activity that adds to the amount of radiation
+humans are exposed to on Earth
+The count rate of detected levels of background radiation can vary significantly from
+place to place
+Sources of background radiation
+The sources that make a significant contribution to background radiation include:
+radon gas (in the air)
+rocks and buildings
+food and drink
+cosmic rays
+Sources of background radiationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+Background radiation is the radiation that is present all around in the environment. Radon
+gas is given off from some types of rock
+Natural sources
+Rocks and buildings
+Natural radioactivity can be found in building materials, including decorative rocks,
+stone and brick
+Heavy radioactive elements, such as uranium and thorium, occur naturally in rocks in
+the ground
+Uranium decays into radon gas
+Radon gas (in the air)
+Radon gas is an alpha emitter
+Radon gas is particularly dangerous if it is inhaled into the lungs in large quantities
+The gas is tasteless, colourless and odourless, but it is not generally a health issue
+unless levels are significantly high
+Radioactive material in food and drink
+Naturally occurring radioactive elements can get into food and water since they are
+in contact with rocks and soil containing these elements
+Some foods contain higher amounts such as potassium-40 in bananasYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+However, the amount of radioactive material is minuscule and is not a cause for
+concern
+Cosmic rays from space
+The sun emits an enormous number of protons every second
+Some of these enter the Earth’s atmosphere at high speeds
+When they collide with molecules in the air, this leads to the production of gamma
+radiation
+Other sources of cosmic rays are supernovae and other high-energy cosmic events
+Carbon-14 in biological material
+All organic matter contains a tiny amount of carbon-14
+Living plants and animals constantly replace the supply of carbon in their systems
+hence the amount of carbon-14 in the system stays almost constant
+Man-made sources
+Medical sources
+In medicine, radiation is used frequently
+Uses include X-rays, CT scans, radioactive tracers, and radiation therapy
+Nuclear waste
+While nuclear waste itself does not contribute much to background radiation, it can
+be dangerous for the people handling it
+Nuclear fallout from nuclear weapons
+Fallout is the residue radioactive material that is thrown into the air after a nuclear
+explosion, such as the bomb that exploded at Hiroshima
+While the amount of fallout in the environment is presently very low, it increases
+significantly in areas where nuclear weapons are tested
+Nuclear accidents
+Accidents such as that in Chernobyl contributed a large dose of radiation into the
+environment
+While these accidents are now extremely rare, they can be catastrophic and render
+areas devastated for centuries
+Examiner Tips and Tricks
+The sources that make the most significant contribution are the natural sources:
+Radon gas
+Rocks and buildingsYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+Detecting radiation
+Ionising nuclear radiation can be measured using a detector connected to a counter
+Count rate
+The detector uses count rate measured in counts/s or counts/minute
+The count rate is the number of decays per second
+The count rate decreases the further the detector is from the source
+This is because the radiation becomes more spread out the further away it is from
+the source
+Geiger–Müller tube detects count rate
+The Geiger-Müller tube is the most common device used to measure and detect the
+count rate of radiation
+Each time it absorbs radiation, it transmits an electrical pulse to a counting machine
+This makes a clicking sound and it displays the count rate on a screen
+The greater the frequency of clicks, or the higher the count rate, the more radiation the
+Geiger-Müller tube is absorbing
+Therefore, it matters how close the tube is to the radiation source
+The further away from the source, the lower the count rate detected
+Geiger–Müller tube detects count rate
+Food and drink
+Cosmic rays
+Make sure you remember these for your exam! Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+A Geiger-Müller tube (or Geiger counter) is a common type of radiation detector
+detecting count rate
+Examples of other radiation detectors include:
+Photographic film (often used in badges)
+Ionisation chambers
+Scintillation counters
+Spark counters
+Worked Example
+A Geiger-Müller tube is used to detect radiation in a particular location. What is the
+count rate if it counts 16,000 decays in 1 hour?
+Answer:
+Step 1: Identify the different variables
+The number of decays is 16 000
+The time is 1 hour
+Step 2: Determine the time period in seconds
+1 hour is equal to 60 minutes, and 1 minute is equal to 60 seconds
+time period =1 ×60 ×60 =3600 s
+Step 3: Divide the total counts by the time period in seconds
+decays =counts
+time period
+decays =16000
+3600
+decays =4 .5
+Therefore, there are 4.5 decays per second
+Examiner Tips and Tricks
+If asked to name a device for detecting radiation, the Geiger-Müller tube is a good
+example to give. You can also refer to it as a GM tube, a GM detector, GM counter,
+Geiger counter etc. (The examiners will allow some level of misspelling, providing it isYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Accounting for background radiation
+Extended tier only
+Measurements of background radiation are used to determine a corrected count rate
+This can be done by taking readings with no radioactive source present and then
+subtracting this from readings with the source presentreadable). Don’t, however, refer to it as a ‘radiation detector’ as this is too vague and
+may simply restate what was asked for in the question.
+It is important to regulate the exposure of humans to radiation. The amount of
+radiation received by a person is called the dose.
+Worked Example
+A student is using a Geiger-counter to measure the counts per minute at different
+distances from a source of radiation. Their results and a graph of the results are shown
+here.
+Determine the background radiation count.
+Answer:
+Step 1: Determine the point at which the source radiation stops being detected
+The background radiation is the amount of radiation received all the timeYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+When the source is moved back far enough it is all absorbed by the air before
+reaching the Geiger-counter
+Results after 1 metre do not change
+Therefore, the amount after 1 metre is only due to background radiation
+Step 2: State the background radiation count 
+The background radiation count is 15 counts per minuteYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Types of Radiation
+Radioactive decay
+The emission of radiation from a nucleus is spontaneous and random in direction
+This random process of radioactive decay means:
+There is an equal probability of any nucleus decaying
+It cannot be known which particular nucleus will decay next
+It cannot be known at what time a particular nucleus will decay
+The rate of decay is unaffected by the surrounding conditions
+It is only possible to estimate the probability of a nuclei decaying in a given time
+period
+Unstable nuclei
+Some atomic nuclei are unstable
+This is because of an imbalance in the forces within the nucleus
+Forces exist between the particles in the nucleus
+Instability is commonly due to:
+The nucleus having too many protons or neutrons
+The nucleus being very large
+An example of an unstable nucleus is carbon-14
+This is an isotope of carbon 
+It has two extra neutrons compared to stable carbon-12
+Isotopes of carbon
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+
+Carbon-12 is stable, whereas carbon-14 is unstable. This is because carbon-14 has two
+extra neutrons
+Unstable nuclei can emitradiation to become more stable
+Radiation can be in the form of a high-energy particle or wave
+Unstable nuclei emit radiation
+Unstable nuclei decay by emitting high-energy particles or waves
+As the radiation moves away from the nucleus, it takes some energy with it
+This reduces the overall energy of the nucleus
+This makes the nucleus more stable
+Worked Example
+Which of the following statements is not true?
+A    Isotopes can be unstable because they have too many or too few neutrons
+B    The process of emitting particles or waves of energy from an unstable nucleus is
+called radioactive decay
+C    Scientists can predict when a nucleus will decay
+D    Radiation refers to the particles or waves emitted from a decaying nucleus
+Answer: C
+Consider what you know about the statements above:Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
+
+Isotopes
+Radioactive
+decay
+Nuclei decay
+prediction
+Radiation
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+
+Types of radioactive decay
+Radioactive decay is a change in an unstable nucleus that can result in the emission of
+one of the following types of radiation:
+Alpha ( α ) particles
+Beta ( β) particles
+Gamma ( γ ) radiation
+Remember that these changes arespontaneousand random
+Alpha particles
+The radiation symbol for alpha is α
+An alpha particle is the same as a helium nucleus
+This is because they consist of two neutrons and two protons
+Alpha particles have a charge of +2
+This means they can be affected by an electric field
+Beta particles
+The radiation symbol for beta is β
+Beta particles are fast-moving electrons
+They are produced in nuclei when a neutron changes into a proton and an electron
+Beta particles have a charge of -1
+This means they can be affected by an electric field
+Gamma rays
+The radiation symbol for gamma is γAnswer A is true. The number of neutrons in a nucleus determines the stability
+Answer B is true. This is a suitable description of radioactive decay
+Answer D is true. Radiation is about emissions. It is different to radioactive
+particles
+Answer C is not true
+Radioactive decay is a random process
+It is not possible to predict precisely when a particular nucleus will decay
+Examiner Tips and Tricks
+The terms unstable, random and decay have very particular meanings in this topic.
+Remember to use them correctly when answering questions!
+-
+-Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
+
+Gamma rays are electromagnetic waves
+They have the highest energy of the different types of electromagnetic waves
+Gamma rays have no charge
+Types of radioactive decay
+Alpha particles, beta particles and gamma waves can be emitted from unstable nuclei
+Alpha, beta & gamma emission
+α, β  and γ  radiation can be identified by the emission from a nucleus by recalling their:
+Nature (what type of particle or radiation they are)
+Their relative ionising effects (how easily they ionise other atoms)
+Their relative penetrating abilities (how far can they travel before they are stopped
+completely)
+The properties of alpha, beta and gamma are given in the table which shows the
+following trends down the table:
+The range increases
+Penetrating power increases
+Ionisation decreases
+Summary of the properties of nuclear radiation
+Particle Nature Range in
+airPenetrating power Ionising
+abilityYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+
+Alpha ( α ) helium nucleus (2
+protons, 2 neutrons)a few cm low; stopped by a thin
+sheet of paperhigh
+Beta ( β ) high-energy electron a few 10s
+of cmmoderate; stopped by a
+few mm of aluminium foil or
+Perspex moderate
+Gamma
+( γ)electromagnetic wave infinite high; reduced by a few cm
+of leadlow
+Penetrating power
+Alpha, beta and gamma radiation have different properties
+So they penetrate materials in different ways
+This means they are each stopped by different materials
+Penetrating power of alpha, beta and gamma radiation
+Alpha, beta and gamma are different in how they penetrate materials. Alpha is the least
+penetrating, and gamma is the most penetrating
+Alpha is stopped by paper, whereas beta and gamma pass through it
+Beta is stopped by a few millimetres of aluminium
+Gamma can pass through aluminium
+Gamma rays are only partially stopped by thick leadYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
+
+Examiner Tips and Tricks
+It is important to note that beta particles are only stopped by aluminium if it is a few
+mm thick. They can pass though aluminium which is thinner than this. This concept
+often comes up in exam questions.
+Worked Example
+A student has an unknown radioactive source and is trying to determine which type of
+radiation it emits. Using a Geiger-Muller tube, they measure the count rate when the
+source is placed behind different materials.
+Their results are shown in the table below:
+No material
+between
+source and
+detectorPaper
+between
+source and
+detector5 mm aluminium
+between source
+and detector5 mm lead
+between
+source and
+detector
+Count
+rate4320 4218 256 34
+Which type of radiation is being given off by the source?
+A    Alpha particles
+B    Beta particles
+C    Gamma rays
+D    Neutrons
+Answer: B
+Consider the diagram showing penetrating power from above
+The answer is not A because the radiation passed through the paper almost
+unchanged
+This means it is not alpha
+The answer is not C or D because the aluminium decreased the count rate
+significantly
+This means it is not gamma (gamma penetrates aluminium)
+This also means it is not neutrons (neutrons penetrate aluminium, however,
+you do not need to know this for your exam)
+Therefore, the source must be beta particlesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+
+Examiner Tips and Tricks
+Remembering the type of particle, penetration and ionising power for alpha, beta and
+gamma radiation is very important for your exam! Often the exam question will give
+some clues and you will have to choose which type of radiation it could be based on
+these.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
+
+Ionising Power & Deflection
+Ionising effect of radiation
+Extended tier only
+The relative ionising effects of nuclear radiation depend upon their:
+kinetic energy
+electric charge
+Ionisation
+Ionisation is when an atom becomes negatively or positively charged by gaining or
+losing electrons
+Nuclear radiation can ionise the atoms that it hits
+This is mostly done by removing an electron so the atom loses a negative charge
+and is left with an overall positive charge
+Nuclear radiation ionising an atom
+When radiation passes close to atoms it can knock out electrons, ionising the atomYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+
+Effects of kinetic energy and charge on ionising
+power
+The greater the charge of the radiation, the more ionising it is
+This means alpha radiation is the most ionising as it has a charge of +2
+A beta particle has a charge of –1 so it is moderately ionising
+This means gamma radiation is the least ionising as it has a charge of 0 (no charge)
+The higher the kineticenergy of the radiation, the more ionising it is
+This means the alpha particle is still the most ionising because it has the greatest
+mass
+However, a beta particle is very light (it is an electron) but travels at high speeds,
+therefore, it has a lot of kinetic energy and is still moderately ionising
+Gamma radiation has virtually no mass so it is weakly ionising
+Deflection in electric & magnetic fields
+Extended tier only
+α-particles, β -particles and γ -radiation are deflected differently in electric and
+magnetic fields
+A particle is deflected in an electric field if it has charge
+A particle is deflected in a magnetic field if it has charge and is moving perpendicular to
+it
+Therefore, since gamma ( γ ) particles have no charge, they are not deflected by
+either electric or magnetic fields
+Only alpha ( α ) and beta ( β ) particles are deflected 
+Electric fields
+Alpha particles have a charge of +2 (the charge of a helium nucleus)Examiner Tips and Tricks
+Remembering the properties of alpha, beta and gamma radiation helps to deduce
+how much ionising power they have. E.g. An alpha particle is a helium nucleus which
+contains two protons and two neutrons. It therefore has a charge of +2 since each
+proton has a charge of +1 and a neutron has no charge. 
+Kinetic energy is defined by the equation 1
+2mv therefore it depends on the mass m
+of the particle and its velocity v.2Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+
+Beta particles have a charge of −1 (the charge of an electron)
+Therefore, in an electric field created between negatively and positively charged plates
+Alpha particles are deflected towards the negative plate
+Beta particles are deflected towards the positive plate
+Gamma radiation is not deflected and travels straight through between the plates
+ Deflection in electric fields
+Alpha and Beta particles can be deflected by electric fields
+Alpha particles are heavier than beta particles
+Therefore, beta particles are deflected more in the electric field
+Magnetic fields
+Similarly, alpha and beta particles are deflected by magnetic fields whilst they are
+moving
+They are deflected in opposite directions due to their opposite charges
+Deflection of a beta particle in a magnetic fieldYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
+
+Alpha and beta particles can also be deflected by magnetic fields
+Examiner Tips and Tricks
+It is important to note that because of their opposite charges, alpha and beta
+particles will deflect in opposite directions. You need to know in which direction alpha
+and beta particles are deflected in an electric field and a magnetic field.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
+
+Radioactive Decay
+Effect of nuclear size on decay
+Extended tier only
+Isotopes of an element may be radioactive due to an excess of neutrons in the nucleus
+and/or the nucleus being too heavy
+Excess of protons or neutrons
+The most stable nuclei have roughly the same number of protons as neutrons, especially
+among light elements
+In heavier nuclei, stability requires more neutrons than protons because neutrons help
+reduce the electrostatic repulsion between positively charged protons by contributing
+to the strong nuclear force
+If a nucleus has too many or too few neutrons relative to protons, it becomes unstable
+and may decay into a more stable nucleus by releasing radiation
+An example of this is the isotope of hydrogen–1
+H-1 is the stable nucleus of hydrogen with 0 neutrons and 1 proton
+H-2 (deuterium) has one more neutron in the nucleus
+H-3 (tritium) has 2 neutrons to 1 proton. This is much more unstable than H-1 or H-2
+Hydrogen isotopesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
+
+Heavy nucleus
+If a nucleus is too heavy, this means it has too many protons and neutrons
+The forces keeping the protons and neutrons together in the nucleus will be weaker
+An example of this is uranium–238
+It has a nucleus with 238 protons and neutrons
+During nuclear decay, the mass number of the element which it decays into is gradually
+reduced
+This is done through alpha ( α ) or beta ( β ) decay
+Uranium–238 decay chainYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
+
+The graph shows the decay chain of uranium-238 through alpha and beta emission
+Change to a new element
+A nucleus changes to a different element, during α -decay or β -decay
+The initial nucleus is often called the parent nucleus
+The nucleus of the new element produced is often called the daughter nucleus
+The daughter nucleus is a new element because it has a different proton and/or nucleon
+number than the original parent nucleus
+This can be seen on a graph of N (neutron number) against Z (proton number)
+For example; when Pu-239 decays by alpha to U-235, it loses 2 protons and 2
+neutrons
+U (uranium) is a completely different element from Pu (plutonium)
+Graph of neutron number against proton numberExaminer Tips and Tricks
+The notation of C-12 for example, means the element 'carbon' with the mass (or
+nucleon) number of 12.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
+
+Graph of N against Z for the decay of Pu–239
+Reducing neutron number
+Extended tier only
+α and β -decay affect the nucleus by
+increasing its stability
+reducing the number of excess neutrons
+Alpha decay
+During alpha decay an alpha particle is emitted from an unstable nucleus
+A completely new element is formed in the process
+Alpha decayYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
+
+Alpha decay usually happens in large unstable nuclei, causing the overall mass and charge
+of the nucleus to decrease
+An alpha particle is a helium nucleus
+It is made of 2 protons and 2 neutrons
+When the alpha particle is emitted from the unstable nucleus, the mass number and
+atomic number of the nucleus changes
+The mass number decreases by 4
+The atomic number decreases by 2
+The charge on the nucleus also decreases by 2
+This is because protons have a charge of +1 each
+Beta decay
+During beta decay, a neutron changes into a proton and an electron
+The electron is emitted and the proton remains in the nucleus
+A completely new element is formed because the atomic number changes
+Beta decayYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
+
+Beta decay often happens in unstable nuclei that have too many neutrons. The mass
+number stays the same, but the atomic number increases by one
+A beta particle is a high-speed electron
+It has a mass number of 0
+This is because the electron has a negligible mass, compared to neutrons and
+protons
+Therefore, the mass number of the decaying nucleus remains the same
+Electrons have an atomic number of -1
+This means that the new nuclei will increase their atomic number by 1 so atomic
+number is conserved before and after the decay
+Gamma decay
+During gamma decay, a gamma ray is emitted from an unstable nucleus
+This process makes the nucleus less energetic but does not change its structure
+because gamma radiation has no mass or charge
+Gamma decayYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
+
+Gamma decay does not affect the mass number or the atomic number of the radioactive
+nucleus, but it does reduce the energy of the nucleus
+Decay equations
+Extended tier only
+Decay equations, use nuclide notation, to show the emission of α -particles, β -particles
+and γ -radiation
+A decay equation is similar to a chemical reaction equation
+The particles present before the decay are shown before the arrow
+The particles produced in the decay are shown after the arrow
+During decay equations, the sum of the mass and atomic numbers before the reaction
+must be the same as the sum of the mass and atomic numbers after the reaction
+Alpha decay equation
+All alpha decay equations have the following form for isotopes X and Y:
+ZAX→Z−2A−4Y+24αExaminer Tips and Tricks
+There is a second form of beta decay during which a proton changes into a neutron.
+This is called beta-plus decay - you might come across it while revising, but you don't
+need to know about it for your exam. Only use the information here for your iGCSE.
+It is easy to forget that an alpha particle is a helium nucleus, or that a beta particle is an
+electron. Look out for either wording! Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+
+The following decay equation shows polonium-212 undergoing alpha decay
+It forms lead-208 and an alpha particle
+An alpha particle can also be written as a helium (He) nucleus 
+84212Po→82208Pb+24α
+Beta decay equation
+All beta decay equations have the following form for isotopes X and Y:
+ZAX→Z+1AY+−10β
+Gamma decay equation
+All gamma decay equations have the following form for isotope X
+ZAX→ZAX+00γ
+Worked Example
+A nucleus with 84 protons and 126 neutrons undergoes alpha decay. It forms lead,
+which has the element symbol Pb.
+A  82206Pb
+B  82208Pb
+C  84210Pb
+D  86214Pb
+Which isotope of lead pictured is the correct one formed during the decay?
+Answer: A
+Step 1: Calculate the mass number of the original nucleus
+The mass number is equal to the number of protons plus the number of neutrons
+The original nucleus has 84 protons and 126 neutrons
+84 +126 =210
+The mass number of the original nucleus is 210
+Step 2: Calculate the new atomic number
+The alpha particle emitted is made of two protons and two neutrons
+Protons have an atomic number of 1, and neutrons have an atomic number of 0Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 28
+
+Removing two protons and two neutrons will reduce the atomic number by 2
+84–2 =82
+The new nucleus has an atomic number of 82
+Step 3: Calculate the new mass number
+Protons and neutrons both have a mass number of 1
+Removing two protons and two neutrons will reduce the mass number by 4
+210–4 =206
+The new nucleus has a mass number of 206
+Worked Example
+A nucleus with 11 protons and 13 neutrons undergoes beta decay. It forms magnesium,
+which has the element symbol Mg.
+A  920Mg
+B  1024Mg
+C  1123Mg
+D  1224Mg
+Which is the correct isotope of magnesium formed during the decay?
+Answer: D
+Step 1: Calculate the mass number of the original nucleus
+The mass number is equal to the number of protons plus the number of neutrons
+The original nucleus has 11 protons and 13 neutrons
+11 +13 =24
+The mass number of the original nucleus is 24
+Step 2: Calculate the new atomic number
+During beta decay a neutron changes into a proton and an electron
+The electron is emitted as a beta particle
+The neutron has an atomic number of 0 and the proton has an atomic number of 1
+So the atomic number increases by 1
+11 +1 =12
+The new nucleus has an atomic number of 12
+Step 3: Calculate the new mass number
+Protons and neutrons both have a mass number of 1Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 29
+
+Changing a neutron to a proton will not affect the mass number
+The new nucleus has a mass number of 24 (the same as before)
+Examiner Tips and Tricks
+You are not expected to know the names of the elements produced during
+radioactive decays, but you do need to be able to calculate the mass and atomic
+numbers by making sure they are balanced on either side of the reaction.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 30
+
+Half-Life
+Half-life basics
+The half-life of a particular isotope is defined as:
+The time taken for half the nuclei of that isotope in any sample to decay
+The rate at which the activity of a sample decreases is measured in terms of half-life
+This is the time it takes for the activity of a sample to fall to half its original level
+This is the time it takes for the activity of the sample to decrease from 100 % to 50 %
+It is the same length of time as it would take to decrease from 50 % activity to 25 %
+activity
+Different isotopes have different half-lives and half-lives can vary from a fraction of a
+second to billions of years in length
+The half-life is constant for a particular isotope
+Representing half life
+Half-life can be determined from an activity–time graph
+A half-life graph
+The graph shows how the activity of a radioactive sample changes over time. Each time
+the original activity halves, another half-life has passed
+Half-life can also be represented on a table
+As the number of the half-life increases, the proportion of the isotope remaining
+halvesYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 31
+
+Table showing the number of half-lives to the proportion of
+isotope remaining
+Number of half-lives Proportion of isotope remaining
+0 1
+1 1
+2
+2 1
+4
+3 1
+8
+4 1
+16
+... ...
+Worked Example
+An isotope of protactinium-234 has a half-life of 1.17 minutes. 
+Calculate the amount of time it takes for a sample to decay from a mass of 10 mg to
+2.5 mg. 
+Answer:
+Step 1: Calculate the fraction of the sample remaining
+Initial mass of sample = 10 mg
+Final mass of sample = 2.5 mg
+2 .5
+10=1
+4
+The fraction of the sample remaining is 1
+4
+Step 2: Calculate the number of half-lives that have passed
+Using the table above we can see that two half-lives have passed
+Step 3: Calculate the time for the sample to decayYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 32
+
+Half-life graphs
+Extended tier only
+The half-life of an isotope should be calculated by removing the background radiation
+from data or decay curves 
+To calculate the half-life of a sample from a graph:
+Check the original activity or count rate (where the line crosses the y-axis),C
+Halve this value and look for this activity
+Go across from the halved value (on the y-axis) to the best-fit curve, and then
+straight down to the x-axis 
+The point where you reach the x-axis should be the half-life
+Obtaining half-life from a half-life graph
+To find the time for the half-life find half of the activity first
+To remove background radiation from the decay curve:
+Start by measuring the background radiation (with no sources present) – this is
+called the background count
+Then carry out the experiment
+Subtract the background count from each reading, to provide a corrected countTwo half lives have passed
+So the time for the sample to decay is twice the half-life
+2 ×1 .17 =2 .34minutes
+The time for the sample to decay to a mass of 2.5 mg is 2.34 minutes
+0Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 33
+
+The corrected count is your best estimate of the radiation emitted from the source
+and should be used to measure its half-life
+A half-life graph that removes background radiation
+When measuring radioactive emissions, some of the detected radiation will be
+background
+Worked Example
+The radioisotope technetium is used extensively in medicine. The graph below shows
+how the activity of a sample varies with time.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 34
+
+Determine the half-life of this material.
+Answer:
+Step 1: Draw lines on the graph to determine the time it takes for technetium to
+drop to half of its original activity
+Worked ExampleYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 35
+
+A particular radioactive sample contains 2 million un-decayed atoms. After a year,
+there are only 500 000 atoms left un-decayed. What is the half-life of this material?
+Answer:
+Step 1: Calculate how many times the number of un-decayed atoms has halved
+There were 2 000 000 atoms to start with
+1 000 000 atoms would remain after 1 half-life
+500 000 atoms would remain after 2 half-lives
+Therefore, the sample has undergone 2 half-lives
+Step 2: Divide the time period by the number of half-lives
+The time period is a year
+The number of half-lives is 2
+20000001halflife ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ 6months10000002halflives ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ 1year500000
+So two half-lives is 1 year, and one half-life is 6 months
+Therefore, the half-life of the sample is 6 months
+Examiner Tips and Tricks
+When looking for the corresponding time for the activity, it is good practice to draw a
+line on the graph with your ruler, as in the mark scheme of the worked example. This
+ensures you're reading the most accurate value possible.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 36
+
+Uses of Radiation
+Uses of radiation
+Extended tier only
+The type of radiation emitted and the half-life of an isotope determine which isotope is
+used for the following applications:
+household fire (smoke) alarms
+irradiating food to kill bacteria
+sterilisation of equipment using gamma rays
+measuring and controlling thicknesses of materials with the choice of radiations
+used linked to penetration and absorption
+diagnosis and treatment of cancer using gamma rays
+Household fire alarms are a use of alpha radiation
+Alpha particles are used in smoke detectors
+The alpha radiation ionises the air within the detector, creating a current
+The alpha emitter is blocked when smoke enters the detector
+The alarm is triggered by a microchip when the sensor no longer detects the alpha
+particles
+An isotope of alpha radiation with a long half-life is used for smoke detectors so they
+don't need replacing often
+Uses of alpha radiation: household fire alarms
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 37
+
+In the diagram at the bottom, alpha particles are stopped by the smoke, preventing the
+flow of current and triggering the alarm
+Sterilisation of equipment using gamma rays
+Gamma radiation is widely used to sterilise medical equipment
+Gamma is most suited to this because:
+It is the most penetrating out of all the types of radiation
+It is penetrating enough to irradiate all sides of the instruments
+Instruments can be sterilised without removing the packaging
+The source of gamma radiation used for sterilisation has a half-life of around 5 years
+This means the sterilisation equipment does not need to be replaced often
+Irradiating food to kill bacteria using gamma rays
+Food can be irradiated to kill any microorganisms that are present on it
+This makes the food last longer and reduces the risk of food-borne infections
+Uses of gamma radiation: killing bacteriaYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 38
+
+Food that has been irradiated carries this symbol, called the Radura. Different countries
+allow different foods to be irradiated
+Measuring the thickness of materials using different
+radiation
+Beta radiation is most commonly used to measure the thickness of materials because it
+will be partially absorbed by most materials
+Alpha particles are used for thinner materials because they have a lower penetrating
+power and are absorbed by a thin sheet of aluminium 
+Gamma radiation can be used for very thick materials because they have a higher
+penetrating power and are mostly absorbed by thick pieces of lead.
+A material moves across a radiation source
+The particles that penetrate it are monitored using a detector above
+The thickness of the material is monitored
+If the material gets thicker, more particles will be absorbed by the material,
+meaning that less will get through and be detected by the detector
+If the material gets thinner the opposite happens
+The machine makes adjustments to keep the thickness of the material constant
+Radiation used to measure the thickness of materials has a half-life of many years (10−
+20 years) so that the count rate remains relatively constant each day
+Uses of radiation: monitoring material thicknessYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 39
+
+Beta particles can be used to measure the thickness of thin materials such as paper,
+cardboard or aluminium foil
+Diagnosis and treatment of cancer using gamma rays
+Radiotherapy is the name given to the treatment of cancer using radiation
+Chemotherapy is treatment using chemicals
+Radiation can kill living cells
+Some cells, such as bacteria and cancer cells, are more susceptible to radiation
+than others
+Beams of gamma rays are directed at the cancerous tumour
+Gamma rays are used because they can penetrate the body, reaching the tumour
+The beams are moved around to minimise harm to healthy tissue whilst still being
+aimed at the tumour
+Gamma radiation used in radiotherapy has a half-life of around 5 years
+This means that it does not need to be replaced often within the machine that uses it
+Uses of gamma radiation: treatment of cancerExaminer Tips and Tricks
+Students often get confused about whether beta particles can pass though
+aluminium foil. Beta particles can be stopped by aluminium foil if it is thick enough (a
+few mm thick); if the foil is thin enough, they can pass through. This is the basis of
+using beta radiation to measure the thickness of aluminium foil (a common exam
+question!). The thicker the foil, the fewer beta particles pass through and are
+measured by a detector on the other side of the foil.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 40
+
+Radiation therapy to remove a tumour
+A tracer is a radioactive isotope that can be used to track the movement of substances,
+like blood, around the body
+A PET scan can detect the emissions from a tracer to diagnose cancer and
+determine the location of a tumour
+The half-life of a tracer is several hours
+This provides time for a scan to be conducted and then the radiation to leave the
+body quickly
+Worked Example
+Use the diagram to explain why alpha radiation is used in smoke detectors, and beta
+or gamma radiation is not.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 41
+
+Answer:
+Consider the different properties of alpha, beta and gamma:
+Alpha is the most weakly penetrating and strongest ioniser
+Beta and gamma have stronger penetrating power and weaker ionising
+power
+If beta or gamma radiation were used in this situation then they would pass
+straight through the smoke and the alarm would not go off
+Therefore, since alpha is absorbed by smoke, and beta and gamma are not, this
+makes it most suitable for use in a smoke detector
+Examiner Tips and Tricks
+If you are presented with an unfamiliar situation in your exam don’t panic! Just apply
+your understanding of the properties of alpha, beta and gamma radiation. Mainly think
+about the range (how far it can travel) and ionising power of the radiation to help
+understand which radiation is used in which situation.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 42
+
+Dangers of Radiation
+Dangers of radioactivity
+Ionising nuclear radiation can damage living things such as human cells and tissues at
+high doses:
+This can include:
+Cell death
+Mutations
+Cancer
+If the atoms that make up a DNA strand are ionised, then the DNA strand can be
+damaged
+If the DNA is damaged, then the cell may die, or the DNA may be mutated when it is
+replicated
+If a mutated cell replicates itself then a tumour may develop
+This is an example of cancer, which is a significant danger of radiation exposure
+Ionising DNA is a danger of radioactivity
+Diagram showing the damage caused to DNA by ionising radiation. Sometimes the cell is
+able to repair the DNA during replication successfully, but incorrect repairs can cause a
+mutationYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 43
+
+Acute radiation exposure can have other serious symptoms:
+It can cause skin burns, similar to severe sunburn
+Radiation can reduce the amount of white blood cells in the body, making a person
+more susceptible to infections by lowering their immune system
+Because of this, it is very important to handle radioactive sources carefully
+Safe storage
+Radioactive materials are moved, used and stored in a safe way
+Safe handling to minimise the dangers of
+radioactivity
+The risks associated with handling radioactive sources can be minimised by following a
+few simple procedures:
+Store the sources in lead-lined boxes and keep them at a distance from people
+Minimise the amount of time you handle sources and return them to their boxes as
+soon as you have finished using them
+During use, keep yourself (and others) as far from the sources as possible.
+When handling the sources do so at arm’s length, using a pair of tongs
+ A sign indicating the dangers of radioactivity
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 44
+
+Radioactivity warning sign
+Safe transportation to minimise the dangers of
+radioactivity
+Radioactive materials such as used nuclear fuel are transported in special containers
+called casks
+These casks can withstand extreme conditions such as fire, cold and being submerged
+in water
+Disposing of radioactive waste to minimise the
+dangers of radioactivity
+If an isotope has a long half-life then a sample of it will decay slowly
+Although it may not emit a lot of radiation, it will remain radioactive for a very long
+time
+Sources with long half-life values present a risk of contamination for a much longer time
+Radioactive waste with a long half-life is buried underground to prevent it from being
+released into the environment
+Correct disposal of radioactive waste reduces the dangers of
+radioactivity
+Radioactive waste with long half-lives is buried deep underground
+Worked Example
+A student plans to use a gamma source to conduct an experiment. List four things that
+the student should do in order to minimise the risk to themselves when using the
+source.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 45
+
+Safety precautions
+Extended tier only
+Safety precautions for all ionising radiation include:
+reducing exposure time
+increasing the distance between the source and living tissue
+using shielding to absorb radiation
+Reducing exposure time reduces the dangers of
+radioactivity
+Limiting the amount of time spent near a radioactive source reduces the amount of
+radiation dose received
+The amount of radiation received by a person is called the dose and is measured in
+sieverts (Sv)
+One sievert is a very big dose of radiation
+It would cause acute radiation poisoning
+Increasing the distance reduces the dangers of
+radioactivity
+Increasing the distance the radiation is away greatly reduces the size of the dose
+received
+Using tongs instead of your hand when handling a radioactive source can help with
+this
+Constructing nuclear power plants in remote areas increases their distance from people
+if there is a problem
+Burying nuclear waste far from places where people live also increases the distance to
+people
+Shielding reduces the dangers of radioactivityAnswer:
+Any four from:
+Keep the source in a lead-lined container until the time it is needed
+Use tongs to move the source, rather than handling it directly
+The source should be kept at as far a distance from the student as possible during
+the experiment
+The time that the source is being used should be minimised
+After the experiment, the student should wash their hands
+The date and the time that the radiation has been used should be recordedYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 46
+
+Radiation shielding is a barrier placed between a radiation source and a person or area
+to protect them
+The purpose of shielding is to limit exposure to radiation at a certain location or time
+Barriers absorb the energy from radioactive sources
+Barriers are normally made of lead, water or concrete
+People handling radioactive sources should wear a lead apron to reduce their
+exposure
+When X-rays are taken:
+the area around where the image is needed is shielded
+the radiologist stands behind a barrier or leaves the room
+Reducing the dangers of radiation for a radiologist
+A radiologist can stand behind a lead barrier to reduce the amount of radiation they are
+exposed toYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 47
+

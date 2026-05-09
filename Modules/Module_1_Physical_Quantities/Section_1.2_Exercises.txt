@@ -1,0 +1,690 @@
+================================================================================
+     SECTION 1.2 SCALARS & VECTORS - PRACTICE EXERCISES (50 QUESTIONS)
+================================================================================
+
+Syllabus Reference: 1.1 Physical quantities and measurement techniques
+                     (Supplement objectives 4–6)
+
+Learning Objectives Covered (Extended Tier Only):
+  4. Understand that a scalar quantity has magnitude (size) only and
+     that a vector quantity has magnitude and direction.
+  5. Know that the following quantities are scalars: distance, speed,
+     time, mass, energy and temperature.
+  6. Know that the following quantities are vectors: force, weight,
+     velocity, acceleration, momentum, electric field strength and
+     gravitational field strength.
+
+Distribution:
+  - Recall (AO1): 13 questions (26%)
+  - Application (AO2): 25 questions (50%)
+  - Analysis (AO3): 12 questions (24%)
+
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE (15 Questions)
+================================================================================
+
+1. A scalar quantity is one that has:
+   A: Direction only
+   B: Magnitude only
+   C: Magnitude and direction
+   D: Neither magnitude nor direction
+
+2. A vector quantity is one that has:
+   A: Magnitude only
+   B: Direction only
+   C: Magnitude and direction
+   D: Neither magnitude nor direction
+
+3. Which of the following is a scalar quantity?
+   A: Velocity
+   B: Acceleration
+   C: Force
+   D: Energy
+
+4. Which of the following is a vector quantity?
+   A: Speed
+   B: Mass
+   C: Temperature
+   D: Momentum
+
+5. Which pair contains one scalar and one vector?
+   A: Mass and energy
+   B: Force and weight
+   C: Distance and displacement
+   D: Speed and time
+
+6. A student writes: "The car travelled at 20 m/s north."
+   This describes a:
+   A: Scalar quantity (distance)
+   B: Scalar quantity (speed)
+   C: Vector quantity (velocity)
+   D: Vector quantity (acceleration)
+
+7. Which of the following correctly lists only scalar quantities?
+   A: Distance, force, time
+   B: Speed, mass, energy
+   C: Velocity, weight, momentum
+   D: Temperature, acceleration, distance
+
+8. Which quantity is a vector?
+   A: Time
+   B: Distance
+   C: Energy
+   D: Gravitational field strength
+
+9. An aeroplane flies 500 km north and then returns 500 km south.
+   What is the total distance and displacement?
+   A: Distance = 0, displacement = 1000 km
+   B: Distance = 1000 km, displacement = 0
+   C: Distance = 500 km, displacement = 500 km
+   D: Distance = 0, displacement = 0
+
+10. A ball is thrown vertically upwards and returns to the same point.
+    Which statement is correct?
+    A: Distance = 0 and displacement = 0
+    B: Distance > 0 and displacement = 0
+    C: Distance = 0 and displacement > 0
+    D: Distance > 0 and displacement > 0
+
+11. Which of the following statements about speed and velocity is correct?
+    A: Speed and velocity are both vectors
+    B: Speed and velocity are both scalars
+    C: Speed is a scalar and velocity is a vector
+    D: Speed is a vector and velocity is a scalar
+
+12. Electric field strength is:
+    A: A scalar because it has magnitude only
+    B: A vector because it has magnitude and direction
+    C: Neither scalar nor vector
+    D: Sometimes scalar and sometimes vector
+
+13. A car travels at constant speed around a circular track.
+    Which statement is true?
+    A: Both speed and velocity are constant
+    B: Speed is constant but velocity is changing
+    C: Speed is changing but velocity is constant
+    D: Both speed and velocity are changing
+
+14. Which row correctly classifies all three quantities?
+
+    ┌──────────────┬──────────────┬──────────────┐
+    │ Quantity 1    │ Quantity 2   │ Quantity 3   │
+    ├──────────────┼──────────────┼──────────────┤
+    │ Mass         │ Weight       │ Energy       │
+    └──────────────┴──────────────┴──────────────┘
+
+    A: scalar, scalar, scalar
+    B: scalar, vector, scalar
+    C: vector, vector, scalar
+    D: scalar, vector, vector
+
+15. A student walks 40 m east and then 30 m west.
+    What is the magnitude of the displacement?
+    A: 0 m
+    B: 10 m east
+    C: 35 m
+    D: 70 m
+
+
+================================================================================
+              SECTION B: TRUE/FALSE WITH JUSTIFICATION (6 Questions)
+================================================================================
+
+16. Statement: Speed and velocity always have the same value.
+
+    True or False? Justify your answer.
+
+17. Statement: Mass is a vector quantity because it can change
+    depending on where you are.
+
+    True or False? Justify your answer.
+
+18. Statement: Displacement can be zero even if distance is not zero.
+
+    True or False? Justify your answer.
+
+19. Statement: Weight is a scalar because it is just a number
+    measured in newtons.
+
+    True or False? Justify your answer.
+
+20. Statement: If an object has constant speed, it must have
+    constant velocity.
+
+    True or False? Justify your answer.
+
+21. Statement: All quantities measured with units are scalar quantities.
+
+    True or False? Justify your answer.
+
+
+================================================================================
+              SECTION C: FILL-IN-THE-BLANK (6 Questions)
+================================================================================
+
+22. A scalar quantity has _____________ only. Examples include
+    distance, speed, _____________, mass, energy and temperature.
+
+23. A vector quantity has both _____________ and _____________.
+    Examples include force, weight, velocity and _____________.
+
+24. Distance is a _____________ quantity, while displacement is a
+    _____________ quantity.
+
+25. _____________ measures how fast an object travels (scalar);
+    _____________ measures how fast an object travels in a given
+    direction (vector).
+
+26. Weight acts in a _____________ direction, which is why it is
+    classified as a _____________ quantity.
+
+27. The _____________ of a vector tells us its size, while the
+    _____________ tells us which way it acts.
+
+
+================================================================================
+              SECTION D: MATCHING (3 Questions)
+================================================================================
+
+28. Match each quantity to its scalar/vector classification.
+
+    Quantity                      Classification
+    ─────────────────────────     ──────────────────────
+    A: Acceleration               i.  Scalar
+    B: Time                       ii. Vector
+    C: Force
+    D: Temperature
+    E: Momentum
+
+29. Match each scalar quantity to its vector equivalent.
+
+    Scalar                        Vector equivalent
+    ─────────────────────────     ──────────────────────
+    A: Distance                   i.   Weight
+    B: Speed                      ii.  Velocity
+    C: Mass                       iii. Displacement
+
+30. Match each statement to the quantity it describes.
+
+    Statement                                   Quantity
+    ──────────────────────────────────────       ──────────────
+    A: "The car moved 50 km"                    i.   Velocity
+    B: "The car moved 50 km north"              ii.  Distance
+    C: "The car moved at 60 km/h"               iii. Displacement
+    D: "The car moved at 60 km/h north"         iv.  Speed
+
+
+================================================================================
+              SECTION E: SHORT ANSWER (5 Questions)
+================================================================================
+
+31. Define the terms 'scalar' and 'vector'.                              [2]
+
+32. Give two examples of vector quantities and explain why they
+    are classified as vectors.                                           [2]
+
+33. Explain the difference between speed and velocity.                   [2]
+
+34. A football is kicked 20 m to the right and then 20 m back
+    to the left, returning to its starting position.
+    State the total distance and the total displacement.                 [2]
+
+35. A satellite orbits the Earth at a constant speed.
+    Explain why its velocity is not constant.                            [2]
+
+
+================================================================================
+              SECTION F: CALCULATIONS (3 Questions)
+================================================================================
+
+36. A runner completes one lap of a 400 m circular track in 60 s.
+    (a) Calculate the average speed of the runner.                       [2]
+    (b) State the displacement of the runner after one complete lap.     [1]
+    (c) Calculate the average velocity of the runner over one
+        complete lap.                                                    [1]
+
+37. A cyclist travels 12 km east and then 5 km north.
+    (a) Calculate the total distance travelled.                          [1]
+    (b) Calculate the magnitude of the cyclist's displacement.           [2]
+    (c) State whether your answer to (b) is a scalar or a vector.       [1]
+
+38. A boat sails at 4 m/s north for 100 s, then turns and sails
+    at 3 m/s east for 100 s.
+    (a) Calculate the total distance travelled by the boat.              [2]
+    (b) Calculate the magnitude of the displacement of the boat.        [2]
+    (c) Calculate the angle of the displacement measured
+        from due north.                                                  [2]
+
+
+================================================================================
+              SECTION G: DATA INTERPRETATION (3 Questions)
+================================================================================
+
+39. The table below shows the distance and displacement for four
+    different journeys.
+
+    ┌─────────┬──────────────────────────────────────┬──────────┬─────────────┐
+    │ Journey │ Description                          │ Distance │ Displacement│
+    ├─────────┼──────────────────────────────────────┼──────────┼─────────────┤
+    │ P       │ Walk 100 m north, 100 m south        │ 200 m    │ 0 m         │
+    ├─────────┼──────────────────────────────────────┼──────────┼─────────────┤
+    │ Q       │ Walk 300 m east                      │ 300 m    │ 300 m east  │
+    ├─────────┼──────────────────────────────────────┼──────────┼─────────────┤
+    │ R       │ Walk 60 m north, 80 m east           │ 140 m    │ ???         │
+    ├─────────┼──────────────────────────────────────┼──────────┼─────────────┤
+    │ S       │ Walk 200 m in a circle               │ ???      │ ???         │
+    └─────────┴──────────────────────────────────────┴──────────┴─────────────┘
+
+    (a) Journey P: Explain why the displacement is 0 even though
+        the distance is 200 m.                                          [2]
+    (b) Journey Q: Explain why the distance and displacement are
+        equal in this journey.                                          [1]
+    (c) Journey R: Calculate the displacement for journey R.            [2]
+    (d) Journey S: State the distance and displacement for walking
+        200 m in a complete circle.                                     [2]
+
+40. A student classifies the following quantities as scalar or vector.
+
+    ┌─────────────────────────┬────────────────────┐
+    │ Quantity                │ Student's Answer   │
+    ├─────────────────────────┼────────────────────┤
+    │ Speed                   │ Scalar             │
+    ├─────────────────────────┼────────────────────┤
+    │ Acceleration            │ Scalar             │
+    ├─────────────────────────┼────────────────────┤
+    │ Mass                    │ Scalar             │
+    ├─────────────────────────┼────────────────────┤
+    │ Displacement            │ Scalar             │
+    ├─────────────────────────┼────────────────────┤
+    │ Weight                  │ Vector             │
+    ├─────────────────────────┼────────────────────┤
+    │ Energy                  │ Vector             │
+    └─────────────────────────┴────────────────────┘
+
+    (a) Identify the three errors in the student's answers.              [3]
+    (b) For each error, explain why the student's classification
+        is wrong.                                                        [3]
+
+41. A drone flies the following path from its starting position:
+    - 200 m north
+    - 150 m east
+    - 200 m south
+
+    (a) What is the total distance travelled by the drone?               [1]
+    (b) What is the final displacement of the drone from its
+        starting position?                                               [1]
+    (c) Explain why the distance is much larger than the
+        displacement in this case.                                       [2]
+
+
+================================================================================
+              SECTION H: COMPARE & CONTRAST (3 Questions)
+================================================================================
+
+42. Compare mass and weight by completing the table below.               [4]
+
+    ┌─────────────────────────┬──────────────┬──────────────┐
+    │ Feature                 │ Mass         │ Weight       │
+    ├─────────────────────────┼──────────────┼──────────────┤
+    │ Scalar or vector?       │              │              │
+    ├─────────────────────────┼──────────────┼──────────────┤
+    │ Unit                    │              │              │
+    ├─────────────────────────┼──────────────┼──────────────┤
+    │ Changes with location?  │              │              │
+    ├─────────────────────────┼──────────────┼──────────────┤
+    │ Measuring instrument    │              │              │
+    └─────────────────────────┴──────────────┴──────────────┘
+
+43. Compare and contrast distance and displacement. Include:             [4]
+    - Whether each is scalar or vector
+    - How each is measured
+    - An example where they have different values
+
+44. Compare speed and velocity.                                          [4]
+    In your answer, explain:
+    - The definition of each
+    - Whether each is scalar or vector
+    - A situation where an object has constant speed but
+      changing velocity
+
+
+================================================================================
+              SECTION I: STRUCTURED QUESTIONS (4 Questions)
+================================================================================
+
+45. A student walks 600 m north from home to a shop, then 200 m
+    south to a park.
+
+    (a) State the total distance walked by the student.                  [1]
+
+    (b) Calculate the displacement from home to the park.                [1]
+
+    (c) Define speed and velocity, stating which is a scalar and
+        which is a vector.                                               [2]
+
+    (d) The student took 480 s for the entire journey.
+        Calculate the average speed.                                     [2]
+
+    (e) Calculate the average velocity for the journey.                  [2]
+
+    (f) Explain why the average speed is greater than the magnitude
+        of the average velocity.                                         [2]
+
+46. An instructor is explaining the difference between scalar and
+    vector quantities to a group of students.
+
+    (a) Define scalar and vector quantities.                             [2]
+
+    (b) Give three examples of scalar quantities.                        [3]
+
+    (c) Give three examples of vector quantities.                        [3]
+
+    (d) A student says: "Temperature is a vector because it can go
+        up or down." Explain why this student is incorrect.              [2]
+
+47. A hawk flies 1200 m east in search of prey, then turns and flies
+    500 m south.
+
+    (a) Calculate the total distance flown by the hawk.                  [1]
+
+    (b) Calculate the magnitude of the hawk's displacement.              [2]
+
+    (c) Calculate the direction of the displacement, measured
+        from due east.                                                   [2]
+
+    (d) Explain why the displacement is less than the distance.          [2]
+
+48. The table below gives data about a car's journey around a
+    rectangular track.
+
+    ┌───────────┬───────────────────────────┬───────────┐
+    │ Leg       │ Description               │ Time (s)  │
+    ├───────────┼───────────────────────────┼───────────┤
+    │ 1         │ 400 m north               │ 20        │
+    ├───────────┼───────────────────────────┼───────────┤
+    │ 2         │ 200 m east                │ 10        │
+    ├───────────┼───────────────────────────┼───────────┤
+    │ 3         │ 400 m south               │ 20        │
+    ├───────────┼───────────────────────────┼───────────┤
+    │ 4         │ 200 m west                │ 10        │
+    └───────────┴───────────────────────────┴───────────┘
+
+    (a) Calculate the total distance travelled.                          [1]
+
+    (b) State the displacement after completing one full lap.            [1]
+
+    (c) Calculate the average speed for the full journey.                [2]
+
+    (d) State the average velocity for the full journey.
+        Explain your answer.                                             [2]
+
+    (e) Calculate the displacement after completing legs 1 and 2
+        only.                                                            [2]
+
+
+================================================================================
+              SECTION J: ERROR ANALYSIS (2 Questions)
+================================================================================
+
+49. A student states: "I walked 500 m at a velocity of 1.5 m/s."
+
+    (a) Identify what is wrong with this statement.                      [1]
+
+    (b) Rewrite the statement correctly, using appropriate physics
+        terminology.                                                     [1]
+
+    (c) If the student actually walked in a straight line north,
+        state whether 500 m is a distance or a displacement.
+        Explain your answer.                                             [2]
+
+50. A student writes the following in their homework:
+    "Momentum is a scalar quantity because p = mv, where mass
+    is a scalar."
+
+    (a) Identify the error in the student's reasoning.                   [1]
+
+    (b) Explain why momentum is actually a vector quantity.              [2]
+
+    (c) Name one other quantity that the student might mistakenly
+        classify as a scalar.  Justify why it is actually a vector.      [2]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MULTIPLE CHOICE
+
+1.  B (Magnitude only) — definition of scalar
+2.  C (Magnitude and direction) — definition of vector
+3.  D (Energy) — energy is a scalar
+4.  D (Momentum) — has magnitude and direction (p = mv)
+5.  C (Distance and displacement) — distance is scalar; displacement
+    is vector
+6.  C (Vector quantity / velocity) — 20 m/s north specifies magnitude
+    and direction
+7.  B (Speed, mass, energy) — all have magnitude only
+8.  D (Gravitational field strength) — has magnitude and direction
+9.  B (Distance = 1000 km, displacement = 0) — returns to start point
+10. B (Distance > 0 and displacement = 0) — the ball returns to the
+    same point
+11. C (Speed is scalar, velocity is vector)
+12. B (Vector — has magnitude and direction)
+13. B (Speed constant, velocity changing) — direction changes
+    continuously
+14. B (Mass = scalar, weight = vector, energy = scalar)
+15. B (10 m east) — net displacement = 40 − 30 = 10 m east
+
+SECTION B: TRUE/FALSE WITH JUSTIFICATION
+
+16. False [B1]. Speed and velocity have the same magnitude only when
+    an object travels in a straight line [B1]. If the object changes
+    direction, speed remains the same but velocity changes [B1].
+
+17. False [B1]. Mass is a scalar quantity because it has magnitude
+    only (no direction) [B1]. Mass does not change with location —
+    that is weight which changes [B1].
+
+18. True [B1]. If an object returns to its starting point, the
+    displacement is zero [B1], but the total path length (distance)
+    is not zero [B1].
+
+19. False [B1]. Weight is a vector because it has both magnitude (size
+    in newtons) and a specific direction (vertically downwards) [B1].
+
+20. False [B1]. An object moving at constant speed in a curved path
+    (e.g. circular motion) has constant speed but changing velocity
+    [B1] because its direction is continuously changing [B1].
+
+21. False [B1]. Both scalar and vector quantities have units [B1].
+    For example, velocity is measured in m/s but is a vector because
+    it includes direction [B1].
+
+SECTION C: FILL-IN-THE-BLANK
+
+22. magnitude / time
+23. magnitude / direction / acceleration (accept: momentum)
+24. scalar / vector
+25. Speed / Velocity
+26. downward / vector
+27. magnitude / direction
+
+SECTION D: MATCHING
+
+28. A (Acceleration) → ii (Vector)
+    B (Time) → i (Scalar)
+    C (Force) → ii (Vector)
+    D (Temperature) → i (Scalar)
+    E (Momentum) → ii (Vector)
+
+29. A (Distance) → iii (Displacement)
+    B (Speed) → ii (Velocity)
+    C (Mass) → i (Weight)
+
+30. A → ii (Distance)
+    B → iii (Displacement)
+    C → iv (Speed)
+    D → i (Velocity)
+
+SECTION E: SHORT ANSWER
+
+31. A scalar is a quantity that has magnitude (size) only [B1].
+    A vector is a quantity that has both magnitude and direction [B1].
+
+32. e.g. Force — has a magnitude (e.g. 50 N) and a direction (e.g.
+    upwards), so it is a vector [B1]. Velocity — has a magnitude
+    (e.g. 20 m/s) and a direction (e.g. north), so it is a vector [B1].
+
+33. Speed is the distance travelled per unit time and is a scalar
+    (no direction) [B1]. Velocity is the displacement per unit time
+    and is a vector (includes direction) [B1].
+
+34. Total distance = 20 + 20 = 40 m [B1].
+    Total displacement = 0 m (returned to starting position) [B1].
+
+35. Although the satellite moves at constant speed, its direction
+    changes continuously as it follows a circular path [B1]. Since
+    velocity is a vector (speed + direction), and the direction
+    changes, the velocity is not constant [B1].
+
+SECTION F: CALCULATIONS
+
+36. (a) Average speed = distance / time = 400 / 60 [M1]
+        = 6.67 m/s (3 s.f.) [A1]
+    (b) Displacement = 0 m [B1] (the runner returns to the start).
+    (c) Average velocity = displacement / time = 0 / 60
+        = 0 m/s [B1].
+
+37. (a) Total distance = 12 + 5 = 17 km [B1]
+    (b) R = √(12² + 5²) = √(144 + 25) = √169 [M1] = 13 km [A1]
+    (c) Vector [B1] (displacement has both magnitude and direction).
+
+38. (a) Dist north = 4 × 100 = 400 m; Dist east = 3 × 100 = 300 m
+        Total = 400 + 300 [M1] = 700 m [A1]
+    (b) R = √(400² + 300²) = √(160000 + 90000) = √250000 [M1]
+        = 500 m [A1]
+    (c) tan θ = 300 / 400 = 0.75 [M1]
+        θ = tan⁻¹(0.75) = 36.9° east of north [A1]
+
+SECTION G: DATA INTERPRETATION
+
+39. (a) The object returned to its starting position, so start and
+        finish are at the same point [B1]. Displacement is the
+        straight-line distance from start to finish, which is 0 [B1].
+    (b) The journey was in a straight line (no change of direction),
+        so the path length equals the straight-line distance [B1].
+    (c) R = √(60² + 80²) = √(3600 + 6400) = √10000 [M1]
+        = 100 m [A1]
+    (d) Distance = 200 m [B1]; Displacement = 0 m (returns to
+        starting point) [B1].
+
+40. (a) Errors:
+        Acceleration — should be vector, not scalar [B1].
+        Displacement — should be vector, not scalar [B1].
+        Energy — should be scalar, not vector [B1].
+    (b) Acceleration has both magnitude and direction (e.g. 2 m/s²
+        downwards) [B1]. Displacement has both magnitude and
+        direction (e.g. 50 m north) [B1]. Energy has magnitude
+        only (e.g. 200 J) — it does not have a direction [B1].
+
+41. (a) Total distance = 200 + 150 + 200 = 550 m [B1]
+    (b) Displacement = 150 m east [B1] (north and south cancel out).
+    (c) Distance is the total path length (550 m), which includes
+        all legs of the journey [B1]. Displacement is the
+        straight-line distance from start to finish (150 m east),
+        which is shorter because the northward and southward
+        motions cancel [B1].
+
+SECTION H: COMPARE & CONTRAST
+
+42. ┌─────────────────────────┬──────────────┬──────────────────┐
+    │ Feature                 │ Mass         │ Weight           │
+    ├─────────────────────────┼──────────────┼──────────────────┤
+    │ Scalar or vector?       │ Scalar [B1]  │ Vector [B1]      │
+    ├─────────────────────────┼──────────────┼──────────────────┤
+    │ Unit                    │ kg [B1]      │ N (newtons) [B1] │
+    ├─────────────────────────┼──────────────┼──────────────────┤
+    │ Changes with location?  │ No           │ Yes              │
+    ├─────────────────────────┼──────────────┼──────────────────┤
+    │ Measuring instrument    │ Balance      │ Force meter      │
+    └─────────────────────────┴──────────────┴──────────────────┘
+
+43. Distance is a scalar — it is the total path length with no
+    direction [B1]. Displacement is a vector — it is the straight-line
+    distance from start to finish in a specified direction [B1].
+    Both can be measured in metres [B1]. Example: walking 300 m
+    north then 400 m east gives distance = 700 m but
+    displacement = 500 m northeast [B1].
+
+44. Speed is the distance travelled per unit time; it is a
+    scalar [B1]. Velocity is the displacement per unit time in a
+    given direction; it is a vector [B1]. An object can have constant
+    speed but changing velocity, for example a car driving around a
+    roundabout [B1]. The speed stays the same but the direction keeps
+    changing, so the velocity changes [B1].
+
+SECTION I: STRUCTURED QUESTIONS
+
+45. (a) Distance = 600 + 200 = 800 m [B1]
+    (b) Displacement = 600 − 200 = 400 m north [B1]
+    (c) Speed is the distance travelled per unit time; it is a
+        scalar [B1]. Velocity is the displacement per unit time in a
+        given direction; it is a vector [B1].
+    (d) Average speed = 800 / 480 [M1] = 1.67 m/s [A1]
+    (e) Average velocity = 400 / 480 [M1] = 0.83 m/s north [A1]
+    (f) The total distance is greater than the displacement because
+        the student changed direction [B1]. Speed uses the larger
+        distance value, so average speed > average velocity [B1].
+
+46. (a) Scalar: a quantity with magnitude only [B1].
+        Vector: a quantity with both magnitude and direction [B1].
+    (b) Any 3 from: distance, speed, time, mass, energy,
+        temperature [B1 each].
+    (c) Any 3 from: force, weight, velocity, acceleration, momentum,
+        displacement, electric field strength, gravitational field
+        strength [B1 each].
+    (d) "Up or down" refers to increase or decrease in value, not
+        a physical direction in space [B1]. Temperature has no
+        spatial direction — it is a scalar quantity [B1].
+
+47. (a) Distance = 1200 + 500 = 1700 m [B1]
+    (b) R = √(1200² + 500²) = √(1440000 + 250000) = √1690000 [M1]
+        = 1300 m [A1]
+    (c) tan θ = 500 / 1200 = 0.4167 [M1]
+        θ = tan⁻¹(0.4167) = 22.6° south of east [A1]
+    (d) Distance is the total path length which includes two separate
+        legs [B1]. Displacement is the shortest straight-line distance
+        from start to finish, which is always less than or equal to
+        the total distance when the path is not straight [B1].
+
+48. (a) Total distance = 400 + 200 + 400 + 200 = 1200 m [B1]
+    (b) Displacement = 0 m [B1] (returned to starting point).
+    (c) Average speed = 1200 / (20 + 10 + 20 + 10) = 1200 / 60 [M1]
+        = 20 m/s [A1]
+    (d) Average velocity = 0 m/s [B1] because the displacement is
+        zero (car returns to the start), and velocity = displacement
+        / time [B1].
+    (e) After legs 1 and 2: 400 m north + 200 m east
+        R = √(400² + 200²) = √(160000 + 40000) = √200000 [M1]
+        = 447 m (3 s.f.) [A1]
+
+SECTION J: ERROR ANALYSIS
+
+49. (a) Velocity requires a direction; the student only stated a
+        magnitude [B1].
+    (b) "I walked 500 m north at a velocity of 1.5 m/s north"
+        OR "I walked a distance of 500 m at a speed of 1.5 m/s" [B1].
+    (c) If the student walked in a straight line north, 500 m is both
+        the distance and the displacement [B1]. In this special case
+        they are equal because the path is a straight line with no
+        change of direction [B1].
+
+50. (a) The student ignores that velocity (v) in p = mv is a vector,
+        not a scalar [B1].
+    (b) Momentum = mass × velocity. Since velocity is a vector (has
+        direction), the product mv also has direction [B1]. Therefore
+        momentum is a vector — it has both magnitude and direction [B1].
+    (c) Weight [B1]. Weight = mg, where g is gravitational field
+        strength (a vector). Weight always acts vertically downward,
+        so it has a specific direction and is therefore a vector [B1].

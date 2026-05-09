@@ -1,0 +1,164 @@
+Cambridge (CIE) IGCSE
+Physics
+Pressure
+Contents
+Pressure & Forces
+Pressure in a LiquidYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
+
+Pressure & Forces
+Pressure
+What is pressure?
+Pressure is defined as
+The force per unit area
+Pressure is measured in pascals (Pa)
+1 pascal is equivalent to 1 newton per metre squared
+1 Pa = 1 N/m
+It can be calculated using the following pressure equation:
+pressure =force
+area
+p =F
+A
+Where:
+p = pressure measured in pascals (Pa) or newtons per metre (N/m )
+F = force measured in newtons (N)
+A = area measured in metres squared (m )
+This equation can be rearranged with the help of a formula triangle:
+2
+2
+2Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
+
+A formula triangle can help rearrange the pressure equation
+For more information on how to use a formula triangle refer to the revision note on speed
+& velocity
+This equation tells us that:
+If a force is spread over a large area it will result in a small pressure
+If it is spread over a small area it will result in a large pressure
+Examples of applications of pressure
+Example 1: Tractors
+Tractors have large tyres
+This spreads the weight (force) of the tractor over a large area
+This reduces the pressure which prevents the heavy tractor from sinking into the
+mud
+Example 2: Drawing pins
+Drawing pins have sharp pointed ends with a very small area
+This concentrates the force, creating a large pressure over a small area
+This allows the drawing pin to be pushed into a wall
+Applying a force to a drawing pin
+When you push a drawing pin, it goes into the surface (rather than your finger)
+Example 3: High heels
+High heels have small, sharp points with a small area
+This concentrates the weight (force), creating a large pressure over a small areaYour notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
+
+Flat shoes have a larger area which the weight (force) is spread over resulting in a
+lower pressure
+This explains why high heels sink into soft surfaces more easily than flat shoes
+The effect of surface area on pressure
+High heels produce a higher pressure on the ground because of their smaller area,
+compared to flat shoes
+Worked Example
+The diagram below shows the parts of the lifting machine used to move the platform
+up and down.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
+
+The pump creates pressure in the liquid of 5.28 × 10 Pa to move the platform
+upwards.
+Calculate the force that the liquid applies to the piston.
+Answer:
+Step 1: List the known quantities
+Cross-sectional area = 2.73 × 10  m
+Pressure = 5.28 × 10 Pa
+Step 2: Write down the relevant equation
+p =F
+A
+Step 3: Rearrange for the force, F
+F =p ×A
+Step 4: Substitute the values into the equation
+F = (5 .28 ×105 ) × (2 .73 ×10−2 ) =14414 .4
+Step 5: Round to the appropriate number of significant figures and quote the
+correct unit
+F =14400N =14 .4kN (3s .f )5
+-2 2
+5Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+
+Pressure in a Liquid
+Liquid pressure
+Factors affecting pressure in a liquid
+The pressure beneath the surface of a liquid will increase with the depth of the liquid
+This is because the pressure in a liquid is caused by the force of the weight of the
+liquid above it
+As the depth increases, there is increasingly more liquid above which causes the
+pressure to increase
+Pressure in a liquid also depends on the density of the liquid
+The more dense the liquid, the greater the pressure it exerts
+Pressure in a column of water
+In a column of water, the highest pressure would be at the bottom
+If a hole is made at the bottom of the column, the water will pour out with
+a large force
+If a hole was made at the top of the column, the water will pour out with a small force
+This is because of the difference in pressure in the column caused by the weight of
+the water
+Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
+
+Pressure in a column of water increases with depth, shown by the strong and weak jet of
+water
+If several holes were made at the same height, the water would spurt out the same
+distance from each hole
+This is because pressure at the same depth acts equally in all directions
+Calculating liquid pressure
+Extended tier only
+The pressure acting on an object in a liquid changes with depth
+The deeper the object, the higher the pressure exerted upon it and vice versa
+The equation for the pressure difference at different depths in a liquid is given by the
+equation:
+Δp =ρgΔh
+Where:
+Δp = change in pressure, measured in pascals (Pa)
+Where 1 Pa = 1 N/m
+ρ = density of the liquid, measured in kilograms per metre cubed (kg/m )
+g = gravitational field strength on Earth, measured in newtons per kilogram (N/kg)
+Δh = change in height of the column, measured in metres (m)
+Pressure in a liquid with a density is applied at a depth Examiner Tips and Tricks
+Remember, a fluid can be either a liquid or a gas. In all fluids, pressure is affected by
+depth and density. This means that, like in liquids, the pressure within gases also
+changes with depth and density.
+2
+3Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
+
+The force from the pressure of objects in a liquid is exerted evenly across its whole
+surface
+Worked Example
+Calculate the depth of water in a swimming pool where a pressure of 20 kPa is
+exerted. The density of water is 1000 kg/m  and the gravitational field strength on
+Earth is 9.8 N/kg.
+Answer:
+Step 1: List the known quantities
+Pressure, Δp =20kPa
+Density of water, ρ =1000 kg /m3
+Gravitational field strength, g =9 .8N /kg
+Step 2: List the relevant equation
+Δp =ρgΔh
+Step 3: Rearrange for height, Δh
+Δh =Δp
+ρg
+Step 4: Convert any units
+20kPa =20000Pa3Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+
+Step 5: Substitute in the values
+Δh =20000
+1000 ×9 .8
+Δh =2 .0408 =2 .0m
+Examiner Tips and Tricks
+You need to be able to recall the equation for the change in pressure and make sure
+you are comfortable rearranging it for the variable required in the question!
+Some exam questions may ask about the total pressure exerted on an object or
+surface within the liquid; in this case, you need to account for the atmospheric
+pressure as well. Atmospheric pressure is approximately 100 kPa.Your notes
+© 2026 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
+

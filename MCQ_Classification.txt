@@ -1,0 +1,128 @@
+# Classification of Questions from "4.3 Electric circuits MCQ QP.pdf"
+
+This document maps all 98 questions from the question paper into the five subtopics for Module 17: Electric Circuits & Electrical Safety.
+
+If a question spans multiple topics (e.g. combining series and parallel resistor calculations), it is placed in the most relevant advanced topic.
+
+## 17.1 Circuit Diagrams & Components
+*Questions testing knowledge of circuit symbols, ammeter/voltmeter positioning, diodes, thermistors, LDRs, relays, and basic circuit function.*
+/Q1, /Q4, /Q5, /Q6, Q9, Q11, Q13, Q14, Q15, Q18, Q21, Q22, Q23, Q26, Q27, Q28, Q31, Q32, Q34, Q36, Q38, Q39, Q40, Q41, Q51, Q53, Q55, Q58, Q60, Q61, Q62, Q63, Q64, Q66, Q68, Q69, Q71, Q72, Q75, Q83, Q84, Q86, Q87, Q88, Q92, Q93, Q94, Q97, Q98
+
+## 17.2 Series Circuits
+*Questions testing the behavior of current, e.m.f. of cells, potential difference, and combined resistance in series circuits.*
+Q3, Q44, Q47, Q74
+
+## 17.3 Parallel Circuits
+*Questions testing the behavior of current splitting, the junction rule, equal p.d. across branches, combined resistance in parallel, and advantages of parallel lighting.*
+Q2, Q7, Q8, Q10, Q12, Q16, Q17, Q25, Q29, Q30, Q37, Q43, Q45, Q46, Q48, Q49, Q50, Q54, Q56, Q57, Q73, Q76, Q80, Q89, Q90
+
+## 17.4 Potential Dividers
+*Questions focusing on variable potential dividers, the splitting of voltage based on resistance ratio ($R_1 / R_2 = V_1 / V_2$), and input sensors (LDR/thermistor) producing variable output voltages.*
+Q19, Q20, Q24, Q33, Q59, Q65, Q67, Q70, Q77, Q78, Q79, Q81, Q82, Q85, Q91, Q95, Q96
+
+## 17.5 Electrical Safety
+*Questions concerning hazards, mains wiring (live, neutral, earth), correct placement of switches and fuses, circuit breakers, and earthing vs double insulation.*
+Q42, Q52
+
+---
+
+## Detailed Breakdown by Question
+
+- Q1: Thermistor definition -> **17.1**
+- Q2: Comparing current in series vs parallel (ammeter reading at branch vs main) -> **17.3**
+- Q3: Total e.m.f. of cells in series -> **17.2**
+- Q4: Circuit to determine resistance of thermistor -> **17.1**
+- Q5: What is current and ammeter positioning -> **17.1**
+- Q6: Switch combination for heater -> **17.1**
+- Q7: Combined resistance of identical resistors in parallel -> **17.3**
+- Q8: Combined resistance in parallel -> **17.3**
+- Q9: Thermistor applications -> **17.1**
+- Q10: Ammeter reading with parallel branch -> **17.3**
+- Q11: Correct ammeter and voltmeter symbol positioning -> **17.1**
+- Q12: Current and power in a parallel circuit with switches -> **17.3**
+- Q13: Electric heater symbol -> **17.1**
+- Q14: Switch selection -> **17.1**
+- Q15: Ammeter and voltmeter positioning -> **17.1**
+- Q16: Largest ammeter reading (parallel branches) -> **17.3**
+- Q17: Switches for parallel lamps -> **17.3**
+- Q18: Measuring p.d. and current correctly -> **17.1**
+- Q19: Variable potential divider -> **17.4**
+- Q20: Variable resistor effect in series -> **17.4**
+- Q21: Circuit with battery, fuse, and buzzer -> **17.1**
+- Q22: Circuit to check rating -> **17.1**
+- Q23: Voltmeter position -> **17.1**
+- Q24: Potential divider with thermistor -> **17.4**
+- Q25: Brightest lamps (parallel vs series) -> **17.3**
+- Q26: Fuse symbol -> **17.1**
+- Q27: Combination of meters -> **17.1**
+- Q28: Thermistor symbol -> **17.1**
+- Q29: Advantage of parallel lighting -> **17.3**
+- Q30: 6 identical lamps (parallel combination) -> **17.3**
+- Q31: Voltmeter measuring across resistor -> **17.1**
+- Q32: Component symbols correctly labelled -> **17.1**
+- Q33: Potential divider slider -> **17.4**
+- Q34: Ammeter measuring through one lamp correctly -> **17.1**
+- Q35: Flow of charge (conventional current vs electron flow) -> **17.1** (or General)
+- Q36: Counting cells, lamps, switches -> **17.1**
+- Q37: Resistance in parallel -> **17.3**
+- Q38: Ammeter symbol -> **17.1**
+- Q39: Device to measure flow of charge -> **17.1**
+- Q40: Identifying fuse in circuit -> **17.1**
+- Q41: Component to turn on fan (Thermistor) -> **17.1**
+- Q42: Preventing overheating (fuse) -> **17.5**
+- Q43: Combined resistance in parallel compared to single -> **17.3**
+- Q44: Finding missing series resistor for total R=10 -> **17.2**
+- Q45: Switches and parallel branches -> **17.3**
+- Q46: Resistors in series and parallel combined -> **17.3** 
+- Q47: Changing meter positions (series circuit) -> **17.2**
+- Q48: Ammeter reading current before split -> **17.3**
+- Q49: Switches for lamps -> **17.3**
+- Q50: Ammeters in parallel circuit with switch -> **17.3**
+- Q51: LDR resistance change -> **17.1**
+- Q52: Correct position of fuse for parallel lamps -> **17.5**
+- Q53: Connect voltmeter across lamp -> **17.1**
+- Q54: Removing a lamp in parallel/series mixed -> **17.3**
+- Q55: Thermistor in parallel/series controlling lamp -> **17.1**
+- Q56: Equivalent brightness circuits (parallel) -> **17.3**
+- Q57: Comparing total resistance combinations -> **17.3**
+- Q58: V and A meter positioning -> **17.1**
+- Q59: Wire WX as a potential divider -> **17.4**
+- Q60: Heater and fuse symbols in series -> **17.1**
+- Q61: Ammeter voltmeter positions -> **17.1**
+- Q62: Recognizing symbols in parallel -> **17.1**
+- Q63: State how meters are connected -> **17.1**
+- Q64: Identify component N symbol -> **17.1**
+- Q65: Purpose of LDR circuit -> **17.4**
+- Q66: Meter configurations -> **17.1**
+- Q67: Which circuit gives 0 to 12V (potential divider) -> **17.4**
+- Q68: Thermistor behavior, ammeter reading -> **17.1**
+- Q69: Relay function -> **17.1**
+- Q70: Potential divider with sliding contact -> **17.4**
+- Q71: Thermistor symbol -> **17.1**
+- Q72: Diode in series -> **17.1**
+- Q73: Parallel resistors voltage/current -> **17.3**
+- Q74: Voltage in series proportional to R -> **17.2**
+- Q75: Proper ammeter voltmeter placement -> **17.1**
+- Q76: Calculating R in series + parallel -> **17.3**
+- Q77: Thermistor and LDR in series effect on pd -> **17.4**
+- Q78: Potential divider for heater -> **17.4**
+- Q79: Potential divider components X and Y -> **17.4**
+- Q80: Ammeters in parallel -> **17.3**
+- Q81: Potential divider switching lamp on -> **17.4**
+- Q82: LDR potential divider where pd increases -> **17.4**
+- Q83: 4 Diodes (Bridge rectifier) -> **17.1**
+- Q84: Diodes controlling lamps -> **17.1**
+- Q85: LDR in potential divider -> **17.4**
+- Q86: Single lamp lit with diodes -> **17.1**
+- Q87: Reversing cell with diode/LDR -> **17.1**
+- Q88: Diode symbol -> **17.1**
+- Q89: Effective resistance in parallel and series -> **17.3**
+- Q90: Resistors in parallel -> **17.3**
+- Q91: Circuit to vary pd from 0 to 6V (pot divider) -> **17.4**
+- Q92: Diode use -> **17.1**
+- Q93: AC with a diode -> **17.1**
+- Q94: Diodes in parallel branches -> **17.1**
+- Q95: Potential divider with thermistor -> **17.4**
+- Q96: Thermistor vs variable resistor potential divider -> **17.4**
+- Q97: Bridge rectifier with diodes -> **17.1**
+- Q98: Diode symbol -> **17.1**

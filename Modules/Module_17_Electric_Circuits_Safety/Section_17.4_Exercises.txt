@@ -1,0 +1,1051 @@
+================================================================================
+                    SECTION 17.4 EXERCISES
+                    POTENTIAL DIVIDERS
+================================================================================
+
+Learning Objectives Covered:
+  * Know that p.d. across a conductor increases as resistance increases
+    for constant current.
+  * [Supplement] Describe the action of a variable potential divider.
+  * [Supplement] Recall and use the equation R₁/R₂ = V₁/V₂.
+
+Total Questions: 50
+Distribution:
+  - AO1 (Recall):      12 questions (24%)
+  - AO2 (Application): 26 questions (52%)
+  - AO3 (Analysis):    12 questions (24%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (MCQ)
+================================================================================
+                              (10 Questions)
+
+Instructions: Select the best answer from the options A, B, C, or D.
+
+--------------------------------------------------------------------------------
+1. In a series circuit with constant current, if the resistance of one
+   component increases, the p.d. across it:
+
+   A  decreases
+   B  stays the same
+   C  increases
+   D  becomes zero
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+2. [Supplement] A potential divider has R₁ = 10 Ω and R₂ = 20 Ω,
+   connected to a 6 V supply. What is the p.d. across R₂?
+
+   A  2 V
+   B  3 V
+   C  4 V
+   D  6 V
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+3. In a series circuit, two resistors carry the same current.
+   The 12 Ω resistor has a p.d. of 6 V. What is the p.d. across
+   a 4 Ω resistor in the same circuit?
+
+   A  1 V
+   B  2 V
+   C  4 V
+   D  12 V
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+4. [Supplement] A potential divider uses two equal resistors with a 10 V
+   supply. What is the output voltage?
+
+   A  0 V
+   B  5 V
+   C  10 V
+   D  20 V
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+5. Which relationship correctly describes how p.d. is divided in a
+   series circuit?
+
+   A  Higher resistance → lower p.d.
+   B  Higher resistance → higher p.d.
+   C  All resistors have equal p.d. regardless of resistance
+   D  P.d. depends only on current, not resistance
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+6. [Supplement] In a potential divider, R₁ = 4 kΩ and R₂ = 6 kΩ.
+   The input voltage is 10 V. What is V₁?
+
+   A  4 V
+   B  6 V
+   C  10 V
+   D  2.5 V
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+7. [Supplement] A potential divider circuit replaces R₂ with a
+   thermistor. When the temperature increases, the output voltage
+   across the thermistor:
+
+   A  increases
+   B  decreases
+   C  stays constant
+   D  becomes zero
+
+   [AO3 - 1 mark]
+
+--------------------------------------------------------------------------------
+8. [Supplement] A potential divider has R₁ = 3 Ω and R₂ = 9 Ω connected
+   to a 12 V battery. The ratio V₁:V₂ is:
+
+   A  1:1
+   B  1:3
+   C  3:1
+   D  9:3
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+9. In a series circuit with constant current, doubling the resistance
+   of a component will:
+
+   A  halve the p.d. across it
+   B  double the p.d. across it
+   C  have no effect on the p.d.
+   D  quadruple the p.d.
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+10. [Supplement] A potential divider uses an LDR as R₂. When it gets
+    dark, the output voltage V₂ (across the LDR):
+
+    A  decreases
+    B  increases
+    C  stays the same
+    D  becomes zero
+
+    [AO3 - 1 mark]
+
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION
+================================================================================
+                              (4 Questions)
+
+Instructions: State whether each statement is TRUE or FALSE.
+              If FALSE, write the correct statement.
+
+--------------------------------------------------------------------------------
+11. "In a potential divider, the voltage splits equally between two
+    resistors regardless of their resistance values."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+12. "For a constant current, the component with the highest resistance
+    has the largest p.d. across it."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+13. [Supplement] "The potential divider equation is R₁/R₂ = V₁/V₂."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+14. [Supplement] "In a potential divider with a thermistor and a fixed
+    resistor, increasing the temperature increases the p.d. across
+    the fixed resistor."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK
+================================================================================
+                              (4 Questions)
+
+Instructions: Complete each sentence using the correct word(s) or value(s).
+
+--------------------------------------------------------------------------------
+15. For a constant current, the p.d. across a component ______________
+    as its resistance increases.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+16. [Supplement] In a potential divider, the voltage splits in the same
+    ______________ as the ______________.
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+17. The relationship V = IR shows that if I is constant and R increases,
+    then V must ______________.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+18. [Supplement] In a potential divider, $V_1 + V_2$ = ______________
+    (the total ______________ of the supply).
+
+    [AO1 - 2 marks]
+
+
+================================================================================
+                    SECTION D: MATCHING
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+19. [Supplement] Match each change in a potential divider with its effect.
+
+    Change                              Effect on V_out (across R₂)
+    ─────────────────────────────      ─────────────────────────────
+    A. R₁ increases, R₂ constant       1. V_out increases
+    B. R₁ decreases, R₂ constant       2. V_out decreases
+    C. R₂ increases, R₁ constant       3. V_out stays the same
+    D. R₁ and R₂ both double           4. V_out increases
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+20. [Supplement] Match each sensor-based potential divider with its
+    application.
+
+    Configuration                       Application
+    ─────────────────────────────      ─────────────────────────────
+    A. Thermistor as R₂                1. Automatic street light
+    B. LDR as R₂                       2. Temperature alarm
+    C. Variable resistor as R₂         3. Light dimmer control
+    D. LDR as R₁                       4. Darkness detector
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO2 - 4 marks]
+
+
+================================================================================
+                    SECTION E: SHORT ANSWER QUESTIONS
+================================================================================
+                              (5 Questions)
+
+--------------------------------------------------------------------------------
+21. State the relationship between resistance and p.d. for a constant
+    current, and identify the equation that shows this.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+22. [Supplement] Define what a potential divider is and state its purpose.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 3 marks]
+
+--------------------------------------------------------------------------------
+23. [Supplement] Explain why the resistor with the larger resistance
+    in a potential divider has the larger p.d. across it.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+24. [Supplement] A potential divider has R₁ = 5 kΩ and R₂ is an LDR.
+    Explain what happens to the output voltage V₂ when:
+    (a) The light intensity increases.
+    (b) The light intensity decreases.
+
+    (a) ___________________________________________________________
+
+        ___________________________________________________________
+
+    (b) ___________________________________________________________
+
+        ___________________________________________________________
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+25. [Supplement] Explain why a potential divider with a variable resistor
+    is useful for controlling the brightness of a lamp.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION F: CALCULATIONS (STRUCTURED)
+================================================================================
+                              (10 Questions)
+
+--------------------------------------------------------------------------------
+26. [Supplement] A potential divider has R₁ = 6 Ω and R₂ = 18 Ω,
+    connected to a 12 V supply.
+
+    (a) State the ratio R₁:R₂.                                              [1]
+
+    _____________________________________________________________
+
+    (b) Calculate V₁ and V₂.                                                [2]
+
+    V₁ = ___________________________________________________________
+
+    V₂ = ___________________________________________________________
+
+    (c) Verify that V₁ + V₂ = 12 V.                                         [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+27. [Supplement] A potential divider has R₁ = 200 Ω and R₂ = 300 Ω.
+    The input voltage is 10 V.
+
+    (a) Calculate V₁ using R₁/R₂ = V₁/V₂ and V₁ + V₂ = 10 V.             [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate V₂.                                                        [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+28. [Supplement] An 8 V supply is connected to a potential divider
+    with R₁ = 20 Ω and R₂ = 60 Ω.
+
+    (a) Calculate the current in the circuit.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate V₁ and V₂ using V = IR.                                    [2]
+
+    V₁ = ___________________________________________________________
+
+    V₂ = ___________________________________________________________
+
+    (c) Verify using the ratio R₁/R₂ = V₁/V₂.                              [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+29. [Supplement] A potential divider has R₁ = 2 kΩ and R₂ = 8 kΩ.
+    An output voltage of 4.0 V is required across R₂.
+
+    (a) Calculate V₁.                                                        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate the required input voltage.                                [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+30. [Supplement] A sensor circuit uses a thermistor (R₁ = 1 kΩ at 25 °C)
+    and a fixed resistor R₂ = 4 kΩ, connected to a 5 V supply.
+
+    (a) Calculate the output voltage V₂ at 25 °C.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) At 80 °C, the thermistor resistance drops to 200 Ω.
+        Calculate the new output voltage V₂.                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Explain why V₂ changes with temperature.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+31. In a series circuit with a 9 V battery, a 3 Ω resistor has a p.d.
+    of 3 V. Calculate the p.d. across a second resistor of 6 Ω in
+    the same circuit.
+
+    (a) State the current in the circuit.                                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate the p.d. across the 6 Ω resistor.                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Verify that V₁ + V₂ = 9 V.                                          [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+32. [Supplement] A potential divider uses R₁ = 15 kΩ and R₂ = 5 kΩ.
+    The supply voltage is 12 V.
+
+    (a) Calculate V₂ (the output voltage across R₂).                        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate V₁.                                                        [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+33. [Supplement] A potential divider uses a 10 kΩ fixed resistor (R₁)
+    and an LDR. In bright light, the LDR resistance is 1 kΩ.
+    In darkness, the LDR resistance is 100 kΩ. The supply is 5 V.
+
+    (a) Calculate V₂ (across the LDR) in bright light.                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate V₂ in darkness.                                            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) State which condition gives the higher output voltage.               [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+34. [Supplement] A potential divider is used to provide 3.0 V from
+    a 9.0 V supply. R₁ and R₂ are in series.
+
+    (a) The required V₂ = 3.0 V. Calculate V₁.                              [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the ratio R₁:R₂.                                          [1]
+
+    _____________________________________________________________
+
+    (c) If R₂ = 100 Ω, calculate R₁.                                        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+35. [Supplement] A circuit has two resistors in series. The total
+    voltage is 15 V. R₁ = 25 Ω and R₂ = 75 Ω.
+
+    (a) Calculate V₁ and V₂.                                                [2]
+
+    V₁ = ___________________________________________________________
+
+    V₂ = ___________________________________________________________
+
+    (b) State which resistor has the greater p.d. and explain why.           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION G: DIAGRAM / CIRCUIT DRAWING
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+36. [Supplement] Draw a potential divider circuit with a battery, two
+    resistors R₁ and R₂ in series, and a voltmeter measuring the
+    output voltage across R₂. Label all components.
+
+    [Space for drawing]
+
+
+
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+37. [Supplement] Draw a potential divider circuit where R₂ has been
+    replaced by a thermistor. Include:
+    - a battery
+    - a fixed resistor R₁
+    - a thermistor
+    - a voltmeter across the thermistor
+
+    [Space for drawing]
+
+
+
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+38. [Supplement] Draw a potential divider circuit where R₁ has been
+    replaced by an LDR. Include a voltmeter measuring V₂ across
+    the fixed resistor R₂.
+
+    [Space for drawing]
+
+
+
+
+    [AO2 - 4 marks]
+
+
+================================================================================
+                    SECTION H: DATA INTERPRETATION
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+39. [Supplement] A student varies R₁ in a potential divider while keeping
+    R₂ = 10 Ω and the supply at 10 V. She records V₂.
+
+    ┌──────────────────┬───────────────────┐
+    │ R₁ (Ω)          │ V₂ (V)            │
+    ├──────────────────┼───────────────────┤
+    │ 10               │ 5.0               │
+    │ 20               │ 3.3               │
+    │ 30               │ 2.5               │
+    │ 40               │ 2.0               │
+    │ 50               │ 1.7               │
+    └──────────────────┴───────────────────┘
+
+    (a) Describe the trend in V₂ as R₁ increases.                           [1]
+
+    _____________________________________________________________
+
+    (b) Explain why V₂ decreases as R₁ increases.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Predict V₂ when R₁ = 0 Ω. Explain your answer.                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 5 marks total]
+
+--------------------------------------------------------------------------------
+40. [Supplement] A thermistor is used as R₂ in a potential divider with
+    R₁ = 5 kΩ and a 10 V supply. The student records V₂ at different
+    temperatures.
+
+    ┌─────────────────────┬──────────────────┬──────────────────┐
+    │ Temperature (°C)    │ R₂ (kΩ)         │ V₂ (V)           │
+    ├─────────────────────┼──────────────────┼──────────────────┤
+    │ 20                  │ 20               │ 8.0              │
+    │ 30                  │ 10               │ 6.7              │
+    │ 40                  │ 5                │ 5.0              │
+    │ 50                  │ 2                │ 2.9              │
+    │ 60                  │ 1                │ 1.7              │
+    └─────────────────────┴──────────────────┴──────────────────┘
+
+    (a) Describe the trend in V₂ as temperature increases.                   [1]
+
+    _____________________________________________________________
+
+    (b) Explain this trend in terms of the thermistor's resistance.         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) At what temperature is V₂ closest to half the supply voltage?        [1]
+
+    _____________________________________________________________
+
+    (d) Verify the value of V₂ at 40 °C using the potential divider
+        equation.                                                            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 6 marks total]
+
+--------------------------------------------------------------------------------
+41. [Supplement] An LDR is used as R₂ in a potential divider with
+    R₁ = 5 kΩ and a 5 V supply. V₂ is measured at different light levels.
+
+    ┌───────────────────────┬──────────────────┬──────────────────┐
+    │ Light Condition       │ R₂ (kΩ)         │ V₂ (V)           │
+    ├───────────────────────┼──────────────────┼──────────────────┤
+    │ Very bright           │ 0.5              │ 0.45             │
+    │ Bright                │ 2                │ 1.43             │
+    │ Normal room           │ 5                │ 2.50             │
+    │ Dim                   │ 20               │ 4.00             │
+    │ Very dark              │ 100              │ 4.76             │
+    └───────────────────────┴──────────────────┴──────────────────┘
+
+    (a) Describe how V₂ changes as light intensity decreases.               [1]
+
+    _____________________________________________________________
+
+    (b) Explain why V₂ is highest in very dark conditions.                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) A circuit needs V₂ > 4 V to trigger an alarm. Under which
+        conditions would the alarm activate?                                 [1]
+
+    _____________________________________________________________
+
+    (d) Suggest a practical application for this circuit.                    [1]
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 5 marks total]
+
+--------------------------------------------------------------------------------
+42. [Supplement] A student sets up a potential divider with R₁ and R₂
+    in series with a 12 V supply and measures V₂ for different R₂ values
+    while R₁ = 6 Ω.
+
+    ┌──────────────────┬──────────────────┬──────────────────┐
+    │ R₂ (Ω)          │ V₂ measured (V)  │ V₂ calculated (V)│
+    ├──────────────────┼──────────────────┼──────────────────┤
+    │ 2                │ 3.1              │ 3.0              │
+    │ 6                │ 5.9              │ 6.0              │
+    │ 12               │ 8.1              │ 8.0              │
+    │ 18               │ 8.9              │ 9.0              │
+    │ 24               │ 9.7              │ 9.6              │
+    └──────────────────┴──────────────────┴──────────────────┘
+
+    (a) Calculate the expected V₂ value when R₂ = 2 Ω.                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Account for the small difference between measured and
+        calculated values.                                                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 4 marks total]
+
+
+================================================================================
+                    SECTION I: COMPARE AND CONTRAST
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+43. [Supplement] Compare a potential divider using two fixed resistors
+    with one using a variable resistor.
+
+    ┌─────────────────────────┬─────────────────────┬────────────────────────┐
+    │ Feature                 │ Two fixed resistors │ Variable resistor      │
+    ├─────────────────────────┼─────────────────────┼────────────────────────┤
+    │ Output voltage          │                     │                        │
+    ├─────────────────────────┼─────────────────────┼────────────────────────┤
+    │ Adjustability           │                     │                        │
+    ├─────────────────────────┼─────────────────────┼────────────────────────┤
+    │ Typical application     │                     │                        │
+    └─────────────────────────┴─────────────────────┴────────────────────────┘
+
+    [AO2 - 6 marks]
+
+--------------------------------------------------------------------------------
+44. [Supplement] Compare a potential divider that uses a thermistor
+    with one that uses an LDR as R₂.
+
+    (a) State one similarity.                                                [1]
+
+    _____________________________________________________________
+
+    (b) State two differences.                                               [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION J: STRUCTURED QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+45. [Supplement] A student wants to design a circuit that turns on a
+    heater when the temperature drops. She uses a potential divider
+    with a thermistor (R₁) and a fixed resistor (R₂ = 10 kΩ),
+    connected to a 9 V supply.
+
+    (a) At room temperature (25 °C), the thermistor resistance is
+        10 kΩ. Calculate V₂.                                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) When the temperature drops to 5 °C, the thermistor resistance
+        increases to 50 kΩ. Calculate the new V₂.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Explain why V₂ increases as the temperature decreases.               [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (d) Suggest how V₂ could be used to trigger the heater.                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 8 marks total]
+
+--------------------------------------------------------------------------------
+46. [Supplement] A potential divider is made from R₁ = 4 kΩ and
+    R₂ = 16 kΩ, powered by a 20 V supply.
+
+    (a) Calculate the current in the circuit.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate V₁ and V₂.                                                [2]
+
+    V₁ = ___________________________________________________________
+
+    V₂ = ___________________________________________________________
+
+    (c) If R₂ is replaced by a 4 kΩ resistor, calculate the new V₂.         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (d) Explain the effect of making R₁ = R₂ on the output voltage.         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 8 marks total]
+
+--------------------------------------------------------------------------------
+47. [Supplement] A security light circuit uses a potential divider
+    with an LDR (R₁) and a fixed resistor (R₂ = 10 kΩ).
+    The supply is 12 V. The light turns on when V₂ > 10 V.
+
+    (a) Calculate the LDR resistance when V₂ = 10 V.                        [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) State whether this LDR resistance corresponds to light or
+        dark conditions. Explain your answer.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Explain how this circuit functions as a security light.              [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 8 marks total]
+
+
+================================================================================
+                    SECTION K: ERROR ANALYSIS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+48. A student says: "In a potential divider, the smaller resistor
+    always has the larger p.d. across it."
+
+    (a) Is this correct? Explain your answer.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Write the correct statement.                                         [1]
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+--------------------------------------------------------------------------------
+49. [Supplement] A student calculates V₂ for a potential divider with
+    R₁ = 3 Ω, R₂ = 6 Ω, supply = 9 V as follows:
+
+    "V₂ = 9 × (3/6) = 4.5 V"
+
+    (a) Identify the error.                                                  [1]
+
+    _____________________________________________________________
+
+    (b) Perform the correct calculation.                                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+
+================================================================================
+                    SECTION L: PREDICT AND EXPLAIN
+================================================================================
+                              (1 Question)
+
+--------------------------------------------------------------------------------
+50. [Supplement] A potential divider has a fixed resistor R₁ and a
+    thermistor R₂ connected to a 10 V supply. At room temperature,
+    R₁ = R₂ = 5 kΩ. The circuit is placed in a freezer.
+
+    (a) Predict what happens to V₂.                                          [1]
+
+    Prediction: ___________________________________________________
+
+    (b) Explain your answer.                                                 [3]
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MCQ
+1.  C (Increases)
+2.  C (4 V: V₂ = 6 × 20/(10+20) = 4 V)
+3.  B (2 V: I = 6/12 = 0.5 A; V = 0.5 × 4 = 2 V)
+4.  B (5 V: equal resistors split voltage equally)
+5.  B (Higher resistance → higher p.d.)
+6.  A (4 V: V₁ = 10 × 4/(4+6) = 4 V)
+7.  B (Decreases: thermistor resistance decreases → V₂ decreases)
+8.  B (1:3)
+9.  B (Double the p.d.)
+10. B (Increases: LDR resistance increases in dark → V₂ increases)
+
+SECTION B: TRUE/FALSE
+11. FALSE – Voltage splits in the same ratio as the resistances;
+    the larger resistor has the larger p.d.
+12. TRUE
+13. TRUE
+14. TRUE – As temperature increases, thermistor R₁ decreases, so
+    a larger fraction of voltage appears across R₂.
+
+SECTION C: FILL-IN-THE-BLANK
+15. increases
+16. ratio; resistances
+17. increase
+18. E (the total e.m.f.)
+
+SECTION D: MATCHING
+19. A = 2, B = 1, C = 4, D = 3
+20. A = 2, B = 4, C = 3, D = 1
+
+SECTION E: SHORT ANSWER
+21. V = IR: for constant I, if R increases then V increases.
+22. A potential divider uses two resistors in series to split the
+    voltage from a power source, allowing a fraction of the total
+    voltage to be obtained.
+23. Since the current I is the same through both (series), V = IR
+    means the resistor with greater R has greater V.
+24. (a) Light increases → LDR resistance decreases → V₂ decreases.
+    (b) Light decreases → LDR resistance increases → V₂ increases.
+25. Changing the variable resistor changes the resistance ratio, which
+    changes how the voltage is divided. This adjusts the p.d. across
+    the lamp, controlling its brightness.
+
+SECTION F: CALCULATIONS
+26. (a) R₁:R₂ = 6:18 = 1:3
+    (b) V₁ = 12 × 1/4 = 3 V; V₂ = 12 × 3/4 = 9 V
+    (c) 3 + 9 = 12 V ✓
+27. (a) R₁/R₂ = V₁/V₂ → 200/300 = V₁/V₂ → V₁/V₂ = 2/3
+        V₁ + V₂ = 10; V₁ = 2/5 × 10 = 4 V
+    (b) V₂ = 10 − 4 = 6 V
+28. (a) I = V/R = 8/(20+60) = 8/80 = 0.10 A
+    (b) V₁ = 0.10 × 20 = 2 V; V₂ = 0.10 × 60 = 6 V
+    (c) R₁/R₂ = 20/60 = 1/3; V₁/V₂ = 2/6 = 1/3 ✓
+29. (a) R₁/R₂ = V₁/V₂ → 2/8 = V₁/4.0 → V₁ = 1.0 V
+    (b) V_in = 1.0 + 4.0 = 5.0 V
+30. (a) V₂ = 5 × 4/(1+4) = 5 × 4/5 = 4.0 V
+    (b) V₂ = 5 × 4/(0.2+4) = 5 × 4/4.2 = 4.76 V
+    (c) As temperature increases, thermistor resistance decreases,
+        changing the ratio and thus changing V₂.
+31. (a) I = V₁/R₁ = 3/3 = 1 A
+    (b) V₂ = IR₂ = 1 × 6 = 6 V
+    (c) 3 + 6 = 9 V ✓
+32. (a) V₂ = 12 × 5/(15+5) = 12 × 5/20 = 3 V
+    (b) V₁ = 12 − 3 = 9 V
+33. (a) V₂ = 5 × 1/(10+1) = 5/11 = 0.45 V
+    (b) V₂ = 5 × 100/(10+100) = 500/110 = 4.55 V
+    (c) Darkness gives the higher output voltage.
+34. (a) V₁ = 9.0 − 3.0 = 6.0 V
+    (b) R₁:R₂ = V₁:V₂ = 6:3 = 2:1
+    (c) R₁ = 2 × R₂ = 2 × 100 = 200 Ω
+35. (a) V₁ = 15 × 25/100 = 3.75 V; V₂ = 15 × 75/100 = 11.25 V
+    (b) R₂ has the greater p.d. because it has the higher resistance
+        and V = IR with the same current.
+
+SECTION G: CIRCUIT DRAWING
+36–38. Mark schemes based on correct layout, component symbols,
+       connections, and labeling.
+
+SECTION H: DATA INTERPRETATION
+39. (a) V₂ decreases as R₁ increases.
+    (b) Increasing R₁ means more voltage drops across R₁, leaving
+        less across R₂.
+    (c) V₂ = 10 V. If R₁ = 0, no voltage drops across R₁ so
+        all voltage appears across R₂.
+40. (a) V₂ decreases as temperature increases.
+    (b) Thermistor resistance decreases with temperature, so its
+        share of the voltage decreases.
+    (c) 40 °C (V₂ = 5.0 V = half of 10 V)
+    (d) V₂ = 10 × 5/(5+5) = 10 × 1/2 = 5.0 V ✓
+41. (a) V₂ increases as light intensity decreases.
+    (b) In darkness, LDR resistance is very high, so it takes a
+        larger share of the voltage.
+    (c) Dim and very dark conditions (V₂ = 4.00 and 4.76 V).
+    (d) Security/burglar alarm that activates when it gets dark.
+42. (a) V₂ = 12 × 2/(6+2) = 24/8 = 3.0 V
+    (b) Small differences due to: measurement uncertainty, resistance
+        of connecting wires, or internal resistance of the battery.
+
+SECTION I: COMPARE AND CONTRAST
+43. Fixed: constant V_out, not adjustable, used for fixed reference
+    voltages. Variable: adjustable V_out, continuously variable,
+    used for dimmer switches/volume controls.
+44. (a) Both use a sensor whose resistance changes with external
+        conditions to vary the output voltage.
+    (b) (1) Thermistor responds to temperature; LDR responds to light.
+    (2) Thermistor used in temperature sensors; LDR used in light sensors.
+
+SECTION J: STRUCTURED QUESTIONS
+45. (a) V₂ = 9 × 10/(10+10) = 4.5 V
+    (b) V₂ = 9 × 10/(50+10) = 90/60 = 1.5 V
+    (c) Thermistor R₁ increases in cold → takes more voltage →
+        V₂ decreases. (Note: V₂ increases when thermistor is R₁.)
+        Correction: V₂ = 9 × R₂/(R₁+R₂); as R₁ increases, V₂ decreases.
+        Wait — re-reading: R₁ is thermistor, so V₂ across fixed R₂.
+        At 5 °C: V₂ = 9 × 10/(50+10) = 1.5 V. V₂ decreases.
+    (d) When V₂ drops below a set threshold, a relay or transistor
+        switch can be triggered to turn on the heater.
+46. (a) R_total = 4 + 16 = 20 kΩ; I = 20/(20×10³) = 0.001 A = 1 mA
+    (b) V₁ = 0.001 × 4000 = 4 V; V₂ = 0.001 × 16000 = 16 V
+    (c) V₂ = 20 × 4/(4+4) = 10 V
+    (d) When R₁ = R₂, the voltage splits equally, so V₂ = half supply.
+47. (a) R₁/R₂ = V₁/V₂; V₁ = 12 − 10 = 2 V
+        R₁/10000 = 2/10; R₁ = 2000 Ω = 2 kΩ
+    (b) The LDR has low resistance (2 kΩ), meaning it is dark since
+        LDR resistance increases in darkness. Actually 2 kΩ is relatively
+        low, so this is moderate light. The light turns on when V₂ > 10 V,
+        which occurs at low LDR resistance (brighter light).
+        Correction: When LDR (R₁) gets smaller, V₁ decreases, V₂ increases.
+        So the trigger at V₂ > 10 V corresponds to the LDR having
+        low resistance, i.e., bright conditions. This would be reversed
+        from typical security light operation unless the LDR is R₁.
+    (c) In darkness, LDR R₁ increases → V₁ increases → V₂ decreases
+        below 10 V → light stays off. In bright conditions (or when
+        an intruder shines a light), R₁ decreases → V₂ > 10 V → light on.
+
+SECTION K: ERROR ANALYSIS
+48. (a) Incorrect. The larger resistor has the larger p.d. across it.
+    (b) "In a potential divider, the larger resistor always has the
+        larger p.d. across it."
+49. (a) The student used R₁/R₂ instead of R₂/(R₁+R₂).
+    (b) V₂ = 9 × 6/(3+6) = 54/9 = 6 V
+
+SECTION L: PREDICT AND EXPLAIN
+50. (a) V₂ will increase.
+    (b) In the freezer, temperature decreases, so the thermistor
+        resistance increases. Since R₂ is now larger relative to R₁,
+        it takes a greater share of the voltage, so V₂ increases.

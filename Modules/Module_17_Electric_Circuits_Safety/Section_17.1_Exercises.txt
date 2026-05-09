@@ -1,0 +1,1277 @@
+================================================================================
+                    SECTION 17.1 EXERCISES
+                    CIRCUIT DIAGRAMS & COMPONENTS
+================================================================================
+
+Learning Objectives Covered:
+  * Draw and interpret circuit diagrams containing standard components.
+  * Describe the function of common circuit components.
+  * Describe how thermistors and LDRs behave in circuits.
+  * [Supplement] Draw and interpret circuit diagrams containing diodes and LEDs.
+
+Total Questions: 50
+Distribution:
+  - AO1 (Recall):      13 questions (26%)
+  - AO2 (Application): 25 questions (50%)
+  - AO3 (Analysis):    12 questions (24%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (MCQ)
+================================================================================
+                              (10 Questions)
+
+Instructions: Select the best answer from the options A, B, C, or D.
+
+--------------------------------------------------------------------------------
+1. Which component allows current to flow in one direction only?
+
+   A  Resistor
+   B  Thermistor
+   C  Diode
+   D  LDR
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+2. An ammeter must be connected:
+
+   A  in parallel with the component
+   B  in series with the component
+   C  across the battery terminals
+   D  between the switch and the battery only
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+3. What happens to the resistance of a thermistor when the temperature
+   increases?
+
+   A  It increases
+   B  It decreases
+   C  It stays the same
+   D  It first increases then decreases
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+4. A student wants to measure the potential difference across a lamp.
+   Which instrument should be used and how should it be connected?
+
+   A  Ammeter in series
+   B  Ammeter in parallel
+   C  Voltmeter in series
+   D  Voltmeter in parallel
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+5. Which component would be most suitable for use in a fire alarm circuit
+   to detect rising temperature?
+
+   A  LDR
+   B  Fixed resistor
+   C  Thermistor
+   D  Variable resistor
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+6. An LDR is placed in a dark room. What happens to its resistance when
+   a bright light is switched on?
+
+   A  Resistance increases
+   B  Resistance decreases
+   C  Resistance stays the same
+   D  Resistance becomes zero
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+7. Which of the following is the correct circuit symbol for a battery?
+
+   A  A single long and short parallel line
+   B  Two or more long and short parallel lines in series
+   C  A circle with a cross inside
+   D  A rectangle with an arrow through it
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+8. A circuit contains a cell, a switch, and a lamp. When the switch is open:
+
+   A  current flows through the lamp
+   B  the lamp is at full brightness
+   C  no current flows in the circuit
+   D  current flows only through the cell
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+9. [Supplement] An LED is connected in reverse bias in a circuit.
+   What happens?
+
+   A  The LED emits light
+   B  The LED emits light at reduced brightness
+   C  No current flows and the LED does not light
+   D  The LED is damaged immediately
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+10. Which pair of components both have resistance that changes with
+    external conditions?
+
+    A  Fixed resistor and variable resistor
+    B  Thermistor and LDR
+    C  Fuse and relay
+    D  Motor and bell
+
+    [AO2 - 1 mark]
+
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION
+================================================================================
+                              (4 Questions)
+
+Instructions: State whether each statement is TRUE or FALSE.
+              If FALSE, write the correct statement.
+
+--------------------------------------------------------------------------------
+11. "A voltmeter is connected in series with the component it is measuring."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+12. "The resistance of an LDR increases when the light intensity increases."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+13. "A relay uses a small current to switch a larger current on or off."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+14. [Supplement] "A diode allows current to flow equally in both directions."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK
+================================================================================
+                              (4 Questions)
+
+Instructions: Complete each sentence using the correct word(s).
+
+--------------------------------------------------------------------------------
+15. An ammeter is always connected in ______________ with the component.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+16. A thermistor is a component whose resistance changes with
+    __________________.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+17. The long line on a cell symbol represents the ______________ terminal.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+18. An LDR has ______________ resistance in the dark and ______________
+    resistance in bright light.
+
+    [AO1 - 2 marks]
+
+
+================================================================================
+                    SECTION D: MATCHING
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+19. Match each component with its function.
+
+    Component                          Function
+    ─────────────────────────────     ─────────────────────────────
+    A. Thermistor                     1. Converts mechanical energy to
+                                         electrical energy
+    B. LDR                            2. Resistance changes with temperature
+    C. Fuse                           3. Emits sound when current flows
+    D. Generator                      4. Melts if current exceeds rated value
+    E. Bell                           5. Resistance changes with light intensity
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___, E = ___
+
+    [AO1 - 5 marks]
+
+--------------------------------------------------------------------------------
+20. Match each component with how it is connected in a circuit.
+
+    Component                          Connection
+    ─────────────────────────────     ─────────────────────────────
+    A. Ammeter                        1. In parallel across the component
+    B. Voltmeter                      2. In series with the component
+    C. Switch                         3. In series in the live wire
+    D. Fuse                           4. In series to control current flow
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO1 - 4 marks]
+
+--------------------------------------------------------------------------------
+21. Match each circuit symbol description with the correct component.
+
+    Symbol Description                 Component
+    ─────────────────────────────     ─────────────────────────────
+    A. Circle with A inside           1. Lamp
+    B. Circle with V inside           2. Ammeter
+    C. Circle with cross inside       3. Variable resistor
+    D. Rectangle with arrow           4. Voltmeter
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO1 - 4 marks]
+
+
+================================================================================
+                    SECTION E: LABELING DIAGRAMS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+22. The diagram shows a simple circuit with unlabeled components.
+
+    ---DIAGRAM: Fig. E1---
+    TYPE: Circuit
+    PURPOSE: Simple circuit with unlabeled components for student labeling
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Series circuit with four components
+
+    COMPONENTS:
+      [Component A]
+        Symbol: battery (two cells)
+        Position: grid(5,1)
+        Label: "A" [above, in box]
+
+      [Component B]
+        Symbol: switch (open)
+        Position: grid(2,4)
+        Label: "B" [left, in box]
+
+      [Component C]
+        Symbol: ammeter
+        Position: grid(5,7)
+        Label: "C" [below, in box]
+
+      [Component D]
+        Symbol: lamp
+        Position: grid(8,4)
+        Label: "D" [right, in box]
+
+    CONNECTIONS:
+      [Wire]: A → B → C → D → A (series loop)
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) Name component A.                                                    [1]
+
+    _____________________________________________________________
+
+    (b) Name component B.                                                    [1]
+
+    _____________________________________________________________
+
+    (c) Name component C and state how it is connected.                      [2]
+
+    _____________________________________________________________
+
+    (d) Name component D.                                                    [1]
+
+    _____________________________________________________________
+
+    [AO2 - 5 marks total]
+
+--------------------------------------------------------------------------------
+23. The diagram shows a circuit used to investigate the resistance of a
+    thermistor at different temperatures.
+
+    ---DIAGRAM: Fig. E2---
+    TYPE: Circuit
+    PURPOSE: Circuit with thermistor, ammeter, voltmeter for labeling
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Series circuit with thermistor, ammeter, and parallel voltmeter
+
+    COMPONENTS:
+      [Battery]
+        Symbol: battery
+        Position: grid(5,1)
+        Label: "6 V"
+
+      [Switch]
+        Symbol: switch
+        Position: grid(1,4)
+
+      [Component P]
+        Symbol: ammeter
+        Position: grid(5,7)
+        Label: "P" [below, in box]
+
+      [Component Q]
+        Symbol: thermistor
+        Position: grid(8,4)
+        Label: "Q" [right, in box]
+
+      [Component R]
+        Symbol: voltmeter
+        Position: grid(10,4)
+        Label: "R" [right, in box]
+        Connection: in parallel across Q
+
+    CONNECTIONS:
+      [Series]: Battery → Switch → P → Q → Battery
+      [Parallel]: R across Q
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) Name component P and state its purpose.                              [2]
+
+    _____________________________________________________________
+
+    (b) Name component Q.                                                    [1]
+
+    _____________________________________________________________
+
+    (c) Name component R and explain how it is connected.                    [2]
+
+    _____________________________________________________________
+
+    (d) State what happens to the reading on component R when the
+        thermistor is heated.                                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 7 marks total]
+
+--------------------------------------------------------------------------------
+24. The diagram shows the circuit symbols for six components.
+
+    ---DIAGRAM: Fig. E3---
+    TYPE: Reference
+    PURPOSE: Six unlabeled circuit symbols for identification
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 6
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Two rows of three symbols each
+
+    COMPONENTS:
+      [Symbol 1]
+        Symbol: resistor_with_arrows_pointing_in (LDR)
+        Position: grid(2,2)
+        Label: "1" [below]
+
+      [Symbol 2]
+        Symbol: triangle_with_bar (Diode)
+        Position: grid(6,2)
+        Label: "2" [below]
+
+      [Symbol 3]
+        Symbol: rectangle (Fixed resistor)
+        Position: grid(10,2)
+        Label: "3" [below]
+
+      [Symbol 4]
+        Symbol: circle_with_cross (Lamp)
+        Position: grid(2,5)
+        Label: "4" [below]
+
+      [Symbol 5]
+        Symbol: resistor_with_temperature_symbol (Thermistor)
+        Position: grid(6,5)
+        Label: "5" [below]
+
+      [Symbol 6]
+        Symbol: rectangle_with_line (Fuse)
+        Position: grid(10,5)
+        Label: "6" [below]
+
+    CONNECTIONS:
+      None
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    Name each component:
+
+    Symbol 1: _____________________________________________________________
+
+    Symbol 2: _____________________________________________________________
+
+    Symbol 3: _____________________________________________________________
+
+    Symbol 4: _____________________________________________________________
+
+    Symbol 5: _____________________________________________________________
+
+    Symbol 6: _____________________________________________________________
+
+    [AO1 - 6 marks total]
+
+
+================================================================================
+                    SECTION F: SHORT ANSWER QUESTIONS
+================================================================================
+                              (5 Questions)
+
+--------------------------------------------------------------------------------
+25. State the difference between a cell and a battery.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+26. Describe what happens to the resistance of a thermistor when it is
+    placed in ice water.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+27. A street lamp circuit uses an LDR to switch the lamp on automatically
+    at night. Explain how the LDR makes this possible.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+28. [Supplement] Explain the difference between forward bias and
+    reverse bias for a diode.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+29. State two uses of a thermistor in everyday life and explain why a
+    thermistor is suitable for each use.
+
+    1. ___________________________________________________________
+
+       ___________________________________________________________
+
+    2. ___________________________________________________________
+
+       ___________________________________________________________
+
+    [AO2 - 4 marks]
+
+
+================================================================================
+                    SECTION G: DIAGRAM / CIRCUIT DRAWING
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+30. Draw the circuit symbol for each of the following components:
+
+    (a) A cell                                                               [1]
+
+
+
+
+    (b) A variable resistor                                                  [1]
+
+
+
+
+    (c) A fuse                                                               [1]
+
+
+
+
+    (d) An LDR                                                               [1]
+
+
+
+
+    [AO1 - 4 marks total]
+
+--------------------------------------------------------------------------------
+31. Draw a circuit diagram showing a battery, a closed switch, a lamp,
+    and an ammeter connected in series. Include a voltmeter connected
+    correctly to measure the p.d. across the lamp.
+
+    [Space for drawing]
+
+
+
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+32. Draw a circuit diagram that could be used to investigate how the
+    resistance of a thermistor changes with temperature. Your circuit
+    should include:
+    - a battery
+    - a switch
+    - a thermistor
+    - an ammeter (connected correctly)
+    - a voltmeter (connected correctly)
+
+    [Space for drawing]
+
+
+
+
+    [AO2 - 5 marks]
+
+--------------------------------------------------------------------------------
+33. [Supplement] Draw a circuit containing a cell, a lamp, and a diode
+    connected so that the lamp lights up. Mark the direction of
+    conventional current flow on your diagram.
+
+    [Space for drawing]
+
+
+
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION H: DATA INTERPRETATION
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+34. A student investigates how the resistance of a thermistor changes
+    with temperature. The results are shown in the table.
+
+    ┌─────────────────────┬──────────────────────┐
+    │ Temperature (°C)    │ Resistance (Ω)       │
+    ├─────────────────────┼──────────────────────┤
+    │ 20                  │ 2000                 │
+    │ 30                  │ 1200                 │
+    │ 40                  │ 800                  │
+    │ 50                  │ 500                  │
+    │ 60                  │ 350                  │
+    │ 70                  │ 250                  │
+    │ 80                  │ 200                  │
+    └─────────────────────┴──────────────────────┘
+
+    (a) Describe the trend shown by the data.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Estimate the resistance of the thermistor at 45 °C.                  [1]
+
+    _____________________________________________________________
+
+
+    (c) Calculate the change in resistance between 20 °C and 80 °C.          [1]
+
+    _____________________________________________________________
+
+
+    (d) Suggest why the relationship between temperature and resistance
+        is not linear.                                                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 6 marks total]
+
+--------------------------------------------------------------------------------
+35. A student tests an LDR by varying the light intensity and recording
+    the resistance. The results are shown below.
+
+    ┌─────────────────────────┬──────────────────────┐
+    │ Light Intensity (lux)   │ Resistance (Ω)       │
+    ├─────────────────────────┼──────────────────────┤
+    │ 10                      │ 9000                 │
+    │ 50                      │ 2500                 │
+    │ 100                     │ 1400                 │
+    │ 200                     │ 700                  │
+    │ 500                     │ 300                  │
+    │ 1000                    │ 150                  │
+    └─────────────────────────┴──────────────────────┘
+
+    (a) Describe the pattern in the data.                                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) A room has a light intensity of 150 lux. Estimate the resistance
+        of the LDR.                                                          [1]
+
+    _____________________________________________________________
+
+
+    (c) The LDR is used in a circuit to turn on a security light when
+        it gets dark. Explain how the change in resistance of the LDR
+        can be used to trigger the light.                                    [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 6 marks total]
+
+--------------------------------------------------------------------------------
+36. [Supplement] A student tests a diode by connecting it in a circuit
+    with a variable power supply and recording the current.
+
+    ┌──────────────────────┬───────────────────────┐
+    │ Voltage (V)          │ Current (mA)          │
+    ├──────────────────────┼───────────────────────┤
+    │ -3.0                 │ 0                     │
+    │ -2.0                 │ 0                     │
+    │ -1.0                 │ 0                     │
+    │ 0.0                  │ 0                     │
+    │ 0.3                  │ 0                     │
+    │ 0.5                  │ 2                     │
+    │ 0.7                  │ 20                    │
+    │ 1.0                  │ 80                    │
+    └──────────────────────┴───────────────────────┘
+
+    (a) State the range of voltages where no current flows.                  [1]
+
+    _____________________________________________________________
+
+
+    (b) State the approximate voltage at which the diode begins to
+        conduct.                                                             [1]
+
+    _____________________________________________________________
+
+
+    (c) Explain why no current flows when negative voltage is applied.        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Sketch the I-V characteristic graph for this diode.                  [2]
+
+    [Space for graph]
+
+    [AO2/AO3 - 6 marks total]
+
+--------------------------------------------------------------------------------
+37. The table shows the current flowing through a thermistor at a
+    constant p.d. of 6 V at different temperatures.
+
+    ┌─────────────────────┬──────────────────────┐
+    │ Temperature (°C)    │ Current (mA)         │
+    ├─────────────────────┼──────────────────────┤
+    │ 20                  │ 3.0                  │
+    │ 30                  │ 5.0                  │
+    │ 40                  │ 7.5                  │
+    │ 50                  │ 12.0                 │
+    │ 60                  │ 17.1                 │
+    │ 70                  │ 24.0                 │
+    └─────────────────────┴──────────────────────┘
+
+    (a) Describe the trend in the data.                                      [1]
+
+    _____________________________________________________________
+
+
+    (b) Calculate the resistance of the thermistor at 20 °C.                 [2]
+        (Use $R = V / I$)
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Calculate the resistance of the thermistor at 70 °C.                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Explain why the current increases as temperature increases,
+        even though the voltage stays constant.                              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 7 marks total]
+
+
+================================================================================
+                    SECTION I: COMPARE AND CONTRAST
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+38. Complete the table comparing a thermistor and an LDR.
+
+    ┌───────────────────────┬──────────────────────┬──────────────────────┐
+    │ Feature               │ Thermistor           │ LDR                  │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ What it responds to   │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ How resistance changes│                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ One application       │                      │                      │
+    └───────────────────────┴──────────────────────┴──────────────────────┘
+
+    [AO2 - 6 marks]
+
+--------------------------------------------------------------------------------
+39. Compare series and parallel connections for ammeters and voltmeters.
+
+    ┌───────────────────────┬──────────────────────┬──────────────────────┐
+    │ Feature               │ Ammeter              │ Voltmeter            │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Quantity measured      │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Connection type        │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Unit of measurement   │                      │                      │
+    └───────────────────────┴──────────────────────┴──────────────────────┘
+
+    [AO1 - 6 marks]
+
+--------------------------------------------------------------------------------
+40. [Supplement] Compare a diode with a fixed resistor in terms of how
+    they behave in a circuit.
+
+    (a) State one similarity.                                                [1]
+
+    _____________________________________________________________
+
+
+    (b) State two differences.                                               [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION J: STRUCTURED QUESTIONS
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+41. A student designs a temperature warning system for a greenhouse.
+    The circuit uses a thermistor, a battery, a buzzer, and a relay.
+
+    ---DIAGRAM: Fig. S1---
+    TYPE: Circuit
+    PURPOSE: Greenhouse temperature alarm circuit
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Two-stage circuit with relay
+
+    COMPONENTS:
+      [Battery 1]
+        Symbol: battery
+        Position: grid(2,2)
+        Label: "6 V"
+
+      [Thermistor]
+        Symbol: thermistor
+        Position: grid(5,2)
+
+      [Relay Coil]
+        Symbol: relay_coil
+        Position: grid(8,2)
+
+      [Battery 2]
+        Symbol: battery
+        Position: grid(2,6)
+        Label: "12 V"
+
+      [Relay Switch]
+        Symbol: relay_switch
+        Position: grid(5,6)
+
+      [Buzzer]
+        Symbol: buzzer
+        Position: grid(8,6)
+
+    CONNECTIONS:
+      [Circuit 1]: Battery 1 → Thermistor → Relay Coil → Battery 1
+      [Circuit 2]: Battery 2 → Relay Switch → Buzzer → Battery 2
+
+    ANNOTATIONS:
+      [Note]: "Relay connects the two circuits"
+    ---END DIAGRAM---
+
+    (a) State what happens to the resistance of the thermistor when
+        the temperature in the greenhouse rises.                             [1]
+
+    _____________________________________________________________
+
+
+    (b) Explain what happens to the current in the relay coil circuit
+        when the temperature rises.                                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Explain how this causes the buzzer to sound.                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Suggest one improvement to this circuit that would allow the
+        farmer to set the temperature at which the alarm sounds.             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 7 marks total]
+
+--------------------------------------------------------------------------------
+42. An automatic street light circuit uses an LDR.
+
+    (a) State what an LDR is.                                                [1]
+
+    _____________________________________________________________
+
+
+    (b) Describe how the resistance of the LDR changes between
+        daytime and night-time.                                              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (c) Explain how the LDR can be used to switch the street light
+        on at night and off during the day.                                  [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) Suggest one limitation of using an LDR for this purpose.             [1]
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 7 marks total]
+
+--------------------------------------------------------------------------------
+43. [Supplement] A student investigates the behaviour of an LED.
+
+    (a) State what LED stands for.                                           [1]
+
+    _____________________________________________________________
+
+
+    (b) Draw a circuit diagram showing how to connect an LED correctly
+        to a cell so that it lights up. Include a resistor to protect
+        the LED.                                                             [3]
+
+    [Space for drawing]
+
+
+    (c) Explain why a resistor is needed in the circuit with an LED.         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) The student reverses the LED in the circuit. State and explain
+        what happens.                                                        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 8 marks total]
+
+--------------------------------------------------------------------------------
+44. A student is asked to draw a circuit that could be used to
+    investigate how the current through a lamp changes with voltage.
+
+    (a) List the components needed for this investigation.                   [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Draw the circuit diagram.                                            [4]
+
+    [Space for drawing]
+
+
+    (c) Explain how the variable resistor is used in this circuit.           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (d) State what happens to the brightness of the lamp as the
+        voltage increases.                                                   [1]
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 10 marks total]
+
+
+================================================================================
+                    SECTION K: ERROR ANALYSIS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+45. A student writes: "A voltmeter must be connected in series with a
+    lamp to measure the voltage across it."
+
+    (a) Identify the error in this statement.                                [1]
+
+    _____________________________________________________________
+
+
+    (b) Write the correct statement.                                         [1]
+
+    _____________________________________________________________
+
+
+    (c) Explain why connecting a voltmeter incorrectly would give a
+        wrong reading.                                                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+--------------------------------------------------------------------------------
+46. A student claims: "A thermistor and an LDR both have resistance
+    that increases when their surroundings change."
+
+    (a) Is this statement correct? Explain your answer.                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+    (b) Rewrite the statement so that it is fully correct.                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+
+================================================================================
+                    SECTION L: PREDICT AND EXPLAIN
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+47. A thermistor is connected in series with a lamp and a battery.
+    Predict and explain what happens to the brightness of the lamp
+    when the thermistor is heated.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+--------------------------------------------------------------------------------
+48. An LDR is connected in series with a buzzer and a battery.
+    Predict what happens when the room light is turned off.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+--------------------------------------------------------------------------------
+49. [Supplement] A circuit contains a cell, a lamp, and a diode in series.
+    The lamp is lit. Predict what happens if the cell connections are
+    reversed. Explain your answer.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+--------------------------------------------------------------------------------
+50. Two identical lamps are connected in series with a battery.
+    One lamp is unscrewed and removed. Predict and explain what
+    happens to the other lamp.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MCQ
+1.  C (Diode)
+2.  B (In series with the component)
+3.  B (It decreases)
+4.  D (Voltmeter in parallel)
+5.  C (Thermistor)
+6.  B (Resistance decreases)
+7.  B (Two or more long and short parallel lines in series)
+8.  C (No current flows in the circuit)
+9.  C (No current flows and the LED does not light)
+10. B (Thermistor and LDR)
+
+SECTION B: TRUE/FALSE
+11. FALSE – A voltmeter is connected in parallel across the component.
+12. FALSE – The resistance of an LDR decreases when light intensity
+    increases.
+13. TRUE
+14. FALSE – A diode allows current to flow in one direction only.
+
+SECTION C: FILL-IN-THE-BLANK
+15. series
+16. temperature
+17. positive (+)
+18. high; low
+
+SECTION D: MATCHING
+19. A = 2, B = 5, C = 4, D = 1, E = 3
+20. A = 2, B = 1, C = 4, D = 3
+21. A = 2, B = 4, C = 1, D = 3
+
+SECTION E: LABELING
+22. (a) Battery  (b) Switch (open)  (c) Ammeter, connected in series
+    (d) Lamp
+23. (a) Ammeter – measures current  (b) Thermistor
+    (c) Voltmeter – connected in parallel across the thermistor
+    (d) The reading decreases because resistance decreases, so for the
+        same current, V = IR gives a lower voltage.
+24. 1 = LDR, 2 = Diode, 3 = Fixed resistor, 4 = Lamp,
+    5 = Thermistor, 6 = Fuse
+
+SECTION F: SHORT ANSWER
+25. A cell is a single source of e.m.f.; a battery is two or more cells
+    connected in series.
+26. The resistance of the thermistor increases because the temperature
+    decreases.
+27. At night, light intensity is low, so LDR resistance is high.
+    During the day, light intensity is high, so LDR resistance is low.
+    The change in resistance changes the current in the circuit,
+    which triggers the lamp to switch on/off.
+28. In forward bias, the diode allows current to flow (triangle points
+    in the direction of conventional current). In reverse bias, the
+    diode blocks current flow (no current flows through the circuit).
+29. (1) Thermostat – thermistor detects temperature changes and adjusts
+        heating/cooling. (2) Fire alarm – thermistor detects rapid
+        temperature rise and triggers an alarm.
+
+SECTION G: CIRCUIT DRAWING
+30–33. Mark schemes based on correct circuit symbols, connections, and
+       component placement.
+
+SECTION H: DATA INTERPRETATION
+34. (a) As temperature increases, resistance decreases (non-linearly).
+    (b) Approximately 630–650 Ω.
+    (c) 2000 − 200 = 1800 Ω.
+    (d) The relationship is exponential/non-linear; the rate of decrease
+        of resistance slows at higher temperatures.
+35. (a) As light intensity increases, resistance decreases.
+    (b) Approximately 1000–1100 Ω.
+    (c) When it gets dark, LDR resistance increases → less current →
+        relay/switching circuit activates → security light turns on.
+36. (a) From −3.0 V to about 0.4 V.
+    (b) Approximately 0.5 V (the threshold/turn-on voltage).
+    (c) Negative voltage means the diode is in reverse bias; it blocks
+        current flow in that direction.
+    (d) Graph: flat at 0 for negative voltages, rises steeply after ~0.5 V.
+37. (a) As temperature increases, current increases.
+    (b) R = V/I = 6 / 0.003 = 2000 Ω.
+    (c) R = V/I = 6 / 0.024 = 250 Ω.
+    (d) As temperature increases, thermistor resistance decreases.
+        Since V is constant, I = V/R increases.
+
+SECTION I: COMPARE AND CONTRAST
+38. Thermistor: responds to temperature, resistance decreases as temp
+    increases, used in fire alarms.
+    LDR: responds to light intensity, resistance decreases as light
+    increases, used in automatic street lights.
+39. Ammeter: measures current, in series, amperes (A).
+    Voltmeter: measures p.d., in parallel, volts (V).
+40. (a) Both are components that restrict/control current flow.
+    (b) (1) A resistor allows current in both directions; a diode allows
+        current in one direction only.
+    (2) A fixed resistor has constant resistance; a diode has very
+        different resistance in forward vs reverse bias.
+
+SECTION J: STRUCTURED QUESTIONS
+41. (a) Resistance decreases.
+    (b) Current increases (V constant, R decreases, so I = V/R increases).
+    (c) The increased current energises the relay coil, closing the relay
+        switch, completing the buzzer circuit, and the buzzer sounds.
+    (d) Replace the thermistor with a variable resistor in series with
+        the thermistor, allowing adjustment of the trigger temperature.
+42. (a) An LDR is a light-dependent resistor; its resistance changes
+        with light intensity.
+    (b) During daytime: low resistance; at night: high resistance.
+    (c) At night, LDR resistance increases, which changes the current/
+        voltage in the circuit, activating a relay or switch to turn on
+        the lamp. During the day, resistance drops, deactivating the switch.
+    (d) Could be triggered by shadows, car headlights, or other artificial
+        light sources.
+43. (a) Light-Emitting Diode.
+    (b) [Correct circuit: cell → resistor → LED → cell, with LED in
+        forward bias direction.]
+    (c) Without a resistor, too much current would flow through the LED,
+        damaging or destroying it.
+    (d) The LED does not light because it is now in reverse bias; the
+        diode blocks current flow.
+44. (a) Battery/power supply, variable resistor, lamp, ammeter, voltmeter.
+    (b) [Circuit with variable resistor and lamp in series, ammeter in
+        series, voltmeter in parallel across lamp.]
+    (c) The variable resistor controls the amount of current flowing,
+        which changes the p.d. across the lamp.
+    (d) The brightness increases.
+
+SECTION K: ERROR ANALYSIS
+45. (a) The voltmeter should be connected in parallel, not in series.
+    (b) "A voltmeter must be connected in parallel across a lamp to
+        measure the voltage across it."
+    (c) A voltmeter in series would have a very high resistance and
+        would reduce the current to nearly zero, giving an incorrect
+        reading and the lamp would not work properly.
+46. (a) Incorrect. For both thermistors and LDRs, resistance DECREASES
+        when conditions change (temperature increases for thermistor,
+        light increases for LDR).
+    (b) "A thermistor and an LDR both have resistance that decreases
+        when their respective conditions increase (temperature and light
+        intensity)."
+
+SECTION L: PREDICT AND EXPLAIN
+47. Prediction: The lamp becomes brighter.
+    Explanation: Heating the thermistor decreases its resistance, so the
+    total resistance of the circuit decreases. This means more current
+    flows, making the lamp brighter.
+48. Prediction: The buzzer becomes quieter or stops sounding.
+    Explanation: Without light, the LDR resistance increases greatly,
+    reducing the current in the circuit. Less current means the buzzer
+    receives insufficient energy to sound.
+49. Prediction: The lamp goes out.
+    Explanation: Reversing the cell reverses the direction of current.
+    The diode is now in reverse bias and blocks the current, so no
+    current flows and the lamp does not light.
+50. Prediction: The other lamp goes out.
+    Explanation: In a series circuit there is only one path for current.
+    Removing one lamp breaks the circuit, so no current can flow and
+    the remaining lamp goes out.

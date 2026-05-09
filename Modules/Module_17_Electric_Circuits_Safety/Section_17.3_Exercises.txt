@@ -1,0 +1,1229 @@
+================================================================================
+                    SECTION 17.3 EXERCISES
+                    PARALLEL CIRCUITS
+================================================================================
+
+Learning Objectives Covered:
+  * Know how to construct and use parallel circuits.
+  * State that current from source is larger than current in each branch.
+  * [Supplement] Recall and use the junction rule for currents.
+  * [Supplement] Know that p.d. across parallel branches is the same.
+  * State combined resistance of two resistors in parallel is less than either.
+  * [Supplement] Calculate combined resistance of two resistors in parallel.
+  * State advantages of connecting lamps in parallel in a lighting circuit.
+
+Total Questions: 50
+Distribution:
+  - AO1 (Recall):      12 questions (24%)
+  - AO2 (Application): 26 questions (52%)
+  - AO3 (Analysis):    12 questions (24%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (MCQ)
+================================================================================
+                              (10 Questions)
+
+Instructions: Select the best answer from the options A, B, C, or D.
+
+--------------------------------------------------------------------------------
+1. In a parallel circuit, the current from the source is:
+
+   A  the same as the current in each branch
+   B  less than the current in each branch
+   C  larger than the current in any single branch
+   D  zero
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+2. Two resistors of 6 Ω each are connected in parallel.
+   The combined resistance is:
+
+   A  3 Ω
+   B  6 Ω
+   C  12 Ω
+   D  36 Ω
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+3. [Supplement] The total current from a battery is 5.0 A.
+   If 2.0 A flows through branch 1, what is the current in branch 2?
+
+   A  2.0 A
+   B  3.0 A
+   C  5.0 A
+   D  7.0 A
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+4. [Supplement] In a parallel circuit, the p.d. across each branch is:
+
+   A  shared equally between branches
+   B  different for each branch
+   C  the same for all branches
+   D  zero in the branch with the highest resistance
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+5. Which is an advantage of connecting lamps in parallel?
+
+   A  They all go out if one fails
+   B  They all need to be the same brightness
+   C  Each can be switched on and off independently
+   D  They use less energy than series lamps
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+6. [Supplement] A 4 Ω and a 12 Ω resistor are connected in parallel.
+   What is the combined resistance?
+
+   A  3 Ω
+   B  8 Ω
+   C  16 Ω
+   D  48 Ω
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+7. In a parallel circuit with two branches, one branch has a current
+   of 3 A and the other has 4 A. The total current from the battery is:
+
+   A  1 A
+   B  3 A
+   C  4 A
+   D  7 A
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+8. Two resistors are connected in parallel. The combined resistance is
+   always:
+
+   A  equal to the sum of the two resistances
+   B  greater than either individual resistance
+   C  less than either individual resistance
+   D  equal to the larger resistance
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+9. A 12 V battery is connected to two lamps in parallel. The p.d.
+   across each lamp is:
+
+   A  6 V
+   B  12 V
+   C  24 V
+   D  It depends on the resistance of each lamp
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+10. [Supplement] A 10 Ω and a 10 Ω resistor are connected in parallel.
+    What is the combined resistance?
+
+    A  0.2 Ω
+    B  5 Ω
+    C  10 Ω
+    D  20 Ω
+
+    [AO2 - 1 mark]
+
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION
+================================================================================
+                              (4 Questions)
+
+Instructions: State whether each statement is TRUE or FALSE.
+              If FALSE, write the correct statement.
+
+--------------------------------------------------------------------------------
+11. "Adding more resistors in parallel increases the total resistance."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+12. [Supplement] "In a parallel circuit, the p.d. across each branch
+    is equal to the e.m.f. of the battery."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+13. "If one lamp in a parallel circuit fails, all other lamps go out."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+14. [Supplement] "At a junction, the current entering equals the
+    current leaving."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK
+================================================================================
+                              (4 Questions)
+
+Instructions: Complete each sentence using the correct word(s) or value(s).
+
+--------------------------------------------------------------------------------
+15. In a parallel circuit, current ______________ at junctions and
+    ______________ when branches rejoin.
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+16. The combined resistance of resistors in parallel is always
+    ______________ than the resistance of either individual resistor.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+17. [Supplement] The formula for two resistors in parallel is:
+    $\frac{1}{R_{total}}$ = ______________ + ______________
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+18. In a home, lamps are connected in ______________ so that each
+    lamp can be controlled ______________.
+
+    [AO1 - 2 marks]
+
+
+================================================================================
+                    SECTION D: MATCHING
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+19. Match each quantity with its behaviour in a parallel circuit.
+
+    Quantity                           Behaviour in Parallel
+    ─────────────────────────────     ─────────────────────────────
+    A. Total current                  1. Same across each branch
+    B. P.d. (Supplement)              2. Less than smallest individual
+    C. Combined resistance            3. Sum of branch currents
+    D. Current in each branch         4. Less than total current
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO1 - 4 marks]
+
+--------------------------------------------------------------------------------
+20. Match each advantage with the circuit type it applies to.
+
+    Advantage                                    Circuit Type
+    ─────────────────────────────────────       ─────────────
+    A. If one component fails, others work       1. Series
+    B. All components receive full voltage        2. Parallel
+    C. Simpler to build (single loop)
+    D. Components can be switched independently
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO2 - 4 marks]
+
+
+================================================================================
+                    SECTION E: LABELING DIAGRAMS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+21. The diagram shows a parallel circuit with labeled ammeters.
+
+    ---DIAGRAM: Fig. E1---
+    TYPE: Circuit
+    PURPOSE: Parallel circuit with three ammeters at different positions
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 10
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Parallel circuit with battery, two lamps, three ammeters
+
+    COMPONENTS:
+      [Battery]
+        Symbol: battery
+        Position: grid(1,5)
+        Label: "12 V"
+
+      [Ammeter A₀]
+        Symbol: ammeter
+        Position: grid(3,5)
+        Label: "A₀" shows reading "?"
+
+      [Junction 1]
+        Symbol: junction_dot
+        Position: grid(4,5)
+
+      [Branch 1 - Lamp 1]
+        Symbol: lamp
+        Position: grid(6,3)
+
+      [Ammeter A₁]
+        Symbol: ammeter
+        Position: grid(8,3)
+        Label: "A₁" shows reading "2.0 A"
+
+      [Branch 2 - Lamp 2]
+        Symbol: lamp
+        Position: grid(6,7)
+
+      [Ammeter A₂]
+        Symbol: ammeter
+        Position: grid(8,7)
+        Label: "A₂" shows reading "3.0 A"
+
+      [Junction 2]
+        Symbol: junction_dot
+        Position: grid(9,5)
+
+    CONNECTIONS:
+      [Main]: Battery → A₀ → Junction 1
+      [Branch 1]: Junction 1 → Lamp 1 → A₁ → Junction 2
+      [Branch 2]: Junction 1 → Lamp 2 → A₂ → Junction 2
+      [Return]: Junction 2 → Battery
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) State the reading on ammeter A₀.                                     [1]
+
+    _____________________________________________________________
+
+    (b) Explain how you obtained your answer.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) State the p.d. across each lamp.                                     [1]
+
+    _____________________________________________________________
+
+    [AO2 - 4 marks total]
+
+--------------------------------------------------------------------------------
+22. The diagram shows a parallel circuit with two resistors and
+    voltmeters.
+
+    ---DIAGRAM: Fig. E2---
+    TYPE: Circuit
+    PURPOSE: Parallel circuit showing equal p.d. across branches
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Parallel circuit with two resistors and voltmeters
+
+    COMPONENTS:
+      [Battery]
+        Symbol: battery
+        Position: grid(1,4)
+        Label: "6 V"
+
+      [Resistor R₁]
+        Symbol: resistor
+        Position: grid(6,2)
+        Label: "R₁ = 3 Ω"
+
+      [Voltmeter V₁]
+        Symbol: voltmeter
+        Position: grid(8,2)
+        Label: "V₁ = ?"
+        Connection: across R₁
+
+      [Resistor R₂]
+        Symbol: resistor
+        Position: grid(6,6)
+        Label: "R₂ = 6 Ω"
+
+      [Voltmeter V₂]
+        Symbol: voltmeter
+        Position: grid(8,6)
+        Label: "V₂ = ?"
+        Connection: across R₂
+
+    CONNECTIONS:
+      [Parallel]: R₁ and R₂ in parallel, connected to battery
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) [Supplement] State the reading on V₁ and V₂.                        [2]
+
+    V₁ = ____________   V₂ = ____________
+
+    (b) Explain why these readings are equal.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 4 marks total]
+
+
+================================================================================
+                    SECTION F: SHORT ANSWER QUESTIONS
+================================================================================
+                              (5 Questions)
+
+--------------------------------------------------------------------------------
+23. Define a parallel circuit.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+24. State what happens to the total current when a third branch is
+    added to a parallel circuit. Explain why.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+25. State two advantages of connecting lamps in parallel rather
+    than in series.
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+26. Explain why adding resistors in parallel decreases the total
+    resistance of the circuit.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+27. [Supplement] Explain the junction rule for current and state why
+    it must be true.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION G: CALCULATIONS (STRUCTURED)
+================================================================================
+                              (8 Questions)
+
+--------------------------------------------------------------------------------
+28. [Supplement] A parallel circuit has two branches. The current in
+    branch 1 is 2.5 A and in branch 2 is 1.5 A.
+
+    (a) Calculate the total current from the battery.                        [1]
+
+    _____________________________________________________________
+
+    (b) The battery e.m.f. is 6 V. Calculate the total resistance
+        of the circuit.                                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+29. [Supplement] Two resistors of 6 Ω and 3 Ω are connected in parallel.
+
+    (a) Calculate the combined resistance.                                   [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) A 12 V battery is connected. Calculate the total current.            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+30. [Supplement] A 12 Ω and a 4 Ω resistor are connected in parallel
+    to a 12 V battery.
+
+    (a) Calculate the combined resistance.                                   [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate the current from the battery.                              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the current through each resistor.                         [2]
+
+    I through 12 Ω: ____________________________________________
+
+    I through 4 Ω:  ____________________________________________
+
+    (d) Verify the junction rule using your answers.                         [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+31. [Supplement] Three ammeters are placed in a parallel circuit.
+    Ammeter A₁ reads 1.5 A and ammeter A₂ reads 2.5 A.
+
+    (a) Calculate the total current shown by A₀.                             [1]
+
+    _____________________________________________________________
+
+    (b) The battery has an e.m.f. of 10 V. Calculate the resistance
+        of each branch.                                                      [4]
+
+    R₁ = ___________________________________________________________
+
+    R₂ = ___________________________________________________________
+
+--------------------------------------------------------------------------------
+32. Two identical 8 Ω resistors are connected in parallel.
+
+    (a) State the combined resistance.                                       [1]
+
+    _____________________________________________________________
+
+    (b) Justify your answer.                                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+33. [Supplement] A 6 V battery is connected to a 2 Ω and a 6 Ω
+    resistor in parallel.
+
+    (a) Calculate the combined resistance.                                   [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate the total current from the battery.                        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the current through each resistor.                         [2]
+
+    I through 2 Ω: _____________________________________________
+
+    I through 6 Ω: _____________________________________________
+
+--------------------------------------------------------------------------------
+34. [Supplement] A parallel circuit has three branches carrying
+    currents of 1.0 A, 2.0 A, and 3.0 A.
+
+    (a) Calculate the total current.                                         [1]
+
+    _____________________________________________________________
+
+    (b) The battery e.m.f. is 12 V. Calculate the total resistance
+        of the circuit.                                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the resistance of the branch carrying 3.0 A.               [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+35. [Supplement] A 10 Ω and 15 Ω resistor are in parallel across
+    a 30 V supply.
+
+    (a) Calculate the combined resistance.                                   [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate the total current from the supply.                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION H: DATA INTERPRETATION
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+36. [Supplement] A student connects different pairs of identical
+    resistors in parallel and records the combined resistance.
+
+    ┌──────────────────────────┬──────────────────────┐
+    │ Individual Resistance (Ω)│ Combined Resistance (Ω)│
+    ├──────────────────────────┼──────────────────────┤
+    │ 2                        │ 1                    │
+    │ 4                        │ 2                    │
+    │ 6                        │ 3                    │
+    │ 10                       │ 5                    │
+    │ 20                       │ ?                    │
+    └──────────────────────────┴──────────────────────┘
+
+    (a) Complete the table for two 20 Ω resistors.                           [1]
+
+    (b) Describe the pattern in the results.                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Predict the combined resistance of two identical 50 Ω resistors
+        in parallel.                                                         [1]
+
+    _____________________________________________________________
+
+    (d) Explain why the combined resistance is always less than the
+        individual resistance.                                               [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 6 marks total]
+
+--------------------------------------------------------------------------------
+37. [Supplement] A student measures the total current in a parallel
+    circuit as she adds identical 12 Ω resistors as extra branches.
+    The battery e.m.f. is 12 V.
+
+    ┌──────────────────────┬──────────────────┬──────────────────┐
+    │ Number of Branches   │ Combined R (Ω)   │ Total Current (A)│
+    ├──────────────────────┼──────────────────┼──────────────────┤
+    │ 1                    │ 12               │ 1.0              │
+    │ 2                    │ 6                │ 2.0              │
+    │ 3                    │ 4                │ 3.0              │
+    │ 4                    │ ?                │ ?                │
+    └──────────────────────┴──────────────────┴──────────────────┘
+
+    (a) Complete the table for 4 branches.                                   [2]
+
+    (b) Describe the pattern in the total current values.                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Predict the total current for 6 branches.                            [1]
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 5 marks total]
+
+--------------------------------------------------------------------------------
+38. [Supplement] The diagram shows a parallel circuit with a 12 V
+    battery and two resistors.
+
+    ---DIAGRAM: Fig. D1---
+    TYPE: Circuit
+    PURPOSE: Parallel circuit with ammeter readings for data analysis
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Parallel circuit with two resistors and ammeters
+
+    COMPONENTS:
+      [Battery]
+        Symbol: battery
+        Position: grid(1,4)
+        Label: "12 V"
+
+      [Ammeter A₀]
+        Symbol: ammeter
+        Position: grid(3,4)
+        Label: "A₀ = 6.0 A"
+
+      [Branch 1 - Resistor R₁]
+        Symbol: resistor
+        Position: grid(6,2)
+        Label: "R₁"
+
+      [Ammeter A₁]
+        Symbol: ammeter
+        Position: grid(8,2)
+        Label: "A₁ = 4.0 A"
+
+      [Branch 2 - Resistor R₂]
+        Symbol: resistor
+        Position: grid(6,6)
+        Label: "R₂"
+
+      [Ammeter A₂]
+        Symbol: ammeter
+        Position: grid(8,6)
+        Label: "A₂ = ?"
+
+    CONNECTIONS:
+      [Parallel]: R₁ and R₂ in parallel
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) Calculate the current through R₂ (reading on A₂).                   [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the resistance of R₁.                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the resistance of R₂.                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (d) Calculate the combined resistance of the circuit.                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 7 marks total]
+
+--------------------------------------------------------------------------------
+39. A student compares the brightness of lamps connected in series
+    and in parallel to the same 6 V battery.
+
+    ┌─────────────────────┬──────────────────────┬──────────────────┐
+    │ Configuration       │ P.D. per lamp (V)    │ Brightness       │
+    ├─────────────────────┼──────────────────────┼──────────────────┤
+    │ 2 lamps in series   │ 3                    │ dim              │
+    │ 2 lamps in parallel │ 6                    │ bright           │
+    │ 3 lamps in series   │ 2                    │ very dim         │
+    │ 3 lamps in parallel │ 6                    │ bright           │
+    └─────────────────────┴──────────────────────┴──────────────────┘
+
+    (a) Explain why lamps in parallel are brighter than lamps in series.     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Explain why adding more lamps in series makes them dimmer
+        but adding more in parallel does not.                                [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 5 marks total]
+
+
+================================================================================
+                    SECTION I: COMPARE AND CONTRAST
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+40. Complete the table comparing series and parallel circuits.
+
+    ┌───────────────────────┬──────────────────────┬──────────────────────┐
+    │ Feature               │ Series               │ Parallel             │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Number of paths       │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Current rule          │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ P.D. rule             │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Resistance rule       │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ If one component fails│                      │                      │
+    └───────────────────────┴──────────────────────┴──────────────────────┘
+
+    [AO2 - 10 marks]
+
+--------------------------------------------------------------------------------
+41. Compare how the total resistance changes when adding resistors
+    in series versus in parallel.
+
+    (a) State what happens to R_total when adding resistors in series.       [1]
+
+    _____________________________________________________________
+
+    (b) State what happens to R_total when adding resistors in parallel.     [1]
+
+    _____________________________________________________________
+
+    (c) Explain why these effects are opposite.                              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+42. Compare the currents in a series circuit with two lamps versus
+    a parallel circuit with two identical lamps, both connected to
+    the same 6 V battery. Each lamp has a resistance of 6 Ω.
+
+    (a) Calculate the current in the series circuit.                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate the total current in the parallel circuit.                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Explain why the parallel circuit draws more current.                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 6 marks]
+
+
+================================================================================
+                    SECTION J: STRUCTURED QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+43. A household lighting circuit has three identical lamps connected
+    in parallel to a 240 V mains supply. Each lamp has a resistance
+    of 960 Ω.
+
+    (a) State the p.d. across each lamp.                                     [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the current through each lamp.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the total current drawn from the supply.                   [1]
+
+    _____________________________________________________________
+
+    (d) One lamp is switched off. State and explain what happens
+        to the other two lamps.                                              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (e) Explain why parallel connection is used for home lighting.           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 8 marks total]
+
+--------------------------------------------------------------------------------
+44. [Supplement] A circuit has two resistors in parallel: R₁ = 8 Ω
+    and R₂ = 24 Ω, connected to a 12 V battery.
+
+    (a) Calculate the combined resistance.                                   [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate the total current from the battery.                        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the current through each resistor.                         [2]
+
+    I through R₁: ______________________________________________
+
+    I through R₂: ______________________________________________
+
+    (d) Verify your answer using the junction rule.                          [1]
+
+    _____________________________________________________________
+
+    (e) State which resistor carries the larger current. Explain why.        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 10 marks total]
+
+--------------------------------------------------------------------------------
+45. [Supplement] A student investigates how adding branches affects
+    the total current in a parallel circuit. She uses a 6 V battery
+    and 12 Ω resistors.
+
+    (a) Calculate the current when 1 resistor is connected.                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate the combined resistance and total current when
+        2 resistors are in parallel.                                         [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Predict the total current for 3 resistors in parallel.               [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (d) Explain the general pattern observed.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 9 marks total]
+
+
+================================================================================
+                    SECTION K: ERROR ANALYSIS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+46. A student says: "Adding more resistors in parallel increases the
+    total resistance because there are more resistors in the circuit."
+
+    (a) Identify the error.                                                  [1]
+
+    _____________________________________________________________
+
+    (b) Write the correct statement.                                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Explain why the correct statement is true.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 5 marks]
+
+--------------------------------------------------------------------------------
+47. A student calculates the combined resistance of a 6 Ω and a 3 Ω
+    resistor in parallel as: R = 6 + 3 = 9 Ω.
+
+    (a) Identify the error.                                                  [1]
+
+    _____________________________________________________________
+
+    (b) Perform the correct calculation.                                     [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+
+================================================================================
+                    SECTION L: PREDICT AND EXPLAIN
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+48. A parallel circuit has two identical lamps. A third identical lamp
+    is added as a new branch. Predict and explain what happens to:
+
+    (a) The brightness of the original two lamps.                            [2]
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    (b) The total current from the battery.                                  [2]
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    [AO3 - 4 marks]
+
+--------------------------------------------------------------------------------
+49. [Supplement] Two resistors, 2 Ω and 100 Ω, are connected in parallel.
+    Predict whether the combined resistance will be closer to 2 Ω
+    or 100 Ω. Explain your answer.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+--------------------------------------------------------------------------------
+50. A student removes one branch from a parallel circuit containing
+    three branches. Predict what happens to the total resistance
+    and total current. Explain your answer.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MCQ
+1.  C (Larger than current in any single branch)
+2.  A (3 Ω – half of identical resistors)
+3.  B (3.0 A: 5.0 − 2.0 = 3.0 A)
+4.  C (The same for all branches)
+5.  C (Each can be switched independently)
+6.  A (3 Ω: 1/R = 1/4 + 1/12 = 4/12; R = 3 Ω)
+7.  D (7 A: 3 + 4 = 7 A)
+8.  C (Less than either individual resistance)
+9.  B (12 V – same p.d. across parallel branches)
+10. B (5 Ω – half of identical resistors)
+
+SECTION B: TRUE/FALSE
+11. FALSE – Adding more resistors in parallel decreases total resistance.
+12. TRUE
+13. FALSE – If one lamp fails, the other lamps continue to work.
+14. TRUE
+
+SECTION C: FILL-IN-THE-BLANK
+15. splits; recombines
+16. less
+17. $\frac{1}{R_1}$ + $\frac{1}{R_2}$
+18. parallel; independently
+
+SECTION D: MATCHING
+19. A = 3, B = 1, C = 2, D = 4
+20. A = 2, B = 2, C = 1, D = 2
+
+SECTION E: LABELING
+21. (a) 5.0 A
+    (b) Junction rule: I₀ = I₁ + I₂ = 2.0 + 3.0 = 5.0 A
+    (c) 12 V each (same p.d. across parallel branches)
+22. (a) V₁ = 6 V, V₂ = 6 V
+    (b) In a parallel circuit, the p.d. across each branch is the same
+        and equals the battery e.m.f.
+
+SECTION F: SHORT ANSWER
+23. A parallel circuit has multiple paths (branches) for current to flow.
+    Current splits at junctions and recombines.
+24. Total current increases because there is an additional path for
+    current to flow, reducing total resistance and allowing more
+    charge to flow per second.
+25. (1) If one lamp fails, the others still work.
+    (2) Each lamp can be switched on/off independently.
+26. More paths for current means less overall opposition to flow.
+    Each new branch provides an additional route, lowering the
+    effective resistance of the combination.
+27. The junction rule states that the sum of currents entering a
+    junction equals the sum leaving. This is true because charge
+    is conserved – electrons cannot be created or destroyed.
+
+SECTION G: CALCULATIONS
+28. (a) I = 2.5 + 1.5 = 4.0 A
+    (b) R = V/I = 6/4.0 = 1.5 Ω
+29. (a) 1/R = 1/6 + 1/3 = 1/6 + 2/6 = 3/6; R = 2 Ω
+    (b) I = 12/2 = 6.0 A
+30. (a) 1/R = 1/12 + 1/4 = 1/12 + 3/12 = 4/12; R = 3 Ω
+    (b) I = 12/3 = 4.0 A
+    (c) I₁ = 12/12 = 1.0 A; I₂ = 12/4 = 3.0 A
+    (d) 1.0 + 3.0 = 4.0 A = I_total ✓
+31. (a) I₀ = 1.5 + 2.5 = 4.0 A
+    (b) R₁ = 10/1.5 = 6.7 Ω; R₂ = 10/2.5 = 4.0 Ω
+32. (a) 4 Ω
+    (b) Two identical resistors in parallel give half the resistance
+        of one: 8/2 = 4 Ω
+33. (a) 1/R = 1/2 + 1/6 = 3/6 + 1/6 = 4/6; R = 1.5 Ω
+    (b) I = 6/1.5 = 4.0 A
+    (c) I through 2 Ω = 6/2 = 3.0 A; I through 6 Ω = 6/6 = 1.0 A
+34. (a) I = 1.0 + 2.0 + 3.0 = 6.0 A
+    (b) R = 12/6.0 = 2.0 Ω
+    (c) R = 12/3.0 = 4.0 Ω
+35. (a) 1/R = 1/10 + 1/15 = 3/30 + 2/30 = 5/30; R = 6 Ω
+    (b) I = 30/6 = 5.0 A
+
+SECTION H: DATA INTERPRETATION
+36. (a) 10 Ω
+    (b) The combined resistance is always half the individual resistance.
+    (c) 25 Ω
+    (d) Parallel provides more paths for current, reducing opposition.
+37. (a) R = 3 Ω, I = 4.0 A
+    (b) Current increases by 1.0 A for each additional branch.
+    (c) 6.0 A
+38. (a) I₂ = 6.0 − 4.0 = 2.0 A
+    (b) R₁ = 12/4.0 = 3.0 Ω
+    (c) R₂ = 12/2.0 = 6.0 Ω
+    (d) 1/R = 1/3 + 1/6 = 3/6; R = 2.0 Ω
+39. (a) In parallel, each lamp gets the full battery voltage (6 V),
+        so more p.d. means more current and more brightness.
+    (b) In series, adding lamps increases resistance and shares the
+        voltage. In parallel, each lamp has full voltage and its own
+        current path, so adding lamps doesn't affect the others.
+
+SECTION I: COMPARE AND CONTRAST
+40. Series: 1 path; same current everywhere; p.d. shared (sum = E);
+    R adds up; all fail if one fails.
+    Parallel: multiple paths; current splits; same p.d.; R less than
+    smallest; others still work if one fails.
+41. (a) R_total increases.
+    (b) R_total decreases.
+    (c) In series, more resistors oppose current in the same path.
+        In parallel, more paths mean less overall opposition.
+42. (a) R = 6 + 6 = 12 Ω; I = 6/12 = 0.50 A
+    (b) R = 3 Ω; I = 6/3 = 2.0 A
+    (c) Lower total resistance in parallel means more current flows
+        for the same voltage.
+
+SECTION J: STRUCTURED QUESTIONS
+43. (a) 240 V
+    (b) I = 240/960 = 0.25 A
+    (c) I_total = 3 × 0.25 = 0.75 A
+    (d) The other two lamps are unaffected; they still receive 240 V
+        and operate independently.
+    (e) Each lamp has full voltage (same brightness), can be controlled
+        independently, and one failing doesn't affect others.
+44. (a) 1/R = 1/8 + 1/24 = 3/24 + 1/24 = 4/24; R = 6 Ω
+    (b) I = 12/6 = 2.0 A
+    (c) I₁ = 12/8 = 1.5 A; I₂ = 12/24 = 0.50 A
+    (d) 1.5 + 0.50 = 2.0 A ✓
+    (e) R₁ carries larger current. Lower resistance means less
+        opposition, so more current flows through that branch.
+45. (a) I = 6/12 = 0.50 A
+    (b) R = 6 Ω; I = 6/6 = 1.0 A
+    (c) R = 4 Ω; I = 6/4 = 1.5 A
+    (d) Each added branch increases total current by 0.50 A.
+        Total resistance decreases, so total current increases.
+
+SECTION K: ERROR ANALYSIS
+46. (a) Total resistance decreases, not increases.
+    (b) Adding more resistors in parallel decreases the total resistance
+        because there are more paths for current to flow.
+    (c) More paths reduce overall opposition to current flow.
+47. (a) Used the series formula (R = R₁ + R₂) instead of parallel.
+    (b) 1/R = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2; R = 2 Ω
+
+SECTION L: PREDICT AND EXPLAIN
+48. (a) Brightness stays the same. Each lamp still receives the full
+        battery voltage and draws the same current.
+    (b) Total current increases. An extra branch provides an additional
+        path, adding to the total current.
+49. Prediction: Closer to 2 Ω.
+    Explanation: The combined resistance must be less than either
+    resistor. The 2 Ω branch dominates because it carries most of
+    the current (1/R = 1/2 + 1/100 ≈ 1/2; R ≈ 1.96 Ω).
+50. Prediction: Total resistance increases; total current decreases.
+    Explanation: Removing a branch removes a path for current,
+    increasing total resistance. With higher resistance and the
+    same voltage, less current flows (I = V/R).

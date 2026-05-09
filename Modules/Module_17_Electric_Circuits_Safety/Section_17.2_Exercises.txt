@@ -1,0 +1,1196 @@
+================================================================================
+                    SECTION 17.2 EXERCISES
+                    SERIES CIRCUITS
+================================================================================
+
+Learning Objectives Covered:
+  * Know that current at every point in a series circuit is the same.
+  * Calculate the combined e.m.f. of several sources in series.
+  * [Supplement] Know that total p.d. in series equals sum of individual p.d.s.
+  * Calculate combined resistance of resistors in series.
+
+Total Questions: 50
+Distribution:
+  - AO1 (Recall):      12 questions (24%)
+  - AO2 (Application): 26 questions (52%)
+  - AO3 (Analysis):    12 questions (24%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (MCQ)
+================================================================================
+                              (10 Questions)
+
+Instructions: Select the best answer from the options A, B, C, or D.
+
+--------------------------------------------------------------------------------
+1. In a series circuit, the current at every point is:
+
+   A  zero
+   B  different at each component
+   C  the same throughout
+   D  largest near the battery
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+2. Three cells, each with an e.m.f. of 1.5 V, are connected in series.
+   What is the total e.m.f.?
+
+   A  0.5 V
+   B  1.5 V
+   C  3.0 V
+   D  4.5 V
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+3. Two resistors of 4 Ω and 6 Ω are connected in series.
+   What is the combined resistance?
+
+   A  2.4 Ω
+   B  4.0 Ω
+   C  6.0 Ω
+   D  10 Ω
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+4. A 12 V battery is connected to three identical resistors in series.
+   What is the p.d. across each resistor?
+
+   A  4 V
+   B  6 V
+   C  12 V
+   D  36 V
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+5. In a series circuit with a 6 V battery, the p.d. across the first
+   resistor is 2 V and across the second is 3 V. What is the p.d.
+   across the third resistor?
+
+   A  0 V
+   B  1 V
+   C  5 V
+   D  11 V
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+6. Which statement about a series circuit is correct?
+
+   A  The current is shared between components
+   B  Each component receives the full voltage
+   C  If one component breaks, the others still work
+   D  The same current flows through each component
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+7. Four 1.5 V cells are connected in series. Two cells point in the
+   same direction and two point in the opposite direction.
+   What is the total e.m.f.?
+
+   A  0 V
+   B  1.5 V
+   C  3.0 V
+   D  6.0 V
+
+   [AO3 - 1 mark]
+
+--------------------------------------------------------------------------------
+8. A series circuit has a total resistance of 20 Ω. It contains a
+   5 Ω resistor and two identical unknown resistors.
+   What is the resistance of each unknown resistor?
+
+   A  5.0 Ω
+   B  7.5 Ω
+   C  10 Ω
+   D  15 Ω
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+9. [Supplement] A 9 V battery is connected to two resistors in series.
+   The resistors have values 3 Ω and 6 Ω. What is the p.d. across
+   the 6 Ω resistor?
+
+   A  3 V
+   B  6 V
+   C  9 V
+   D  18 V
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+10. Adding more resistors in series to a circuit causes the total
+    resistance to:
+
+    A  decrease
+    B  stay the same
+    C  increase
+    D  become zero
+
+    [AO1 - 1 mark]
+
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION
+================================================================================
+                              (4 Questions)
+
+Instructions: State whether each statement is TRUE or FALSE.
+              If FALSE, write the correct statement.
+
+--------------------------------------------------------------------------------
+11. "In a series circuit, the current is larger near the positive
+    terminal of the battery."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+12. "The total e.m.f. of cells connected in series is the sum of
+    the individual e.m.f.s."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+13. [Supplement] "In a series circuit, the sum of p.d.s across all
+    components is greater than the e.m.f. of the power source."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+14. "If one lamp in a series circuit breaks, the other lamps
+    continue to work."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK
+================================================================================
+                              (4 Questions)
+
+Instructions: Complete each sentence using the correct word(s) or value(s).
+
+--------------------------------------------------------------------------------
+15. In a series circuit, there is only ______________ path for
+    current to flow.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+16. The formula for combined resistance in series is:
+    $R_{total}$ = ______________ + ______________ + ______________
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+17. When cells are connected in series, the combined e.m.f. is the
+    ______________ of the individual e.m.f.s.
+
+    [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+18. [Supplement] In a series circuit, $E$ = ______________, where $E$
+    is the e.m.f. and $V_1$, $V_2$, etc. are the p.d.s across each
+    component.
+
+    [AO1 - 1 mark]
+
+
+================================================================================
+                    SECTION D: MATCHING
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+19. Match each quantity with its rule in a series circuit.
+
+    Quantity                           Rule in Series
+    ─────────────────────────────     ─────────────────────────────
+    A. Current                        1. Sum of individual values
+    B. E.m.f. of cells in series      2. Same at all points
+    C. Resistance                     3. Equals sum of individual p.d.s
+    D. P.d. (Supplement)              4. Sum of individual resistances
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO1 - 4 marks]
+
+--------------------------------------------------------------------------------
+20. Match each scenario with the correct total e.m.f.
+
+    Scenario                                    Total E.M.F.
+    ─────────────────────────────────────       ─────────────
+    A. Two 1.5 V cells in series                1. 6.0 V
+    B. Three 2.0 V cells in series              2. 4.5 V
+    C. Four 1.5 V cells in series               3. 3.0 V
+    D. Three 1.5 V cells in series              4. 6.0 V
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO2 - 4 marks]
+
+
+================================================================================
+                    SECTION E: LABELING DIAGRAMS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+21. The diagram shows a series circuit with labeled ammeters.
+
+    ---DIAGRAM: Fig. E1---
+    TYPE: Circuit
+    PURPOSE: Series circuit with three ammeters at different positions
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Series circuit with battery, two resistors, three ammeters
+
+    COMPONENTS:
+      [Battery]
+        Symbol: battery
+        Position: grid(5,1)
+        Label: "6 V"
+
+      [Ammeter A₁]
+        Symbol: ammeter
+        Position: grid(2,3)
+        Label: "A₁" shows reading "0.5 A"
+
+      [Resistor R₁]
+        Symbol: resistor
+        Position: grid(2,5)
+        Label: "R₁"
+
+      [Ammeter A₂]
+        Symbol: ammeter
+        Position: grid(5,7)
+        Label: "A₂" shows reading "?"
+
+      [Resistor R₂]
+        Symbol: resistor
+        Position: grid(8,5)
+        Label: "R₂"
+
+      [Ammeter A₃]
+        Symbol: ammeter
+        Position: grid(8,3)
+        Label: "A₃" shows reading "?"
+
+    CONNECTIONS:
+      [Series loop]: Battery → A₁ → R₁ → A₂ → R₂ → A₃ → Battery
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) State the reading on ammeter A₂.                                     [1]
+
+    _____________________________________________________________
+
+    (b) State the reading on ammeter A₃.                                     [1]
+
+    _____________________________________________________________
+
+    (c) Explain why all three ammeters show the same reading.                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 4 marks total]
+
+--------------------------------------------------------------------------------
+22. The diagram shows three cells connected in series.
+
+    ---DIAGRAM: Fig. E2---
+    TYPE: Circuit
+    PURPOSE: Three cells in series with voltmeter measuring total e.m.f.
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 6
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Three cells in series connected to a lamp
+
+    COMPONENTS:
+      [Cell 1]
+        Symbol: cell
+        Position: grid(2,2)
+        Label: "1.5 V"
+
+      [Cell 2]
+        Symbol: cell
+        Position: grid(5,2)
+        Label: "1.5 V"
+
+      [Cell 3]
+        Symbol: cell
+        Position: grid(8,2)
+        Label: "1.5 V"
+
+      [Lamp]
+        Symbol: lamp
+        Position: grid(5,5)
+
+      [Voltmeter]
+        Symbol: voltmeter
+        Position: grid(10,3)
+        Label: "V"
+        Connection: across all three cells
+
+    CONNECTIONS:
+      [Series]: Cell 1 → Cell 2 → Cell 3 → Lamp → Cell 1
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) Calculate the reading on the voltmeter.                              [1]
+
+    _____________________________________________________________
+
+    (b) State what the voltmeter reading represents.                         [1]
+
+    _____________________________________________________________
+
+    [AO2 - 2 marks total]
+
+
+================================================================================
+                    SECTION F: SHORT ANSWER QUESTIONS
+================================================================================
+                              (5 Questions)
+
+--------------------------------------------------------------------------------
+23. Define a series circuit.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+24. State the rule for current in a series circuit and explain why
+    this is the case.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+25. Two 1.5 V cells are connected in series. A student says the total
+    e.m.f. is 1.5 V. Explain why the student is wrong.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+26. [Supplement] A series circuit has a 12 V battery. Explain what
+    happens to the p.d. across each component if a third resistor is
+    added to the circuit.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+27. A student builds a series circuit with a battery and two lamps.
+    One lamp is brighter than the other. Explain why this might happen.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+
+================================================================================
+                    SECTION G: CALCULATIONS (STRUCTURED)
+================================================================================
+                              (8 Questions)
+
+--------------------------------------------------------------------------------
+28. Five 1.5 V cells are connected in series.
+
+    (a) Calculate the total e.m.f.                                           [1]
+
+    _____________________________________________________________
+
+    (b) The cells are connected to a lamp with resistance 15 Ω.
+        Calculate the current flowing through the lamp.                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+29. Three resistors of 3 Ω, 7 Ω and 10 Ω are connected in series
+    to a 12 V battery.
+
+    (a) Calculate the total resistance.                                      [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the current in the circuit.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) State the current through the 7 Ω resistor.                          [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+30. [Supplement] A 10 V battery is connected to two resistors in series.
+    The p.d. across the first resistor is 4 V.
+
+    (a) Calculate the p.d. across the second resistor.                       [1]
+
+    _____________________________________________________________
+
+    (b) The current in the circuit is 0.5 A. Calculate the resistance
+        of the first resistor.                                               [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the resistance of the second resistor.                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+31. A series circuit contains a 9 V battery and three identical resistors.
+    The current flowing is 0.30 A.
+
+    (a) Calculate the total resistance.                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Calculate the resistance of each individual resistor.                [1]
+
+    _____________________________________________________________
+
+    (c) [Supplement] Calculate the p.d. across each resistor.                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+32. A 6 V battery powers a series circuit containing a 4 Ω resistor
+    and an 8 Ω resistor.
+
+    (a) Calculate the total resistance.                                      [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the current in the circuit.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) [Supplement] Calculate the p.d. across the 8 Ω resistor.             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+33. Two cells of e.m.f. 2.0 V and 3.0 V are connected in series to a
+    10 Ω resistor.
+
+    (a) Calculate the total e.m.f.                                           [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the current through the resistor.                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+34. [Supplement] A 15 V power supply is connected to three resistors
+    in series: 5 Ω, 10 Ω, and 15 Ω.
+
+    (a) Calculate the total resistance.                                      [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the current in the circuit.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the p.d. across each resistor.                             [3]
+
+    V across 5 Ω:  _____________________________________________
+
+    V across 10 Ω: _____________________________________________
+
+    V across 15 Ω: _____________________________________________
+
+    (d) Verify that your answers to (c) add up to the supply voltage.        [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+35. A student connects a 4.5 V battery in series with a lamp of
+    resistance 9 Ω and a fixed resistor of resistance 6 Ω.
+
+    (a) Calculate the total resistance of the circuit.                       [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the current through the circuit.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) [Supplement] Calculate the p.d. across the lamp.                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION H: DATA INTERPRETATION
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+36. A student adds resistors in series to a circuit with a 12 V battery
+    and records the current each time.
+
+    ┌─────────────────────────┬──────────────────────┐
+    │ Total Resistance (Ω)    │ Current (A)          │
+    ├─────────────────────────┼──────────────────────┤
+    │ 4                       │ 3.0                  │
+    │ 8                       │ 1.5                  │
+    │ 12                      │ 1.0                  │
+    │ 16                      │ 0.75                 │
+    │ 24                      │ 0.50                 │
+    └─────────────────────────┴──────────────────────┘
+
+    (a) Describe the relationship between total resistance and current.      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Predict the current when the total resistance is 6 Ω.                [1]
+
+    _____________________________________________________________
+
+    (c) Calculate the power dissipated when the total resistance
+        is 12 Ω.                                                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 5 marks total]
+
+--------------------------------------------------------------------------------
+37. [Supplement] A student measures the p.d. across each resistor
+    in a series circuit with a 12 V battery.
+
+    ┌─────────────────┬──────────────────────┬──────────────────────┐
+    │ Resistor        │ Resistance (Ω)       │ P.D. (V)             │
+    ├─────────────────┼──────────────────────┼──────────────────────┤
+    │ R₁              │ 2                    │ ?                    │
+    │ R₂              │ 4                    │ ?                    │
+    │ R₃              │ 6                    │ ?                    │
+    └─────────────────┴──────────────────────┴──────────────────────┘
+
+    (a) Calculate the total resistance.                                      [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the current in the circuit.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the p.d. across each resistor.                             [3]
+
+    R₁: _____________________________________________________________
+
+    R₂: _____________________________________________________________
+
+    R₃: _____________________________________________________________
+
+    (d) Verify that V₁ + V₂ + V₃ = 12 V.                                    [1]
+
+    _____________________________________________________________
+
+    [AO2 - 7 marks total]
+
+--------------------------------------------------------------------------------
+38. The table shows how adding identical 5 Ω resistors in series
+    affects the current in a circuit powered by a 15 V battery.
+
+    ┌──────────────────────────┬─────────────────┬──────────────────┐
+    │ Number of Resistors      │ Total R (Ω)     │ Current (A)      │
+    ├──────────────────────────┼─────────────────┼──────────────────┤
+    │ 1                        │ 5               │ 3.0              │
+    │ 2                        │ 10              │ 1.5              │
+    │ 3                        │ 15              │ 1.0              │
+    │ 4                        │ ?               │ ?                │
+    │ 5                        │ ?               │ ?                │
+    └──────────────────────────┴─────────────────┴──────────────────┘
+
+    (a) Complete the table for 4 and 5 resistors.                            [2]
+
+    (b) Describe the pattern in the current values.                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the current if 10 resistors were used.                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 6 marks total]
+
+--------------------------------------------------------------------------------
+39. A student investigates a series circuit with two resistors.
+    The ammeter reads 0.40 A and the battery provides 8 V.
+
+    ---DIAGRAM: Fig. D1---
+    TYPE: Circuit
+    PURPOSE: Series circuit with two resistors and voltmeters
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Series circuit with two resistors, ammeter, and two voltmeters
+
+    COMPONENTS:
+      [Battery]
+        Symbol: battery
+        Position: grid(5,1)
+        Label: "8 V"
+
+      [Ammeter]
+        Symbol: ammeter
+        Position: grid(2,4)
+        Label: "0.40 A"
+
+      [Resistor R₁]
+        Symbol: resistor
+        Position: grid(5,7)
+        Label: "R₁"
+
+      [Voltmeter V₁]
+        Symbol: voltmeter
+        Position: grid(5,5)
+        Label: "V₁ = 3.2 V"
+        Connection: in parallel across R₁
+
+      [Resistor R₂]
+        Symbol: resistor
+        Position: grid(8,4)
+        Label: "R₂"
+
+      [Voltmeter V₂]
+        Symbol: voltmeter
+        Position: grid(10,4)
+        Label: "V₂ = ?"
+        Connection: in parallel across R₂
+
+    CONNECTIONS:
+      [Series]: Battery → Ammeter → R₁ → R₂ → Battery
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) [Supplement] Calculate the reading on voltmeter V₂.                  [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the resistance of R₁.                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the resistance of R₂.                                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (d) Calculate the total resistance and verify using the individual
+        resistances.                                                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 7 marks total]
+
+
+================================================================================
+                    SECTION I: COMPARE AND CONTRAST
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+40. Compare the current at point A (before the first resistor) and
+    point B (after the last resistor) in a series circuit.
+
+    (a) State the relationship between the currents at A and B.              [1]
+
+    _____________________________________________________________
+
+    (b) Explain why this relationship exists.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+41. Compare the e.m.f. of a single 3 V cell with three 1 V cells
+    connected in series.
+
+    (a) State the total e.m.f. of each arrangement.                          [2]
+
+    _____________________________________________________________
+
+    (b) State one advantage of using three cells instead of one.             [1]
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION J: STRUCTURED QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+42. A student investigates how the number of resistors in series affects
+    the current in a circuit. She uses a 12 V battery and identical
+    4 Ω resistors.
+
+    (a) State the rule for combining resistors in series.                    [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the total resistance and current for 1, 2, and
+        3 resistors in series.                                               [6]
+
+    1 resistor: R_total = _______ Ω,  I = _______ A
+
+    2 resistors: R_total = _______ Ω,  I = _______ A
+
+    3 resistors: R_total = _______ Ω,  I = _______ A
+
+    (c) Describe the pattern in your results.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (d) Predict the current when 6 resistors are connected in series.        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 11 marks total]
+
+--------------------------------------------------------------------------------
+43. [Supplement] A circuit contains a 20 V power supply and four
+    resistors connected in series: 2 Ω, 3 Ω, 5 Ω, and 10 Ω.
+
+    (a) Calculate the total resistance.                                      [1]
+
+    _____________________________________________________________
+
+    (b) Calculate the current flowing in the circuit.                        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Calculate the p.d. across each resistor.                             [4]
+
+    V across 2 Ω:  ______________________________________________
+
+    V across 3 Ω:  ______________________________________________
+
+    V across 5 Ω:  ______________________________________________
+
+    V across 10 Ω: ______________________________________________
+
+    (d) Which resistor has the greatest p.d. across it? Explain why.         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (e) Verify that the sum of all p.d.s equals the supply voltage.          [1]
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 10 marks total]
+
+--------------------------------------------------------------------------------
+44. Christmas tree lights are connected in series.
+
+    (a) State one disadvantage of connecting the lights in series.           [1]
+
+    _____________________________________________________________
+
+    (b) The set contains 20 identical bulbs connected to a 240 V mains
+        supply. Calculate the p.d. across each bulb.                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Each bulb has a resistance of 30 Ω. Calculate the total
+        resistance of the circuit.                                           [1]
+
+    _____________________________________________________________
+
+    (d) Calculate the current flowing through each bulb.                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (e) One bulb blows. Explain what happens to the rest of the lights.      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 8 marks total]
+
+
+================================================================================
+                    SECTION K: ERROR ANALYSIS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+45. A student says: "When you add more resistors in series, the current
+    increases because there are more components pushing the charge around."
+
+    (a) Identify the error in this statement.                                [1]
+
+    _____________________________________________________________
+
+    (b) Write the correct statement.                                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+--------------------------------------------------------------------------------
+46. A student calculates the total resistance of a 3 Ω and 5 Ω resistor
+    in series as follows:
+
+    "1/R = 1/3 + 1/5 = 8/15, so R = 15/8 = 1.875 Ω"
+
+    (a) Identify the error.                                                  [1]
+
+    _____________________________________________________________
+
+    (b) Perform the correct calculation.                                     [1]
+
+    _____________________________________________________________
+
+    (c) Explain when the formula 1/R = 1/R₁ + 1/R₂ is used.                 [1]
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+
+================================================================================
+                    SECTION L: PREDICT AND EXPLAIN
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+47. A series circuit has a 6 V battery and two identical lamps.
+    A third identical lamp is added in series. Predict and explain
+    what happens to the brightness of the original two lamps.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+--------------------------------------------------------------------------------
+48. A series circuit has three cells, each 1.5 V. One cell is turned
+    around so it faces the opposite direction. Predict the total e.m.f.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+--------------------------------------------------------------------------------
+49. Two resistors, 10 Ω and 20 Ω, are connected in series with a
+    12 V battery. Predict which resistor has the larger p.d. across it.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 2 marks]
+
+--------------------------------------------------------------------------------
+50. [Supplement] A series circuit has a 10 V battery, a 5 Ω resistor,
+    and a thermistor (20 Ω at room temperature). The circuit is heated.
+    Predict what happens to the p.d. across the fixed resistor.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MCQ
+1.  C (The same throughout)
+2.  D (4.5 V)
+3.  D (10 Ω)
+4.  A (4 V: 12 V ÷ 3 = 4 V)
+5.  B (1 V: 6 − 2 − 3 = 1 V)
+6.  D (The same current flows through each component)
+7.  A (0 V: two forward cancel two reversed: 1.5+1.5−1.5−1.5 = 0 V)
+8.  B (7.5 Ω: (20 − 5) ÷ 2 = 7.5 Ω)
+9.  B (6 V: I = 9/9 = 1 A; V = 1 × 6 = 6 V)
+10. C (Increase)
+
+SECTION B: TRUE/FALSE
+11. FALSE – In a series circuit, the current is the same at every point.
+12. TRUE
+13. FALSE – The sum of p.d.s across all components equals the e.m.f.
+14. FALSE – If one component breaks in a series circuit, the whole
+    circuit stops working.
+
+SECTION C: FILL-IN-THE-BLANK
+15. one
+16. $R_1$ + $R_2$ + $R_3$
+17. sum
+18. $V_1 + V_2 + V_3 + ...$
+
+SECTION D: MATCHING
+19. A = 2, B = 1, C = 4, D = 3
+20. A = 3, B = 4, C = 1, D = 2
+
+SECTION E: LABELING
+21. (a) 0.5 A  (b) 0.5 A
+    (c) In a series circuit there is only one path; the same charge
+        flows through each component, so current is identical everywhere.
+22. (a) 4.5 V (1.5 + 1.5 + 1.5)
+    (b) The total e.m.f. of the three cells.
+
+SECTION F: SHORT ANSWER
+23. A series circuit has only one path for current to flow; all
+    components are connected end to end in a single loop.
+24. Rule: Current is the same at all points. This is because charge
+    is conserved – electrons cannot be created or destroyed, so the
+    same number passes through each component per second.
+25. The total e.m.f. = 1.5 + 1.5 = 3.0 V. In series, e.m.f.s add
+    together, not remain as one cell's value.
+26. Total resistance increases, so current decreases. Since V = IR
+    and I decreases, the p.d. across each original component decreases.
+    The available voltage is now shared among more components.
+27. The lamps have different resistances. The one with higher resistance
+    has a larger p.d. across it (V = IR), so it dissipates more power
+    and glows brighter.
+
+SECTION G: CALCULATIONS
+28. (a) E = 5 × 1.5 = 7.5 V
+    (b) I = V/R = 7.5/15 = 0.50 A
+29. (a) R = 3 + 7 + 10 = 20 Ω
+    (b) I = 12/20 = 0.60 A
+    (c) 0.60 A (same current everywhere in series)
+30. (a) V₂ = 10 − 4 = 6 V
+    (b) R₁ = V₁/I = 4/0.5 = 8 Ω
+    (c) R₂ = V₂/I = 6/0.5 = 12 Ω
+31. (a) R = V/I = 9/0.30 = 30 Ω
+    (b) Each R = 30/3 = 10 Ω
+    (c) V = IR = 0.30 × 10 = 3.0 V across each
+32. (a) R = 4 + 8 = 12 Ω
+    (b) I = 6/12 = 0.50 A
+    (c) V = IR = 0.50 × 8 = 4.0 V
+33. (a) E = 2.0 + 3.0 = 5.0 V
+    (b) I = 5.0/10 = 0.50 A
+34. (a) R = 5 + 10 + 15 = 30 Ω
+    (b) I = 15/30 = 0.50 A
+    (c) V₁ = 0.50 × 5 = 2.5 V; V₂ = 0.50 × 10 = 5.0 V;
+        V₃ = 0.50 × 15 = 7.5 V
+    (d) 2.5 + 5.0 + 7.5 = 15.0 V ✓
+35. (a) R = 9 + 6 = 15 Ω
+    (b) I = 4.5/15 = 0.30 A
+    (c) V_lamp = 0.30 × 9 = 2.7 V
+
+SECTION H: DATA INTERPRETATION
+36. (a) As total resistance increases, current decreases. They have
+        an inversely proportional relationship.
+    (b) I = 12/6 = 2.0 A
+    (c) P = VI = 12 × 1.0 = 12 W or P = I²R = 1.0² × 12 = 12 W
+37. (a) R = 2 + 4 + 6 = 12 Ω
+    (b) I = 12/12 = 1.0 A
+    (c) V₁ = 1.0 × 2 = 2 V; V₂ = 1.0 × 4 = 4 V; V₃ = 1.0 × 6 = 6 V
+    (d) 2 + 4 + 6 = 12 V ✓
+38. (a) 4 resistors: R = 20 Ω, I = 15/20 = 0.75 A
+        5 resistors: R = 25 Ω, I = 15/25 = 0.60 A
+    (b) As more resistors are added, current decreases. Current is
+        inversely proportional to total resistance.
+    (c) R = 10 × 5 = 50 Ω; I = 15/50 = 0.30 A
+39. (a) V₂ = 8 − 3.2 = 4.8 V
+    (b) R₁ = 3.2/0.40 = 8.0 Ω
+    (c) R₂ = 4.8/0.40 = 12 Ω
+    (d) R_total = V/I = 8/0.40 = 20 Ω; R₁ + R₂ = 8 + 12 = 20 Ω ✓
+
+SECTION I: COMPARE AND CONTRAST
+40. (a) The currents at A and B are the same.
+    (b) In a series circuit there is only one path; charge is conserved
+        so the same amount of charge passes every point per second.
+41. (a) Both have a total e.m.f. of 3 V.
+    (b) If one cell stops working, the other two can still provide
+        some voltage (though reduced).
+
+SECTION J: STRUCTURED QUESTIONS
+42. (a) R_total = R₁ + R₂ + R₃ + ...
+    (b) 1 resistor: 4 Ω, 3.0 A; 2 resistors: 8 Ω, 1.5 A;
+        3 resistors: 12 Ω, 1.0 A
+    (c) As more resistors are added, total resistance increases and
+        current decreases inversely.
+    (d) R = 6 × 4 = 24 Ω; I = 12/24 = 0.50 A
+43. (a) R = 2 + 3 + 5 + 10 = 20 Ω
+    (b) I = 20/20 = 1.0 A
+    (c) V₁ = 2 V, V₂ = 3 V, V₃ = 5 V, V₄ = 10 V
+    (d) The 10 Ω resistor has the largest p.d. because it has the
+        highest resistance and V = IR with the same I.
+    (e) 2 + 3 + 5 + 10 = 20 V ✓
+44. (a) If one bulb breaks, all lights go out.
+    (b) V per bulb = 240/20 = 12 V
+    (c) R = 20 × 30 = 600 Ω
+    (d) I = 240/600 = 0.40 A
+    (e) The circuit breaks, so no current flows and all remaining
+        lights go out.
+
+SECTION K: ERROR ANALYSIS
+45. (a) Adding more resistors increases total resistance, which
+        decreases current (not increases it).
+    (b) When more resistors are added in series, the total resistance
+        increases, so the current decreases.
+46. (a) The student used the parallel resistance formula instead of
+        the series formula.
+    (b) R = 3 + 5 = 8 Ω
+    (c) 1/R = 1/R₁ + 1/R₂ is used for resistors in parallel only.
+
+SECTION L: PREDICT AND EXPLAIN
+47. Prediction: The original lamps become dimmer.
+    Explanation: Adding a third lamp increases total resistance, reducing
+    the current. Less current means less power to each lamp.
+48. Prediction: Total e.m.f. = 1.5 V (1.5 + 1.5 − 1.5 = 1.5 V).
+    The reversed cell opposes the other two.
+49. Prediction: The 20 Ω resistor has the larger p.d.
+    Explanation: V = IR; since I is the same for both and 20 Ω > 10 Ω,
+    the p.d. across 20 Ω is larger.
+50. Prediction: The p.d. across the fixed resistor increases.
+    Explanation: Heating decreases the thermistor's resistance, reducing
+    total resistance, so current increases. V = IR for the fixed resistor
+    with increased I gives increased V.

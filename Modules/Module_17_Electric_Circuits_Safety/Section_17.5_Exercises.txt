@@ -1,0 +1,1294 @@
+================================================================================
+                    SECTION 17.5 EXERCISES
+                    ELECTRICAL SAFETY
+================================================================================
+
+Learning Objectives Covered:
+  * State the hazards of damaged insulation, overheating cables, damp
+    conditions, and excess current from overloading.
+  * Know that a mains circuit consists of a live wire, neutral wire and
+    earth wire; explain why a switch must be connected to the live wire.
+  * Explain the use and operation of trip switches and fuses.
+  * Explain why the outer casing of an electrical appliance must be either
+    non-conducting (double-insulated) or earthed.
+  * State that a fuse without an earth wire protects the circuit and
+    cabling for a double-insulated appliance.
+
+Total Questions: 50
+Distribution:
+  - AO1 (Recall):      13 questions (26%)
+  - AO2 (Application): 25 questions (50%)
+  - AO3 (Analysis):    12 questions (24%)
+
+================================================================================
+                    SECTION A: MULTIPLE CHOICE QUESTIONS (MCQ)
+================================================================================
+                              (10 Questions)
+
+Instructions: Select the best answer from the options A, B, C, or D.
+
+--------------------------------------------------------------------------------
+1. Which wire in a mains circuit carries current to the appliance at
+   mains voltage?
+
+   A  Earth wire
+   B  Neutral wire
+   C  Live wire
+   D  Ground wire
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+2. The colour of the neutral wire in a UK mains plug is:
+
+   A  Brown
+   B  Blue
+   C  Green and yellow
+   D  Red
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+3. A fuse is rated at 3 A. What happens when a current of 5 A
+   flows through it?
+
+   A  The fuse glows brightly
+   B  The fuse wire melts and breaks the circuit
+   C  The fuse increases in resistance but stays intact
+   D  Nothing happens until the current reaches 13 A
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+4. An appliance normally draws 4.5 A. Which fuse should be used?
+
+   A  3 A
+   B  5 A
+   C  10 A
+   D  13 A
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+5. Why must the switch be connected to the live wire?
+
+   A  To make the switch easier to reach
+   B  So no voltage reaches the appliance when switched off
+   C  To increase the resistance of the circuit
+   D  To prevent the neutral wire from overheating
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+6. A double-insulated appliance does not need an earth wire because:
+
+   A  it uses low voltage
+   B  the outer casing is made of metal
+   C  the outer casing is made of a non-conducting material
+   D  it has two fuses instead of one
+
+   [AO2 - 1 mark]
+
+--------------------------------------------------------------------------------
+7. Which of the following is NOT an electrical hazard?
+
+   A  Damaged insulation
+   B  Damp conditions
+   C  Using a rubber-handled screwdriver
+   D  Overloading a socket with too many appliances
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+8. What is the main advantage of a trip switch over a fuse?
+
+   A  It is cheaper
+   B  It can be reset after tripping
+   C  It works at higher currents
+   D  It does not need wiring into the circuit
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+9. What is the purpose of the earth wire in a mains circuit?
+
+   A  To carry current during normal operation
+   B  To complete the circuit
+   C  To provide a low-resistance path to ground during a fault
+   D  To increase the voltage of the appliance
+
+   [AO1 - 1 mark]
+
+--------------------------------------------------------------------------------
+10. An appliance with a metal casing has a fault where the live wire
+    touches the casing. If the appliance is correctly earthed, what
+    happens?
+
+    A  The user receives a shock
+    B  Nothing happens
+    C  A large current flows through the earth wire and the fuse blows
+    D  The appliance continues to work normally
+
+    [AO2 - 1 mark]
+
+
+================================================================================
+                    SECTION B: TRUE/FALSE WITH JUSTIFICATION
+================================================================================
+                              (4 Questions)
+
+Instructions: State whether each statement is TRUE or FALSE.
+              If FALSE, write the correct statement.
+
+--------------------------------------------------------------------------------
+11. "The fuse protects the user from electric shock."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+12. "The earth wire is green and yellow striped and is a safety wire."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+13. "A trip switch must be replaced after it has been tripped."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+14. "Damp conditions increase the risk of electric shock because water
+    conducts electricity."
+
+    TRUE / FALSE
+
+    If FALSE, write the correct statement:
+    _____________________________________________________________
+
+    [AO1 - 2 marks]
+
+
+================================================================================
+                    SECTION C: FILL-IN-THE-BLANK
+================================================================================
+                              (4 Questions)
+
+Instructions: Complete each sentence using the correct word(s).
+
+--------------------------------------------------------------------------------
+15. The three wires in a mains circuit are the ______________ wire,
+    the ______________ wire, and the ______________ wire.
+
+    [AO1 - 3 marks]
+
+--------------------------------------------------------------------------------
+16. A fuse contains a thin ______________ that ______________ when
+    the current exceeds its rated value.
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+17. A double-insulated appliance has a ______________
+    (non-conducting) outer casing, so no ______________ wire is needed.
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+18. The live wire is coloured ______________ and is at ______________
+    voltage.
+
+    [AO1 - 2 marks]
+
+
+================================================================================
+                    SECTION D: MATCHING
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+19. Match each wire with its colour and function.
+
+    Wire                     Colour            Function
+    ────────────────────    ────────────────   ─────────────────────────
+    A. Live                 1. Blue            i. Safety wire to ground
+    B. Neutral              2. Brown           ii. Completes the circuit
+    C. Earth                3. Green/Yellow    iii. Carries current at
+                                                    mains voltage
+
+    Write your answers: A = ___, ___ ; B = ___, ___ ; C = ___, ___
+
+    [AO1 - 6 marks]
+
+--------------------------------------------------------------------------------
+20. Match each hazard with the risk it causes.
+
+    Hazard                              Risk
+    ─────────────────────────────      ─────────────────────────────
+    A. Damaged insulation              1. Excess current causes wires
+                                          to overheat, may start fire
+    B. Overheating cables              2. Exposed wires can cause
+                                          electric shock
+    C. Damp conditions                 3. Water conducts, increasing
+                                          shock risk
+    D. Overloading                     4. Too many appliances on one
+                                          socket causes overheating
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO1 - 4 marks]
+
+--------------------------------------------------------------------------------
+21. Match each safety device or feature with its description.
+
+    Device/Feature                      Description
+    ─────────────────────────────      ─────────────────────────────
+    A. Fuse                            1. Can be reset after activation
+    B. Trip switch                     2. Thin wire melts to break circuit
+    C. Earth wire                      3. Two layers of insulation
+    D. Double insulation               4. Low-resistance path to ground
+
+    Write your answers: A = ___, B = ___, C = ___, D = ___
+
+    [AO1 - 4 marks]
+
+
+================================================================================
+                    SECTION E: LABELING DIAGRAMS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+22. The diagram shows the inside of a three-pin mains plug with
+    components labeled P, Q, R, S, and T.
+
+    ---DIAGRAM: Fig. E1---
+    TYPE: Diagram
+    PURPOSE: Inside of a UK 3-pin plug with unlabeled components
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 10
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Top-down view of an opened three-pin plug
+
+    COMPONENTS:
+      [Plug Body]
+        Symbol: rectangular_outline
+        Position: grid(2,2) to grid(8,8)
+
+      [Component P]
+        Symbol: large_pin_terminal (top centre)
+        Position: grid(5,3)
+        Label: "P" [above, in box]
+
+      [Component Q]
+        Symbol: pin_terminal (bottom right)
+        Position: grid(7,7)
+        Label: "Q" [right, in box]
+
+      [Component R]
+        Symbol: pin_terminal (bottom left)
+        Position: grid(3,7)
+        Label: "R" [left, in box]
+
+      [Component S]
+        Symbol: fuse_component (between Q and P)
+        Position: grid(7,5)
+        Label: "S" [right, in box]
+
+      [Component T]
+        Symbol: cable_grip (bottom centre)
+        Position: grid(5,8)
+        Label: "T" [below, in box]
+
+    CONNECTIONS:
+      [Wire to Q]: cable → S → Q
+      [Wire to R]: cable → R
+      [Wire to P]: cable → P
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) Name component P and state its colour.                               [2]
+
+    _____________________________________________________________
+
+    (b) Name component Q and state its colour.                               [2]
+
+    _____________________________________________________________
+
+    (c) Name component R and state its colour.                               [2]
+
+    _____________________________________________________________
+
+    (d) Name component S and state its function.                             [2]
+
+    _____________________________________________________________
+
+    (e) Name component T and state its purpose.                              [1]
+
+    _____________________________________________________________
+
+    [AO2 - 9 marks total]
+
+--------------------------------------------------------------------------------
+23. The diagram shows the wiring of an appliance with a metal casing
+    connected to the mains supply.
+
+    ---DIAGRAM: Fig. E2---
+    TYPE: Circuit
+    PURPOSE: Mains wiring of a metal-cased appliance with earth connection
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 6
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Simplified mains wiring showing live, neutral, earth connections
+
+    COMPONENTS:
+      [Live wire]
+        Symbol: wire (brown)
+        Position: grid(2,2) to grid(10,2)
+        Label: "A" [at wire]
+
+      [Fuse]
+        Symbol: fuse
+        Position: grid(4,2)
+        Label: "B" [below]
+
+      [Switch]
+        Symbol: switch
+        Position: grid(6,2)
+        Label: "C" [below]
+
+      [Heating Element]
+        Symbol: heater
+        Position: grid(8,3)
+        Label: "D" [right]
+
+      [Metal Casing]
+        Symbol: rectangle (dashed)
+        Position: grid(7,1) to grid(11,5)
+
+      [Neutral wire]
+        Symbol: wire (blue)
+        Position: grid(2,4) to grid(10,4)
+        Label: "E" [at wire]
+
+      [Earth wire]
+        Symbol: wire (green/yellow)
+        Position: grid(2,5) to grid(9,5)
+        Label: "F" [at wire]
+        Connection: to metal casing
+
+    CONNECTIONS:
+      [Live]: Supply → Fuse → Switch → Element
+      [Neutral]: Supply → Element
+      [Earth]: Supply → Metal casing
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) Name wire A and state its colour.                                    [2]
+
+    _____________________________________________________________
+
+    (b) Name component B.                                                    [1]
+
+    _____________________________________________________________
+
+    (c) Name component C. Explain why it is connected to wire A.             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (d) Name wire F and explain its purpose.                                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 7 marks total]
+
+--------------------------------------------------------------------------------
+24. The diagram shows the circuit symbol for a fuse in two states.
+
+    ---DIAGRAM: Fig. E3---
+    TYPE: Diagram
+    PURPOSE: Normal and blown fuse comparison
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 16:9 wide
+    GRID: 12 × 4
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Two fuse diagrams side by side, labeled State 1 and State 2
+
+    COMPONENTS:
+      [State 1]
+        Symbol: fuse_intact
+        Position: grid(3,2)
+        Label: "State 1" [below]
+
+      [State 2]
+        Symbol: fuse_broken
+        Position: grid(9,2)
+        Label: "State 2" [below]
+
+    CONNECTIONS:
+      None
+
+    ANNOTATIONS:
+      None
+    ---END DIAGRAM---
+
+    (a) State which state shows a working fuse.                              [1]
+
+    _____________________________________________________________
+
+    (b) Explain what has happened in State 2.                                [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) State what must be done after a fuse reaches State 2.                [1]
+
+    _____________________________________________________________
+
+    [AO2 - 4 marks total]
+
+
+================================================================================
+                    SECTION F: SHORT ANSWER QUESTIONS
+================================================================================
+                              (5 Questions)
+
+--------------------------------------------------------------------------------
+25. State four electrical hazards that can occur in the home.
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    3. ___________________________________________________________
+
+    4. ___________________________________________________________
+
+    [AO1 - 4 marks]
+
+--------------------------------------------------------------------------------
+26. Explain why the live wire is the most dangerous of the three
+    mains wires.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+--------------------------------------------------------------------------------
+27. State two advantages of a trip switch (circuit breaker) over a fuse.
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO1 - 2 marks]
+
+--------------------------------------------------------------------------------
+28. Explain the difference between earthing and double insulation as
+    methods of electrical safety.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 4 marks]
+
+--------------------------------------------------------------------------------
+29. A student says that a plastic-cased hair dryer with only two wires
+    (live and neutral) is unsafe. Is the student correct? Explain.
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 3 marks]
+
+
+================================================================================
+                    SECTION G: CALCULATIONS (STRUCTURED)
+================================================================================
+                              (6 Questions)
+
+--------------------------------------------------------------------------------
+30. A kettle operates at 230 V and has a power rating of 2300 W.
+
+    (a) Calculate the current drawn by the kettle.                           [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Choose the correct fuse for this kettle from: 3 A, 5 A, 13 A.       [1]
+
+    _____________________________________________________________
+
+    (c) Explain your choice.                                                 [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+31. A table lamp operates at 230 V with a power of 60 W.
+
+    (a) Calculate the current drawn by the lamp.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) State which fuse should be used (3 A, 5 A, or 13 A).                [1]
+
+    _____________________________________________________________
+
+    (c) Explain why a 13 A fuse would be unsuitable.                         [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+32. An electric heater has a resistance of 23 Ω and is connected
+    to a 230 V mains supply.
+
+    (a) Calculate the current flowing through the heater.                    [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) State the correct fuse rating (3 A, 5 A, or 13 A).                  [1]
+
+    _____________________________________________________________
+
+    (c) Calculate the power of the heater.                                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+33. An appliance has a power rating of 920 W and operates at 230 V.
+
+    (a) Calculate the normal operating current.                              [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) State the correct fuse rating.                                       [1]
+
+    _____________________________________________________________
+
+    (c) A fault causes the current to increase to 15 A.
+        State what happens to the fuse.                                      [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+34. A student plugs four appliances into a single 13 A socket using
+    an extension lead. The appliances draw: 3 A, 4 A, 2 A, and 5 A.
+
+    (a) Calculate the total current drawn.                                   [1]
+
+    _____________________________________________________________
+
+    (b) State whether the socket is overloaded. Explain.                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) State what might happen as a result.                                 [1]
+
+    _____________________________________________________________
+
+--------------------------------------------------------------------------------
+35. A washing machine operates at 230 V, drawing a current of 10 A.
+
+    (a) Calculate the power of the washing machine.                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Select the correct fuse (3 A, 5 A, or 13 A).                        [1]
+
+    _____________________________________________________________
+
+    (c) Explain why this fuse is suitable.                                   [1]
+
+    _____________________________________________________________
+
+
+================================================================================
+                    SECTION H: DATA INTERPRETATION
+================================================================================
+                              (4 Questions)
+
+--------------------------------------------------------------------------------
+36. The table shows four household appliances, their power ratings,
+    and the mains voltage (230 V).
+
+    ┌─────────────────────┬────────────────┬──────────────────────┐
+    │ Appliance           │ Power (W)      │ Current (A)          │
+    ├─────────────────────┼────────────────┼──────────────────────┤
+    │ Table lamp          │ 60             │ ?                    │
+    │ Television          │ 250            │ ?                    │
+    │ Microwave           │ 1150           │ ?                    │
+    │ Electric oven       │ 2500           │ ?                    │
+    └─────────────────────┴────────────────┴──────────────────────┘
+
+    (a) Calculate the current for each appliance.                            [4]
+
+    Table lamp: ___________ A
+    Television: ___________ A
+    Microwave:  ___________ A
+    Electric oven: ________ A
+
+    (b) State the correct fuse (3 A, 5 A, or 13 A) for each.                [4]
+
+    Table lamp: ___________ A fuse
+    Television: ___________ A fuse
+    Microwave:  ___________ A fuse
+    Electric oven: ________ A fuse
+
+    (c) Explain why using the same 13 A fuse for all appliances
+        would be unsafe.                                                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 10 marks total]
+
+--------------------------------------------------------------------------------
+37. A student lists the colour codes used in a UK mains plug.
+    Some entries are incorrect.
+
+    ┌─────────────────┬──────────────────────┐
+    │ Wire            │ Student's Colour     │
+    ├─────────────────┼──────────────────────┤
+    │ Live            │ Red                  │
+    │ Neutral         │ Blue                 │
+    │ Earth           │ Green                │
+    └─────────────────┴──────────────────────┘
+
+    (a) Identify and correct the errors.                                     [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Explain why correct colour coding is important.                      [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2 - 4 marks total]
+
+--------------------------------------------------------------------------------
+38. The table shows fuse ratings selected by a student for different
+    appliances. State whether each choice is correct. If incorrect,
+    state the correct fuse rating.
+
+    ┌─────────────────────┬────────────────┬──────────────────────┐
+    │ Appliance           │ Normal I (A)   │ Student's Fuse (A)   │
+    ├─────────────────────┼────────────────┼──────────────────────┤
+    │ Hair dryer          │ 4.0            │ 3                    │
+    │ Phone charger       │ 0.2            │ 13                   │
+    │ Toaster             │ 3.5            │ 5                    │
+    │ Heater              │ 10             │ 13                   │
+    └─────────────────────┴────────────────┴──────────────────────┘
+
+    Hair dryer:    ________________________________________________
+
+    Phone charger: ________________________________________________
+
+    Toaster:       ________________________________________________
+
+    Heater:        ________________________________________________
+
+    [AO2/AO3 - 4 marks total]
+
+--------------------------------------------------------------------------------
+39. The diagram shows a circuit with the wiring connections to a
+    metal-cased appliance. A fault has occurred.
+
+    ---DIAGRAM: Fig. D1---
+    TYPE: Circuit
+    PURPOSE: Show fault condition – live wire touching metal casing
+    STYLE: Hand-drawn, solid black lines on pure white (#FFFFFF)
+    ASPECT_RATIO: 4:3 landscape
+    GRID: 10 × 8
+
+    CANVAS:
+      Background: pure white
+
+    LAYOUT:
+      Mains wiring with fault condition
+
+    COMPONENTS:
+      [Live wire]
+        Symbol: wire (brown)
+        Position: grid(2,2) to grid(8,2)
+
+      [Fuse]
+        Symbol: fuse (3 A)
+        Position: grid(4,2)
+
+      [Switch]
+        Symbol: switch (closed)
+        Position: grid(6,2)
+
+      [Motor]
+        Symbol: motor
+        Position: grid(8,4)
+
+      [Metal Casing]
+        Symbol: dashed_rectangle
+        Position: grid(6,1) to grid(10,7)
+
+      [Fault]
+        Symbol: spark/contact_point
+        Position: grid(8,2) touching casing
+        Label: "FAULT" [red]
+
+      [Neutral wire]
+        Symbol: wire (blue)
+        Position: grid(2,6) to grid(8,6)
+
+      [Earth wire]
+        Symbol: wire (green/yellow)
+        Position: grid(2,7) to grid(7,7)
+        Connection: to metal casing
+
+    CONNECTIONS:
+      [Live]: Supply → Fuse → Switch → Motor (fault: touches casing)
+      [Neutral]: Supply → Motor
+      [Earth]: Supply → Metal casing
+
+    ANNOTATIONS:
+      [Note]: "Live wire has touched the metal casing"
+    ---END DIAGRAM---
+
+    (a) Describe the fault shown in the diagram.                             [1]
+
+    _____________________________________________________________
+
+    (b) Explain the sequence of events that occurs to make the
+        appliance safe.                                                      [4]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) State what would happen if there was no earth wire.                   [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 7 marks total]
+
+
+================================================================================
+                    SECTION I: COMPARE AND CONTRAST
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+40. Complete the table comparing fuses and trip switches.
+
+    ┌───────────────────────┬──────────────────────┬──────────────────────┐
+    │ Feature               │ Fuse                 │ Trip Switch          │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ How it works          │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ After activation      │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Response speed        │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Reusability           │                      │                      │
+    └───────────────────────┴──────────────────────┴──────────────────────┘
+
+    [AO2 - 8 marks]
+
+--------------------------------------------------------------------------------
+41. Compare earthing and double insulation.
+
+    ┌───────────────────────┬──────────────────────┬──────────────────────┐
+    │ Feature               │ Earthing             │ Double Insulation    │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Type of casing        │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Earth wire needed?    │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ How it protects user  │                      │                      │
+    ├───────────────────────┼──────────────────────┼──────────────────────┤
+    │ Example appliance     │                      │                      │
+    └───────────────────────┴──────────────────────┴──────────────────────┘
+
+    [AO2 - 8 marks]
+
+--------------------------------------------------------------------------------
+42. Compare the live wire and the neutral wire.
+
+    (a) State one similarity.                                                [1]
+
+    _____________________________________________________________
+
+    (b) State two differences.                                               [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO1 - 3 marks]
+
+
+================================================================================
+                    SECTION J: STRUCTURED QUESTIONS
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+43. A student is wiring a three-pin plug for a metal-cased toaster
+    rated at 230 V, 1150 W.
+
+    (a) Calculate the current drawn by the toaster.                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) State the correct fuse rating (3 A, 5 A, or 13 A).                  [1]
+
+    _____________________________________________________________
+
+    (c) State which wire the fuse is connected to.                           [1]
+
+    _____________________________________________________________
+
+    (d) State which wire the switch is connected to. Explain why.            [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (e) Explain why the earth wire is connected to the metal casing.         [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 9 marks total]
+
+--------------------------------------------------------------------------------
+44. A student investigates the safety features of two appliances:
+    - Appliance X: a metal-cased electric drill with three wires
+    - Appliance Y: a plastic-cased phone charger with two wires
+
+    (a) State which appliance uses earthing and which uses double
+        insulation.                                                          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Explain how earthing protects the user of appliance X.               [3]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Explain why appliance Y does not need an earth wire.                 [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (d) State what the fuse protects in a double-insulated appliance.        [1]
+
+    _____________________________________________________________
+
+    (e) Suggest why the user might still receive a shock from
+        appliance X if the earth wire is disconnected.                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO2/AO3 - 10 marks total]
+
+--------------------------------------------------------------------------------
+45. A family home has the following appliances connected to a single
+    ring main circuit (rated at 30 A):
+    - Washing machine: 10 A
+    - Dishwasher: 10 A
+    - Kettle: 10 A
+    - Microwave: 5 A
+
+    (a) Calculate the total current drawn when all are used at once.         [1]
+
+    _____________________________________________________________
+
+    (b) State whether the ring main is overloaded. Explain.                  [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (c) Describe what safety device would operate and what it does.          [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (d) Suggest two ways to prevent overloading.                             [2]
+
+    1. ___________________________________________________________
+
+    2. ___________________________________________________________
+
+    [AO2/AO3 - 7 marks total]
+
+
+================================================================================
+                    SECTION K: ERROR ANALYSIS
+================================================================================
+                              (2 Questions)
+
+--------------------------------------------------------------------------------
+46. A student wires a plug and connects the switch to the neutral wire.
+
+    (a) Explain why this is dangerous.                                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) State which wire the switch should be connected to.                  [1]
+
+    _____________________________________________________________
+
+    (c) Explain why this connection makes the appliance safe when
+        switched off.                                                        [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 5 marks]
+
+--------------------------------------------------------------------------------
+47. A student says: "It doesn't matter what fuse rating you use as
+    long as there is a fuse in the circuit."
+
+    (a) Explain why this statement is incorrect.                             [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    (b) Give an example to illustrate the danger of using too high
+        a fuse rating.                                                       [2]
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+
+================================================================================
+                    SECTION L: PREDICT AND EXPLAIN
+================================================================================
+                              (3 Questions)
+
+--------------------------------------------------------------------------------
+48. An electrician discovers that the earth wire in a metal-cased
+    washing machine has become disconnected. Predict and explain
+    what could happen if a fault occurs.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+--------------------------------------------------------------------------------
+49. A homeowner replaces a blown 5 A fuse with a 13 A fuse in a
+    lamp that normally draws 2 A. Predict and explain what might
+    happen if a fault causes excess current.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 3 marks]
+
+--------------------------------------------------------------------------------
+50. Predict what would happen if a mains appliance were used in a
+    damp bathroom with no safety measures. Explain the risks.
+
+    Prediction: ___________________________________________________
+
+    Explanation: __________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    _____________________________________________________________
+
+    [AO3 - 4 marks]
+
+
+================================================================================
+                    ANSWER KEY
+================================================================================
+
+SECTION A: MCQ
+1.  C (Live wire)
+2.  B (Blue)
+3.  B (Fuse wire melts and breaks the circuit)
+4.  B (5 A – just above 4.5 A)
+5.  B (So no voltage reaches the appliance when switched off)
+6.  C (Outer casing is non-conducting material)
+7.  C (Using a rubber-handled screwdriver is a safety precaution)
+8.  B (Can be reset after tripping)
+9.  C (Low-resistance path to ground during a fault)
+10. C (Large current through earth wire, fuse blows)
+
+SECTION B: TRUE/FALSE
+11. FALSE – The fuse protects the circuit and cabling, not the user.
+    The earth wire protects the user.
+12. TRUE
+13. FALSE – A trip switch can be reset after tripping; it does not
+    need to be replaced.
+14. TRUE
+
+SECTION C: FILL-IN-THE-BLANK
+15. live; neutral; earth
+16. wire; melts
+17. plastic / non-conducting; earth
+18. brown; mains (230 V)
+
+SECTION D: MATCHING
+19. A = 2, iii ; B = 1, ii ; C = 3, i
+20. A = 2, B = 1, C = 3, D = 4
+21. A = 2, B = 1, C = 4, D = 3
+
+SECTION E: LABELING
+22. (a) Earth pin – green and yellow
+    (b) Live pin – brown
+    (c) Neutral pin – blue
+    (d) Fuse – melts if current is too high, breaking the circuit
+    (e) Cable grip – holds the cable securely to prevent wires from
+        being pulled loose
+23. (a) Live wire – brown
+    (b) Fuse
+    (c) Switch – connected to the live wire so that when switched off,
+        no voltage reaches the appliance
+    (d) Earth wire – provides a low-resistance path to ground if the
+        live wire touches the metal casing
+24. (a) State 1 (intact wire)
+    (b) Excess current caused the fuse wire to melt, breaking the circuit.
+    (c) The blown fuse must be replaced with a new one of the correct rating.
+
+SECTION F: SHORT ANSWER
+25. (1) Damaged insulation (2) Overheating cables
+    (3) Damp conditions (4) Overloading sockets
+26. The live wire is at mains voltage (230 V). If a person touches it,
+    a large current can flow through their body causing electric shock
+    or death. The neutral is at ~0 V so is less dangerous.
+27. (1) Can be reset after tripping (reusable).
+    (2) Reacts faster than a fuse.
+28. Earthing: uses an earth wire connected to the metal casing; if a
+    fault occurs, current flows through earth wire, blowing the fuse.
+    Double insulation: uses a non-conducting outer case; the case
+    cannot become live, so no earth wire is needed.
+29. The student is incorrect. The hair dryer is double-insulated.
+    The plastic casing cannot become live, so it is safe without an
+    earth wire. The fuse protects the circuit and cabling.
+
+SECTION G: CALCULATIONS
+30. (a) I = P/V = 2300/230 = 10 A
+    (b) 13 A fuse
+    (c) 13 A is just above the operating current of 10 A.
+31. (a) I = P/V = 60/230 = 0.26 A
+    (b) 3 A fuse
+    (c) A 13 A fuse would allow a dangerous current to flow without
+        blowing, potentially causing overheating and fire.
+32. (a) I = V/R = 230/23 = 10 A
+    (b) 13 A fuse
+    (c) P = VI = 230 × 10 = 2300 W
+33. (a) I = P/V = 920/230 = 4.0 A
+    (b) 5 A fuse
+    (c) The fuse wire melts and breaks the circuit.
+34. (a) I = 3 + 4 + 2 + 5 = 14 A
+    (b) Yes, 14 A > 13 A; the socket is overloaded.
+    (c) Wires overheat, insulation could melt, risk of fire.
+35. (a) P = VI = 230 × 10 = 2300 W
+    (b) 13 A fuse
+    (c) 13 A is just above 10 A; it will protect against excess current
+        without blowing during normal operation.
+
+SECTION H: DATA INTERPRETATION
+36. (a) Lamp: 60/230 = 0.26 A; TV: 250/230 = 1.09 A;
+        Microwave: 1150/230 = 5.0 A; Oven: 2500/230 = 10.9 A
+    (b) Lamp: 3 A; TV: 3 A; Microwave: 13 A; Oven: 13 A
+    (c) A 13 A fuse on a low-power device (like a lamp) would allow
+        a dangerously high fault current to flow without blowing,
+        risking fire before the fuse activates.
+37. (a) Live should be brown (not red); Earth should be green and
+        yellow striped (not just green).
+    (b) Correct colours prevent electricians from connecting wires
+        incorrectly, which could cause electric shock or fire.
+38. Hair dryer: Incorrect – 3 A is too low (would blow during normal
+    use); should use 5 A fuse.
+    Phone charger: Incorrect – 13 A is far too high; should use 3 A.
+    Toaster: Correct – 5 A is just above 3.5 A.
+    Heater: Correct – 13 A is just above 10 A.
+39. (a) The live wire has come loose and is touching the metal casing.
+    (b) (1) Current flows through the earth wire to ground (low resistance
+        path). (2) A large surge of current flows. (3) This causes the
+        fuse to blow/melt. (4) The circuit is broken and the appliance
+        is disconnected from the mains.
+    (c) The metal casing would remain live; anyone touching it would
+        receive an electric shock.
+
+SECTION I: COMPARE AND CONTRAST
+40. Fuse: thin wire melts when excess current flows; must be replaced;
+    slower response; single use.
+    Trip switch: electromagnetic switch that opens automatically; can be
+    reset; faster response; reusable.
+41. Earthing: metal casing; earth wire needed; earth wire provides
+    path for fault current to blow fuse; e.g. washing machine, kettle.
+    Double insulation: plastic/non-conducting casing; no earth needed;
+    casing cannot become live; e.g. hair dryer, phone charger.
+42. (a) Both carry current during normal operation.
+    (b) (1) Live is at mains voltage (230 V); neutral is at ~0 V.
+    (2) Live is brown; neutral is blue.
+
+SECTION J: STRUCTURED QUESTIONS
+43. (a) I = 1150/230 = 5.0 A
+    (b) 13 A (or 5 A if available – just above 5.0 A)
+    (c) The live wire
+    (d) The live wire; so that when switched off, no voltage reaches
+        the appliance, making it safe to touch.
+    (e) If the live wire touches the metal casing, current flows through
+        the earth wire (low resistance) instead of through the user.
+        This large current blows the fuse, disconnecting the appliance.
+44. (a) X uses earthing (metal case, three wires); Y uses double
+        insulation (plastic case, two wires).
+    (b) If the live wire touches the metal casing, current flows through
+        the earth wire to ground. This large current blows the fuse,
+        disconnecting the appliance before the user can be shocked.
+    (c) The plastic casing is a non-conductor, so it cannot become live.
+        There is no risk of the casing giving a shock.
+    (d) The fuse protects the circuit and cabling (not the user).
+    (e) Without the earth wire, there is no low-resistance path to
+        ground. The metal casing remains live, and touching it would
+        cause a shock through the user's body.
+45. (a) I = 10 + 10 + 10 + 5 = 35 A
+    (b) Yes, 35 A > 30 A; the circuit is overloaded.
+    (c) The trip switch (circuit breaker) would trip, automatically
+        breaking the circuit and stopping current flow.
+    (d) (1) Use separate circuits for high-power appliances.
+    (2) Avoid running all high-power appliances simultaneously.
+
+SECTION K: ERROR ANALYSIS
+46. (a) With the switch on the neutral wire, the appliance is still
+        connected to the live wire even when "off". The appliance
+        remains at mains voltage and could give a shock if touched.
+    (b) The live wire.
+    (c) When the switch on the live wire is off, no voltage reaches
+        the appliance, making it safe to touch or repair.
+47. (a) A fuse that is rated too high will not blow when a fault occurs,
+        allowing dangerous currents to flow and risking fire.
+    (b) A lamp drawing 0.26 A with a 13 A fuse: if a fault causes
+        5 A to flow, the fuse won't blow, but the cable could overheat
+        and catch fire.
+
+SECTION L: PREDICT AND EXPLAIN
+48. Prediction: If a live wire touches the metal casing, the user
+    could receive an electric shock.
+    Explanation: Without the earth wire, there is no safe path for
+    fault current. The metal casing becomes live. If the user touches
+    the casing, current flows through their body to earth, causing
+    injury or death. The fuse may not blow quickly enough.
+49. Prediction: The 13 A fuse will not blow during the fault, and
+    the wiring may overheat and cause a fire.
+    Explanation: A 13 A fuse allows up to 13 A before blowing.
+    A fault current of, say, 8 A is dangerous for a 2 A appliance
+    but would not blow a 13 A fuse. The wires would overheat.
+50. Prediction: The user is at high risk of electric shock.
+    Explanation: Water conducts electricity. If water contacts any
+    live component, current could flow through the water and through
+    the user's body. Wet skin has much lower resistance than dry skin,
+    increasing the current through the body and the severity of shock.

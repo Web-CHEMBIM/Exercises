@@ -1,0 +1,63 @@
+# Classification of Questions from "4.3 Electric circuits QP.pdf"
+
+This document maps all 33 structured, multi-part questions from the question paper into the five subtopics for Module 17: Electric Circuits & Electrical Safety.
+
+If a question spans multiple topics (e.g. combining series and parallel resistor calculations), it is placed in the most relevant advanced topic.
+
+## 17.1 Circuit Diagrams & Components
+*Questions testing knowledge of drawing/interpreting circuit symbols, ammeter/voltmeter positioning, relays, thermistors, LDRs, and component functions.*
+Q1, Q2, Q3, Q4, Q5, Q6, Q9, Q10, Q11, Q12, Q17
+
+## 17.2 Series Circuits
+*Questions testing the behavior of current, e.m.f. of cells in series, potential difference, combined resistance in series, and drawing current vs resistance graphs.*
+Q7, Q8, Q13, Q22
+
+## 17.3 Parallel Circuits
+*Questions addressing multiple branches, the junction rule, current splitting, calculating combined resistance in parallel networks, and advantages of parallel lighting.*
+Q14, Q16, Q18, Q19, Q20, Q24, Q25, Q27, Q30
+
+## 17.4 Potential Dividers
+*Questions focusing on variable potential dividers, the splitting of voltage based on resistance ratio ($R_1 / R_2 = V_1 / V_2$), and input sensors (LDR/thermistor) producing variable output voltages in complex circuits.*
+Q15, Q21, Q23, Q26, Q28, Q29, Q31, Q33
+
+## 17.5 Electrical Safety
+*Questions concerning hazards, mains wiring (live, neutral, earth), correct placement of switches and fuses, and calculating suitable fuse ratings based on power/current.*
+Q32
+
+---
+
+## Detailed Breakdown by Question
+
+- Q1: Circuit with variable resistor, heater, ammeter. Purpose of variable resistor, cells in series. -> **17.1**
+- Q2: Name components from generic symbols. Calculate power. Draw lamp in parallel. -> **17.1**
+- Q3: Incomplete symbols for V and A. Calculate resistance. -> **17.1**
+- Q4: Draw circuit diagram from physical picture of battery, wire, switch, lamp, ammeter. -> **17.1**
+- Q5: Complete circuit diagram with standard symbols from physical picture. -> **17.1**
+- Q6: Draw circuit diagram for a battery-operated torch. -> **17.1**
+- Q7: Series circuit ammeter readings. -> **17.2**
+- Q8: Combined resistance in series. Compare current when changed to parallel. -> **17.2**
+- Q9: Identify variable resistor symbol. Calculate LDR resistance. -> **17.1**
+- Q10: Relays linking two circuits. -> **17.1**
+- Q11: Incomplete diagram with thermistor. Add A and V symbols. Compare series/parallel R. -> **17.1**
+- Q12: Add V and A symbols. Identify variable resistor. -> **17.1**
+- Q13: Basic series circuit drawing and behaviour. -> **17.2**
+- Q14: Two switches controlling a lamp (logic). Advantages of parallel. -> **17.3**
+- Q15: Sliding contact variable resistor in potential divider. -> **17.4**
+- Q16: Add symbols to parallel circuit. Effect of one breaking. -> **17.3**
+- Q17: Draw missing symbols. Obtaining reliable resistance value. -> **17.1**
+- Q18: Calculate combined resistance in parallel. Describe effect of changes. -> **17.3**
+- Q19: Closing switch to short circuit a component in series. -> **17.3**
+- Q20: Three lamps in mixed parallel/series. Effect of switch. -> **17.3**
+- Q21: Potential divider using LDR and thermistor in series. Explain voltmeter reading. -> **17.4**
+- Q22: Cells in series. Current vs variable resistor graph. -> **17.2**
+- Q23: Night light potential divider with LDR and fixed resistor. -> **17.4**
+- Q24: 3-position switch mapping to different parallel resistor combinations. -> **17.3**
+- Q25: Combined EMF in series. Combined resistance parallel + series. -> **17.3**
+- Q26: Potential divider with thermistor and fixed resistor. Emf of 8 cells. -> **17.4**
+- Q27: Add ammeter/voltmeter. Calculate current in parallel branch. Diode function in AC. -> **17.3**
+- Q28: Describe meaning of potential divider. Voltmeter readings. -> **17.4**
+- Q29: Ratio of potential differences with a diode conducting/blocking. -> **17.4**
+- Q30: Voltmeter reading across parallel resistor network. -> **17.3**
+- Q31: LDR in parallel with fixed resistor, in series with another. -> **17.4**
+- Q32: Calculate power of parallel heating elements. Calculate required fuse rating. -> **17.5**
+- Q33: Formulate equation relating voltages in potential divider with thermistor. -> **17.4**

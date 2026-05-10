@@ -1,0 +1,1173 @@
+================================================================================
+                     IGCSE PHYSICS - MODULE 6
+                     MOMENTUM
+================================================================================
+
+Topic: 1.6 Momentum [Supplement]
+Estimated Study Time: 2-3 hours
+
+NOTE: ALL content in this module is Supplement (Extended tier) only.
+      Core tier students are not assessed on momentum.
+
+--------------------------------------------------------------------------------
+                           MODULE OVERVIEW
+--------------------------------------------------------------------------------
+
+This module introduces momentum — a fundamental property of moving objects.
+You will learn how to calculate momentum, why it is conserved in collisions,
+how impulse relates to force and time, and how Newton's second law can be
+expressed in terms of momentum.
+
+LEARNING OBJECTIVES:
+
+After completing this module, you will be able to:
+
+Section 6.1 - Momentum
+• Define momentum and recall the equation p = mv [Supplement]
+• Identify momentum as a vector quantity [Supplement]
+• Calculate momentum for objects in motion, including direction [Supplement]
+
+Section 6.2 - Conservation of Momentum
+• State the principle of conservation of momentum [Supplement]
+• Apply conservation of momentum to collisions in a straight line [Supplement]
+• Use positive and negative signs to indicate direction of motion [Supplement]
+
+Section 6.3 - Impulse
+• Define impulse and recall the equation: impulse = F × Δt [Supplement]
+• Relate impulse to change in momentum: FΔt = Δp = mv − mu [Supplement]
+• Apply the impulse equation to real-world scenarios [Supplement]
+
+Section 6.4 - Force and Momentum (Newton's Second Law)
+• Express Newton's second law as F = Δp / Δt [Supplement]
+• Describe force as the rate of change of momentum [Supplement]
+• Apply F = Δp / Δt to solve problems [Supplement]
+
+PREREQUISITES:
+• Module 2: Motion (velocity, speed, acceleration, vectors and scalars)
+• Module 3: Mass, Weight and Density (mass in kg)
+• Module 4: Effects of Forces (Newton's laws, resultant force, F = ma)
+• Module 5: Moments (understanding of balanced and unbalanced systems)
+
+KEY VOCABULARY:
+
+┌────────────────────────────┬────────────────────────────────────────────────┐
+│ Term                       │ Definition                                     │
+├────────────────────────────┼────────────────────────────────────────────────┤
+│ Momentum (p)               │ The product of an object's mass and velocity   │
+│                            │ p = mv; measured in kg m/s                     │
+│ Vector quantity            │ A quantity with both magnitude AND direction    │
+│ Closed system              │ A system with no external forces and no energy  │
+│                            │ transferred in or out                          │
+│ Conservation of momentum   │ In a closed system, total momentum before an   │
+│                            │ event equals total momentum after              │
+│ Collision                  │ An event where two objects interact and exert  │
+│                            │ forces on each other                           │
+│ Impulse                    │ The product of force and the time it acts;     │
+│                            │ equals the change in momentum (N s or kg m/s) │
+│ Change in momentum (Δp)    │ Δp = mv − mu (final momentum − initial)        │
+│ Rate of change of momentum │ The change in momentum per unit time = Force   │
+│ Newton's second law        │ F = Δp / Δt (force = rate of change of         │
+│ (momentum form)            │ momentum)                                      │
+└────────────────────────────┴────────────────────────────────────────────────┘
+
+================================================================================
+                      SECTION 6.1: MOMENTUM
+================================================================================
+
+HOOK — THINK ABOUT THIS:
+A tennis ball flying at 200 km/h and a slow-moving lorry — both are hard to
+stop suddenly, but for very different reasons. The ball because of its high
+speed, the lorry because of its enormous mass. What single quantity captures
+BOTH of these effects? The answer is momentum.
+
+RECALL:
+• Velocity is a vector — it has both magnitude (speed) and direction (Module 2).
+• A scalar has magnitude only; a vector has magnitude AND direction.
+• Force causes acceleration (change in velocity) — F = ma (Module 4).
+
+6.1.1 DEFINING MOMENTUM
+------------------------
+
+Any object that has MASS and is MOVING has MOMENTUM.
+
+Momentum is defined by the equation:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                         momentum = mass × velocity                         │
+│                                                                             │
+│                              p = m × v                     ... (6.1)       │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Where:
+  p = momentum (kg m/s) — kilogram metres per second
+  m = mass (kg) — kilograms
+  v = velocity (m/s) — metres per second
+
+KEY POINTS:
+• An object AT REST has v = 0, therefore p = 0. No motion → no momentum.
+• Momentum is a VECTOR quantity — it has both magnitude AND direction.
+• Because velocity is a vector, momentum can be POSITIVE or NEGATIVE:
+  - Positive momentum: moving in the chosen positive direction
+  - Negative momentum: moving in the opposite direction
+
+SIGN CONVENTION:
+You choose which direction is positive. Once chosen, be consistent throughout.
+• In most problems: RIGHT or UP = positive → LEFT or DOWN = negative.
+
+---DIAGRAM: Fig. 6.1---
+TYPE: Apparatus
+PURPOSE: Two objects moving in opposite directions showing positive and
+         negative momentum
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two objects on a horizontal surface; one moving right (positive), one moving left (negative)
+
+COMPONENTS:
+  [Object A — Ball moving right]
+    Shape: circle, grid(3, 4)
+    Velocity arrow: pointing right, grid(4-6, 4), label "v = +20 m/s"
+    Label: "m = 0.5 kg" below circle
+    Momentum label: "p = +10 kg m/s" above
+
+  [Object B — Ball moving left]
+    Shape: circle, grid(12, 4)
+    Velocity arrow: pointing left, grid(10-11, 4), label "v = −20 m/s"
+    Label: "m = 0.5 kg" below circle
+    Momentum label: "p = −10 kg m/s" above
+
+  [Positive direction indicator]
+    Arrow pointing right at bottom of diagram
+    Label: "Positive direction →"
+
+ANNOTATIONS:
+  "Same mass, same speed, but OPPOSITE momentum (opposite directions)"
+---END DIAGRAM---
+
+6.1.2 EFFECT OF MASS AND VELOCITY ON MOMENTUM
+----------------------------------------------
+
+Momentum depends equally on BOTH mass and velocity:
+
+• A heavy, slow object can have the same momentum as a light, fast object.
+• A large mass at low speed may be just as hard to stop as a small mass
+  at high speed.
+
+Example — Comparing a tennis ball and a brick:
+  Tennis ball: m = 0.06 kg, v = 75 m/s → p = 0.06 × 75 = 4.5 kg m/s
+  Brick:       m = 3 kg,    v = 1.5 m/s → p = 3 × 1.5   = 4.5 kg m/s
+
+Both have the SAME momentum despite very different masses and speeds. This
+means they would exert a similar stopping force (given the same stopping time).
+
+---DIAGRAM: Fig. 6.2---
+TYPE: Diagram
+PURPOSE: Side-by-side comparison of tennis ball (light, fast) and brick (heavy, slow),
+         both with equal momentum of 4.5 kg m/s
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 7
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two columns; left = tennis ball, right = brick
+
+COMPONENTS:
+  [Tennis Ball]
+    Small circle at grid(3, 4)
+    Long velocity arrow to the right: grid(4-9, 4), label "v = 75 m/s"
+    Label above: "m = 0.06 kg"
+    Label below: "p = 0.06 × 75 = 4.5 kg m/s"
+
+  [Brick]
+    Large rectangle at grid(10, 3-5)
+    Short velocity arrow to the right: grid(11-12, 4), label "v = 1.5 m/s"
+    Label above: "m = 3 kg"
+    Label below: "p = 3 × 1.5 = 4.5 kg m/s"
+
+ANNOTATIONS:
+  "= Same momentum!" between the two
+---END DIAGRAM---
+
+════════════════════════════════════════════════════════════════════════════════
+WORKED EXAMPLE 6.1
+────────────────────────────────────────────────────────────────────────────────
+
+Problem:
+A car of mass 1200 kg travels east at 15 m/s. Calculate its momentum.
+State the direction of the momentum.
+
+Solution:
+
+Step 1: Identify the known quantities.
+  Mass, m = 1200 kg
+  Velocity, v = +15 m/s (taking east as positive)
+  Required: momentum, p
+
+Step 2: Write the momentum equation.
+  p = m × v
+
+Step 3: Substitute values and calculate.
+  p = 1200 × 15
+  p = 18 000 kg m/s
+
+Step 4: State the answer with direction.
+  p = +18 000 kg m/s (eastward)
+
+Key Points:
+• Always include the direction of momentum in your answer.
+• Use your sign convention consistently — state it clearly.
+════════════════════════════════════════════════════════════════════════════════
+
+TRY IT YOURSELF — 6.1A:
+A 0.5 kg football moves westward at 12 m/s. Taking east as positive,
+calculate the momentum of the football.
+
+Answer: v = −12 m/s (westward); p = 0.5 × (−12) = −6 kg m/s (westward)
+
+TRY IT YOURSELF — 6.1B:
+An object has a momentum of 36 kg m/s and a mass of 4 kg.
+Calculate its velocity.
+
+Answer: v = p ÷ m = 36 ÷ 4 = 9 m/s
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 6.1
+═══════════════════════════════════════════════════════════════════════════════
+
+1. State the equation for momentum and define each symbol with its unit.
+
+2. A ball of mass 0.15 kg moves to the right at 20 m/s.
+   Taking right as positive, calculate its momentum.
+
+3. Is momentum a scalar or a vector? Justify your answer.
+
+4. A truck of mass 5000 kg and a car of mass 1000 kg both have the same
+   momentum. The truck travels at 10 m/s. Calculate the speed of the car.
+
+5. A ball moving to the right bounces off a wall and moves to the left
+   at the same speed. Taking right as positive, explain what happens to
+   the sign of its momentum.
+
+ANSWERS:
+1. p = m × v
+   p = momentum (kg m/s); m = mass (kg); v = velocity (m/s)
+
+2. p = 0.15 × 20 = +3 kg m/s (to the right)
+
+3. Momentum is a vector. It depends on velocity, which has both magnitude and
+   direction. A change in direction of motion reverses the sign of momentum.
+
+4. p (truck) = 5000 × 10 = 50 000 kg m/s
+   v (car) = p ÷ m = 50 000 ÷ 1000 = 50 m/s
+
+5. The magnitude stays the same. The direction reverses, so the sign changes
+   from positive to negative. Momentum has changed sign because the direction
+   of travel has reversed.
+
+COMMON MISCONCEPTIONS — Section 6.1:
+┌───────────────────────────────────────┬──────────────────────────────────────────────────┐
+│ Misconception                         │ Correct Understanding                            │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "A faster object always has more      │ Momentum = mass × velocity. A slow, massive      │
+│ momentum"                             │ object can have more momentum than a fast,       │
+│                                       │ light one (e.g., lorry vs tennis ball)           │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "Momentum has no direction"           │ Momentum IS a vector. Direction must be stated.  │
+│                                       │ Objects moving in opposite directions have        │
+│                                       │ momenta of opposite signs                        │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "A stationary object has momentum"    │ If v = 0, then p = m × 0 = 0. No motion means   │
+│                                       │ no momentum, regardless of mass                  │
+└───────────────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+               SECTION 6.2: CONSERVATION OF MOMENTUM
+================================================================================
+
+HOOK — THINK ABOUT THIS:
+In a game of snooker, when the cue ball hits a stationary ball, the cue ball
+slows down and the stationary ball speeds off. Where does the motion "go"?
+It does not disappear — momentum is transferred from one ball to the other.
+The total amount of momentum in the system stays exactly the same.
+
+RECALL:
+• Momentum: p = mv (Section 6.1)
+• In a closed system, there are no external forces acting.
+• Newton's third law: when A exerts a force on B, B exerts an equal and
+  opposite force on A (Module 4).
+
+6.2.1 THE PRINCIPLE OF CONSERVATION OF MOMENTUM
+-------------------------------------------------
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  In a closed system, the total momentum before an event is equal to the    │
+│  total momentum after the event.                                            │
+│                                                                             │
+│       Total momentum before = Total momentum after                          │
+│                                                                             │
+│       m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂                           ... (6.2)       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Where:
+  m₁, m₂ = masses of objects 1 and 2 (kg)
+  u₁, u₂ = initial velocities before collision (m/s)
+  v₁, v₂ = final velocities after collision (m/s)
+
+A CLOSED SYSTEM means:
+  • No external forces act on the system
+  • No energy is transferred in or out
+
+IMPORTANT:
+  • Momentum is conserved in ALL collisions (elastic and inelastic).
+  • Two objects moving TOWARD each other have momenta of opposite signs.
+  • If both objects end up moving together (perfectly inelastic collision),
+    treat them as a single combined mass after the collision.
+
+---DIAGRAM: Fig. 6.3---
+TYPE: Apparatus
+PURPOSE: Before and after diagram of a collision between two objects on a surface
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two rows: top row = BEFORE collision, bottom row = AFTER collision
+
+COMPONENTS:
+  [BEFORE row label]
+    Text: "BEFORE" at grid(1, 2)
+
+  [Object m — moving right]
+    Rectangle at grid(3, 2-4)
+    Label: "m" inside
+    Velocity arrow: right, grid(4-6, 3), label "u"
+
+  [Object M — stationary]
+    Rectangle at grid(11, 2-4)
+    Label: "M" inside
+    Label: "at rest (v = 0)" below
+
+  [AFTER row label]
+    Text: "AFTER" at grid(1, 7)
+
+  [Object m — now moving left (slowed or bounced)]
+    Rectangle at grid(5, 7-9)
+    Label: "m" inside
+    Velocity arrow: left, grid(3-4, 8), label "−v"
+
+  [Object M — now moving right]
+    Rectangle at grid(10, 7-9)
+    Label: "M" inside
+    Velocity arrow: right, grid(11-13, 8), label "V"
+
+ANNOTATIONS:
+  "Total momentum before = mu" at top right
+  "Total momentum after = MV − mv = mu" at bottom right
+  Collision point: lightning bolt symbol at centre between objects (grid 7-8, 5)
+---END DIAGRAM---
+
+6.2.2 TYPES OF COLLISION
+-------------------------
+
+┌──────────────────────┬────────────────────────────────────────────────────┐
+│ Collision Type       │ Description                                        │
+├──────────────────────┼────────────────────────────────────────────────────┤
+│ Elastic              │ Objects bounce apart; kinetic energy conserved     │
+│                      │ Momentum conserved ✓   Kinetic energy conserved ✓ │
+├──────────────────────┼────────────────────────────────────────────────────┤
+│ Inelastic            │ Objects deform; kinetic energy is NOT conserved    │
+│                      │ Momentum conserved ✓   Kinetic energy NOT conserved│
+├──────────────────────┼────────────────────────────────────────────────────┤
+│ Perfectly inelastic  │ Objects stick together after collision; maximum KE │
+│ (coalescence)        │ lost as heat/sound                                 │
+│                      │ Momentum conserved ✓   They move as one mass      │
+└──────────────────────┴────────────────────────────────────────────────────┘
+
+NOTE: Momentum is ALWAYS conserved. Kinetic energy is only conserved in
+perfectly elastic collisions.
+
+════════════════════════════════════════════════════════════════════════════════
+WORKED EXAMPLE 6.2
+────────────────────────────────────────────────────────────────────────────────
+
+Problem:
+A car (mass 990 kg) travelling at 10 m/s collides with a stationary van
+(mass 4200 kg). After the collision, the car continues forward at 2 m/s.
+Calculate the velocity of the van after the collision.
+
+Solution:
+
+Step 1: Draw a before/after diagram. Identify known quantities.
+  Taking right as positive.
+  m_car = 990 kg,   u_car = +10 m/s,   v_car = +2 m/s
+  m_van = 4200 kg,  u_van = 0 m/s,     v_van = ?
+
+Step 2: State the principle of conservation of momentum.
+  Total momentum before = Total momentum after
+
+Step 3: Calculate total momentum before the collision.
+  p_car (before) = 990 × 10 = 9900 kg m/s
+  p_van (before) = 4200 × 0 = 0 kg m/s
+  Total p (before) = 9900 + 0 = 9900 kg m/s
+
+Step 4: Write the expression for total momentum after.
+  p_car (after) = 990 × 2 = 1980 kg m/s
+  p_van (after) = 4200 × v_van
+  Total p (after) = 1980 + 4200 × v_van
+
+Step 5: Apply conservation of momentum and solve.
+  9900 = 1980 + 4200 × v_van
+  4200 × v_van = 9900 − 1980 = 7920
+  v_van = 7920 ÷ 4200
+  v_van = 1.9 m/s (to the right)
+
+Answer: The van moves to the right at 1.9 m/s after the collision.
+
+Key Points:
+• Always draw a before/after diagram — label each mass, direction and velocity.
+• A stationary object has u = 0 and therefore p = 0.
+• State the direction in your final answer.
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+WORKED EXAMPLE 6.3 — Objects Sticking Together (Perfectly Inelastic)
+────────────────────────────────────────────────────────────────────────────────
+
+Problem:
+A 2 kg trolley moving at 5 m/s to the right collides with a 3 kg trolley
+that is stationary. The two trolleys stick together after the collision.
+Find the speed of the joined trolleys.
+
+Solution:
+
+Step 1: Known quantities.
+  m₁ = 2 kg, u₁ = +5 m/s
+  m₂ = 3 kg, u₂ = 0 m/s
+  After collision: they move together, combined mass = 5 kg, final velocity = v
+
+Step 2: Conservation of momentum.
+  (m₁ × u₁) + (m₂ × u₂) = (m₁ + m₂) × v
+
+Step 3: Substitute.
+  (2 × 5) + (3 × 0) = 5 × v
+  10 + 0 = 5v
+  v = 10 ÷ 5 = 2 m/s
+
+Answer: The joined trolleys move to the right at 2 m/s.
+════════════════════════════════════════════════════════════════════════════════
+
+TRY IT YOURSELF — 6.2A:
+A 5 kg ball moving at 4 m/s to the right hits a 3 kg ball moving at 2 m/s
+to the LEFT. After the collision, the 5 kg ball moves at 1 m/s to the right.
+Find the velocity of the 3 kg ball after the collision.
+
+  Take right as positive.
+  Before: p_total = (5 × 4) + (3 × −2) = 20 − 6 = 14 kg m/s
+  After: (5 × 1) + (3 × v₂) = 14
+          5 + 3v₂ = 14
+          3v₂ = 9
+          v₂ = +3 m/s (to the right)
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 6.2
+═══════════════════════════════════════════════════════════════════════════════
+
+1. State the principle of conservation of momentum.
+
+2. What is meant by a "closed system"?
+
+3. A 3 kg ball moving at 6 m/s to the right collides with a 3 kg ball
+   at rest. After the collision, the first ball is stationary.
+   Find the velocity of the second ball.
+
+4. A 1000 kg car moving at 20 m/s east rear-ends a 1500 kg truck moving
+   at 10 m/s east. They stick together. Find their combined velocity.
+
+5. Is kinetic energy conserved in all collisions? Explain.
+
+ANSWERS:
+1. In a closed system, the total momentum before an event equals the total
+   momentum after the event.
+
+2. A system with no external forces acting and no energy transferred in or out.
+
+3. Before: p_total = 3 × 6 + 3 × 0 = 18 kg m/s
+   After: 3 × 0 + 3 × v₂ = 18 → v₂ = 6 m/s (to the right)
+
+4. Before: p = (1000 × 20) + (1500 × 10) = 20 000 + 15 000 = 35 000 kg m/s
+   After: (1000 + 1500) × v = 35 000 → v = 35 000 ÷ 2500 = 14 m/s (east)
+
+5. No. Kinetic energy is only conserved in perfectly elastic collisions.
+   In all other collisions, some kinetic energy is converted to heat, sound,
+   or deformation energy. Momentum, however, is always conserved.
+
+COMMON MISCONCEPTIONS — Section 6.2:
+┌───────────────────────────────────────┬──────────────────────────────────────────────────┐
+│ Misconception                         │ Correct Understanding                            │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "Momentum is not conserved if         │ In a CLOSED system, momentum is ALWAYS conserved │
+│ objects deform or lose energy"        │ even if kinetic energy is not                    │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "Both objects always end up moving    │ Conservation of momentum gives one equation with  │
+│ in the same direction"                │ two unknowns. One object can bounce back.        │
+│                                       │ Direction is determined by the calculation.       │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "A stationary object has no effect    │ A stationary object has zero momentum, but after  │
+│ on conservation of momentum"          │ the collision it may gain momentum. It must be   │
+│                                       │ included in the equation (with p = 0 before)     │
+└───────────────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+                         SECTION 6.3: IMPULSE
+================================================================================
+
+HOOK — THINK ABOUT THIS:
+Why do airbags save lives? Why do gymnasts bend their knees on landing?
+Why does hail hurt more than rain even when the droplets weigh almost the
+same? The answer is IMPULSE — and how force and time interact to change momentum.
+
+RECALL:
+• Momentum p = mv; change in momentum Δp = mv − mu (Section 6.1)
+• Velocity is a vector; direction matters (Module 2)
+• A resultant force causes acceleration (Module 4)
+
+6.3.1 DEFINING IMPULSE
+-----------------------
+
+When a force acts on an object for a short time and changes its momentum, we
+call this an IMPULSE.
+
+IMPULSE is defined as:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                   impulse = force × time                                   │
+│                                                                             │
+│                   impulse = F × Δt                          ... (6.3)      │
+│                                                                             │
+│               Unit: newton second (N s)  or  kg m/s                        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Where:
+  F  = resultant force (N)
+  Δt = time for which the force acts (s)
+
+6.3.2 IMPULSE EQUALS CHANGE IN MOMENTUM
+-----------------------------------------
+
+The impulse of a force equals the change in momentum of the object:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│           impulse = F × Δt = Δp = mv − mu                  ... (6.4)      │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Where:
+  Δp = change in momentum (kg m/s)
+  m  = mass (kg)
+  v  = final velocity (m/s)
+  u  = initial velocity (m/s)
+
+WHY ARE THE UNITS THE SAME?
+  N s = kg m/s² × s = kg m/s ✓  (same as momentum — the units are equivalent)
+
+---DIAGRAM: Fig. 6.4---
+TYPE: Diagram
+PURPOSE: Equation link diagram connecting impulse = FΔt = Δp = mv − mu
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 6
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Horizontal chain of boxes connected by equals signs
+
+COMPONENTS:
+  [Box 1]
+    Rectangle: grid(1-3, 2-4)
+    Text: "Impulse"
+    Subtext: "(F × Δt)"
+
+  [Equals sign 1]
+    "=" at grid(4, 3)
+
+  [Box 2]
+    Rectangle: grid(5-7, 2-4)
+    Text: "Change in"
+    Subtext: "momentum (Δp)"
+
+  [Equals sign 2]
+    "=" at grid(8, 3)
+
+  [Box 3]
+    Rectangle: grid(9-13, 2-4)
+    Text: "mv − mu"
+
+  [Unit labels]
+    Below Box 1: "Unit: N s"
+    Below Box 2: "Unit: kg m/s"
+    Below Box 3: "Unit: kg m/s"
+
+ANNOTATIONS:
+  "All three are equal" above boxes
+---END DIAGRAM---
+
+6.3.3 REAL-WORLD APPLICATIONS OF IMPULSE
+-----------------------------------------
+
+The key relationship: F × Δt = Δp
+
+For a FIXED change in momentum (Δp is constant):
+• LONGER contact time (larger Δt) → SMALLER force needed
+• SHORTER contact time (smaller Δt) → LARGER force needed
+
+This explains:
+
+┌──────────────────────────────────┬──────────────────────────────────────────┐
+│ Scenario                         │ Explanation (using F × Δt = Δp)          │
+├──────────────────────────────────┼──────────────────────────────────────────┤
+│ Airbags in cars                  │ Increase Δt → reduce F on passenger       │
+│                                  │ Same change in momentum, less force = safer│
+├──────────────────────────────────┼──────────────────────────────────────────┤
+│ Gymnast bending knees on landing │ Increases Δt → reduces impact force       │
+├──────────────────────────────────┼──────────────────────────────────────────┤
+│ Catching a cricket ball          │ "Giving" with the hands increases Δt →    │
+│                                  │ reduces force on hands (less painful)      │
+├──────────────────────────────────┼──────────────────────────────────────────┤
+│ Hail vs. rain on an umbrella     │ Hailstones bounce back (Δp is larger)     │
+│                                  │ → greater impulse → greater force felt     │
+│                                  │ Rain splatters off (smaller Δp)           │
+└──────────────────────────────────┴──────────────────────────────────────────┘
+
+---DIAGRAM: Fig. 6.5---
+TYPE: Diagram
+PURPOSE: Airbag scenario — two cases: no airbag (short Δt, large F) vs airbag
+         (longer Δt, smaller F); same Δp in both
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Left side = no airbag; right side = with airbag
+
+COMPONENTS:
+  [No airbag — left]
+    Person shape hitting steering wheel: grid(2-5, 2-7)
+    Large force arrow pointing back at face: grid(1-2, 4), labeled "Large F, short Δt"
+    Label below: "No airbag: large force, short time"
+
+  [With airbag — right]
+    Person shape with airbag between face and wheel: grid(10-14, 2-7)
+    Small force arrow pointing back at face: grid(9, 4), labeled "Small F, long Δt"
+    Label below: "Airbag: small force, longer time"
+
+ANNOTATIONS:
+  "Same Δp (same change in momentum) in both cases" at top
+  "F × Δt = Δp = constant" in centre
+---END DIAGRAM---
+
+════════════════════════════════════════════════════════════════════════════════
+WORKED EXAMPLE 6.4
+────────────────────────────────────────────────────────────────────────────────
+
+Problem:
+A tennis ball (mass 58 g) moves to the LEFT at 30 m/s and is struck by a
+racket. The ball returns to the RIGHT at 20 m/s.
+(i)  Calculate the impulse of the force exerted by the racket on the ball.
+(ii) State the direction of the impulse.
+
+Solution:
+
+Step 1: Convert mass to kg and set sign convention.
+  m = 58 g = 0.058 kg
+  Taking left as positive:
+  Initial velocity, u = +30 m/s (left)
+  Final velocity,   v = −20 m/s (right, now negative)
+
+Step 2: Write the impulse equation.
+  impulse = Δp = mv − mu
+
+Step 3: Substitute values.
+  impulse = m(v − u)
+  impulse = 0.058 × (−20 − 30)
+  impulse = 0.058 × (−50)
+  impulse = −2.9 N s
+
+Step 4: State direction.
+  The negative sign means the impulse is in the negative direction.
+  Since positive = left, negative = RIGHT.
+  The impulse acts to the RIGHT.
+
+Answer:
+  (i) Magnitude of impulse = 2.9 N s
+  (ii) Direction: to the right (the direction the racket pushes the ball)
+
+Key Points:
+• If the object CHANGES DIRECTION, the sign of the velocity changes.
+• Impulse acts in the direction of the applied force.
+• The magnitude of impulse = magnitude of change in momentum.
+════════════════════════════════════════════════════════════════════════════════
+
+TRY IT YOURSELF — 6.3A:
+A 0.2 kg ball moving at 5 m/s to the right hits a wall and bounces back
+at 3 m/s to the left. Taking right as positive, calculate the impulse
+of the wall on the ball.
+
+  u = +5 m/s; v = −3 m/s; m = 0.2 kg
+  Impulse = m(v − u) = 0.2 × (−3 − 5) = 0.2 × (−8) = −1.6 N s
+  Direction: to the left (magnitude = 1.6 N s)
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 6.3
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Define impulse and state its unit.
+
+2. Write the equation linking impulse, force, time, and change in momentum.
+
+3. A force of 50 N acts on an object for 0.4 s.
+   Calculate the impulse of the force.
+
+4. A 0.4 kg ball changes velocity from +8 m/s to −4 m/s.
+   Calculate the change in momentum and the impulse.
+
+5. Explain why an airbag in a car reduces the chance of injury.
+   Use the equation impulse = F × Δt = Δp in your answer.
+
+ANSWERS:
+1. Impulse is the product of the resultant force and the time for which it acts.
+   Unit: newton second (N s) or equivalently kg m/s.
+
+2. impulse = F × Δt = Δp = mv − mu
+
+3. Impulse = F × Δt = 50 × 0.4 = 20 N s
+
+4. Δp = mv − mu = 0.4 × (−4) − 0.4 × 8 = −1.6 − 3.2 = −4.8 kg m/s
+   Impulse = −4.8 N s (magnitude = 4.8 N s, in the negative direction)
+
+5. The airbag increases the time (Δt) over which the passenger decelerates.
+   Since impulse = F × Δt = Δp and Δp is fixed (same crash), a larger Δt
+   means a smaller F. The reduced force on the passenger means less risk of
+   serious injury.
+
+COMMON MISCONCEPTIONS — Section 6.3:
+┌───────────────────────────────────────┬──────────────────────────────────────────────────┐
+│ Misconception                         │ Correct Understanding                            │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "Impulse and momentum are the same    │ Impulse is the CHANGE in momentum. Momentum is   │
+│ thing"                                │ a property of the moving object (p = mv).        │
+│                                       │ Impulse causes the change: FΔt = Δp              │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "If an object changes direction, the  │ The change in momentum is mv − mu. If direction  │
+│ change in momentum is just the        │ reverses, the sign of v changes, making Δp       │
+│ difference in speeds"                 │ LARGER than just the speed difference            │
+│                                       │ (e.g., +5 to −5 gives Δv = −10, not 0)          │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "A longer impact time means a larger  │ For a fixed Δp, a longer time means SMALLER      │
+│ force"                                │ force. F = Δp ÷ Δt — force and time are inversely│
+│                                       │ proportional for constant Δp                     │
+└───────────────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+              SECTION 6.4: FORCE AND MOMENTUM (NEWTON'S SECOND LAW)
+================================================================================
+
+HOOK — THINK ABOUT THIS:
+You already know F = ma. But what if the mass changes, or you want to describe
+force in terms of what it DOES to momentum? Newton actually wrote his second law
+in terms of momentum — the F = ma form is a special case. Let's explore the
+more powerful, general version.
+
+RECALL:
+• Newton's second law: F = ma (Module 4)
+• Acceleration: a = Δv / Δt (Module 2)
+• Change in momentum: Δp = mv − mu (Section 6.3)
+
+6.4.1 NEWTON'S SECOND LAW AS RATE OF CHANGE OF MOMENTUM
+---------------------------------------------------------
+
+Newton's second law in its fundamental form states:
+
+FORCE = RATE OF CHANGE OF MOMENTUM
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                         F = Δp / Δt                         ... (6.5)      │
+│                                                                             │
+│               "Force equals the change in momentum per unit time"          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+DERIVATION — Connecting F = ma and F = Δp/Δt:
+
+  F = ma                           (Newton's second law)
+  a = Δv / Δt                      (definition of acceleration)
+  Therefore:
+  F = m × (Δv / Δt)
+  F = (m × Δv) / Δt
+  F = Δ(mv) / Δt
+  F = Δp / Δt    ✓
+
+This shows that F = ma is a SPECIAL CASE of F = Δp / Δt when mass is constant.
+
+---DIAGRAM: Fig. 6.6---
+TYPE: Diagram
+PURPOSE: Equation derivation flowchart connecting F=ma to F=Δp/Δt
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Top row: F = ma → expand a → F = mΔv/Δt → simplify → F = Δp/Δt
+
+COMPONENTS:
+  [Step 1 box]
+    Rectangle grid(1-3, 3-5)
+    Text: "F = ma"
+
+  [Arrow right]
+    → at grid(4, 4)
+    Label: "a = Δv/Δt"
+
+  [Step 2 box]
+    Rectangle grid(5-7, 3-5)
+    Text: "F = mΔv/Δt"
+
+  [Arrow right]
+    → at grid(8, 4)
+    Label: "mΔv = Δ(mv) = Δp"
+
+  [Step 3 box]
+    Rectangle grid(9-11, 3-5), with thick border
+    Text: "F = Δp/Δt"
+    Label below: "(General form)"
+
+ANNOTATIONS:
+  "F = ma is the special case when mass is constant" at bottom
+---END DIAGRAM---
+
+6.4.2 APPLYING F = Δp / Δt
+----------------------------
+
+This equation is used when:
+• The force and the time of its action are known → find Δp
+• The change in momentum and time are known → find F
+• The change in momentum and force are known → find Δt
+
+REARRANGEMENTS:
+  F = Δp / Δt     →   Δp = F × Δt     →     Δt = Δp / F
+
+════════════════════════════════════════════════════════════════════════════════
+WORKED EXAMPLE 6.5
+────────────────────────────────────────────────────────────────────────────────
+
+Problem:
+A tennis ball hits a racket twice, both with a change in momentum of 0.5 kg m/s.
+During the first hit, the contact time is 2 s.
+During the second hit, the contact time is 0.1 s.
+Determine which hit experiences the greater force, and calculate each force.
+
+Solution:
+
+Step 1: Write the equation.
+  F = Δp / Δt
+
+Step 2: Calculate force during the first hit.
+  F₁ = 0.5 / 2 = 0.25 N
+
+Step 3: Calculate force during the second hit.
+  F₂ = 0.5 / 0.1 = 5.0 N
+
+Step 4: Compare.
+  F₂ (5.0 N) >> F₁ (0.25 N)
+
+Answer: The second hit experiences the greater force (5.0 N).
+Even though the change in momentum is identical, the much shorter contact
+time means the force must be 20 times greater.
+
+Key Points:
+• Shorter time → greater force (for the same change in momentum).
+• This is why a sharp, fast cricket ball is harder to catch barehanded than
+  a slow one — same momentum but shorter time means greater force on the hands.
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+WORKED EXAMPLE 6.6
+────────────────────────────────────────────────────────────────────────────────
+
+Problem:
+A 0.5 kg ball decelerates from 12 m/s to rest in 0.08 s when it hits a wall.
+Calculate the average force that the wall exerts on the ball.
+
+Solution:
+
+Step 1: List known quantities. Set sign convention (right = positive).
+  m = 0.5 kg
+  u = +12 m/s (initial velocity)
+  v = 0 m/s (final velocity — comes to rest)
+  Δt = 0.08 s
+
+Step 2: Calculate the change in momentum.
+  Δp = mv − mu
+  Δp = 0.5 × 0 − 0.5 × 12
+  Δp = 0 − 6
+  Δp = −6 kg m/s
+
+Step 3: Calculate the force.
+  F = Δp / Δt
+  F = −6 / 0.08
+  F = −75 N
+
+Step 4: Interpret the sign.
+  The negative sign means the force acts to the LEFT (opposing motion).
+  The wall exerts a force of 75 N on the ball, directed to the left.
+
+Answer: The wall exerts an average force of 75 N on the ball.
+════════════════════════════════════════════════════════════════════════════════
+
+TRY IT YOURSELF — 6.4A:
+A force of 120 N acts on a 3 kg object for 0.5 s from rest.
+(a) Calculate the impulse.
+(b) Calculate the final velocity of the object.
+
+  (a) Impulse = F × Δt = 120 × 0.5 = 60 N s
+  (b) Δp = 60 kg m/s; Δp = mv − mu = mv − 0 → v = 60 ÷ 3 = 20 m/s
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 6.4
+═══════════════════════════════════════════════════════════════════════════════
+
+1. State Newton's second law in terms of momentum.
+
+2. How is F = Δp/Δt related to F = ma?
+
+3. A 2 kg object's velocity changes from 3 m/s to 9 m/s in 4 s.
+   Calculate the net force acting on the object.
+
+4. A ball exerts a force of 200 N on a wall for 0.005 s.
+   Calculate the change in momentum of the ball.
+
+5. A car of mass 800 kg slows from 30 m/s to 10 m/s.
+   The braking force is 4000 N. Calculate the time taken for braking.
+
+ANSWERS:
+1. Force equals the rate of change of momentum: F = Δp / Δt
+
+2. F = Δp/Δt = m(Δv)/Δt = m × a = F = ma (when mass is constant).
+   F = ma is a special case of F = Δp/Δt for constant mass.
+
+3. Δp = m(v − u) = 2 × (9 − 3) = 12 kg m/s
+   F = Δp / Δt = 12 / 4 = 3 N
+
+4. Δp = F × Δt = 200 × 0.005 = 1 N s (= 1 kg m/s)
+
+5. Δp = m(v − u) = 800 × (10 − 30) = −16 000 kg m/s (magnitude = 16 000)
+   Δt = Δp / F = 16 000 / 4000 = 4 s
+
+COMMON MISCONCEPTIONS — Section 6.4:
+┌───────────────────────────────────────┬──────────────────────────────────────────────────┐
+│ Misconception                         │ Correct Understanding                            │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "F = ma and F = Δp/Δt are different   │ They are the same law. F = Δp/Δt is the general  │
+│ laws"                                 │ form; F = ma applies when mass is constant        │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "Force is the same as momentum"       │ Force is the RATE OF CHANGE of momentum, not     │
+│                                       │ momentum itself. F = Δp/Δt not F = p             │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "A large force always means a large   │ A large force for a very short time may produce  │
+│ change in momentum"                   │ a small Δp. Both F AND Δt determine Δp = F × Δt  │
+└───────────────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+                            MODULE SUMMARY
+================================================================================
+
+KEY CONCEPTS:
+
+MOMENTUM (6.1):
+• p = mv     [Unit: kg m/s]
+• Vector quantity — direction matters
+• Positive or negative depending on direction of velocity
+• Stationary object: p = 0
+
+CONSERVATION OF MOMENTUM (6.2):
+• Total momentum before = Total momentum after (closed system)
+• m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂
+• Always conserved; kinetic energy not always conserved
+• Objects sticking together: use combined mass (m₁ + m₂) × v
+
+IMPULSE (6.3):
+• impulse = F × Δt = Δp = mv − mu     [Unit: N s = kg m/s]
+• For fixed Δp: longer time → smaller force (airbags, bending knees)
+• Direction of impulse = direction of force applied
+
+FORCE AND MOMENTUM (6.4):
+• F = Δp / Δt   (Newton's second law — momentum form)
+• Force = rate of change of momentum
+• Shorter time → greater force for same Δp
+• F = ma is a special case when mass is constant
+
+KEY EQUATIONS:
+
+Momentum:                   p = mv                              ... (6.1)
+
+Conservation of momentum:   m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂        ... (6.2)
+
+Impulse:                    impulse = F × Δt = mv − mu          ... (6.3)(6.4)
+
+Newton's 2nd law:           F = Δp / Δt                         ... (6.5)
+
+================================================================================
+                         PRACTICE EXERCISES
+================================================================================
+
+RECALL QUESTIONS:
+
+1. State the equation for momentum. Define all symbols and state their units.
+
+2. State the principle of conservation of momentum.
+
+3. State the equation linking impulse, force, and time.
+
+4. Express Newton's second law in terms of momentum.
+
+5. State the unit of impulse and show it is equivalent to kg m/s.
+
+APPLICATION QUESTIONS:
+
+6. A 0.2 kg ball moves eastward at 15 m/s.
+   Calculate its momentum. State direction clearly.
+
+7. A 1500 kg car travels at 20 m/s north. A 500 kg motorbike travels at
+   30 m/s south. Taking north as positive:
+   (a) Calculate the momentum of each vehicle.
+   (b) Calculate the total momentum of the system.
+
+8. A 4 kg trolley moving at 3 m/s to the right collides with a stationary
+   6 kg trolley. They stick together after the collision.
+   Calculate their combined velocity after the collision.
+
+9. A force of 80 N acts on a 2 kg ball for 0.5 s.
+   (a) Calculate the impulse.
+   (b) Calculate the change in velocity of the ball.
+
+10. A 0.3 kg ball decelerates from 10 m/s to rest in 0.06 s.
+    Calculate the average braking force.
+
+ANALYSIS QUESTIONS:
+
+11. A 2 kg ball travelling at 6 m/s to the right collides with a 4 kg ball
+    travelling at 2 m/s to the LEFT. After the collision, the 2 kg ball
+    moves at 2 m/s to the LEFT. Find the velocity of the 4 kg ball after.
+
+12. Compare the force experienced by a 70 kg person coming to rest from
+    10 m/s in (a) 0.05 s (without airbag) vs (b) 0.5 s (with airbag).
+    Explain the safety benefit.
+
+13. A ball has momentum 12 kg m/s. It is hit with a force of 60 N in the
+    opposite direction for 0.3 s. Find the ball's momentum after the force.
+
+================================================================================
+                    PRACTICE EXERCISE ANSWERS
+================================================================================
+
+6. p = 0.2 × 15 = 3 kg m/s (eastward)
+
+7. (a) Car: p = 1500 × 20 = +30 000 kg m/s (north)
+       Bike: p = 500 × (−30) = −15 000 kg m/s (south = negative)
+   (b) Total = 30 000 + (−15 000) = +15 000 kg m/s (north)
+
+8. Before: p = (4 × 3) + (6 × 0) = 12 kg m/s
+   After: (4 + 6) × v = 12 → v = 12 / 10 = 1.2 m/s (to the right)
+
+9. (a) Impulse = 80 × 0.5 = 40 N s
+   (b) Δv = Δp / m = 40 / 2 = 20 m/s
+
+10. Δp = 0.3 × (0 − 10) = −3 kg m/s (magnitude = 3)
+    F = Δp / Δt = 3 / 0.06 = 50 N
+
+11. Take right as positive.
+    Before: p = (2 × 6) + (4 × −2) = 12 − 8 = 4 kg m/s
+    After: (2 × −2) + (4 × v₂) = 4
+           −4 + 4v₂ = 4
+           4v₂ = 8
+           v₂ = 2 m/s (to the right)
+
+12. Δp = 70 × (0 − 10) = −700 kg m/s (magnitude = 700)
+    (a) F = 700 / 0.05 = 14 000 N (no airbag)
+    (b) F = 700 / 0.5  = 1 400 N  (with airbag)
+    Benefit: airbag reduces force by 10× for the same change in momentum, greatly
+    reducing risk of serious injury to the passenger.
+
+13. Impulse from force = F × Δt in opposite direction to momentum.
+    Δp = −60 × 0.3 = −18 kg m/s
+    Final momentum = 12 + (−18) = −6 kg m/s
+    The ball now has 6 kg m/s of momentum in the OPPOSITE direction.
+
+================================================================================
+                     SELF-ASSESSMENT CHECKLIST
+================================================================================
+
+After completing this module, check your understanding:
+
+[Supplement]
+[ ] I can state and use the equation p = mv
+[ ] I can identify momentum as a vector and use positive/negative signs for direction
+[ ] I can calculate momentum for objects in motion
+[ ] I can state the principle of conservation of momentum
+[ ] I can apply conservation of momentum to one-dimensional collision problems
+[ ] I can handle collisions where objects stick together
+[ ] I can define impulse and use impulse = F × Δt
+[ ] I can link impulse to change in momentum: FΔt = mv − mu
+[ ] I can explain safety devices (airbags, padding) using impulse = FΔt = Δp
+[ ] I can express Newton's second law as F = Δp / Δt
+[ ] I can apply F = Δp / Δt to find force, change in momentum, or time
+
+================================================================================
+                      COMMON MISCONCEPTIONS
+================================================================================
+
+| Misconception                          | Correct Understanding                           |
+|----------------------------------------|-------------------------------------------------|
+| "Momentum and velocity are the same"   | Momentum = mass × velocity. A heavy slow object |
+|                                        | and a light fast object can have equal momentum  |
+| "Momentum has no direction"            | Momentum is a vector. Direction must be included.|
+|                                        | Objects in opposite directions have opposite sign |
+| "Momentum is not conserved if energy   | Momentum is ALWAYS conserved in a closed system. |
+| is lost"                               | Kinetic energy need not be conserved (only in    |
+|                                        | elastic collisions). These are different things.  |
+| "Impulse is the same as force"         | Impulse = F × Δt. A small force over a long time |
+|                                        | can equal a large force over a short time         |
+| "An object bouncing back has the same  | Bouncing reverses velocity sign, so Δp = mv − mu |
+| change in momentum as one that stops"  | is LARGER than if the object just stopped.        |
+|                                        | (e.g. +5 to −5 gives Δp = −10, while +5 to 0     |
+|                                        | gives Δp = −5)                                    |
+| "F = ma and F = Δp/Δt are different    | They are the same law. F = Δp/Δt is the general  |
+| equations"                             | form; F = ma is the special case for constant mass|
+
+================================================================================
+                          END OF MODULE 6
+================================================================================

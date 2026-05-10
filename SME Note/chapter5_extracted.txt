@@ -1,0 +1,492 @@
+
+
+=== PAGE 1 ===
+Cambridge (CIE) IGCSE
+Physics
+Moments
+Contents
+Moments
+Equilibrium
+Centre of Gravity
+Investigating Centre of Gravity
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+1
+
+
+=== PAGE 2 ===
+Moments
+Moments
+The moment of a force is the turning effect produced when a force is exerted on an
+object
+Examples of the turning effect of a force are:
+A child on a see-saw
+Turning the handle of a spanner
+A door opening and closing
+Using a crane to move building supplies
+Using a screwdriver to open a tin of paint
+Turning a tap on and off
+Picking up a wheelbarrow
+Using scissors
+Forces can cause the rotation of an object about a fixed pivot
+This rotation can be clockwise or anticlockwise
+Clockwise and anti-clockwise rotation
+Consider the hands of a clock when deciding if an object will rotate in a clockwise or anti-
+clockwise direction
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+2
+
+
+=== PAGE 3 ===
+A force applied on one side of the pivot will cause the object to rotate
+Turning effect of a force about a pivot
+The force applied will cause the object to rotate clockwise about the pivot
+The moment equation
+A moment is defined as:
+The turning effect of a force about a pivot
+The size of a moment is defined by the equation:
+moment = force × perpendicular distance from pivot
+The forces should be perpendicular to the distance from the pivot
+For example, on a horizontal beam, the forces which will cause a moment are those
+directed upwards or downwards
+The turning effect of a force exerted on a spanner
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+3
+
+
+=== PAGE 4 ===
+The moment depends on the force and perpendicular distance to the pivot
+Increasing the distance at which a force is applied from a pivot decreases the force
+required
+If you try to push open a door right next to the hinge, it is very difficult, as it requires a
+lot of force
+If you push the door open at the side furthest from the hinge, then it is much easier,
+as less force is required
+Forces required to open a door
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+4
+
+
+=== PAGE 5 ===
+A greater force is required to push open a door next to the hinges than at the door handle
+Worked Example
+A carpenter attempts to loosen a bolt that has rusted. To turn the bolt, they exert a
+force of 22 N using a spanner of length 20 cm. The force is exerted 5 cm from the end
+of the spanner.
+Calculate the turning effect of the force.
+Answer:
+Step 1: List the known quantities
+Force, F = 22 N
+Length of spanner, = 20 cm
+Step 2: Determine the distance from the pivot
+The force is exerted 5 cm from the end of the spanner
+Therefore, the distance from the force to the pivot is
+s = 20 −5
+s = 15 cm
+Convert cm to m
+s = 15
+100
+s = 0.15 m
+Step 3: Write out the equation for moments
+moment = force × perpendicular distance from pivot
+M = Fs
+Step 4: Substitute in the known values to calculate
+M = 22 × 0.15
+M = 3.3 N m
+Examiner Tips and Tricks
+The moment of a force is measured in newton metres (N m), but can also be newton
+centimetres (N cm) if the distance is measured in cm instead.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+5
+
+
+=== PAGE 6 ===
+Principle of moments (core)
+The principle of moments states that:
+If an object is balanced, the total clockwise moment about a pivot equals the total
+anticlockwise moment about that pivot
+The principle of moments means that for a balanced object, the moments on both sides
+of the pivot are equal 
+clockwise moment = anticlockwise moment
+Principle of moments
+Imagine holding the beam about the pivot and applying just one of the forces. If the beam
+moves clockwise then the force applied is clockwise. This is the principle of moments
+If your IGCSE moments exam question doesn't ask for a specific unit, always convert
+the distance into metres
+Worked Example
+A parent and child are at opposite ends of a playground see-saw.
+The weight force acting on the parent is 690 N and the weight force acting on the
+child is 140 N.
+The adult sits at a distance of 0.3 m from the pivot.
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+6
+
+
+=== PAGE 7 ===
+Calculate the distance the child must sit from the pivot for the see-saw to be
+balanced.
+Use the principle of moments in your calculation.
+Answer:
+Step 1: List the known quantities
+Clockwise force (child), Fchild = 140 N
+Anticlockwise force (adult), Fadult = 690 N
+Distance of adult from the pivot, sadult = 0.3 m
+Step 2: Write down the moment equation and the principle of moments
+Moment equation:
+moment = force × perpendicular distance from pivot
+M = Fs
+Principle of moments:
+total clockwise moments = total anticlockwise moments
+Step 3: Calculate the total clockwise moments
+The clockwise moment is from the child
+Mchild = Fchild × schild
+Mchild = 140 × schild
+Step 4: Calculate the total anticlockwise moments
+The anticlockwise moment is from the adult
+Madult = Fadult × sadult
+Madult = 690 × 0.3
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+7
+
+
+=== PAGE 8 ===
+Principle of moments (extended)
+Extended tier only
+In the example below, the forces and distances of the objects on the beam are different,
+but they are arranged in a way that balances the whole system
+Using the principle of moments
+Madult = 207 N m
+Step 5: Substitute into the principle of moments equation
+total clockwise moments = total anticlockwise moments
+Mchild = Madult
+140 × schild = 207
+Step 6: Rearrange for the distance of the child from the pivot
+schild = 207
+140
+schild = 1.5 m
+The child must sit 1.5 m from the pivot to balance the see-saw
+Examiner Tips and Tricks
+Make sure that all the distances are in the same units and that you’re considering the
+correct forces as clockwise or anticlockwise
+If you are studying the core tier for IGCSE Physics, you will only be expected to apply
+the principle of moments to a situation where one force acts on either side of the
+pivot
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+8
+
+
+=== PAGE 9 ===
+The clockwise and anticlockwise moments acting on a beam are balanced
+In the above diagram:
+Force F1 causes an anticlockwise moment of F1×d1 about the pivot 
+Force F2 causes a clockwise moment of F2×d2 about the pivot 
+Force F3 causes an anticlockwise moment of F3×d3 about the pivot
+Collecting the clockwise and anticlockwise moments:
+Sum of the clockwise moments = F2×d2
+Sum of the anticlockwise moments = (
+)
+F1×d1 + (
+)
+F3×d3
+Using the principle of moments, the beam is balanced when:
+sum of the clockwise moments = sum of the anticlockwise moments
+F2 × d2 = (
+)
+F1 ×d1 + (
+)
+F3 × d3
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+9
+
+
+=== PAGE 10 ===
+Equilibrium
+Equilibrium
+In physics, the term equilibrium means:
+A state of balance or stability
+In other words, a system in equilibrium keeps doing what it’s doing without any change
+Conditions for equilibrium
+For objects in equilibrium:
+The forces on the object must be balanced
+There must be no resultant force
+The sum of clockwise moments on the object must equal the sum of anticlockwise
+moments
+There must be no resultant moment
+Examples of systems in equilibrium
+When the forces and moments on an object are balanced, the object will remain in
+equilibrium
+Demonstrating equilibrium
+Extended tier only
+Aim of the experiment
+This experiment aims to demonstrate that there is no resultant moment for an object in
+equilibrium 
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+10
+
+
+=== PAGE 11 ===
+Variables
+Independent variable = force,F, and distance, s
+Dependent variable = moment, M
+Control variables:
+The length of the cotton loops should be equal on each side of the beam
+Equipment
+Equipment list
+Equipment
+Purpose
+Metre ruler with a small hole at the
+centre
+To provide the beam on which to add masses
+2 × 100 g mass hangers
+To attach the masses to the ruler
+8 × 100 g masses
+To add the mass at different points along the
+ruler
+Clamp stand, boss & clamp
+To secure the pivot in place
+Optical pin and cork
+To act as the pivot
+Small piece of plasticine
+To ensure the ruler is balanced at the start
+2 loops of cotton
+To attach the mass hangers to the metre ruler
+Example set up of equipment to demonstrate equilibrium
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+11
+
+
+=== PAGE 12 ===
+The ruler acts as the beam with the pin as the pivot. Unequal masses are added at different
+distances until the beam is balanced and equilibrium is reached
+Method
+1. Hang unequal loads on either side of the pivot; one person holds the beam while the
+other person hangs the loads
+2. Adjust the distances of mass 1, m1, and mass 2, m2, until the beam is balanced 
+3. Adjust further to ensure the beam is perfectly horizontal with no resultant moment
+4. Record the distance from the pivot of masses m1 and m2
+5. Repeat the process for different sized loads
+Example results table
+A results table should contain spaces for all the measurements taken and any calculations
+required
+Analysis of results
+Force 1, F1, is providing the anticlockwise moment, M1
+Where:
+F1 = m1g
+M1 = F1s1
+Force 2, F2, is providing the clockwise moment, M2
+Where:
+F2 = m2g
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+12
+
+
+=== PAGE 13 ===
+M2 = F2s2
+Remember to convert g to kg and cm to m for the calculations to give units of Nm for the
+moments
+The results should show that for all the systems tested, the anticlockwise moment is
+equal to the clockwise moment
+Therefore, there is no resultant moment when the system is in equilibrium
+Evaluating the experiment
+Systematic errors
+The cotton loops should be added to the ruler when viewed straight on to avoid a
+parallax error
+The cotton loops should be measured to ensure they are equal in length
+The experiment should be checked to ensure there is no friction between the metre ruler
+and the optical pin pivot so the ruler is balanced, only because of the added masses
+Random errors
+The precision of the experiment is improved by:
+ensuring the experiment is done in a space with no draft or breeze, as this could
+affect the motion or position of the hanging masses
+using an electronic system or a spirit level that identifies the angle of the beam
+would improve the experiment, or using a flat rod with masses placed on top
+The accuracy of the experiment is improved by:
+taking more than five readings for each mass and position and then calculating the
+mean
+It is assumed that the mass of the cotton loops is negligible (zero)
+It is assumed that the mass of each mass and hanger is 100 g, this should be verified in
+advance using an electronic balance
+Safety considerations
+Safety goggles should be worn because the cotton loops could snap and hit someone
+in the eye
+Use a G clamp to secure the clamp stand to the bench so it does not topple over and
+cause injury
+Stand up to carry out this experiment so you do not fall over when looking level with the
+metre ruler
+Place a mat or a soft material below the metre ruler to cushion any masses that may fall
+to the ground and to keep the area clear of feet and hands
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+13
+
+
+=== PAGE 14 ===
+Centre of Gravity
+Centre of gravity
+The centre of gravity of an object is defined as:
+The point through which the weight of an object acts
+For a symmetrical object of uniform density, the centre of gravity is located at the point
+of symmetry
+For example, the centre of gravity of a sphere is at the centre
+Finding the centre of gravity of symmetrical objects
+The centre of gravity of a regular shaped object can be found using symmetry
+Examiner Tips and Tricks
+Since the centre of gravity is a hypothetical point, it can lie inside or outside of a body.
+The centre of gravity will constantly shift depending on the shape of a body. For
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+14
+
+
+=== PAGE 15 ===
+Stability
+The centre of gravity of a symmetrical object is along the axis of symmetry
+The position of the centre of gravity affects the stability of an object
+An object is stable when its centre of gravity lies above its base
+Centre of gravity of an object in different positions
+The object will topple, when its centre of gravity is no longer over its base
+If the centre of gravity does not lie above its base, then an object will topple over
+The most stable objects have a low centre of gravity and a wide base
+Low centre of gravity of a car
+Cars are stable because they have a low centre of gravity and a wide base
+Taller objects with a narrow base have a higher centre of gravity and are less stable
+This is why lorries and buses are advised not to use motorways and bridges on very windy
+days
+Stability of object in different positions
+example, a human body’s centre of gravity is lower when leaning forward than when
+standing upright
+However, when you are drawing force diagrams, always draw the weight force as if it
+were acting from the centre of gravity of the object!
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+15
+
+
+=== PAGE 16 ===
+When the object is positioned on its narrow base, it is less stable because its centre of
+gravity is higher
+ Moments and stability
+If the line of action of the weight force lies outside the base of the object, there will be a
+resultant moment, and the body will topple
+Car and bus on varying inclines
+The car can be titled to 60° without toppling, but the bus will topple at 45°
+Tall objects with a narrow base will topple easily
+Ten-pin bowling pins are designed specifically to topple easily
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+16
+
+
+=== PAGE 17 ===
+The stability of objects can be increased by widening the base
+High chairs are designed with a wide base so that they do not topple
+Bunsen burners have a wide base to ensure they do not topple
+Examiner Tips and Tricks
+Since the centre of gravity is a hypothetical point, it can lie inside or outside of a body.
+The centre of gravity will constantly shift depending on the shape of a body. For
+example, a human body’s centre of gravity is lower when learning forward than upright
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+17
+
+
+=== PAGE 18 ===
+Investigating Centre of Gravity
+Investigating centre of gravity
+Aim of the experiment
+This experiment aims to determine the position of the centre of gravity of an irregularly
+shaped plane lamina
+Independent variable = shape of plane lamina
+Dependent variable = position of centre of gravity
+Control variables:
+Punching the holes in the plane lamina before determining the line of action of the
+weight force
+Equipment
+Equipment list
+Equipment
+Purpose
+Irregularly shaped plane lamina
+To find the position of the centre of gravity of
+Hole punch
+To create a hole in the plane lamina to tie the thread to
+Thread
+To hang the plane lamina from the clamp
+Thread and mass or sticky tack
+To form the plumb line
+Pencil and ruler
+To draw the line of action of the weight force
+Clamp stand, boss & clamp
+To hang the plane lamina from
+Method
+Determining the centre of gravity of an irregularly shaped
+plane lamina
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+18
+
+
+=== PAGE 19 ===
+For irregularly shaped objects, the centre of gravity can be found using the suspension
+method
+1. Punch 3 holes near the outer edges of the plane lamina in different locations
+2. Create a loop of thread and hang the plane lamina from the clamp
+3. Use a plumb line (a weighted thread) aligned with the hanging thread to show the line of
+action of the weight force
+4. Use a ruler and pencil to mark the line of action of the weight force onto the plane lamina
+5. Repeat the process until 3 lines have been drawn
+6. The point at which the lines cross is the position of the centre of gravity 
+Analysis of results
+Each plane lamina is an irregularly shaped object
+When an object is suspended from a point, it will always settle with its centre of gravity
+directly below the point of suspension
+Evaluating the experiment
+Systematic errors
+The plumb line should be viewed straight on to avoid a parallax error
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+19
+
+
+=== PAGE 20 ===
+Dots should be made on the plane lamina whilst in position and then a ruled line should
+be made after the lamina has been removed from the clamp
+Random errors
+The plane lamina should be allowed to settle before determining the action line of the
+weight force
+The holes should be punched in the plane lamina before determining the action line of
+the weight force, because punching the holes after can affect the position of the centre
+of gravity
+Your notes
+© 2026 Save My Exams, Ltd.
+Get more and ace your exams at savemyexams.com
+20

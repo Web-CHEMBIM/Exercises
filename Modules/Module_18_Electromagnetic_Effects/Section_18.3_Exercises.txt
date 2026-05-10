@@ -1,0 +1,218 @@
+================================================================================
+                    SECTION 18.3 EXERCISES
+                    MAGNETIC EFFECT OF A CURRENT
+================================================================================
+
+Learning Objectives Covered:
+  * Describe magnetic field patterns around straight wires and solenoids.
+  * Use the right-hand grip rule.
+  * Explain how relays and loudspeakers work.
+  * [Supplement] Describe the effect of changing current magnitude and direction.
+
+Total Questions: 20
+
+================================================================================
+
+1. Describe the shape and direction of the magnetic field around a
+   straight wire carrying a current flowing out of the page.
+
+   Shape:  _________________________________________________________________
+
+   Direction: ______________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+2. State the rule used to find the direction of the magnetic field around
+   a current-carrying wire. Describe how to apply it.
+
+   Rule name: ______________________________________________________________
+
+   How to apply it: ________________________________________________________
+
+   _______________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+3. A solenoid carries a current.
+
+   (a) Describe the shape of the magnetic field produced by the solenoid.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   (b) How does this field compare to that of a bar magnet?
+
+   _____________________________________________________________________
+
+   (c) State TWO ways to increase the strength of the magnetic field
+       inside a solenoid.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   [5 marks]
+
+--------------------------------------------------------------------------------
+
+4. A student inserts a soft iron core into a current-carrying solenoid.
+
+   (a) State the effect this has on the magnetic field strength.
+
+   _____________________________________________________________________
+
+   (b) State what the solenoid with the iron core is now called.
+
+   _____________________________________________________________________
+
+   (c) State ONE advantage of using a soft iron core rather than a
+       steel core for an electromagnet.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+5. Explain how a relay allows a small current to switch on a large current.
+   Your answer should refer to both Circuit 1 and Circuit 2.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+6. Give TWO practical uses of a relay.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+7. Explain how a loudspeaker converts an electrical signal into sound.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+8. [Supplement] A student increases the current through a solenoid.
+
+   State and explain the effect on:
+
+   (a) The strength of the magnetic field.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   (b) The spacing of the field lines in diagrams.
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+9. [Supplement] The current through a solenoid is reversed.
+
+   State the effect on:
+
+   (a) The direction of the magnetic field.
+
+   _____________________________________________________________________
+
+   (b) The positions of the north and south poles.
+
+   _____________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+10. Complete the following paragraph about electromagnets using the words below.
+
+    Word bank:  increases   iron   soft   stronger   reversed   direction
+
+    When current flows through a solenoid, a magnetic field is produced.
+    Inserting a __________ __________ core makes the electromagnet
+    __________. Increasing the number of turns also __________ the field
+    strength. If the current is __________, the __________ of the field
+    also reverses.
+
+    [3 marks]
+
+================================================================================
+                         MARK SCHEME
+================================================================================
+
+1. Shape: concentric circles centred on the wire.
+   Direction: anticlockwise (for current out of the page) — use right-hand grip rule.
+
+2. Rule name: right-hand grip rule.
+   How to apply: point the right thumb in the direction of the (conventional) current;
+   the curled fingers show the direction of the magnetic field lines around the wire.
+
+3. (a) The field outside the solenoid is similar to a bar magnet: oval / curved lines
+       emerging from one end (north pole) and entering the other end (south pole).
+       Inside, the field lines are straight and parallel (uniform field).
+   (b) The solenoid acts just like a bar magnet with a north and south pole.
+   (c) (i) Increase the current. (ii) Increase the number of turns.
+       (Accept also: insert a soft iron core.)
+
+4. (a) The magnetic field strength increases significantly.
+   (b) An electromagnet.
+   (c) Soft iron is easily magnetised and demagnetised. When the current is switched
+       off, the soft iron loses its magnetism quickly, so the electromagnet can be
+       switched on and off easily. Steel would remain magnetised.
+
+5. A small current in Circuit 1 flows through the coil of the electromagnet.
+   This creates a magnetic field which attracts the iron armature.
+   The armature pivots and closes the contacts in Circuit 2.
+   This allows the much larger current in Circuit 2 to flow through the load.
+   (When Circuit 1 is switched off, the spring returns the armature, breaking Circuit 2.)
+
+6. (i) Car starter motor (switch). (ii) Electric bell.
+   (Accept also: electronic locks, scrapyard crane control.)
+
+7. An alternating current flows through a coil wrapped around a permanent magnet.
+   The changing current produces a changing magnetic field in the coil.
+   This changing field interacts with the permanent magnet, producing alternating forces.
+   The coil (and attached cone/diaphragm) vibrates back and forth, creating sound waves.
+
+8. (a) The field strength increases — more current means more magnetic effect per turn,
+       producing a stronger field.
+   (b) Field lines are drawn closer together to represent the stronger field.
+
+9. (a) The direction of the magnetic field reverses.
+   (b) The north and south poles swap positions.
+
+10. soft / iron / stronger / increases / reversed / direction
+
+================================================================================
+                         END OF SECTION 18.3 EXERCISES
+================================================================================

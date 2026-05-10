@@ -1,0 +1,239 @@
+================================================================================
+                    SECTION 18.2 EXERCISES
+                    THE A.C. GENERATOR
+================================================================================
+
+Learning Objectives Covered:
+  * Describe the structure of a simple a.c. generator.
+  * Explain the function of slip rings and brushes.
+  * [Supplement] Relate coil position to peaks, troughs and zeros on an e.m.f. graph.
+
+Total Questions: 20
+
+================================================================================
+
+1. Name the FOUR main components of a simple a.c. generator.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   (iii) _______________________________________________________________
+
+   (iv) ________________________________________________________________
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+2. State the function of:
+
+   (a) The slip rings.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   (b) The carbon brushes.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+3. State what type of energy the a.c. generator converts, and into what.
+
+   From: _______________________________________________________________
+
+   To:   _______________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+4. Explain why the current produced by an a.c. generator is alternating.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+5. A student confuses the slip rings of a generator with the split-ring
+   commutator of a motor.
+
+   State ONE key structural difference between the two.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+6. State THREE ways to increase the e.m.f. output of an a.c. generator.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   (iii) _______________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+7. [Supplement] The diagram below represents one complete rotation of the
+   coil in an a.c. generator. The coil starts in the vertical position.
+
+       e.m.f.
+         |
+    +max |       *           *
+         |     *   *       *   *
+         |   *       *   *       *
+       0 |--*-----------*-----------*--> Angle / °
+         |           *   *
+    -max |         *       *
+         |
+         0     90    180   270   360
+
+   (a) At what angle is the e.m.f. at a maximum?
+
+   _____________________________________________________________________
+
+   (b) At what angle is the e.m.f. zero?
+
+   _____________________________________________________________________
+
+   (c) Describe the position of the coil when the e.m.f. is at maximum.
+       Explain why the e.m.f. is maximum at this position.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   (d) Describe the position of the coil when the e.m.f. is zero.
+       Explain why.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [6 marks]
+
+--------------------------------------------------------------------------------
+
+8. [Supplement] The speed of rotation of a generator coil is doubled.
+   Describe and explain the effect on:
+
+   (a) The maximum (peak) e.m.f.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   (b) The frequency of the alternating output.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+9. A generator produces an output of 2 V when rotating at 5 turns per second.
+   The number of turns on the coil is then doubled.
+
+   (a) Predict the new output voltage, assuming all else stays the same.
+
+   _____________________________________________________________________
+
+   (b) Explain your answer.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+10. [Supplement] Sketch the shape of the e.m.f. vs time graph for one
+    complete rotation of the coil starting from the vertical position.
+    Label the axes clearly and mark where the coil is horizontal and vertical.
+
+    e.m.f.
+      |
+      |
+      |
+      |
+      |
+      |_____________________________________ time / angle
+      0
+
+    [3 marks]
+
+================================================================================
+                         MARK SCHEME
+================================================================================
+
+1. (i) Permanent magnet. (ii) Rotating coil. (iii) Slip rings. (iv) Carbon brushes.
+
+2. (a) Slip rings: allow the alternating current to pass from the rotating coil
+       to the external circuit. They rotate with the coil.
+   (b) Carbon brushes: maintain a continuous electrical connection with the
+       slip rings while stationary. Allow current to flow to the external circuit.
+
+3. From: kinetic energy (mechanical energy). To: electrical energy.
+
+4. As the coil rotates, each side alternately moves up then down through the field.
+   This reverses the direction of the induced e.m.f. every half turn.
+   The current therefore repeatedly changes direction, producing alternating current.
+
+5. Slip rings are complete (continuous) rings — one for each end of the coil.
+   The split-ring commutator is a single ring split into two halves with gaps between them.
+   (Or: slip rings allow a.c. to flow; the commutator reverses current to maintain d.c. rotation.)
+
+6. (i) Increase the speed of rotation.
+   (ii) Increase the number of turns on the coil.
+   (iii) Use a stronger permanent magnet.
+   (Accept also: insert a soft iron core into the coil.)
+
+7. (a) At 90° (and 270°).
+   (b) At 0°, 180°, and 360°.
+   (c) The coil is horizontal (parallel to the magnetic field). At this position, the
+       coil sides are moving perpendicular to the field, cutting the maximum number of
+       field lines per second, so the induced e.m.f. is greatest.
+   (d) The coil is vertical (perpendicular to the field). The coil sides move parallel
+       to the field at this instant, cutting no field lines, so no e.m.f. is induced.
+
+8. (a) The peak e.m.f. increases — at higher speed, more field lines are cut per second,
+       so the maximum rate of cutting is greater.
+   (b) The frequency doubles — the coil completes twice as many rotations per second,
+       so the current reverses direction twice as often.
+
+9. (a) 4 V.
+   (b) Doubling the number of turns means twice as much wire cuts through the field
+       in each rotation, doubling the induced e.m.f.
+
+10. Sine wave starting at zero, rising to peak at 90°, back to zero at 180°,
+    falling to trough at 270°, back to zero at 360°.
+    Labelled: coil is vertical at 0°/180°/360° (zero e.m.f.);
+              coil is horizontal at 90°/270° (peak/trough e.m.f.).
+
+================================================================================
+                         END OF SECTION 18.2 EXERCISES
+================================================================================

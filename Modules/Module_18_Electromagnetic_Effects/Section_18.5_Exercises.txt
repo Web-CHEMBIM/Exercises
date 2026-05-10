@@ -1,0 +1,184 @@
+================================================================================
+                    SECTION 18.5 EXERCISES
+                    THE D.C. MOTOR
+================================================================================
+
+Learning Objectives Covered:
+  * Know the factors that increase the turning effect on a coil in a motor.
+  * Describe the structure of a d.c. motor including the split-ring commutator.
+  * [Supplement] Explain how the split-ring commutator maintains continuous rotation.
+
+Total Questions: 20
+
+================================================================================
+
+1. A current-carrying coil is placed between the poles of a magnet.
+   Name the special turning effect experienced by the coil.
+
+   _____________________________________________________________________
+
+   [1 mark]
+
+--------------------------------------------------------------------------------
+
+2. Explain why a current-carrying coil in a magnetic field experiences
+   a turning effect rather than a single force in one direction.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+3. State THREE factors that increase the turning effect on a coil
+   in a d.c. motor.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   (iii) _______________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+4. Name the THREE main components of a simple d.c. motor (apart from the
+   power supply and magnetic field).
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   (iii) _______________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+5. State the KEY structural difference between a d.c. motor and an
+   a.c. generator.
+
+   Motor uses: __________________________________________________________
+
+   Generator uses: ______________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+6. State TWO ways to reverse the direction of rotation of a d.c. motor.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+7. State TWO ways to increase the speed of a d.c. motor.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+8. [Supplement] Describe what happens to the split-ring commutator
+   when the coil is in the vertical position.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+9. [Supplement] Explain why the split-ring commutator is essential
+   for a d.c. motor to rotate continuously in one direction.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+10. [Supplement] A student replaces the split-ring commutator in a
+    d.c. motor with slip rings (like those in a generator).
+
+    (a) Predict what would happen to the coil.
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    (b) Explain why this would occur.
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    [4 marks]
+
+================================================================================
+                         MARK SCHEME
+================================================================================
+
+1. A turning effect (torque / couple).
+
+2. Each side of the coil carries current in opposite directions.
+   Using Fleming's left-hand rule, the forces on each side act in opposite directions.
+   These two opposite forces act at different points on the coil, creating a turning effect
+   rather than a net linear force.
+
+3. (i) Increase the number of turns on the coil.
+   (ii) Increase the current through the coil.
+   (iii) Use a stronger magnetic field (stronger magnets).
+
+4. (i) Rotating coil. (ii) Split-ring commutator. (iii) Carbon brushes.
+
+5. Motor uses: a split-ring commutator (two half-rings with gaps).
+   Generator uses: slip rings (complete continuous rings).
+
+6. (i) Reverse the direction of the current.
+   (ii) Reverse the direction of the magnetic field (swap magnet poles).
+
+7. (i) Increase the current.
+   (ii) Use stronger magnets (increase field strength). (Accept: more turns.)
+
+8. When the coil is vertical, the gap in the split ring aligns with the carbon brushes.
+   This momentarily breaks the circuit so no current flows.
+   The momentum of the coil carries it past this point.
+
+9. When the coil passes the vertical position, the two halves of the split ring swap
+   which brush they are in contact with.
+   This reverses the direction of current flowing through the coil.
+   Because the coil has also rotated 180°, the effect of the reversed current is that
+   the forces on each side still act in the same rotational direction.
+   This ensures continuous rotation in the same direction.
+
+10. (a) The coil would rock back and forth / oscillate — it would not rotate continuously.
+    (b) Slip rings maintain the same connection between each side of the coil and the
+        supply. As the coil passes the vertical position, the forces on each side reverse
+        direction (because the current direction relative to the field reverses), causing
+        the coil to rotate back instead of continuing forward.
+
+================================================================================
+                         END OF SECTION 18.5 EXERCISES
+================================================================================

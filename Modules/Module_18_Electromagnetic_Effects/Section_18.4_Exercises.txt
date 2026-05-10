@@ -1,0 +1,211 @@
+================================================================================
+                    SECTION 18.4 EXERCISES
+                    FORCE ON A CURRENT-CARRYING CONDUCTOR
+================================================================================
+
+Learning Objectives Covered:
+  * Describe an experiment to show force on a current-carrying conductor.
+  * State the effect of reversing current or field on the force direction.
+  * [Supplement] Use Fleming's left-hand rule.
+  * [Supplement] Determine the direction of force on charged particle beams.
+
+Total Questions: 20
+
+================================================================================
+
+1. A wire carrying a current is placed between two magnetic poles.
+   State the name given to the force experienced by the wire.
+
+   _____________________________________________________________________
+
+   [1 mark]
+
+--------------------------------------------------------------------------------
+
+2. State THREE conditions that must be met for a current-carrying
+   conductor to experience a force in a magnetic field.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   (iii) _______________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+3. A current flows horizontally to the right through a wire.
+   A magnetic field points vertically downward. The wire experiences
+   a force toward you (out of the page).
+
+   State the effect on the direction of the force when:
+
+   (a) The current is reversed (flows to the left).
+
+   _____________________________________________________________________
+
+   (b) The field is reversed (points vertically upward).
+
+   _____________________________________________________________________
+
+   (c) Both the current and the field are reversed.
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+4. Describe a simple experiment to demonstrate that a current-carrying
+   conductor experiences a force in a magnetic field.
+
+   Include: the apparatus used, what is observed, and what reversing
+   the current shows.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [5 marks]
+
+--------------------------------------------------------------------------------
+
+5. State when the force on a current-carrying conductor in a magnetic
+   field is at its GREATEST.
+
+   _____________________________________________________________________
+
+   [1 mark]
+
+--------------------------------------------------------------------------------
+
+6. State when the force on a current-carrying conductor in a magnetic
+   field is ZERO.
+
+   _____________________________________________________________________
+
+   [1 mark]
+
+--------------------------------------------------------------------------------
+
+7. [Supplement] Name Fleming's left-hand rule and state what each
+   of the three fingers represents.
+
+   Thumb: ______________________________________________________________
+
+   First finger: ________________________________________________________
+
+   Second finger: _______________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+8. [Supplement] Use Fleming's left-hand rule to determine the direction
+   of the force in each case below.
+
+   (a) Current flowing upward; field pointing from left to right.
+
+       Direction of force: _______________________________________________
+
+   (b) Current flowing into the page; field pointing upward.
+
+       Direction of force: _______________________________________________
+
+   (c) Current flowing to the right; field pointing out of the page.
+
+       Direction of force: _______________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+9. [Supplement] A beam of electrons travels horizontally to the right
+   through a magnetic field pointing out of the page.
+
+   (a) State the direction of conventional current represented by the
+       electron beam.
+
+   _____________________________________________________________________
+
+   (b) Use Fleming's left-hand rule to determine the direction of the
+       force on the electron beam.
+
+   _____________________________________________________________________
+
+   (c) Describe the path followed by the electrons in this field.
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+10. [Supplement] Explain why a charged particle beam curves when it
+    passes through a magnetic field, rather than speeding up or slowing down.
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    [3 marks]
+
+================================================================================
+                         MARK SCHEME
+================================================================================
+
+1. The motor effect. (Accept: force / electromagnetic force.)
+
+2. (i) The conductor must be carrying a current.
+   (ii) The conductor must be in an external magnetic field.
+   (iii) The current must not be parallel to the field.
+   (Force is greatest when current is perpendicular to field.)
+
+3. (a) Force reverses direction — now into the page.
+   (b) Force reverses direction — now into the page.
+   (c) Force remains in the same direction (out of the page) — both reversals cancel.
+
+4. Apparatus: short straight wire or conducting rail placed between two poles of
+   a permanent magnet; connect to a d.c. power supply.
+   Observation: when current is switched on, the wire jumps / moves in one direction.
+   Reversing the current: wire jumps / moves in the opposite direction.
+   Reversing the field (swap magnets): wire also moves in the opposite direction.
+   (Award marks for sensible description of any suitable valid experiment.)
+
+5. When the current is perpendicular (at 90°) to the magnetic field.
+
+6. When the current is parallel to the magnetic field (no field lines are cut).
+
+7. Thumb = direction of force (motion/thrust).
+   First finger = direction of the magnetic field (from N to S).
+   Second finger = direction of conventional current (+ to −).
+
+8. (a) Using left-hand rule: First finger = right, Second finger = up → Thumb = out of page.
+       Force is directed out of the page.
+   (b) First finger = up, Second finger = into page → Thumb = to the right.
+       Force is directed to the right.
+   (c) First finger = out of page, Second finger = right → Thumb = downward.
+       Force is directed downward.
+
+9. (a) Electrons move to the right, so conventional current is to the LEFT.
+   (b) First finger = out of page, Second finger = left → Thumb = downward.
+       Force is directed downward.
+   (c) The electrons curve downward (follow a curved / circular arc path).
+
+10. The magnetic force always acts perpendicular to the direction of motion
+    of the particle. A perpendicular force cannot do work on the particle,
+    so it cannot change the particle's speed. It only changes the direction,
+    causing the particle to curve (follow a circular arc).
+
+================================================================================
+                         END OF SECTION 18.4 EXERCISES
+================================================================================

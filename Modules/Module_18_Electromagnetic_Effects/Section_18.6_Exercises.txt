@@ -1,0 +1,294 @@
+================================================================================
+                    SECTION 18.6 EXERCISES
+                    TRANSFORMERS
+================================================================================
+
+Learning Objectives Covered:
+  * Describe the construction and operation of a simple transformer.
+  * Distinguish step-up and step-down transformers.
+  * Recall and use the equation Vp/Vs = Np/Ns.
+  * Explain why electricity is transmitted at high voltage.
+  * [Supplement] Use the equation IpVp = IsVs.
+  * [Supplement] Use P = I²R to explain power losses in cables.
+
+Total Questions: 25
+
+================================================================================
+
+1. Name the THREE main components of a simple transformer.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   (iii) _______________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+2. State why the core of a transformer is made of soft iron rather
+   than steel or hard iron.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+3. Distinguish between a step-up and a step-down transformer.
+
+   ┌─────────────────┬──────────────────────────┬───────────────────────────┐
+   │ Type            │ Effect on voltage        │ Turns on secondary (Ns)   │
+   ├─────────────────┼──────────────────────────┼───────────────────────────┤
+   │ Step-up         │                          │                           │
+   ├─────────────────┼──────────────────────────┼───────────────────────────┤
+   │ Step-down       │                          │                           │
+   └─────────────────┴──────────────────────────┴───────────────────────────┘
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+4. Write the transformer voltage equation and define each symbol.
+
+   Equation: _______________________________________________________________
+
+   Vp = ___________________________________________________________________
+
+   Vs = ___________________________________________________________________
+
+   Np = ___________________________________________________________________
+
+   Ns = ___________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+5. A transformer has 100 turns on the primary coil and 500 turns on
+   the secondary coil. The primary voltage is 240 V.
+
+   (a) State whether this is a step-up or step-down transformer. Explain.
+
+   _____________________________________________________________________
+
+   (b) Calculate the secondary voltage.
+
+   Working:
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   Answer: _____________ V
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+6. A transformer steps down from 11 000 V to 230 V.
+
+   (a) The primary coil has 4400 turns. Calculate the number of turns
+       on the secondary coil.
+
+   Working:
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   Answer: _____________ turns
+
+   (b) State what type of transformer this is.
+
+   _____________________________________________________________________
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+7. A transformer has a primary coil of 50 turns and a secondary coil
+   of 200 turns. The output voltage required is 48 V.
+
+   Calculate the required input voltage.
+
+   Working:
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   Answer: _____________ V
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+8. [Supplement] State why transformers only work with alternating current (a.c.)
+   and not with direct current (d.c.).
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+9. [Supplement] Write the ideal transformer power equation and define each symbol.
+
+   Equation: _______________________________________________________________
+
+   Ip = ___________________________________________________________________
+
+   Is = ___________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+10. [Supplement] A 100% efficient transformer has a primary voltage of
+    230 V and a primary current of 4 A.
+
+    (a) Calculate the input power.
+
+    Working:
+
+    _____________________________________________________________________
+
+    Answer: _____________ W
+
+    (b) The secondary voltage is 46 V. Calculate the secondary current.
+
+    Working:
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    Answer: _____________ A
+
+    (c) Explain whether the secondary current makes sense for a step-down
+        transformer.
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    [5 marks]
+
+--------------------------------------------------------------------------------
+
+11. [Supplement] A transformer steps up 25 000 V to 400 000 V for
+    transmission. The current in the primary coil is 800 A.
+
+    (a) Calculate the current in the secondary (transmission) coil.
+
+    Working:
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    Answer: _____________ A
+
+    (b) Explain in terms of P = I²R why this higher voltage transmission
+        is more efficient.
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    [5 marks]
+
+--------------------------------------------------------------------------------
+
+12. [Supplement] A transmission cable has a resistance of 2 Ω.
+    The same amount of power is transmitted at TWO different voltages.
+
+    ┌──────────────────────┬──────────────────┬──────────────────────────────┐
+    │ Transmission voltage │ Current (A)      │ Power loss in cable (W)      │
+    ├──────────────────────┼──────────────────┼──────────────────────────────┤
+    │ 10 000 V             │ 100              │                              │
+    ├──────────────────────┼──────────────────┼──────────────────────────────┤
+    │ 100 000 V            │ 10               │                              │
+    └──────────────────────┴──────────────────┴──────────────────────────────┘
+
+    (a) Complete the table using P = I²R.
+
+    (b) State what this shows about the advantage of high-voltage transmission.
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    [4 marks]
+
+================================================================================
+                         MARK SCHEME
+================================================================================
+
+1. (i) Primary coil. (ii) Secondary coil. (iii) Soft iron core.
+
+2. Soft iron is easily magnetised and demagnetised. This allows the magnetic field
+   to change rapidly with the alternating current, which is essential for the
+   changing field to induce an e.m.f. in the secondary.
+
+3.
+   Step-up:   Vs > Vp (voltage increases); Ns > Np (more turns on secondary).
+   Step-down: Vs < Vp (voltage decreases); Ns < Np (fewer turns on secondary).
+
+4. Vp/Vs = Np/Ns
+   Vp = primary (input) voltage (V)
+   Vs = secondary (output) voltage (V)
+   Np = number of turns on the primary coil
+   Ns = number of turns on the secondary coil
+
+5. (a) Step-up, because Ns (500) > Np (100), so the secondary voltage is greater
+       than the primary voltage.
+   (b) Vp/Vs = Np/Ns → Vs = Vp × (Ns/Np) = 240 × (500/100) = 240 × 5 = 1200 V.
+
+6. (a) Np/Ns = Vp/Vs → Ns = Np × (Vs/Vp) = 4400 × (230/11000) = 4400 × 0.0209 = 92 turns.
+   (b) Step-down transformer.
+
+7. Vp/Vs = Np/Ns → Vp = Vs × (Np/Ns) = 48 × (50/200) = 48 × 0.25 = 12 V.
+
+8. Transformers work by electromagnetic induction, which requires a CHANGING
+   magnetic field. Alternating current continuously changes direction, producing
+   a continuously changing magnetic field in the primary coil. This changing field
+   links with the secondary coil and induces an e.m.f.
+   Direct current produces a constant magnetic field that does not change, so no
+   e.m.f. is induced in the secondary. The transformer does not work.
+
+9. IpVp = IsVs
+   Ip = primary (input) current (A)
+   Is = secondary (output) current (A)
+
+10. (a) P = IV = 230 × 4 = 920 W.
+    (b) IpVp = IsVs → Is = IpVp/Vs = (4 × 230)/46 = 920/46 = 20 A.
+    (c) Yes. This is a step-down transformer (voltage decreases from 230 V to 46 V).
+        For power to be conserved, the secondary current must be larger than the
+        primary current. 20 A > 4 A, which is consistent with a step-down transformer.
+
+11. (a) IpVp = IsVs → Is = IpVp/Vs = (800 × 25000)/400000 = 20,000,000/400,000 = 50 A.
+    (b) Power loss = I²R. At 400,000 V, the current is only 50 A (much lower than 800 A
+        at 25,000 V). Because power loss depends on I², a smaller current means
+        vastly less power wasted as heat — (50)² = 2,500 vs (800)² = 640,000.
+        High-voltage transmission is therefore much more efficient.
+
+12. (a) At 10,000 V: P = (100)² × 2 = 20,000 W.
+        At 100,000 V: P = (10)² × 2 = 200 W.
+    (b) Transmitting at 10 times the voltage reduces the current by a factor of 10,
+        which reduces the power loss by a factor of 100 (since P ∝ I²). High-voltage
+        transmission results in far less energy wasted as heat in the cables.
+
+================================================================================
+                         END OF SECTION 18.6 EXERCISES
+================================================================================

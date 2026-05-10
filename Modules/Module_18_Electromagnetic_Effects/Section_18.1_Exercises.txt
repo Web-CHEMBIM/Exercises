@@ -1,0 +1,227 @@
+================================================================================
+                    SECTION 18.1 EXERCISES
+                    ELECTROMAGNETIC INDUCTION
+================================================================================
+
+Learning Objectives Covered:
+  * Know that a changing magnetic field or a moving conductor can induce an e.m.f.
+  * State the factors affecting the magnitude of an induced e.m.f.
+  * [Supplement] Know that the induced e.m.f. opposes the change causing it (Lenz's law).
+  * [Supplement] Use the right-hand dynamo rule to find the direction of induced current.
+
+Total Questions: 20
+
+================================================================================
+
+1. State the TWO conditions under which an e.m.f. can be induced in a conductor.
+
+   (i) _________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+2. A student pushes a bar magnet into a coil connected to a voltmeter.
+   The voltmeter needle deflects to the right.
+
+   (a) What does the deflection of the needle indicate?
+
+   _____________________________________________________________________
+
+   (b) What happens to the voltmeter reading when the magnet is held
+       stationary inside the coil? Explain why.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   (c) What happens when the magnet is pulled out of the coil?
+
+   _____________________________________________________________________
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+3. State FOUR factors that increase the magnitude of the induced e.m.f.
+   when a magnet is moved near a coil.
+
+   (i)  ________________________________________________________________
+
+   (ii) ________________________________________________________________
+
+   (iii) _______________________________________________________________
+
+   (iv) ________________________________________________________________
+
+   [4 marks]
+
+--------------------------------------------------------------------------------
+
+4. A wire is moved at different speeds through a magnetic field.
+   The table shows the results.
+
+   ┌────────────────────────┬──────────────────────────┐
+   │ Speed of wire (m/s)    │ Induced e.m.f. (mV)      │
+   ├────────────────────────┼──────────────────────────┤
+   │ 1                      │ 5                        │
+   │ 2                      │ 10                       │
+   │ 3                      │ 15                       │
+   │ 4                      │ ?                        │
+   └────────────────────────┴──────────────────────────┘
+
+   (a) Describe the relationship between speed and induced e.m.f.
+
+   _____________________________________________________________________
+
+   (b) Predict the induced e.m.f. when the wire moves at 4 m/s.
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+5. A coil has 50 turns and produces an induced e.m.f. of 2 V when a
+   magnet moves at a certain speed.
+
+   (a) The number of turns is increased to 100. The speed stays the same.
+       Predict the new induced e.m.f.
+
+   _____________________________________________________________________
+
+   (b) Explain why increasing the number of turns increases the induced e.m.f.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+6. A student says: "A conductor must move through a magnetic field to
+   produce an induced e.m.f."
+
+   Is this statement fully correct? Explain your answer.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+7. [Supplement] State Lenz's law in your own words.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [2 marks]
+
+--------------------------------------------------------------------------------
+
+8. [Supplement] A north pole is pushed toward a coil.
+
+   (a) Using Lenz's law, state what magnetic pole the near end of the
+       coil becomes.
+
+   _____________________________________________________________________
+
+   (b) Explain how this is consistent with conservation of energy.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+9. [Supplement] A north pole is pulled away from a coil.
+
+   (a) State what magnetic pole the near end of the coil becomes.
+
+   _____________________________________________________________________
+
+   (b) Explain how the induced e.m.f. opposes this change.
+
+   _____________________________________________________________________
+
+   _____________________________________________________________________
+
+   [3 marks]
+
+--------------------------------------------------------------------------------
+
+10. [Supplement] A wire moves upward through a horizontal magnetic field
+    pointing from north to south.
+
+    Using the right-hand dynamo rule, determine the direction of the
+    induced current in the wire.
+
+    Show your reasoning clearly.
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    _____________________________________________________________________
+
+    [3 marks]
+
+================================================================================
+                         MARK SCHEME
+================================================================================
+
+1. (i) A conductor moves through (cuts) a magnetic field / field lines.
+   (ii) A changing (varying) magnetic field links with a stationary conductor.
+
+2. (a) An e.m.f. (and current) has been induced in the coil.
+   (b) The reading returns to zero. No relative movement between magnet
+       and coil, so no field lines are cut and no e.m.f. is induced.
+   (c) The needle deflects to the left (opposite direction).
+
+3. (i) Increase speed of movement.
+   (ii) Increase number of turns on the coil.
+   (iii) Use a stronger magnet (increase field strength).
+   (iv) Increase the area of the coil.
+   (Any 4 of the above.)
+
+4. (a) The induced e.m.f. is directly proportional to the speed — as speed
+       doubles, e.m.f. doubles.
+   (b) 20 mV.
+
+5. (a) 4 V (doubling turns doubles e.m.f.).
+   (b) Each turn cuts through the field lines; more turns means more turns
+       cutting lines per second, so total induced e.m.f. is greater.
+
+6. Not fully correct. An e.m.f. can also be induced when the conductor is
+   stationary if the magnetic field around it is changing (e.g., a moving
+   magnet near a stationary coil).
+
+7. The direction of an induced e.m.f. always opposes the change that caused it.
+
+8. (a) The near end becomes a north pole (repels the approaching magnet).
+   (b) Energy must be supplied to push the magnet in against the repulsive force.
+       This work done is converted to electrical energy — energy is conserved.
+
+9. (a) The near end becomes a south pole (attracts the departing magnet).
+   (b) The south pole tries to pull the magnet back / opposes its removal,
+       opposing the change causing the induction.
+
+10. First finger = field direction (north to south / pointing south).
+    Thumb = motion (upward).
+    Second finger (induced current direction) points out of the page
+    (or determined by the mutual perpendicular orientation of the hand).
+    (Accept correct use of right-hand dynamo rule with correct conclusion.)
+
+================================================================================
+                         END OF SECTION 18.1 EXERCISES
+================================================================================

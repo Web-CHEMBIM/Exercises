@@ -1,0 +1,1249 @@
+================================================================================
+                     IGCSE PHYSICS - MODULE 5
+                     MOMENTS, EQUILIBRIUM & CENTRE OF GRAVITY
+================================================================================
+
+Topic: 1.5 Turning Effect of Forces
+Estimated Study Time: 3-4 hours
+
+--------------------------------------------------------------------------------
+                           MODULE OVERVIEW
+--------------------------------------------------------------------------------
+
+This module covers the turning effect of forces — how and why objects rotate
+about a pivot — and the conditions needed for an object to be in equilibrium.
+You will also learn about the centre of gravity and how it determines an
+object's stability.
+
+LEARNING OBJECTIVES:
+
+After completing this module, you will be able to:
+
+Section 5.1 - The Moment of a Force
+• Describe what is meant by the moment of a force [Core]
+• Recall and use the equation: moment = force × perpendicular distance [Core]
+• Give everyday examples of the turning effect of a force [Core]
+
+Section 5.2 - The Principle of Moments
+• State the principle of moments [Core]
+• Apply the principle of moments to simple balanced situations (one force
+  each side of pivot) [Core]
+• Apply the principle of moments to situations with multiple forces on
+  one or both sides of the pivot [Supplement]
+• Describe an experiment to demonstrate the principle of moments [Supplement]
+
+Section 5.3 - Equilibrium
+• State the two conditions needed for an object to be in equilibrium [Core]
+• Recognise situations where an object is or is not in equilibrium [Core]
+• Describe an experiment to demonstrate that the resultant moment on an
+  object in equilibrium is zero [Supplement]
+
+Section 5.4 - Centre of Gravity
+• Define the centre of gravity of an object [Core]
+• State the position of the centre of gravity for regular, symmetrical objects [Core]
+• Describe an experiment to find the centre of gravity of an irregular
+  plane lamina [Core]
+• Explain how the position of the centre of gravity affects stability [Supplement]
+
+PREREQUISITES:
+• Module 1: Physical Quantities (distance, mass, force, units)
+• Module 3: Mass, Weight and Density (understanding of the weight force)
+• Module 4: Effects of Forces (resultant force, balanced forces)
+
+KEY VOCABULARY:
+
+┌─────────────────────────┬──────────────────────────────────────────────────┐
+│ Term                    │ Definition                                       │
+├─────────────────────────┼──────────────────────────────────────────────────┤
+│ Moment                  │ The turning effect of a force about a pivot      │
+│ Pivot                   │ A fixed point about which an object can rotate   │
+│ Perpendicular distance  │ The shortest distance from the pivot to the      │
+│                         │ line of action of the force (at 90°)            │
+│ Clockwise               │ Rotation in the same direction as clock hands    │
+│ Anticlockwise           │ Rotation in the opposite direction to clock hands│
+│ Principle of moments    │ For a balanced object: total clockwise moment =  │
+│                         │ total anticlockwise moment                       │
+│ Equilibrium             │ A state of balance — no net force, no net moment │
+│ Centre of gravity       │ The point through which the weight of an object  │
+│                         │ acts                                             │
+│ Stability               │ The ability of an object to return to its        │
+│                         │ original position after being displaced          │
+│ Plane lamina            │ A flat, thin object of any shape                 │
+└─────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+                   SECTION 5.1: THE MOMENT OF A FORCE
+================================================================================
+
+HOOK - THINK ABOUT THIS:
+Why is the door handle always placed far from the hinges? And why do you
+sometimes need both hands to loosen a tight bolt with a short spanner,
+but a long spanner makes it easy? The answer lies in moments.
+
+RECALL:
+• A force can make an object speed up, slow down, or change direction.
+• What else can a force do? Forces can also make objects ROTATE.
+
+5.1.1 WHAT IS A MOMENT?
+------------------------
+
+When a force is applied to an object at a distance from a fixed point (pivot),
+it tends to rotate the object. This turning effect is called a MOMENT.
+
+The MOMENT OF A FORCE is defined as:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│           The turning effect of a force about a pivot.                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+The moment depends on TWO things:
+1. The SIZE of the force
+2. The PERPENDICULAR DISTANCE from the pivot to the line of action of the force
+
+EVERYDAY EXAMPLES OF MOMENTS:
+
+• A see-saw in a playground — a child pushes down, rotating the board
+• Opening a door — your push on the handle rotates the door about its hinges
+• Using a spanner to tighten or loosen a bolt
+• Using a screwdriver to open a tin of paint
+• Turning a tap on or off
+• Picking up a wheelbarrow
+• Scissors cutting paper — two blades rotating about a central pivot
+
+---DIAGRAM: Fig. 5.1---
+TYPE: Apparatus
+PURPOSE: Showing a force applied at a distance from a pivot on a beam,
+         with the perpendicular distance labeled
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Horizontal beam balanced on a triangular pivot in the centre
+  Force arrow pointing downward on the right side
+
+COMPONENTS:
+  [Beam]
+    Shape: wide horizontal rectangle
+    Position: grid(2-11, 4)
+    Style: solid block
+
+  [Pivot]
+    Shape: filled triangle
+    Position: grid(6, 5)
+    Label: "pivot" below
+
+  [Force Arrow]
+    Shape: bold downward arrow
+    Position: grid(10, 2-4)
+    Label: "F" beside arrow
+
+  [Distance Arrow]
+    Shape: double-headed horizontal arrow
+    Position: grid(6-10, 6)
+    Label: "perpendicular distance, d"
+
+ANNOTATIONS:
+  "Moment = F × d" placed bottom-right
+  "Rotation: clockwise" with curved arrow near force
+---END DIAGRAM---
+
+5.1.2 THE MOMENT EQUATION
+--------------------------
+
+The SIZE of a moment is calculated using:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│              moment = force × perpendicular distance from pivot             │
+│                                                                             │
+│                              M = F × d                    ... (5.1)        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Where:
+  M = moment (N m) — newton metres
+  F = force (N) — newtons
+  d = perpendicular distance from the pivot to the line of action of the force (m)
+
+IMPORTANT:
+• The distance d must be the PERPENDICULAR distance — measured at 90° from
+  the pivot to the line of action of the force.
+• The unit of moment is the newton metre (N m).
+• If distance is in centimetres, the unit becomes N cm — always convert to
+  metres unless instructed otherwise.
+
+DIRECTION OF ROTATION:
+• A force applied to the RIGHT of the pivot tends to cause CLOCKWISE rotation.
+• A force applied to the LEFT of the pivot tends to cause ANTICLOCKWISE rotation.
+• Think of a clock face to decide the direction.
+
+---DIAGRAM: Fig. 5.2---
+TYPE: Apparatus
+PURPOSE: Illustrating clockwise and anticlockwise rotation about a pivot
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Two beams side by side — one with force on right (clockwise), one on left (anticlockwise)
+
+COMPONENTS:
+  [Left beam - Clockwise example]
+    Beam: grid(1-6, 4)
+    Pivot: triangle at grid(3, 5)
+    Force: downward arrow at grid(5.5, 2) labeled "F"
+    Curved rotation arrow: clockwise
+    Label: "CLOCKWISE" below
+
+  [Right beam - Anticlockwise example]
+    Beam: grid(9-14, 4)
+    Pivot: triangle at grid(12, 5)
+    Force: downward arrow at grid(9.5, 2) labeled "F"
+    Curved rotation arrow: anticlockwise
+    Label: "ANTICLOCKWISE" below
+---END DIAGRAM---
+
+EFFECT OF INCREASING DISTANCE:
+The further a force is applied from the pivot, the LARGER the moment.
+
+This explains why:
+• Door handles are placed far from the hinges — less force needed to open door
+• A long spanner produces a larger turning effect than a short one
+• Pushing a door near the hinge requires a very large force
+
+---DIAGRAM: Fig. 5.3---
+TYPE: Apparatus
+PURPOSE: Two hands pushing a door — one near hinge (small moment), one at handle (large moment)
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Door viewed from above; hinge on the left; two force arrows shown at different distances
+
+COMPONENTS:
+  [Door]
+    Shape: thick vertical rectangle
+    Position: grid(2-10, 2-8)
+    Label: "door"
+
+  [Hinge]
+    Symbol: circle at top-left corner
+    Position: grid(2, 2)
+    Label: "hinge (pivot)"
+
+  [Force Arrow 1 - near hinge]
+    Shape: bold horizontal arrow pointing into door
+    Position: grid(3, 5)
+    Label: "Large force needed"
+
+  [Force Arrow 2 - at handle]
+    Shape: bold horizontal arrow pointing into door
+    Position: grid(9, 5)
+    Label: "Small force needed"
+
+  [Distance labels]
+    d1: short arrow from hinge to Force 1
+    d2: long arrow from hinge to Force 2
+---END DIAGRAM---
+
+════════════════════════════════════════════════════════════════════════════════
+WORKED EXAMPLE 5.1
+────────────────────────────────────────────────────────────────────────────────
+
+Problem:
+A carpenter uses a spanner of length 20 cm to loosen a bolt. They apply a
+force of 22 N at a point 5 cm from the end of the spanner.
+Calculate the moment of the force about the bolt.
+
+Solution:
+
+Step 1: Identify the given quantities.
+  Force, F = 22 N
+  Length of spanner = 20 cm
+  Force applied 5 cm from the end → distance from pivot = 20 − 5 = 15 cm
+
+Step 2: Convert the distance to metres.
+  d = 15 cm ÷ 100 = 0.15 m
+
+Step 3: Write the moment equation.
+  M = F × d
+
+Step 4: Substitute values and calculate.
+  M = 22 × 0.15
+  M = 3.3 N m
+
+Answer: The moment of the force is 3.3 N m (clockwise).
+
+Key Points:
+• Always convert cm to m before calculating if you want the answer in N m.
+• The perpendicular distance is measured FROM THE PIVOT — not from the end
+  of the spanner.
+════════════════════════════════════════════════════════════════════════════════
+
+TRY IT YOURSELF — 5.1A:
+A student pushes down on a door handle with a force of 15 N. The handle is
+0.8 m from the hinge. Calculate the moment of the force.
+
+Answer: M = 15 × 0.8 = 12 N m
+
+TRY IT YOURSELF — 5.1B:
+A wrench applies a moment of 40 N m. The force used is 80 N.
+Calculate the perpendicular distance from the pivot.
+
+Answer: d = M ÷ F = 40 ÷ 80 = 0.5 m
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 5.1
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Define the moment of a force.
+
+2. State the equation for the moment of a force. Define each symbol
+   and give its unit.
+
+3. A force of 30 N is applied at a perpendicular distance of 0.4 m
+   from a pivot. Calculate the moment of the force.
+
+4. Explain why a longer spanner makes it easier to loosen a tight bolt.
+
+5. Give TWO everyday examples of the turning effect of a force.
+
+ANSWERS:
+1. The turning effect of a force about a pivot.
+
+2. M = F × d
+   M = moment (N m); F = force (N); d = perpendicular distance from pivot (m)
+
+3. M = 30 × 0.4 = 12 N m
+
+4. A longer spanner increases the perpendicular distance from the pivot.
+   Since M = F × d, a larger d means the same force produces a larger moment,
+   or the same moment can be produced with a smaller force.
+
+5. Any two from: see-saw, door handle, spanner, scissors, wheelbarrow, tap, crane.
+
+COMMON MISCONCEPTIONS — Section 5.1:
+┌───────────────────────────────────────┬──────────────────────────────────────────────────┐
+│ Misconception                         │ Correct Understanding                            │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "The distance is measured along       │ The distance must be the PERPENDICULAR distance  │
+│ the spanner"                          │ from the pivot to the line of action of the force│
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "A bigger force always means a bigger │ A smaller force applied further from the pivot   │
+│ moment"                               │ can produce a larger moment than a bigger force  │
+│                                       │ applied close to the pivot (M = F × d)           │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "Moments can only be clockwise or     │ Moments always have a direction — clockwise or   │
+│ have no direction"                    │ anticlockwise — about the pivot                  │
+└───────────────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+                   SECTION 5.2: THE PRINCIPLE OF MOMENTS
+================================================================================
+
+HOOK - THINK ABOUT THIS:
+Two children of different weights want to balance a see-saw. The heavier child
+sits closer to the centre. How far away must the lighter child sit? This
+section gives you the tools to answer exactly that question.
+
+RECALL:
+• A moment is the turning effect of a force: M = F × d
+• Forces can cause clockwise or anticlockwise rotation
+• For a beam to be balanced, something must stop it rotating in either direction
+
+5.2.1 THE PRINCIPLE OF MOMENTS (CORE)
+--------------------------------------
+
+When a beam (or any object) is BALANCED, the rotation in each direction must
+cancel out. This is stated as the Principle of Moments:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  If an object is in equilibrium, the total clockwise moment about any       │
+│  pivot equals the total anticlockwise moment about that pivot.              │
+│                                                                             │
+│         Total clockwise moment = Total anticlockwise moment                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+---DIAGRAM: Fig. 5.4---
+TYPE: Apparatus
+PURPOSE: Balanced beam showing one force on each side of the pivot; labelling
+         clockwise and anticlockwise moments
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Horizontal beam balanced on central triangular pivot
+  Two downward forces, one on each side
+
+COMPONENTS:
+  [Beam]
+    Shape: horizontal rectangle
+    Position: grid(2-11, 4)
+
+  [Pivot]
+    Shape: filled triangle
+    Position: grid(6-7, 5)
+    Label: "pivot"
+
+  [Force 1 - Left side (anticlockwise)]
+    Downward arrow at grid(3, 2-4)
+    Label: "F1"
+    Distance arrow: grid(3-6, 6) labeled "d1"
+    Rotation arrow: anticlockwise (curved)
+
+  [Force 2 - Right side (clockwise)]
+    Downward arrow at grid(10, 2-4)
+    Label: "F2"
+    Distance arrow: grid(7-10, 6) labeled "d2"
+    Rotation arrow: clockwise (curved)
+
+ANNOTATIONS:
+  "Anticlockwise moment = F1 × d1" top left
+  "Clockwise moment = F2 × d2" top right
+  "F1 × d1 = F2 × d2" at bottom centre
+---END DIAGRAM---
+
+APPLYING THE PRINCIPLE (simple case — one force each side):
+
+For a balanced beam with one force on each side of the pivot:
+
+         F1 × d1 = F2 × d2        ... (5.2)
+
+Where:
+  F1 = anticlockwise force (N)
+  d1 = perpendicular distance of F1 from pivot (m)
+  F2 = clockwise force (N)
+  d2 = perpendicular distance of F2 from pivot (m)
+
+════════════════════════════════════════════════════════════════════════════════
+WORKED EXAMPLE 5.2
+────────────────────────────────────────────────────────────────────────────────
+
+Problem:
+A parent (weight 690 N) and child (weight 140 N) sit on opposite ends of a
+see-saw. The parent sits 0.3 m from the pivot.
+Calculate the distance the child must sit from the pivot to balance the see-saw.
+
+Solution:
+
+Step 1: Identify known quantities.
+  Anticlockwise force (parent): Fadult = 690 N, dadult = 0.3 m
+  Clockwise force (child): Fchild = 140 N, dchild = ?
+
+Step 2: Write the principle of moments.
+  Total clockwise moment = Total anticlockwise moment
+
+Step 3: Calculate the anticlockwise moment (parent).
+  Madult = 690 × 0.3 = 207 N m
+
+Step 4: Apply the principle of moments.
+  Fchild × dchild = Madult
+  140 × dchild = 207
+
+Step 5: Solve for dchild.
+  dchild = 207 ÷ 140
+  dchild = 1.48 m ≈ 1.5 m
+
+Answer: The child must sit approximately 1.5 m from the pivot.
+
+Key Points:
+• The lighter person must sit FURTHER from the pivot.
+• Always identify which force is clockwise and which is anticlockwise first.
+• Ensure all distances are in the same unit (convert cm → m if needed).
+════════════════════════════════════════════════════════════════════════════════
+
+5.2.2 THE PRINCIPLE OF MOMENTS WITH MULTIPLE FORCES [SUPPLEMENT]
+-----------------------------------------------------------------
+
+If more than one force acts on either side of the pivot, we calculate the
+SUM of all clockwise moments and the SUM of all anticlockwise moments:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│   Sum of clockwise moments = Sum of anticlockwise moments                   │
+│                                                                             │
+│   (F2 × d2) = (F1 × d1) + (F3 × d3)                       ... (5.3)       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+---DIAGRAM: Fig. 5.5---
+TYPE: Apparatus
+PURPOSE: Balanced beam with multiple forces (F1 & F3 anticlockwise, F2 clockwise)
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Long horizontal beam with pivot; F1 and F3 on the left, F2 on the right
+
+COMPONENTS:
+  [Beam]
+    Shape: horizontal rectangle
+    Position: grid(1-15, 5)
+
+  [Pivot]
+    Shape: filled triangle
+    Position: grid(8, 6)
+    Label: "pivot"
+
+  [F1 - leftmost, downward]
+    Arrow at grid(2, 3-5)
+    Distance label: "d1" from pivot to F1
+
+  [F3 - middle left, downward]
+    Arrow at grid(5, 3-5)
+    Distance label: "d3" from pivot to F3
+
+  [F2 - right side, downward]
+    Arrow at grid(13, 3-5)
+    Distance label: "d2" from pivot to F2
+
+ANNOTATIONS:
+  "Anticlockwise: F1×d1 + F3×d3" top left
+  "Clockwise: F2×d2" top right
+  "F2×d2 = F1×d1 + F3×d3" bottom centre
+---END DIAGRAM---
+
+════════════════════════════════════════════════════════════════════════════════
+WORKED EXAMPLE 5.3  [Supplement]
+────────────────────────────────────────────────────────────────────────────────
+
+Problem:
+A beam is balanced on a pivot. Force F1 = 20 N acts 0.5 m to the left of
+the pivot. Force F3 = 10 N acts 1.2 m to the left of the pivot.
+Both F1 and F3 act downward (anticlockwise). Force F2 acts 0.8 m to the
+right of the pivot. The beam is balanced. Find F2.
+
+Solution:
+
+Step 1: Calculate all anticlockwise moments.
+  M1 = 20 × 0.5 = 10 N m
+  M3 = 10 × 1.2 = 12 N m
+  Total anticlockwise = 10 + 12 = 22 N m
+
+Step 2: Apply principle of moments.
+  F2 × 0.8 = 22
+
+Step 3: Solve for F2.
+  F2 = 22 ÷ 0.8 = 27.5 N
+
+Answer: F2 = 27.5 N
+════════════════════════════════════════════════════════════════════════════════
+
+5.2.3 EXPERIMENT: DEMONSTRATING THE PRINCIPLE OF MOMENTS [SUPPLEMENT]
+----------------------------------------------------------------------
+
+Aim: To verify that the net moment on a balanced beam is zero.
+
+Equipment:
+  • Metre ruler with a small hole at the centre
+  • Clamp stand, boss and clamp
+  • Optical pin and cork (pivot)
+  • 2 × 100 g mass hangers + additional 100 g masses
+  • Cotton thread loops (equal lengths)
+  • Small piece of plasticine (to balance ruler initially)
+
+Method:
+  1. Balance the ruler horizontally on the pivot. Adjust with plasticine.
+  2. Hang two unequal loads at different distances on either side.
+  3. Adjust the distances until the beam is perfectly horizontal.
+  4. Record mass, force (F = mg), and distance from pivot for each load.
+  5. Repeat with different load combinations (at least 5 readings).
+
+---DIAGRAM: Fig. 5.6---
+TYPE: Apparatus
+PURPOSE: Ruler balanced on pivot with mass hangers suspended by cotton loops
+         on each side at different distances
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Clamp stand on the right; ruler balanced on pin/cork pivot; two mass hangers
+  suspended at different positions
+
+COMPONENTS:
+  [Clamp Stand]
+    Position: grid(11-12, 1-9)
+    Label: "clamp stand"
+
+  [Optical Pin + Cork Pivot]
+    Position: grid(6, 4)
+    Label: "pivot (optical pin)"
+
+  [Metre Ruler]
+    Horizontal rectangle: grid(1-11, 4)
+    Label: "metre ruler"
+
+  [Mass Hanger 1 - left side]
+    Cotton loop at grid(3, 4-6)
+    Mass block below at grid(3, 6-7)
+    Label: "m1 = 200 g" and "d1"
+
+  [Mass Hanger 2 - right side]
+    Cotton loop at grid(9, 4-6)
+    Mass block below at grid(9, 6-7)
+    Label: "m2 = 100 g" and "d2"
+
+ANNOTATIONS:
+  Distance arrow d1 from pivot to m1 (left)
+  Distance arrow d2 from pivot to m2 (right)
+---END DIAGRAM---
+
+Results Table:
+
+┌──────────┬──────────┬───────────┬────────────┬──────────┬───────────┬────────────┐
+│ Trial    │ m1 (kg)  │ F1 (N)    │ d1 (m)     │ m2 (kg)  │ F2 (N)    │ d2 (m)     │
+│          │          │ =m1×g     │            │          │ =m2×g     │            │
+├──────────┼──────────┼───────────┼────────────┼──────────┼───────────┼────────────┤
+│ 1        │          │           │            │          │           │            │
+│ 2        │          │           │            │          │           │            │
+│ 3        │          │           │            │          │           │            │
+│ 4        │          │           │            │          │           │            │
+│ 5        │          │           │            │          │           │            │
+└──────────┴──────────┴───────────┴────────────┴──────────┴───────────┴────────────┘
+
+Analysis: Calculate M1 = F1 × d1 and M2 = F2 × d2 for each trial.
+          The results should show M1 ≈ M2, confirming the principle of moments.
+
+Sources of Error:
+  • Parallax error when reading position of cotton loops (view straight on)
+  • Friction between ruler and optical pin pivot → ensure pin is smooth
+  • Drafts in the room affecting the hanging masses
+  • Cotton loop lengths may not be exactly equal
+
+Safety:
+  • Wear safety goggles (cotton loops can snap)
+  • Use a G-clamp to secure the clamp stand
+  • Place a mat below to cushion falling masses
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 5.2
+═══════════════════════════════════════════════════════════════════════════════
+
+1. State the principle of moments.
+
+2. A uniform metre ruler is balanced on a pivot at the 50 cm mark.
+   A 6 N weight is placed at the 20 cm mark. Find the distance from the
+   pivot at which a 4 N weight must be placed on the other side to
+   balance the ruler.
+
+3. [Supplement] A beam is balanced by three forces: F1 = 10 N at 0.4 m
+   to the left, F2 = 5 N at 0.6 m to the left, and F3 on the right.
+   F3 acts at 0.5 m from the pivot. Find F3.
+
+ANSWERS:
+1. For an object in equilibrium, the total clockwise moment about any pivot
+   equals the total anticlockwise moment about that same pivot.
+
+2. Clockwise: 4 × d = Anticlockwise: 6 × 0.3
+   (pivot at 50 cm; 6 N weight at 20 cm → distance = 50 − 20 = 30 cm = 0.3 m)
+   4 × d = 6 × 0.3 = 1.8
+   d = 1.8 ÷ 4 = 0.45 m (45 cm from pivot → at the 95 cm mark)
+
+3. Total anticlockwise = (10 × 0.4) + (5 × 0.6) = 4 + 3 = 7 N m
+   F3 × 0.5 = 7
+   F3 = 14 N
+
+COMMON MISCONCEPTIONS — Section 5.2:
+┌───────────────────────────────────────┬──────────────────────────────────────────────────┐
+│ Misconception                         │ Correct Understanding                            │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "The heavier person always sits       │ The heavier person must sit CLOSER to the pivot  │
+│ further away"                         │ to produce the same moment as the lighter person │
+│                                       │ sitting further away (M = F × d)                │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "The principle of moments only        │ The principle applies to any pivot point on the  │
+│ applies to the centre pivot"          │ object — it is universal for any balanced system │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "All forces on the same side of the   │ Forces on the left and right of the pivot may    │
+│ pivot are anticlockwise"              │ be clockwise OR anticlockwise depending on their │
+│                                       │ direction. A downward force left of pivot =      │
+│                                       │ anticlockwise. Always check the rotation.        │
+└───────────────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+                        SECTION 5.3: EQUILIBRIUM
+================================================================================
+
+HOOK - THINK ABOUT THIS:
+A book resting on a table is in equilibrium. A spinning top balanced on its
+point is also in equilibrium (while spinning). What exactly does it mean for
+something to be in equilibrium, and what are the conditions that must be met?
+
+RECALL:
+• A resultant force causes acceleration (Module 4)
+• The principle of moments relates to balanced turning effects
+
+5.3.1 CONDITIONS FOR EQUILIBRIUM
+----------------------------------
+
+An object is in EQUILIBRIUM when it is in a state of balance — it is not
+accelerating (linearly or rotationally).
+
+For an object to be in equilibrium, TWO conditions must BOTH be satisfied:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  Condition 1: The resultant force on the object is ZERO.                   │
+│               (The forces are balanced in all directions.)                  │
+│                                                                             │
+│  Condition 2: The resultant moment about any point is ZERO.                │
+│               (Total clockwise moment = Total anticlockwise moment)         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES OF OBJECTS IN EQUILIBRIUM:
+
+• A book resting on a table
+  - Weight acts downward; normal reaction acts upward → no resultant force
+  - No tendency to rotate → no resultant moment
+
+• A balanced see-saw
+  - Downward forces balanced by upward reaction at pivot
+  - Clockwise and anticlockwise moments are equal
+
+• A bridge
+  - Weight of bridge and traffic balanced by upward forces at supports
+  - Moments are balanced to prevent tilting
+
+---DIAGRAM: Fig. 5.7---
+TYPE: Force
+PURPOSE: Free-body diagram of book on table in equilibrium — weight down, 
+         normal reaction up, net force = 0
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 1:1 square
+GRID: 9 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Book (rectangle) in centre with force arrows
+
+COMPONENTS:
+  [Book]
+    Shape: rectangle
+    Position: grid(3-7, 4-6)
+    Label: "book"
+
+  [Weight arrow]
+    Downward arrow from centre of book: grid(5, 6-8)
+    Label: "W (weight)"
+
+  [Normal reaction arrow]
+    Upward arrow from centre of book: grid(5, 2-4)
+    Label: "N (normal reaction)"
+
+ANNOTATIONS:
+  "W = N" next to arrows
+  "Resultant force = 0" at bottom
+  "Object in equilibrium" at top
+---END DIAGRAM---
+
+5.3.2 RECOGNISING EQUILIBRIUM AND NON-EQUILIBRIUM
+----------------------------------------------------
+
+OBJECT IN EQUILIBRIUM:
+• Stationary object with balanced forces (book on table, person standing still)
+• Object moving at constant velocity (zero net force, no rotation)
+• Balanced beam or ruler
+
+OBJECT NOT IN EQUILIBRIUM:
+• Object accelerating due to unbalanced forces
+• A beam that is tilting (net moment is not zero)
+• An object that is rotating and speeding up or slowing down
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 5.3
+═══════════════════════════════════════════════════════════════════════════════
+
+1. State the TWO conditions required for an object to be in equilibrium.
+
+2. A book rests on a table. Is it in equilibrium? Justify your answer.
+
+3. A see-saw has a 500 N person at 1.0 m to the left and a 200 N person
+   at 1.0 m to the right. Is this see-saw in equilibrium? Explain.
+
+ANSWERS:
+1. (1) The resultant force on the object is zero (balanced forces).
+   (2) The resultant moment about any point is zero (balanced moments).
+
+2. Yes. The weight of the book (downward) is balanced by the normal reaction
+   from the table (upward), so the resultant force is zero. There is no
+   tendency to rotate, so the resultant moment is also zero.
+
+3. No. Anticlockwise moment = 500 × 1.0 = 500 N m.
+   Clockwise moment = 200 × 1.0 = 200 N m.
+   500 N m ≠ 200 N m → unbalanced moment → see-saw tilts → NOT in equilibrium.
+
+================================================================================
+                      SECTION 5.4: CENTRE OF GRAVITY
+================================================================================
+
+HOOK - THINK ABOUT THIS:
+Why does a racing car have such a low body? Why does a double-decker bus
+risk tipping on a steep hill, while a sports car does not? The answer lies
+in where the weight of the object effectively "acts from" — its centre of gravity.
+
+RECALL:
+• Weight is the gravitational force acting on an object (W = mg)
+• For equilibrium, the resultant force and resultant moment must both be zero
+
+5.4.1 DEFINITION OF CENTRE OF GRAVITY
+---------------------------------------
+
+Every object has weight distributed throughout it. However, for calculations,
+we can treat all the weight as if it acts at a single point. This point is
+called the CENTRE OF GRAVITY:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│   The centre of gravity of an object is the point through which the        │
+│   weight of the object acts.                                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+KEY POINTS:
+• The centre of gravity is a hypothetical point — it doesn't have to be
+  inside the object (think of a ring or a boomerang).
+• For SYMMETRICAL objects of uniform density, the centre of gravity is at
+  the point (or axis) of symmetry.
+• Always draw weight forces as if they act from the centre of gravity.
+
+---DIAGRAM: Fig. 5.8---
+TYPE: Diagram
+PURPOSE: Centre of gravity positions for regular shapes: square, circle, triangle, ring
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 8
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Four shapes in a row, each with centre of gravity marked with an X
+
+COMPONENTS:
+  [Square]
+    Position: grid(1-4, 2-6)
+    CG marker: X at grid(2.5, 4) — geometric centre
+    Label: "square" and "CG at centre"
+
+  [Circle]
+    Position: grid(5-8, 2-6)
+    CG marker: X at grid(6.5, 4) — exact centre
+    Label: "circle" and "CG at centre"
+
+  [Triangle]
+    Position: grid(9-12, 2-6)
+    CG marker: X at grid(10.5, 4.5) — centroid (one-third up from base)
+    Label: "triangle" and "CG at centroid"
+
+  [Ring (hollow circle)]
+    Position: grid(13-16, 2-6)
+    CG marker: X at grid(14.5, 4) — inside hole (outside material)
+    Label: "ring" and "CG outside material"
+---END DIAGRAM---
+
+5.4.2 EXPERIMENT: FINDING THE CENTRE OF GRAVITY OF AN IRREGULAR LAMINA
+------------------------------------------------------------------------
+
+An IRREGULAR PLANE LAMINA is a flat, thin shape that is not symmetrical.
+We cannot just use symmetry to find its centre of gravity — we need an experiment.
+
+Equipment:
+  • Irregularly shaped plane lamina (e.g., a cut piece of cardboard)
+  • Hole punch (to make small holes near the edge)
+  • Thread and hanging mass or sticky tack (plumb line)
+  • Pencil and ruler
+  • Clamp stand, boss and clamp
+
+Method:
+
+---DIAGRAM: Fig. 5.9---
+TYPE: Apparatus
+PURPOSE: Suspension method for finding CG of irregular lamina
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 4:3 landscape
+GRID: 12 × 10
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Clamp stand on the right. Irregular lamina hanging freely from a pin through
+  hole A. Plumb line (weighted thread) hanging from the same pin. Line drawn.
+  Second image shows same lamina hung from hole B with second line drawn.
+  Intersection of two lines is labelled "CG".
+
+COMPONENTS:
+  [Clamp Stand]
+    Position: grid(11-12, 1-9)
+
+  [Lamina (irregular shape)]
+    Irregular polygon: grid(3-9, 3-8)
+    Hole A marked at top edge: with pin from clamp
+    Hole B marked at side edge: for second hanging
+
+  [Plumb line]
+    Vertical hanging thread from pin, with small mass at bottom
+    Extends from hole A straight down through the lamina
+    Dashed line drawn on lamina labelled "line 1"
+
+  [Second line]
+    Dashed line through hole B to bottom edge labelled "line 2"
+
+  [CG mark]
+    X at intersection of line 1 and line 2
+    Label: "CG" with arrow
+
+ANNOTATIONS:
+  "Step 1 — hang from A, draw line" (left diagram)
+  "Step 2 — hang from B, draw line" (right diagram)
+  "CG = intersection of lines" at bottom
+---END DIAGRAM---
+
+Step-by-Step Method:
+
+1. Punch 3 holes near the outer edges of the lamina (at different locations).
+2. Hang the lamina freely from a pin through hole 1.
+   It will swing until its centre of gravity is directly below the pin.
+3. Hang a plumb line from the same pin. Mark the line of the plumb line
+   on the lamina using a pencil and ruler.
+4. Repeat steps 2–3 by hanging from hole 2, then hole 3.
+5. The three lines all cross at the SAME point — this is the centre of gravity.
+
+Why This Works:
+When an object is hung freely from a point, gravity pulls it so that the centre
+of gravity is directly below the point of suspension. The plumb line marks the
+vertical line through that suspension point. Where all such lines cross is the
+one point that was always directly below every suspension point — the CG.
+
+5.4.3 STABILITY AND CENTRE OF GRAVITY [SUPPLEMENT]
+----------------------------------------------------
+
+The POSITION of the centre of gravity determines how STABLE an object is.
+
+DEFINITION OF STABILITY:
+The ability of an object to return to its original position after being
+slightly displaced (tilted or pushed).
+
+RULE 1: AN OBJECT IS STABLE WHILE ITS CENTRE OF GRAVITY LIES ABOVE ITS BASE.
+
+If the object is tilted slightly:
+• If the line of action of the weight STILL passes through the base → restoring
+  moment acts → object returns to upright → STABLE
+• If the line of action of the weight falls OUTSIDE the base → toppling moment
+  acts → object falls over → UNSTABLE
+
+---DIAGRAM: Fig. 5.10---
+TYPE: Diagram
+PURPOSE: Three-state stability diagram: upright (stable), slightly tilted (still stable), 
+         toppled (CG outside base)
+STYLE: Hand-drawn aesthetic, solid black lines on pure white (#FFFFFF) background
+ASPECT_RATIO: 16:9 wide
+GRID: 16 × 9
+
+CANVAS:
+  Background: pure white
+
+LAYOUT:
+  Three positions of a rectangular block shown side by side
+
+COMPONENTS:
+  [State 1 - Upright]
+    Rectangle: grid(1-4, 3-8) (tall, narrow)
+    CG dot: centre of rectangle at grid(2.5, 5.5)
+    Weight arrow: downward from CG, labelled "W"
+    Base: grid(1-4, 8), dashed box shows base
+    Label: "Stable — CG above base" below
+
+  [State 2 - Slightly tilted]
+    Tilted rectangle (rotated ~20°): grid(6-9, 3-8)
+    CG dot: inside rectangle
+    Weight arrow: vertical downward from CG
+    Vertical line: from CG to ground shows line of action passes inside base
+    Base: outlined on floor
+    Label: "Still stable — weight line inside base" below
+
+  [State 3 - Toppling]
+    Tilted rectangle (rotated ~50°): grid(11-14, 3-8)
+    CG dot: inside but near edge
+    Weight arrow: vertical from CG, passing OUTSIDE base
+    Label: "Unstable — weight line outside base, topples!" below
+
+ANNOTATIONS:
+  Arrow at state 2 showing restoring moment (back toward upright)
+  Arrow at state 3 showing toppling moment (away from upright)
+---END DIAGRAM---
+
+RULE 2: THE MOST STABLE OBJECTS HAVE:
+  (a) A LOW centre of gravity
+  (b) A WIDE base
+
+Examples:
+
+┌────────────────────────────┬──────────────────────────────────────────────┐
+│ Object                     │ Why it is stable / unstable                  │
+├────────────────────────────┼──────────────────────────────────────────────┤
+│ Racing car                 │ Low body → low CG → very stable              │
+├────────────────────────────┼──────────────────────────────────────────────┤
+│ Double-decker bus          │ High CG, narrow base → can topple on steep   │
+│                            │ hills or in strong winds                     │
+├────────────────────────────┼──────────────────────────────────────────────┤
+│ High chair with wide base  │ Wide base compensates for high CG → stable   │
+├────────────────────────────┼──────────────────────────────────────────────┤
+│ Bunsen burner              │ Wide, heavy base → low CG → very stable      │
+├────────────────────────────┼──────────────────────────────────────────────┤
+│ Ten-pin bowling pin        │ Narrowing at top → high CG, narrow base →    │
+│                            │ designed to topple easily                    │
+└────────────────────────────┴──────────────────────────────────────────────┘
+
+ANGLE OF TILT:
+A car, with its wider base and lower CG, can tilt to about 60° before toppling.
+A tall bus, with its narrower base and higher CG, will topple at about 45°.
+
+WAYS TO INCREASE STABILITY:
+1. Lower the centre of gravity (e.g., fill the base with heavier material,
+   lower the load)
+2. Widen the base (e.g., spread the legs of a ladder or tripod further apart)
+
+═══════════════════════════════════════════════════════════════════════════════
+CHECK YOUR UNDERSTANDING 5.4
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Define the centre of gravity of an object.
+
+2. Where is the centre of gravity of a uniform square lamina?
+
+3. Describe how you would find the centre of gravity of an irregularly
+   shaped piece of cardboard. Include the equipment you would use.
+
+4. [Supplement] Explain why a racing car is more stable than a bus.
+
+5. [Supplement] A tall, narrow box is placed on a tilted surface.
+   Explain the condition under which the box will topple.
+
+ANSWERS:
+1. The centre of gravity of an object is the point through which the weight
+   of the object acts.
+
+2. At the geometric centre — at the intersection of the two diagonals.
+
+3. Punch 3 holes in the lamina. Hang from hole 1, use a plumb line to mark a
+   vertical line on the lamina. Repeat from holes 2 and 3. The CG is where all
+   three lines intersect.
+   Equipment: hole punch, thread, mass/sticky tack, pencil, ruler, clamp stand.
+
+4. A racing car has a lower centre of gravity (low body design) and a wider base
+   (wide wheel track). The weight's line of action stays within the wide base
+   even on steep bends. A bus has a higher CG and narrower base, so the line of
+   action of weight falls outside the base more easily, causing it to topple.
+
+5. The box will topple when the line of action of the weight (acting through the
+   CG) falls outside the base of the box. At that point, the moment of the weight
+   force acts to rotate the box away from the surface rather than restore it.
+
+COMMON MISCONCEPTIONS — Section 5.4:
+┌───────────────────────────────────────┬──────────────────────────────────────────────────┐
+│ Misconception                         │ Correct Understanding                            │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "The centre of gravity is always      │ For irregular or hollow objects, the CG can lie  │
+│ inside the object"                    │ outside the physical material (e.g., a ring or   │
+│                                       │ a boomerang)                                     │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "A heavier object is always more      │ Stability depends on the POSITION of the CG and  │
+│ stable"                               │ the WIDTH of the base, not simply the mass       │
+├───────────────────────────────────────┼──────────────────────────────────────────────────┤
+│ "An object tilted slightly will       │ Whether it returns or topples depends on whether  │
+│ always return to upright"             │ the weight's line of action is inside or outside  │
+│                                       │ the base of the object                           │
+└───────────────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+                              MODULE SUMMARY
+================================================================================
+
+KEY CONCEPTS:
+
+MOMENT OF A FORCE (5.1):
+• Moment = turning effect of a force about a pivot
+• M = F × d      (d must be the PERPENDICULAR distance)
+• Unit: newton metre (N m)
+• Direction: clockwise or anticlockwise
+• Larger force further from pivot → larger moment
+
+PRINCIPLE OF MOMENTS (5.2):
+• For equilibrium: total clockwise moment = total anticlockwise moment
+• Core: one force each side → F1 × d1 = F2 × d2
+• Supplement: sum of CW moments = sum of ACW moments (multiple forces)
+• Demonstrated by balancing a ruler with hanging masses
+
+EQUILIBRIUM (5.3):
+• TWO conditions:
+  (1) Resultant force = 0 (balanced forces)
+  (2) Resultant moment = 0 (balanced moments)
+• Both conditions must be satisfied simultaneously
+
+CENTRE OF GRAVITY (5.4):
+• The point through which the weight of an object acts
+• Regular, symmetrical objects: CG at point of symmetry
+• Irregular lamina: found using suspension method (plumb line)
+• [Supplement] Stability: object stable while CG line of action is inside base
+• Most stable: low CG + wide base
+
+KEY EQUATIONS:
+
+Moment:                    M = F × d             ... (5.1)
+
+Principle of moments:      F1 × d1 = F2 × d2     ... (5.2)
+
+Principle of moments       Sum of CW moments =
+(multiple forces):         Sum of ACW moments     ... (5.3)
+
+================================================================================
+                          PRACTICE EXERCISES
+================================================================================
+
+RECALL QUESTIONS:
+
+1. Define the moment of a force. State its unit.
+
+2. State the equation for the moment of a force and define each term.
+
+3. State the principle of moments.
+
+4. State the TWO conditions for equilibrium.
+
+5. Define the centre of gravity of an object.
+
+6. State where the centre of gravity of a uniform rectangle is located.
+
+APPLICATION QUESTIONS:
+
+7. A spanner of length 25 cm is used to turn a bolt. A force of 40 N
+   is applied perpendicular to the spanner at its end. Calculate the
+   moment of the force.
+
+8. A beam is balanced on a pivot. A force of 12 N acts at 0.5 m to the
+   left of the pivot. At what distance to the right must a force of
+   8 N be placed to balance the beam?
+
+9. A see-saw is balanced. A child of weight 300 N sits 2.0 m from the
+   pivot. At what distance must an adult of weight 600 N sit to balance?
+
+10. Is a stationary bicycle in equilibrium? Justify your answer with
+    reference to both conditions.
+
+ANALYSIS QUESTIONS:
+
+11. [Supplement] A beam has three forces: 15 N at 0.2 m left (anticlockwise),
+    10 N at 0.4 m left (anticlockwise), and F at 0.5 m right (clockwise).
+    The system is in equilibrium. Find F.
+
+12. [Supplement] A student says "a wider base always makes an object more
+    stable." Is this always true? Explain with reference to centre of gravity.
+
+13. [Supplement] A bus and a car travel on an increasingly steep road.
+    The bus topples first. Explain this in terms of centre of gravity and
+    base width.
+
+================================================================================
+                       PRACTICE EXERCISE ANSWERS
+================================================================================
+
+7. d = 25 cm = 0.25 m
+   M = 40 × 0.25 = 10 N m
+
+8. 12 × 0.5 = 8 × d
+   6 = 8d
+   d = 0.75 m
+
+9. 300 × 2.0 = 600 × d
+   600 = 600d
+   d = 1.0 m
+
+10. Yes. The support forces from the ground (upward) equal the weight (downward)
+    and the weight of the cyclist → resultant force = 0. The handlebars are
+    held steady → resultant moment = 0. Both conditions are satisfied.
+
+11. Total ACW = (15 × 0.2) + (10 × 0.4) = 3 + 4 = 7 N m
+    F × 0.5 = 7
+    F = 14 N
+
+12. Not always true. Widening the base improves stability ONLY if the CG is
+    simultaneously kept low or does not rise significantly. If widening the
+    base also raises the CG (e.g., a wider but taller structure), the net
+    effect on stability depends on which factor dominates. Generally, the
+    combination of LOW CG AND wide base gives the greatest stability.
+
+13. The bus has a higher centre of gravity (tall body, heavy upper deck) and
+    a narrower base (wheelbase) relative to its height. As the road steepens,
+    the line of action of the bus's weight reaches beyond its narrow base at a
+    smaller angle of tilt (~45°), causing it to topple. The car's lower CG
+    and wider base (relative to height) means the line of action stays within
+    the base to much steeper angles (~60°), so it remains stable longer.
+
+================================================================================
+                       SELF-ASSESSMENT CHECKLIST
+================================================================================
+
+After completing this module, check your understanding:
+
+[ ] I can describe what is meant by the moment of a force
+[ ] I can use M = F × d to calculate moments
+[ ] I can identify clockwise and anticlockwise moments
+[ ] I can state the principle of moments
+[ ] I can apply the principle of moments to a simple balanced beam
+[ ] I can state the two conditions for equilibrium
+[ ] I can define the centre of gravity
+[ ] I can state where the CG of a symmetrical object is found
+[ ] I can describe the suspension experiment to find the CG of an irregular lamina
+
+[Supplement]
+[ ] I can apply the principle of moments to systems with more than one force
+    on each side of the pivot
+[ ] I can describe and evaluate an experiment to demonstrate the principle
+    of moments
+[ ] I can explain how the position of the CG affects stability
+[ ] I can explain why objects with a low CG and wide base are most stable
+[ ] I can predict whether an object will topple based on its CG and base
+
+================================================================================
+                         COMMON MISCONCEPTIONS
+================================================================================
+
+| Misconception                         | Correct Understanding                            |
+|---------------------------------------|--------------------------------------------------|
+| "The distance in M = F × d is the     | It must be the PERPENDICULAR distance from the   |
+| total length of the spanner"          | pivot to the LINE OF ACTION of the force         |
+| "Bigger force = bigger moment,        | Moment depends on BOTH force AND distance:       |
+| regardless of distance"               | small force × large d can exceed large force × small d |
+| "The heavier person sits further      | Heavier person sits CLOSER; M = F × d, so to    |
+| from the pivot on a see-saw"          | balance, a bigger force needs a smaller d        |
+| "Equilibrium means the object must    | A moving object at constant velocity is also     |
+| be stationary"                        | in equilibrium — net force AND net moment are 0  |
+| "The CG is always inside the object"  | For hollow or irregular objects, CG can be       |
+|                                       | outside the physical material                    |
+| "A wider base always means more       | Stability also depends on HEIGHT of CG — best    |
+| stability"                            | stability requires low CG AND wide base          |
+
+================================================================================
+                          END OF MODULE 5
+================================================================================
